@@ -1,0 +1,617 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Arhar/Tur,1998,Kharif     ,Himachal Pradesh,128.0,30,1381.6,12646.4,37.12,0.255
+Bajra,1998,Kharif     ,Himachal Pradesh,469.0,266,1381.6,46337.2,136.01,1.476666667
+Barley,1998,Rabi       ,Himachal Pradesh,26752.0,27756,1381.6,2643097.6,7758.08,1.112727273
+Coriander,1998,Rabi       ,Himachal Pradesh,395.0,128,1381.6,39026.0,114.55,0.512857143
+Cotton(lint),1998,Whole Year ,Himachal Pradesh,57.0,30,1381.6,5631.6,16.53,0.548333333
+Dry chillies,1998,Whole Year ,Himachal Pradesh,1007.0,224,1381.6,99491.6,292.03,0.205
+Garlic,1998,Whole Year ,Himachal Pradesh,663.0,700,1381.6,65504.4,192.27,1.087272727
+Ginger,1998,Whole Year ,Himachal Pradesh,1822.0,2631,1381.6,180013.6,528.38,1.19
+Gram,1998,Rabi       ,Himachal Pradesh,1908.0,1653,1381.6,188510.4,553.32,0.734444444
+Groundnut,1998,Kharif     ,Himachal Pradesh,282.0,286,1381.6,27861.6,81.78,0.714285714
+Horse-gram,1998,Kharif     ,Himachal Pradesh,3028.0,1475,1381.6,299166.4,878.12,0.467
+Linseed,1998,Rabi       ,Himachal Pradesh,2384.0,617,1381.6,235539.2,691.36,0.294
+Maize,1998,Kharif     ,Himachal Pradesh,300976.0,662272,1381.6,29736428.8,87283.04,2.23
+Masoor,1998,Rabi       ,Himachal Pradesh,1168.0,518,1381.6,115398.4,338.72,0.546363636
+Moong(Green Gram),1998,Kharif     ,Himachal Pradesh,62.0,25,1381.6,6125.6,17.98,0.375
+Peas & beans (Pulses),1998,Rabi       ,Himachal Pradesh,4845.0,10919,1381.6,478686.0,1405.05,1.848333333
+Potato,1998,Kharif     ,Himachal Pradesh,10580.0,124547,1381.6,1045304.0,3068.2,11.007
+Potato,1998,Rabi       ,Himachal Pradesh,3251.0,28756,1381.6,321198.8,942.79,10.772
+Rapeseed &Mustard,1998,Rabi       ,Himachal Pradesh,10551.0,5733,1381.6,1042438.8,3059.79,0.745833333
+Rice,1998,Kharif     ,Himachal Pradesh,82125.0,116997,1381.6,8113950.0,23816.25,1.455454545
+Sesamum,1998,Kharif     ,Himachal Pradesh,4563.0,2122,1381.6,450824.4,1323.27,0.397777778
+Small millets,1998,Kharif     ,Himachal Pradesh,14771.0,9881,1381.6,1459374.8,4283.59,0.436
+Soyabean,1998,Kharif     ,Himachal Pradesh,585.0,1153,1381.6,57798.0,169.65,2.537142857
+Tobacco,1998,Whole Year ,Himachal Pradesh,59.0,20,1381.6,5829.2,17.11,0.63
+Turmeric,1998,Whole Year ,Himachal Pradesh,84.0,59,1381.6,8299.2,24.36,0.67
+Urad,1998,Kharif     ,Himachal Pradesh,15155.0,6167,1381.6,1497314.0,4394.95,0.512727273
+Wheat,1998,Rabi       ,Himachal Pradesh,379718.0,481267,1381.6,37516138.4,110118.22,1.363333333
+Arhar/Tur,1999,Kharif     ,Himachal Pradesh,155.0,33,1144.9,16450.15,41.85,0.136666667
+Barley,1999,Rabi       ,Himachal Pradesh,25901.0,32496,1144.9,2748873.13,6993.27,1.228333333
+Dry chillies,1999,Whole Year ,Himachal Pradesh,859.0,276,1144.9,91165.67,231.93,0.311111111
+Gram,1999,Rabi       ,Himachal Pradesh,1691.0,1594,1144.9,179465.83,456.57,0.825555556
+Groundnut,1999,Kharif     ,Himachal Pradesh,179.0,150,1144.9,18997.27,48.33,0.558333333
+Horse-gram,1999,Kharif     ,Himachal Pradesh,3307.0,1634,1144.9,350971.91,892.89,0.475555556
+Linseed,1999,Rabi       ,Himachal Pradesh,2937.0,890,1144.9,311703.81,792.99,0.23
+Maize,1999,Kharif     ,Himachal Pradesh,299906.0,681424,1144.9,31829023.78,80974.62,2.324166667
+Masoor,1999,Kharif     ,Himachal Pradesh,1061.0,440,1144.9,112603.93,286.47,0.41
+Moong(Green Gram),1999,Kharif     ,Himachal Pradesh,342.0,139,1144.9,36296.46,92.34,0.255
+Peas & beans (Pulses),1999,Kharif     ,Himachal Pradesh,5046.0,11895,1144.9,535531.98,1362.42,1.59
+Potato,1999,Whole Year ,Himachal Pradesh,627.0,5395,1144.9,66543.51,169.29,5.58
+Rapeseed &Mustard,1999,Rabi       ,Himachal Pradesh,11079.0,5739,1144.9,1175814.27,2991.33,0.659090909
+Rice,1999,Kharif     ,Himachal Pradesh,80222.0,120365,1144.9,8513960.86,21659.94,1.55
+Sesamum,1999,Kharif     ,Himachal Pradesh,4056.0,2080,1144.9,430463.28,1095.12,0.415
+Small millets,1999,Kharif     ,Himachal Pradesh,15200.0,9818,1144.9,1613176.0,4104.0,0.457777778
+Soyabean,1999,Kharif     ,Himachal Pradesh,553.0,716,1144.9,58689.89,149.31,1.095
+Sugarcane,1999,Whole Year ,Himachal Pradesh,3005.0,15470,1144.9,318920.65,811.35,5.206666667
+Urad,1999,Kharif     ,Himachal Pradesh,14612.0,5418,1144.9,1550771.56,3945.24,0.495454545
+Wheat,1999,Rabi       ,Himachal Pradesh,370587.0,583300,1144.9,39330398.31,100058.49,1.5775
+Arhar/Tur,2000,Kharif     ,Himachal Pradesh,272.0,44,1068.4,26702.24,70.72,0.305714286
+Bajra,2000,Kharif     ,Himachal Pradesh,116.0,41,1068.4,11387.72,30.16,0.51
+Barley,2000,Rabi       ,Himachal Pradesh,25639.0,21414,1068.4,2516980.63,6666.14,0.8325
+Gram,2000,Rabi       ,Himachal Pradesh,1403.0,857,1068.4,137732.51,364.78,0.553333333
+Groundnut,2000,Kharif     ,Himachal Pradesh,137.0,82,1068.4,13449.29,35.62,0.408333333
+Horse-gram,2000,Kharif     ,Himachal Pradesh,2807.0,805,1068.4,275563.19,729.82,0.278181818
+Jowar,2000,Kharif     ,Himachal Pradesh,287.0,89,1068.4,28174.79,74.62,0.15
+Linseed,2000,Rabi       ,Himachal Pradesh,2444.0,349,1068.4,239927.48,635.44,0.113333333
+Maize,2000,Kharif     ,Himachal Pradesh,298052.0,683642,1068.4,29259764.84,77493.52,2.3325
+Masoor,2000,Kharif     ,Himachal Pradesh,993.0,276,1068.4,97482.81,258.18,0.419090909
+Moong(Green Gram),2000,Kharif     ,Himachal Pradesh,288.0,81,1068.4,28272.96,74.88,0.3775
+Other Kharif pulses,2000,Kharif     ,Himachal Pradesh,5644.0,2358,1068.4,554071.48,1467.44,0.531818182
+Peas & beans (Pulses),2000,Kharif     ,Himachal Pradesh,5510.0,11886,1068.4,540916.7,1432.6,1.345555556
+Rapeseed &Mustard,2000,Rabi       ,Himachal Pradesh,9686.0,3637,1068.4,950874.62,2518.36,0.500909091
+Rice,2000,Kharif     ,Himachal Pradesh,81519.0,124893,1068.4,8002720.23,21194.94,1.55
+Sesamum,2000,Kharif     ,Himachal Pradesh,4596.0,1738,1068.4,451189.32,1194.96,0.263333333
+Small millets,2000,Kharif     ,Himachal Pradesh,15278.0,6548,1068.4,1499841.26,3972.28,0.35
+Soyabean,2000,Kharif     ,Himachal Pradesh,649.0,585,1068.4,63712.33,168.74,0.912857143
+Sugarcane,2000,Whole Year ,Himachal Pradesh,2817.0,7854,1068.4,276544.89,732.42,2.665714286
+Urad,2000,Kharif     ,Himachal Pradesh,14161.0,4153,1068.4,1390185.37,3681.86,0.401818182
+Wheat,2000,Rabi       ,Himachal Pradesh,362660.0,261319,1068.4,35602332.2,94291.6,0.803333333
+Arhar/Tur,2001,Kharif     ,Himachal Pradesh,1480.0,339,918.1,151152.4,384.8,0.495
+Bajra,2001,Kharif     ,Himachal Pradesh,110.0,57,918.1,11234.3,28.6,0.5975
+Barley,2001,Rabi       ,Himachal Pradesh,25017.0,34687,918.1,2554986.21,6504.42,1.36
+Coriander,2001,Whole Year ,Himachal Pradesh,308.0,105,918.1,31456.04,80.08,1.35125
+Cotton(lint),2001,Kharif     ,Himachal Pradesh,20.0,13,918.1,2042.6,5.2,0.8975
+Dry chillies,2001,Whole Year ,Himachal Pradesh,1024.0,195,918.1,104581.12,266.24,0.219
+Garlic,2001,Whole Year ,Himachal Pradesh,1597.0,1719,918.1,163101.61,415.22,1.018
+Ginger,2001,Kharif     ,Himachal Pradesh,2609.0,29012,918.1,266457.17,678.34,10.94888889
+Gram,2001,Rabi       ,Himachal Pradesh,1144.0,1004,918.1,116836.72,297.44,0.763
+Groundnut,2001,Kharif     ,Himachal Pradesh,129.0,75,918.1,13174.77,33.54,0.508333333
+Horse-gram,2001,Kharif     ,Himachal Pradesh,2418.0,967,918.1,246950.34,628.68,0.396
+Linseed,2001,Rabi       ,Himachal Pradesh,2272.0,558,918.1,232039.36,590.72,0.38
+Maize,2001,Kharif     ,Himachal Pradesh,301282.0,668228,918.1,30769930.66,78333.32,2.463333333
+Masoor,2001,Kharif     ,Himachal Pradesh,751.0,278,918.1,76699.63,195.26,0.501666667
+Moong(Green Gram),2001,Kharif     ,Himachal Pradesh,94.0,32,918.1,9600.22,24.44,0.498571429
+Onion,2001,Whole Year ,Himachal Pradesh,1112.0,11045,918.1,113568.56,289.12,8.397777778
+Other  Rabi pulses,2001,Rabi       ,Himachal Pradesh,20.0,12,918.1,2042.6,5.2,0.565
+Other Kharif pulses,2001,Kharif     ,Himachal Pradesh,5090.0,2568,918.1,519841.7,1323.4,0.484545455
+Peas & beans (Pulses),2001,Kharif     ,Himachal Pradesh,5294.0,11949,918.1,540676.22,1376.44,1.548888889
+Potato,2001,Whole Year ,Himachal Pradesh,8480.0,75614,918.1,866062.4,2204.8,8.677272727
+Rapeseed &Mustard,2001,Rabi       ,Himachal Pradesh,10387.0,5482,918.1,1060824.31,2700.62,0.638333333
+Rice,2001,Kharif     ,Himachal Pradesh,80579.0,137418,918.1,8229533.27,20950.54,1.654545455
+Sannhamp,2001,Whole Year ,Himachal Pradesh,38.0,38,918.1,3880.94,9.88,1.0
+Sesamum,2001,Kharif     ,Himachal Pradesh,4475.0,2404,918.1,457031.75,1163.5,0.35
+Small millets,2001,Kharif     ,Himachal Pradesh,13865.0,8397,918.1,1416032.45,3604.9,0.551111111
+Soyabean,2001,Kharif     ,Himachal Pradesh,661.0,725,918.1,67507.93,171.86,1.17625
+Sugarcane,2001,Whole Year ,Himachal Pradesh,2635.0,11219,918.1,269112.55,685.1,4.411428571
+Sweet potato,2001,Whole Year ,Himachal Pradesh,102.0,0,918.1,10417.26,26.52,0.0
+Tobacco,2001,Whole Year ,Himachal Pradesh,23.0,26,918.1,2348.99,5.98,1.05
+Turmeric,2001,Whole Year ,Himachal Pradesh,127.0,74,918.1,12970.51,33.02,0.59625
+Urad,2001,Kharif     ,Himachal Pradesh,13268.0,5393,918.1,1355060.84,3449.68,0.476363636
+Wheat,2001,Rabi       ,Himachal Pradesh,366518.0,637068,918.1,37432483.34,95294.68,1.72
+Arhar/Tur,2002,Kharif     ,Himachal Pradesh,334.0,52,890.8,31619.78,83.5,0.22
+Bajra,2002,Kharif     ,Himachal Pradesh,102.0,57,890.8,9656.34,25.5,0.775
+Barley,2002,Rabi       ,Himachal Pradesh,23596.0,30614,890.8,2233833.32,5899.0,1.299090909
+Coriander,2002,Whole Year ,Himachal Pradesh,263.0,84,890.8,24898.21,65.75,0.27625
+Cotton(lint),2002,Kharif     ,Himachal Pradesh,28.0,15,890.8,2650.76,7.0,0.4275
+Dry chillies,2002,Whole Year ,Himachal Pradesh,837.0,87,890.8,79238.79,209.25,0.207
+Garlic,2002,Whole Year ,Himachal Pradesh,3180.0,2379,890.8,301050.6,795.0,0.64
+Ginger,2002,Kharif     ,Himachal Pradesh,2455.0,17051,890.8,232414.85,613.75,6.73
+Gram,2002,Rabi       ,Himachal Pradesh,1351.0,1012,890.8,127899.17,337.75,0.727777778
+Groundnut,2002,Kharif     ,Himachal Pradesh,194.0,88,890.8,18365.98,48.5,0.367142857
+Horse-gram,2002,Kharif     ,Himachal Pradesh,2582.0,599,890.8,244437.94,645.5,0.238181818
+Linseed,2002,Rabi       ,Himachal Pradesh,1610.0,364,890.8,152418.7,402.5,0.135
+Maize,2002,Kharif     ,Himachal Pradesh,299801.0,483333,890.8,28382160.67,74950.25,1.6075
+Masoor,2002,Kharif     ,Himachal Pradesh,872.0,359,890.8,82552.24,218.0,0.519090909
+Moong(Green Gram),2002,Kharif     ,Himachal Pradesh,394.0,112,890.8,37299.98,98.5,0.241666667
+Onion,2002,Whole Year ,Himachal Pradesh,807.0,4541,890.8,76398.69,201.75,5.328
+Other  Rabi pulses,2002,Rabi       ,Himachal Pradesh,35.0,10,890.8,3313.45,8.75,0.26
+Other Kharif pulses,2002,Kharif     ,Himachal Pradesh,5605.0,1940,890.8,530625.35,1401.25,0.364166667
+Peas & beans (Pulses),2002,Kharif     ,Himachal Pradesh,6285.0,12057,890.8,595000.95,1571.25,1.156363636
+Potato,2002,Whole Year ,Himachal Pradesh,13941.0,136033,890.8,1319794.47,3485.25,10.06
+Rapeseed &Mustard,2002,Rabi       ,Himachal Pradesh,9830.0,4599,890.8,930606.1,2457.5,0.39
+Rice,2002,Kharif     ,Himachal Pradesh,83273.0,85653,890.8,7883454.91,20818.25,1.133636364
+Sesamum,2002,Kharif     ,Himachal Pradesh,4482.0,1890,890.8,424310.94,1120.5,0.27
+Small millets,2002,Kharif     ,Himachal Pradesh,13414.0,5764,890.8,1269903.38,3353.5,0.356666667
+Soyabean,2002,Kharif     ,Himachal Pradesh,697.0,1124,890.8,65984.99,174.25,1.3825
+Sugarcane,2002,Whole Year ,Himachal Pradesh,2926.0,4649,890.8,277004.42,731.5,1.887142857
+Tobacco,2002,Whole Year ,Himachal Pradesh,32.0,38,890.8,3029.44,8.0,1.58
+Turmeric,2002,Whole Year ,Himachal Pradesh,125.0,65,890.8,11833.75,31.25,0.418571429
+Urad,2002,Kharif     ,Himachal Pradesh,12670.0,3065,890.8,1199468.9,3167.5,0.326363636
+Wheat,2002,Rabi       ,Himachal Pradesh,359439.0,495558,890.8,34028090.13,89859.75,1.389166667
+Arhar/Tur,2005,Kharif     ,Himachal Pradesh,43.0,20,1248.1,5156.56,9.03,0.3675
+Bajra,2005,Kharif     ,Himachal Pradesh,304.0,144,1248.1,36455.68,63.84,0.4875
+Barley,2005,Rabi       ,Himachal Pradesh,25235.0,29361,1248.1,3026181.2,5299.35,1.133636364
+Coriander,2005,Rabi       ,Himachal Pradesh,143.0,17,1248.1,17148.56,30.03,0.142
+Cotton(lint),2005,Kharif     ,Himachal Pradesh,53.0,24,1248.1,6355.76,11.13,0.475
+Dry chillies,2005,Kharif     ,Himachal Pradesh,600.0,130,1248.1,71952.0,126.0,0.292222222
+Garlic,2005,Rabi       ,Himachal Pradesh,2986.0,1965,1248.1,358081.12,627.06,0.764
+Ginger,2005,Kharif     ,Himachal Pradesh,2179.0,16213,1248.1,261305.68,457.59,7.377777778
+Gram,2005,Rabi       ,Himachal Pradesh,1338.0,715,1248.1,160452.96,280.98,0.425555556
+Groundnut,2005,Kharif     ,Himachal Pradesh,63.0,34,1248.1,7554.96,13.23,0.6475
+Horse-gram,2005,Kharif     ,Himachal Pradesh,2370.0,871,1248.1,284210.4,497.7,0.381
+Linseed,2005,Rabi       ,Himachal Pradesh,1008.0,111,1248.1,120879.36,211.68,0.0725
+Maize,2005,Kharif     ,Himachal Pradesh,295351.0,543061,1248.1,35418491.92,62023.71,1.913333333
+Masoor,2005,Rabi       ,Himachal Pradesh,738.0,141,1248.1,88500.96,154.98,0.258888889
+Moong(Green Gram),2005,Kharif     ,Himachal Pradesh,381.0,159,1248.1,45689.52,80.01,0.401111111
+Moth,2005,Kharif     ,Himachal Pradesh,6.0,1,1248.1,719.52,1.26,0.1
+Onion,2005,Rabi       ,Himachal Pradesh,829.0,4045,1248.1,99413.68,174.09,4.994
+Other Kharif pulses,2005,Kharif     ,Himachal Pradesh,6357.0,3074,1248.1,762331.44,1334.97,0.793333333
+Peas & beans (Pulses),2005,Rabi       ,Himachal Pradesh,5050.0,10475,1248.1,605596.0,1060.5,1.34875
+Potato,2005,Whole Year ,Himachal Pradesh,14012.0,95900,1248.1,1680319.04,2942.52,6.635833333
+Ragi,2005,Kharif     ,Himachal Pradesh,3323.0,3409,1248.1,398494.16,697.83,0.76375
+Rapeseed &Mustard,2005,Rabi       ,Himachal Pradesh,9630.0,2800,1248.1,1154829.6,2022.3,0.338181818
+Rice,2005,Kharif     ,Himachal Pradesh,79366.0,112139,1248.1,9517570.72,16666.86,1.396363636
+Sannhamp,2005,Kharif     ,Himachal Pradesh,37.0,18,1248.1,4437.04,7.77,0.6125
+Sesamum,2005,Kharif     ,Himachal Pradesh,3808.0,1523,1248.1,456655.36,799.68,0.294
+Small millets,2005,Kharif     ,Himachal Pradesh,8501.0,5671,1248.1,1019439.92,1785.21,0.552857143
+Soyabean,2005,Kharif     ,Himachal Pradesh,580.0,820,1248.1,69553.6,121.8,1.45
+Sugarcane,2005,Whole Year ,Himachal Pradesh,2589.0,25094,1248.1,310472.88,543.69,6.542857143
+Turmeric,2005,Kharif     ,Himachal Pradesh,147.0,89,1248.1,17628.24,30.87,0.587142857
+Urad,2005,Kharif     ,Himachal Pradesh,11267.0,4192,1248.1,1351138.64,2366.07,0.428181818
+Wheat,2005,Rabi       ,Himachal Pradesh,358453.0,365885,1248.1,42985683.76,75275.13,1.075833333
+Arhar/Tur,2006,Kharif     ,Himachal Pradesh,150.0,51,1207.0,19156.5,33.0,0.345
+Bajra,2006,Kharif     ,Himachal Pradesh,360.0,181,1207.0,45975.6,79.2,0.484
+Barley,2006,Rabi       ,Himachal Pradesh,24098.0,33865,1207.0,3077555.58,5301.56,1.398181818
+Coriander,2006,Rabi       ,Himachal Pradesh,144.0,30,1207.0,18390.24,31.68,0.27
+Cotton(lint),2006,Kharif     ,Himachal Pradesh,55.0,23,1207.0,7024.05,12.1,0.5325
+Dry chillies,2006,Kharif     ,Himachal Pradesh,623.0,158,1207.0,79563.33,137.06,0.293
+Garlic,2006,Rabi       ,Himachal Pradesh,2932.0,2490,1207.0,374445.72,645.04,1.043
+Ginger,2006,Kharif     ,Himachal Pradesh,2396.0,4194,1207.0,305993.16,527.12,1.842222222
+Gram,2006,Rabi       ,Himachal Pradesh,1328.0,1018,1207.0,169598.88,292.16,0.761111111
+Groundnut,2006,Kharif     ,Himachal Pradesh,105.0,80,1207.0,13409.55,23.1,0.905
+Horse-gram,2006,Kharif     ,Himachal Pradesh,2551.0,1337,1207.0,325788.21,561.22,0.484
+Linseed,2006,Rabi       ,Himachal Pradesh,1472.0,359,1207.0,187989.12,323.84,0.223333333
+Maize,2006,Kharif     ,Himachal Pradesh,299037.0,695376,1207.0,38190015.27,65788.14,2.363333333
+Masoor,2006,Rabi       ,Himachal Pradesh,727.0,397,1207.0,92845.17,159.94,0.696363636
+Moong(Green Gram),2006,Kharif     ,Himachal Pradesh,452.0,202,1207.0,57724.92,99.44,0.415555556
+Moth,2006,Kharif     ,Himachal Pradesh,12.0,3,1207.0,1532.52,2.64,0.155
+Onion,2006,Rabi       ,Himachal Pradesh,893.0,7617,1207.0,114045.03,196.46,8.546
+Other  Rabi pulses,2006,Rabi       ,Himachal Pradesh,727.0,397,1207.0,92845.17,159.94,0.696363636
+Other Kharif pulses,2006,Kharif     ,Himachal Pradesh,6217.0,3721,1207.0,793973.07,1367.74,0.901
+Peas & beans (Pulses),2006,Rabi       ,Himachal Pradesh,8170.0,16856,1207.0,1043390.7,1797.4,1.513
+Potato,2006,Whole Year ,Himachal Pradesh,12687.0,126701,1207.0,1620256.77,2791.14,10.05416667
+Ragi,2006,Kharif     ,Himachal Pradesh,2950.0,3158,1207.0,376744.5,649.0,0.94875
+Rapeseed &Mustard,2006,Rabi       ,Himachal Pradesh,8887.0,4506,1207.0,1134958.77,1955.14,0.523
+Rice,2006,Kharif     ,Himachal Pradesh,79206.0,123485,1207.0,10115398.26,17425.32,1.750909091
+Sannhamp,2006,Kharif     ,Himachal Pradesh,76.0,14,1207.0,9705.96,16.72,0.185
+Sesamum,2006,Kharif     ,Himachal Pradesh,3802.0,1708,1207.0,485553.42,836.44,0.412222222
+Small millets,2006,Kharif     ,Himachal Pradesh,7479.0,5083,1207.0,955143.09,1645.38,0.548571429
+Soyabean,2006,Kharif     ,Himachal Pradesh,638.0,1073,1207.0,81478.98,140.36,1.691428571
+Sugarcane,2006,Whole Year ,Himachal Pradesh,3019.0,59184,1207.0,385556.49,664.18,13.465
+Turmeric,2006,Kharif     ,Himachal Pradesh,187.0,99,1207.0,23881.77,41.14,0.504285714
+Urad,2006,Kharif     ,Himachal Pradesh,11459.0,5413,1207.0,1463428.89,2520.98,0.557272727
+Wheat,2006,Rabi       ,Himachal Pradesh,362245.0,596493,1207.0,46262308.95,79693.9,1.6375
+Arhar/Tur,2007,Kharif     ,Himachal Pradesh,49.0,17,1095.4,6536.6,7.84,0.336
+Barley,2007,Rabi       ,Himachal Pradesh,23509.0,30675,1095.4,3136100.6,3761.44,1.320909091
+Coriander,2007,Rabi       ,Himachal Pradesh,236.0,68,1095.4,31482.4,37.76,0.252
+Cotton(lint),2007,Kharif     ,Himachal Pradesh,63.0,29,1095.4,8404.2,10.08,0.506666667
+Dry chillies,2007,Kharif     ,Himachal Pradesh,669.0,254,1095.4,89244.6,107.04,0.399
+Garlic,2007,Rabi       ,Himachal Pradesh,4299.0,5486,1095.4,573486.6,687.84,1.125
+Ginger,2007,Kharif     ,Himachal Pradesh,2273.0,25538,1095.4,303218.2,363.68,10.15
+Gram,2007,Rabi       ,Himachal Pradesh,1452.0,1372,1095.4,193696.8,232.32,0.815555556
+Groundnut,2007,Kharif     ,Himachal Pradesh,97.0,94,1095.4,12939.8,15.52,1.038
+Horse-gram,2007,Kharif     ,Himachal Pradesh,2422.0,1097,1095.4,323094.8,387.52,0.444
+Linseed,2007,Rabi       ,Himachal Pradesh,1571.0,395,1095.4,209571.4,251.36,0.216666667
+Maize,2007,Kharif     ,Himachal Pradesh,300150.0,682615,1095.4,40040010.0,48024.0,2.303333333
+Masoor,2007,Kharif     ,Himachal Pradesh,607.0,352,1095.4,80973.8,97.12,0.671
+Moong(Green Gram),2007,Kharif     ,Himachal Pradesh,685.0,324,1095.4,91379.0,109.6,0.467142857
+Moth,2007,Kharif     ,Himachal Pradesh,9.0,3,1095.4,1200.6,1.44,0.276666667
+Onion,2007,Rabi       ,Himachal Pradesh,823.0,7036,1095.4,109788.2,131.68,8.408
+Other  Rabi pulses,2007,Rabi       ,Himachal Pradesh,25.0,9,1095.4,3335.0,4.0,0.423333333
+Other Kharif pulses,2007,Kharif     ,Himachal Pradesh,1745.0,602,1095.4,232783.0,279.2,0.37
+Peas & beans (Pulses),2007,Kharif     ,Himachal Pradesh,10051.0,22296,1095.4,1340803.4,1608.16,1.791818182
+Potato,2007,Kharif     ,Himachal Pradesh,13583.0,123839,1095.4,1811972.2,2173.28,9.051666667
+Ragi,2007,Kharif     ,Himachal Pradesh,1845.0,2489,1095.4,246123.0,295.2,1.117142857
+Rapeseed &Mustard,2007,Rabi       ,Himachal Pradesh,8758.0,3580,1095.4,1168317.2,1401.28,0.479
+Rice,2007,Kharif     ,Himachal Pradesh,78571.0,121453,1095.4,10481371.4,12571.36,1.686363636
+Sannhamp,2007,Kharif     ,Himachal Pradesh,32.0,6,1095.4,4268.8,5.12,0.185
+Sesamum,2007,Kharif     ,Himachal Pradesh,3586.0,1269,1095.4,478372.4,573.76,0.337777778
+Small millets,2007,Kharif     ,Himachal Pradesh,7443.0,5463,1095.4,992896.2,1190.88,0.657142857
+Soyabean,2007,Kharif     ,Himachal Pradesh,626.0,1052,1095.4,83508.4,100.16,1.575
+Sugarcane,2007,Kharif     ,Himachal Pradesh,2697.0,58442,1095.4,359779.8,431.52,13.81285714
+Turmeric,2007,Kharif     ,Himachal Pradesh,142.0,72,1095.4,18942.8,22.72,0.476666667
+Urad,2007,Kharif     ,Himachal Pradesh,12259.0,6315,1095.4,1635350.6,1961.44,0.455
+Wheat,2007,Rabi       ,Himachal Pradesh,366592.0,504360,1095.4,48903372.8,58654.72,1.500833333
+Arhar/Tur,2008,Kharif     ,Himachal Pradesh,15.0,2,1357.1,2145.6,1.35,0.193333333
+Bajra,2008,Kharif     ,Himachal Pradesh,203.0,113,1357.1,29037.12,18.27,0.622
+Barley,2008,Rabi       ,Himachal Pradesh,22601.0,20447,1357.1,3232847.04,2034.09,0.923636364
+Coriander,2008,Rabi       ,Himachal Pradesh,136.0,19,1357.1,19453.44,12.24,0.165714286
+Cotton(lint),2008,Kharif     ,Himachal Pradesh,45.0,21,1357.1,6436.8,4.05,0.48
+Dry chillies,2008,Kharif     ,Himachal Pradesh,640.0,199,1357.1,91545.6,57.6,0.266
+Garlic,2008,Rabi       ,Himachal Pradesh,4036.0,1246,1357.1,577309.44,363.24,0.527777778
+Gram,2008,Rabi       ,Himachal Pradesh,728.0,290,1357.1,104133.12,65.52,0.324444444
+Groundnut,2008,Kharif     ,Himachal Pradesh,81.0,66,1357.1,11586.24,7.29,0.91
+Horse-gram,2008,Kharif     ,Himachal Pradesh,2238.0,868,1357.1,320123.52,201.42,0.349
+Linseed,2008,Rabi       ,Himachal Pradesh,695.0,148,1357.1,99412.8,62.55,0.165
+Maize,2008,Kharif     ,Himachal Pradesh,297718.0,676644,1357.1,42585582.72,26794.62,2.304166667
+Masoor,2008,Rabi       ,Himachal Pradesh,661.0,215,1357.1,94549.44,59.49,0.468888889
+Moong(Green Gram),2008,Kharif     ,Himachal Pradesh,109.0,45,1357.1,15591.36,9.81,0.32
+Moth,2008,Kharif     ,Himachal Pradesh,23.0,7,1357.1,3289.92,2.07,0.206666667
+Onion,2008,Rabi       ,Himachal Pradesh,776.0,4611,1357.1,110999.04,69.84,5.795
+Other Kharif pulses,2008,Kharif     ,Himachal Pradesh,2152.0,689,1357.1,307822.08,193.68,0.358333333
+Peas & beans (Pulses),2008,Kharif     ,Himachal Pradesh,887.0,1116,1357.1,126876.48,79.83,1.17
+Peas & beans (Pulses),2008,Rabi       ,Himachal Pradesh,8395.0,11461,1357.1,1200820.8,755.55,1.122727273
+Potato,2008,Kharif     ,Himachal Pradesh,7954.0,78928,1357.1,1137740.16,715.86,11.051
+Potato,2008,Rabi       ,Himachal Pradesh,3889.0,24702,1357.1,556282.56,350.01,4.299
+Ragi,2008,Kharif     ,Himachal Pradesh,2273.0,2442,1357.1,325129.92,204.57,0.958571429
+Rapeseed &Mustard,2008,Rabi       ,Himachal Pradesh,8883.0,2373,1357.1,1270624.32,799.47,0.32
+Rice,2008,Kharif     ,Himachal Pradesh,77709.0,118277,1357.1,11115495.36,6993.81,1.6
+Sannhamp,2008,Kharif     ,Himachal Pradesh,6.0,1,1357.1,858.24,0.54,0.1
+Sesamum,2008,Kharif     ,Himachal Pradesh,3307.0,1160,1357.1,473033.28,297.63,0.335555556
+Small millets,2008,Kharif     ,Himachal Pradesh,5890.0,4294,1357.1,842505.6,530.1,0.677142857
+Soyabean,2008,Kharif     ,Himachal Pradesh,738.0,1235,1357.1,105563.52,66.42,1.577142857
+Sugarcane,2008,Kharif     ,Himachal Pradesh,2338.0,53068,1357.1,334427.52,210.42,15.18142857
+Turmeric,2008,Kharif     ,Himachal Pradesh,208.0,110,1357.1,29752.32,18.72,0.54875
+Urad,2008,Kharif     ,Himachal Pradesh,10637.0,4576,1357.1,1521516.48,957.33,0.517272727
+Wheat,2008,Rabi       ,Himachal Pradesh,359961.0,381180,1357.1,51488821.44,32396.49,1.080833333
+Arhar/Tur,2009,Kharif     ,Himachal Pradesh,12.0,3,969.9,1869.84,2.04,0.4
+Bajra,2009,Kharif     ,Himachal Pradesh,213.0,106,969.9,33189.66,36.21,0.584
+Barley,2009,Rabi       ,Himachal Pradesh,21017.0,16176,969.9,3274868.94,3572.89,0.784545455
+Coriander,2009,Rabi       ,Himachal Pradesh,120.0,66,969.9,18698.4,20.4,0.608
+Cotton(lint),2009,Kharif     ,Himachal Pradesh,8.0,2,969.9,1246.56,1.36,0.335
+Dry chillies,2009,Kharif     ,Himachal Pradesh,603.0,318,969.9,93959.46,102.51,0.545
+Garlic,2009,Rabi       ,Himachal Pradesh,4860.0,8491,969.9,757285.2,826.2,1.673
+Ginger,2009,Kharif     ,Himachal Pradesh,2488.0,11618,969.9,387680.16,422.96,3.883
+Gram,2009,Rabi       ,Himachal Pradesh,604.0,308,969.9,94115.28,102.68,0.397777778
+Groundnut,2009,Kharif     ,Himachal Pradesh,195.0,129,969.9,30384.9,33.15,0.6625
+Horse-gram,2009,Kharif     ,Himachal Pradesh,2005.0,599,969.9,312419.1,340.85,0.306
+Linseed,2009,Rabi       ,Himachal Pradesh,1415.0,355,969.9,220485.3,240.55,0.255
+Maize,2009,Kharif     ,Himachal Pradesh,290199.0,530224,969.9,45218808.18,49333.83,2.08
+Masoor,2009,Rabi       ,Himachal Pradesh,704.0,274,969.9,109697.28,119.68,0.664444444
+Moong(Green Gram),2009,Kharif     ,Himachal Pradesh,225.0,104,969.9,35059.5,38.25,0.367142857
+Onion,2009,Rabi       ,Himachal Pradesh,918.0,5392,969.9,143042.76,156.06,5.744
+Other Kharif pulses,2009,Kharif     ,Himachal Pradesh,6982.0,3708,969.9,1087935.24,1186.94,0.515714286
+Peas & beans (Pulses),2009,Kharif     ,Himachal Pradesh,817.0,748,969.9,127304.94,138.89,0.97
+Peas & beans (Pulses),2009,Rabi       ,Himachal Pradesh,8250.0,10245,969.9,1285515.0,1402.5,1.333636364
+Potato,2009,Kharif     ,Himachal Pradesh,6436.0,64758,969.9,1002857.52,1094.12,11.582
+Potato,2009,Rabi       ,Himachal Pradesh,3406.0,23611,969.9,530722.92,579.02,4.67
+Ragi,2009,Kharif     ,Himachal Pradesh,2208.0,2104,969.9,344050.56,375.36,0.778571429
+Rapeseed &Mustard,2009,Rabi       ,Himachal Pradesh,8586.0,2329,969.9,1337870.52,1459.62,0.340909091
+Rice,2009,Kharif     ,Himachal Pradesh,76186.0,105787,969.9,11871302.52,12951.62,1.484545455
+Sesamum,2009,Kharif     ,Himachal Pradesh,2773.0,233,969.9,432088.86,471.41,0.084444444
+Small millets,2009,Kharif     ,Himachal Pradesh,4937.0,1771,969.9,769283.34,839.29,0.367142857
+Soyabean,2009,Kharif     ,Himachal Pradesh,550.0,430,969.9,85701.0,93.5,0.774285714
+Sugarcane,2009,Whole Year ,Himachal Pradesh,2124.0,44306,969.9,330961.68,361.08,16.11857143
+Turmeric,2009,Kharif     ,Himachal Pradesh,194.0,110,969.9,30229.08,32.98,0.5625
+Urad,2009,Kharif     ,Himachal Pradesh,10007.0,1982,969.9,1559290.74,1701.19,0.284545455
+Wheat,2009,Rabi       ,Himachal Pradesh,350440.0,324174,969.9,54605560.8,59574.8,0.933333333
+Arhar/Tur,2010,Kharif     ,Himachal Pradesh,9.0,3,1319.8,1494.99,2.16,0.43
+Bajra,2010,Kharif     ,Himachal Pradesh,201.0,107,1319.8,33388.11,48.24,0.46
+Barley,2010,Rabi       ,Himachal Pradesh,21233.0,25065,1319.8,3527013.63,5095.92,1.195454545
+Coriander,2010,Rabi       ,Himachal Pradesh,141.0,73,1319.8,23421.51,33.84,0.531
+Cotton(lint),2010,Kharif     ,Himachal Pradesh,8.0,13,1319.8,1328.88,1.92,1.355
+Garlic,2010,Kharif     ,Himachal Pradesh,3.0,4,1319.8,498.33,0.72,1.33
+Garlic,2010,Rabi       ,Himachal Pradesh,5024.0,7516,1319.8,834536.64,1205.76,1.41
+Gram,2010,Rabi       ,Himachal Pradesh,617.0,563,1319.8,102489.87,148.08,0.734444444
+Groundnut,2010,Kharif     ,Himachal Pradesh,62.0,46,1319.8,10298.82,14.88,0.6425
+Horse-gram,2010,Kharif     ,Himachal Pradesh,1805.0,1012,1319.8,299828.55,433.2,0.554
+Linseed,2010,Rabi       ,Himachal Pradesh,955.0,258,1319.8,158635.05,229.2,0.275
+Maize,2010,Kharif     ,Himachal Pradesh,281664.0,641530,1319.8,46787207.04,67599.36,2.593333333
+Masoor,2010,Rabi       ,Himachal Pradesh,550.0,343,1319.8,91360.5,132.0,0.491111111
+Moong(Green Gram),2010,Kharif     ,Himachal Pradesh,433.0,202,1319.8,71925.63,103.92,0.505714286
+Moth,2010,Kharif     ,Himachal Pradesh,16.0,4,1319.8,2657.76,3.84,0.166666667
+Other Kharif pulses,2010,Kharif     ,Himachal Pradesh,1838.0,527,1319.8,305310.18,441.12,0.35
+Peas & beans (Pulses),2010,Kharif     ,Himachal Pradesh,1250.0,1629,1319.8,207637.5,300.0,1.310909091
+Peas & beans (Pulses),2010,Rabi       ,Himachal Pradesh,11713.0,22866,1319.8,1945646.43,2811.12,2.026363636
+Potato,2010,Kharif     ,Himachal Pradesh,6411.0,64000,1319.8,1064931.21,1538.64,10.688
+Potato,2010,Rabi       ,Himachal Pradesh,3423.0,23328,1319.8,568594.53,821.52,4.835
+Ragi,2010,Kharif     ,Himachal Pradesh,2141.0,2082,1319.8,355641.51,513.84,0.767142857
+Rapeseed &Mustard,2010,Rabi       ,Himachal Pradesh,8564.0,4260,1319.8,1422566.04,2055.36,0.559090909
+Rice,2010,Kharif     ,Himachal Pradesh,75426.0,110238,1319.8,12529012.86,18102.24,1.561818182
+Sesamum,2010,Kharif     ,Himachal Pradesh,2890.0,917,1319.8,480057.9,693.6,0.318888889
+Small millets,2010,Kharif     ,Himachal Pradesh,5371.0,3113,1319.8,892176.81,1289.04,0.591428571
+Soyabean,2010,Kharif     ,Himachal Pradesh,545.0,792,1319.8,90529.95,130.8,1.444285714
+Sugarcane,2010,Whole Year ,Himachal Pradesh,1628.0,37107,1319.8,270427.08,390.72,17.22
+Urad,2010,Kharif     ,Himachal Pradesh,9616.0,4358,1319.8,1597313.76,2307.84,0.575454545
+Wheat,2010,Rabi       ,Himachal Pradesh,346936.0,534707,1319.8,57629538.96,83264.64,1.539166667
+Arhar/Tur,2011,Kharif     ,Himachal Pradesh,12.0,4,1108.3,2010.24,3.96,0.433333333
+Bajra,2011,Kharif     ,Himachal Pradesh,223.0,122,1108.3,37356.96,73.59,0.49
+Barley,2011,Rabi       ,Himachal Pradesh,21123.0,30050,1108.3,3538524.96,6970.59,1.520909091
+Coriander,2011,Rabi       ,Himachal Pradesh,129.0,42,1108.3,21610.08,42.57,0.33875
+Cotton(lint),2011,Kharif     ,Himachal Pradesh,19.0,43,1108.3,3182.88,6.27,2.21
+Dry chillies,2011,Kharif     ,Himachal Pradesh,620.0,177,1108.3,103862.4,204.6,0.272222222
+Garlic,2011,Rabi       ,Himachal Pradesh,4110.0,5799,1108.3,688507.2,1356.3,1.1925
+Ginger,2011,Kharif     ,Himachal Pradesh,2103.0,3736,1108.3,352294.56,693.99,1.825
+Gram,2011,Rabi       ,Himachal Pradesh,612.0,614,1108.3,102522.24,201.96,0.664444444
+Groundnut,2011,Kharif     ,Himachal Pradesh,114.0,106,1108.3,19097.28,37.62,0.88
+Horse-gram,2011,Kharif     ,Himachal Pradesh,2066.0,1030,1108.3,346096.32,681.78,0.523
+Linseed,2011,Rabi       ,Himachal Pradesh,1040.0,309,1108.3,174220.8,343.2,0.27
+Maize,2011,Kharif     ,Himachal Pradesh,290241.0,612701,1108.3,48621172.32,95779.53,2.435
+Masoor,2011,Rabi       ,Himachal Pradesh,598.0,550,1108.3,100176.96,197.34,0.852222222
+Moong(Green Gram),2011,Kharif     ,Himachal Pradesh,256.0,129,1108.3,42885.12,84.48,0.478571429
+Moth,2011,Kharif     ,Himachal Pradesh,16.0,4,1108.3,2680.32,5.28,0.166666667
+Onion,2011,Rabi       ,Himachal Pradesh,724.0,6262,1108.3,121284.48,238.92,9.198
+Other Kharif pulses,2011,Kharif     ,Himachal Pradesh,1827.0,524,1108.3,306059.04,602.91,0.353333333
+Peas & beans (Pulses),2011,Kharif     ,Himachal Pradesh,1295.0,1705,1108.3,216938.4,427.35,1.331666667
+Peas & beans (Pulses),2011,Rabi       ,Himachal Pradesh,1019.0,1685,1108.3,170702.88,336.27,1.396363636
+Potato,2011,Kharif     ,Himachal Pradesh,6423.0,63593,1108.3,1075980.96,2119.59,11.144
+Potato,2011,Rabi       ,Himachal Pradesh,3431.0,23799,1108.3,574761.12,1132.23,4.865
+Ragi,2011,Kharif     ,Himachal Pradesh,2179.0,2446,1108.3,365026.08,719.07,0.892857143
+Rapeseed &Mustard,2011,Rabi       ,Himachal Pradesh,9106.0,5110,1108.3,1525437.12,3004.98,0.970909091
+Rice,2011,Kharif     ,Himachal Pradesh,75043.0,108648,1108.3,12571203.36,24764.19,1.545454545
+Sesamum,2011,Kharif     ,Himachal Pradesh,2876.0,910,1108.3,481787.52,949.08,0.317777778
+Small millets,2011,Kharif     ,Himachal Pradesh,5342.0,3226,1108.3,894891.84,1762.86,0.748571429
+Soyabean,2011,Kharif     ,Himachal Pradesh,543.0,969,1108.3,90963.36,179.19,1.502857143
+Sugarcane,2011,Whole Year ,Himachal Pradesh,1967.0,27771,1108.3,329511.84,649.11,10.67857143
+Turmeric,2011,Kharif     ,Himachal Pradesh,197.0,98,1108.3,33001.44,65.01,0.52
+Urad,2011,Kharif     ,Himachal Pradesh,9664.0,6150,1108.3,1618913.28,3189.12,0.690909091
+Wheat,2011,Rabi       ,Himachal Pradesh,345182.0,506782,1108.3,57824888.64,113910.06,1.423333333
+Arhar/Tur,2012,Kharif     ,Himachal Pradesh,21.0,7,1035.0,3166.8,6.51,0.31
+Bajra,2012,Kharif     ,Himachal Pradesh,2435.0,1236,1035.0,367198.0,754.85,0.50375
+Barley,2012,Rabi       ,Himachal Pradesh,20802.0,35916,1035.0,3136941.6,6448.62,1.756363636
+Coriander,2012,Rabi       ,Himachal Pradesh,144.0,46,1035.0,21715.2,44.64,0.318
+Cotton(lint),2012,Kharif     ,Himachal Pradesh,2.0,1,1035.0,301.6,0.62,0.25
+Dry chillies,2012,Kharif     ,Himachal Pradesh,630.0,205,1035.0,95004.0,195.3,0.322
+Garlic,2012,Rabi       ,Himachal Pradesh,4298.0,6026,1035.0,648138.4,1332.38,1.256666667
+Ginger,2012,Kharif     ,Himachal Pradesh,2406.0,16872,1035.0,362824.8,745.86,7.345555556
+Gram,2012,Rabi       ,Himachal Pradesh,450.0,422,1035.0,67860.0,139.5,0.95
+Groundnut,2012,Kharif     ,Himachal Pradesh,22.0,19,1035.0,3317.6,6.82,0.8875
+Horse-gram,2012,Kharif     ,Himachal Pradesh,1910.0,744,1035.0,288028.0,592.1,0.622
+Linseed,2012,Rabi       ,Himachal Pradesh,932.0,344,1035.0,140545.6,288.92,0.365
+Maize,2012,Kharif     ,Himachal Pradesh,275973.0,605082,1035.0,41616728.4,85551.63,2.4975
+Masoor,2012,Rabi       ,Himachal Pradesh,608.0,432,1035.0,91686.4,188.48,0.845555556
+Moong(Green Gram),2012,Kharif     ,Himachal Pradesh,282.0,133,1035.0,42525.6,87.42,0.405714286
+Moth,2012,Kharif     ,Himachal Pradesh,14.0,4,1035.0,2111.2,4.34,0.193333333
+Onion,2012,Rabi       ,Himachal Pradesh,748.0,6967,1035.0,112798.4,231.88,9.482
+Other Kharif pulses,2012,Kharif     ,Himachal Pradesh,4930.0,4522,1035.0,743444.0,1528.3,0.941666667
+Peas & beans (Pulses),2012,Kharif     ,Himachal Pradesh,1381.0,1785,1035.0,208254.8,428.11,1.318333333
+Peas & beans (Pulses),2012,Rabi       ,Himachal Pradesh,2477.0,4783,1035.0,373531.6,767.87,1.574545455
+Potato,2012,Kharif     ,Himachal Pradesh,6404.0,65510,1035.0,965723.2,1985.24,10.782
+Potato,2012,Rabi       ,Himachal Pradesh,3415.0,23797,1035.0,514982.0,1058.65,4.953
+Ragi,2012,Kharif     ,Himachal Pradesh,2338.0,2450,1035.0,352570.4,724.78,0.847142857
+Rapeseed &Mustard,2012,Rabi       ,Himachal Pradesh,8945.0,3969,1035.0,1348906.0,2772.95,0.46
+Rice,2012,Kharif     ,Himachal Pradesh,75380.0,111252,1035.0,11367304.0,23367.8,1.577272727
+Sesamum,2012,Kharif     ,Himachal Pradesh,2632.0,929,1035.0,396905.6,815.92,0.461111111
+Small millets,2012,Kharif     ,Himachal Pradesh,5095.0,3432,1035.0,768326.0,1579.45,0.702857143
+Soyabean,2012,Kharif     ,Himachal Pradesh,617.0,834,1035.0,93043.6,191.27,1.494285714
+Sugarcane,2012,Whole Year ,Himachal Pradesh,1836.0,38063,1035.0,276868.8,569.16,16.37571429
+Tobacco,2012,Kharif     ,Himachal Pradesh,1.0,2,1035.0,150.8,0.31,1.1
+Turmeric,2012,Kharif     ,Himachal Pradesh,283.0,158,1035.0,42676.4,87.73,0.515
+Urad,2012,Kharif     ,Himachal Pradesh,9519.0,3841,1035.0,1435465.2,2950.89,0.527272727
+Wheat,2012,Rabi       ,Himachal Pradesh,350121.0,656543,1035.0,52798246.8,108537.51,1.894166667
+Arhar/Tur,2013,Kharif     ,Himachal Pradesh,71.0,23,1216.9,10258.79,19.17,0.346666667
+Bajra,2013,Kharif     ,Himachal Pradesh,731.0,400,1216.9,105622.19,197.37,0.532
+Barley,2013,Rabi       ,Himachal Pradesh,20585.0,18708,1216.9,2974326.65,5557.95,0.927272727
+Coriander,2013,Rabi       ,Himachal Pradesh,144.0,43,1216.9,20806.56,38.88,0.294285714
+Cotton(lint),2013,Kharif     ,Himachal Pradesh,4.0,2,1216.9,577.96,1.08,0.415
+Dry chillies,2013,Kharif     ,Himachal Pradesh,419.0,143,1216.9,60541.31,113.13,0.312
+Garlic,2013,Rabi       ,Himachal Pradesh,4961.0,7516,1216.9,716814.89,1339.47,1.433
+Gram,2013,Rabi       ,Himachal Pradesh,475.0,448,1216.9,68632.75,128.25,0.822222222
+Groundnut,2013,Kharif     ,Himachal Pradesh,49.0,31,1216.9,7080.01,13.23,0.7075
+Horse-gram,2013,Kharif     ,Himachal Pradesh,1750.0,613,1216.9,252857.5,472.5,0.352
+Linseed,2013,Rabi       ,Himachal Pradesh,1087.0,273,1216.9,157060.63,293.49,0.2275
+Maize,2013,Kharif     ,Himachal Pradesh,291960.0,594280,1216.9,42185300.4,78829.2,2.336666667
+Masoor,2013,Rabi       ,Himachal Pradesh,529.0,361,1216.9,76435.21,142.83,0.688888889
+Moong(Green Gram),2013,Kharif     ,Himachal Pradesh,300.0,142,1216.9,43347.0,81.0,0.484285714
+Moth,2013,Kharif     ,Himachal Pradesh,27.0,10,1216.9,3901.23,7.29,0.366666667
+Onion,2013,Rabi       ,Himachal Pradesh,764.0,7246,1216.9,110390.36,206.28,9.466666667
+Other Kharif pulses,2013,Kharif     ,Himachal Pradesh,5087.0,4499,1216.9,735020.63,1373.49,0.896666667
+Peas & beans (Pulses),2013,Kharif     ,Himachal Pradesh,1265.0,1677,1216.9,182779.85,341.55,1.350833333
+Peas & beans (Pulses),2013,Rabi       ,Himachal Pradesh,22.0,7,1216.9,3178.78,5.94,0.211666667
+Potato,2013,Kharif     ,Himachal Pradesh,6228.0,64123,1216.9,899883.72,1681.56,10.642
+Potato,2013,Rabi       ,Himachal Pradesh,3408.0,23871,1216.9,492421.92,920.16,4.882
+Ragi,2013,Kharif     ,Himachal Pradesh,1927.0,1774,1216.9,278432.23,520.29,0.798571429
+Rapeseed &Mustard,2013,Rabi       ,Himachal Pradesh,8459.0,4205,1216.9,1222240.91,2283.93,0.460909091
+Rice,2013,Kharif     ,Himachal Pradesh,73139.0,106899,1216.9,10567854.11,19747.53,1.565454545
+Sesamum,2013,Kharif     ,Himachal Pradesh,1802.0,589,1216.9,260370.98,486.54,0.327777778
+Small millets,2013,Kharif     ,Himachal Pradesh,4165.0,3017,1216.9,601800.85,1124.55,0.737142857
+Soyabean,2013,Kharif     ,Himachal Pradesh,528.0,798,1216.9,76290.72,142.56,1.428571429
+Sugarcane,2013,Whole Year ,Himachal Pradesh,1449.0,3496,1216.9,209366.01,391.23,3.07
+Turmeric,2013,Kharif     ,Himachal Pradesh,266.0,145,1216.9,38434.34,71.82,0.541428571
+Urad,2013,Kharif     ,Himachal Pradesh,7686.0,3339,1216.9,1110550.14,2075.22,0.54
+Wheat,2013,Rabi       ,Himachal Pradesh,415665.0,324283,1216.9,60059435.85,112229.55,0.786666667
+Arhar/Tur,2014,Kharif     ,Himachal Pradesh,20.0,7,1019.9,3019.2,6.6,0.243333333
+Bajra,2014,Kharif     ,Himachal Pradesh,657.0,342,1019.9,99180.72,216.81,0.518
+Barley,2014,Rabi       ,Himachal Pradesh,20374.0,36473,1019.9,3075659.04,6723.42,1.818181818
+Coriander,2014,Rabi       ,Himachal Pradesh,172.0,53,1019.9,25965.12,56.76,0.24
+Cotton(lint),2014,Kharif     ,Himachal Pradesh,4.0,2,1019.9,603.84,1.32,0.39
+Dry chillies,2014,Kharif     ,Himachal Pradesh,466.0,151,1019.9,70347.36,153.78,0.335
+Garlic,2014,Rabi       ,Himachal Pradesh,4608.0,6519,1019.9,695623.68,1520.64,1.084
+Ginger,2014,Kharif     ,Himachal Pradesh,2144.0,14712,1019.9,323658.24,707.52,6.611
+Gram,2014,Rabi       ,Himachal Pradesh,399.0,357,1019.9,60233.04,131.67,0.813333333
+Groundnut,2014,Kharif     ,Himachal Pradesh,44.0,28,1019.9,6642.24,14.52,0.7175
+Horse-gram,2014,Kharif     ,Himachal Pradesh,1472.0,607,1019.9,222213.12,485.76,0.375
+Linseed,2014,Rabi       ,Himachal Pradesh,680.0,163,1019.9,102652.8,224.4,0.235
+Maize,2014,Kharif     ,Himachal Pradesh,289204.0,503715,1019.9,43658235.84,95437.32,1.985
+Masoor,2014,Rabi       ,Himachal Pradesh,477.0,300,1019.9,72007.92,157.41,0.604444444
+Moong(Green Gram),2014,Kharif     ,Himachal Pradesh,222.0,97,1019.9,33513.12,73.26,0.485714286
+Moth,2014,Kharif     ,Himachal Pradesh,14.0,4,1019.9,2113.44,4.62,0.246666667
+Onion,2014,Rabi       ,Himachal Pradesh,806.0,7600,1019.9,121673.76,265.98,9.471
+Other Kharif pulses,2014,Kharif     ,Himachal Pradesh,6180.0,5244,1019.9,932932.8,2039.4,0.843333333
+Peas & beans (Pulses),2014,Kharif     ,Himachal Pradesh,1361.0,1693,1019.9,205456.56,449.13,1.296666667
+Peas & beans (Pulses),2014,Rabi       ,Himachal Pradesh,2040.0,597,1019.9,307958.4,673.2,0.3275
+Potato,2014,Kharif     ,Himachal Pradesh,6548.0,65364,1019.9,988486.08,2160.84,10.461
+Potato,2014,Rabi       ,Himachal Pradesh,3551.0,23045,1019.9,536058.96,1171.83,4.698
+Ragi,2014,Kharif     ,Himachal Pradesh,1908.0,1895,1019.9,288031.68,629.64,0.828571429
+Rapeseed &Mustard,2014,Rabi       ,Himachal Pradesh,8626.0,4723,1019.9,1302180.96,2846.58,0.491818182
+Rice,2014,Kharif     ,Himachal Pradesh,72380.0,116365,1019.9,10926484.8,23885.4,1.72
+Sesamum,2014,Kharif     ,Himachal Pradesh,1998.0,649,1019.9,301618.08,659.34,0.348888889
+Small millets,2014,Kharif     ,Himachal Pradesh,4122.0,2987,1019.9,622257.12,1360.26,0.738571429
+Soyabean,2014,Kharif     ,Himachal Pradesh,633.0,934,1019.9,95557.68,208.89,1.288571429
+Sugarcane,2014,Whole Year ,Himachal Pradesh,1600.0,36681,1019.9,241536.0,528.0,26.19142857
+Tobacco,2014,Kharif     ,Himachal Pradesh,0.8,2,1019.9,120.768,0.264,1.435
+Turmeric,2014,Kharif     ,Himachal Pradesh,256.0,143,1019.9,38645.76,84.48,0.512857143
+Urad,2014,Kharif     ,Himachal Pradesh,7342.0,3396,1019.9,1108348.32,2422.86,0.453636364
+Wheat,2014,Rabi       ,Himachal Pradesh,345548.0,639209,1019.9,52163926.08,114030.84,1.846666667
+Arhar/Tur,2015,Kharif     ,Himachal Pradesh,45.0,15,1223.2,7105.95,14.85,0.32
+Bajra,2015,Kharif     ,Himachal Pradesh,79.0,46,1223.2,12474.89,26.07,0.614
+Barley,2015,Rabi       ,Himachal Pradesh,19160.0,33587,1223.2,3025555.6,6322.8,1.665454545
+Coriander,2015,Rabi       ,Himachal Pradesh,118.0,43,1223.2,18633.38,38.94,0.514444444
+Dry chillies,2015,Kharif     ,Himachal Pradesh,599.0,217,1223.2,94588.09,197.67,0.347777778
+Garlic,2015,Rabi       ,Himachal Pradesh,4404.0,6537,1223.2,695435.64,1453.32,1.164
+Ginger,2015,Kharif     ,Himachal Pradesh,2276.0,15389,1223.2,359403.16,751.08,6.84
+Gram,2015,Rabi       ,Himachal Pradesh,358.0,354,1223.2,56531.78,118.14,0.842222222
+Groundnut,2015,Kharif     ,Himachal Pradesh,35.0,33,1223.2,5526.85,11.55,0.905
+Horse-gram,2015,Kharif     ,Himachal Pradesh,1614.0,757,1223.2,254866.74,532.62,0.452
+Linseed,2015,Rabi       ,Himachal Pradesh,803.0,235,1223.2,126801.73,264.99,0.29
+Maize,2015,Kharif     ,Himachal Pradesh,280811.0,708527,1223.2,44342865.01,92667.63,2.868333333
+Masoor,2015,Rabi       ,Himachal Pradesh,441.0,296,1223.2,69638.31,145.53,0.564444444
+Moong(Green Gram),2015,Kharif     ,Himachal Pradesh,130.0,64,1223.2,20528.3,42.9,0.5
+Moth,2015,Kharif     ,Himachal Pradesh,17.0,6,1223.2,2684.47,5.61,0.216666667
+Onion,2015,Rabi       ,Himachal Pradesh,854.0,8696,1223.2,134855.14,281.82,9.954
+Other  Rabi pulses,2015,Rabi       ,Himachal Pradesh,10078.0,39978,1223.2,1591416.98,3325.74,3.968333333
+Other Kharif pulses,2015,Kharif     ,Himachal Pradesh,6504.0,5710,1223.2,1027046.64,2146.32,0.895
+Peas & beans (Pulses),2015,Kharif     ,Himachal Pradesh,1377.0,1751,1223.2,217442.07,454.41,1.306666667
+Peas & beans (Pulses),2015,Rabi       ,Himachal Pradesh,2353.0,5176,1223.2,371562.23,776.49,2.08
+Potato,2015,Kharif     ,Himachal Pradesh,6475.0,58138,1223.2,1022467.25,2136.75,10.163
+Potato,2015,Rabi       ,Himachal Pradesh,3412.0,23371,1223.2,538788.92,1125.96,4.737
+Ragi,2015,Kharif     ,Himachal Pradesh,1817.0,1877,1223.2,286922.47,599.61,0.845714286
+Rapeseed &Mustard,2015,Rabi       ,Himachal Pradesh,8326.0,4405,1223.2,1314758.66,2747.58,0.455454545
+Rice,2015,Kharif     ,Himachal Pradesh,71614.0,114670,1223.2,11308566.74,23632.62,1.612727273
+Sesamum,2015,Kharif     ,Himachal Pradesh,127.0,43,1223.2,20054.57,41.91,0.314444444
+Small millets,2015,Kharif     ,Himachal Pradesh,4098.0,2908,1223.2,647115.18,1352.34,0.772857143
+Soyabean,2015,Kharif     ,Himachal Pradesh,554.0,925,1223.2,87482.14,182.82,1.657142857
+Sugarcane,2015,Whole Year ,Himachal Pradesh,1874.0,37516,1223.2,295923.34,618.42,16.19714286
+Turmeric,2015,Kharif     ,Himachal Pradesh,206.0,113,1223.2,32529.46,67.98,0.5225
+Urad,2015,Kharif     ,Himachal Pradesh,6922.0,3327,1223.2,1093053.02,2284.26,0.579090909
+Wheat,2015,Rabi       ,Himachal Pradesh,342675.0,602287,1223.2,54111809.25,113082.75,1.605
+Arhar/Tur,2016,Kharif     ,Himachal Pradesh,11.0,2,1373.9,1685.75,3.85,0.37
+Bajra,2016,Kharif     ,Himachal Pradesh,157.0,77,1373.9,24060.25,54.95,0.58
+Barley,2016,Rabi       ,Himachal Pradesh,19943.0,18125,1373.9,3056264.75,6980.05,0.925454545
+Coriander,2016,Rabi       ,Himachal Pradesh,104.0,14,1373.9,15938.0,36.4,0.207142857
+Cotton(lint),2016,Kharif     ,Himachal Pradesh,30.0,12,1373.9,4597.5,10.5,0.37
+Dry chillies,2016,Kharif     ,Himachal Pradesh,445.0,143,1373.9,68196.25,155.75,0.306
+Garlic,2016,Rabi       ,Himachal Pradesh,3342.0,912,1373.9,512161.5,1169.7,0.417777778
+Gram,2016,Rabi       ,Himachal Pradesh,467.0,204,1373.9,71567.75,163.45,0.35
+Groundnut,2016,Kharif     ,Himachal Pradesh,48.0,39,1373.9,7356.0,16.8,0.815
+Horse-gram,2016,Kharif     ,Himachal Pradesh,1696.0,595,1373.9,259912.0,593.6,0.353
+Linseed,2016,Rabi       ,Himachal Pradesh,417.0,114,1373.9,63905.25,145.95,0.195
+Maize,2016,Kharif     ,Himachal Pradesh,262595.0,483441,1373.9,40242683.75,91908.25,2.094166667
+Masoor,2016,Rabi       ,Himachal Pradesh,486.0,150,1373.9,74479.5,170.1,0.475555556
+Moong(Green Gram),2016,Kharif     ,Himachal Pradesh,71.0,25,1373.9,10880.75,24.85,0.282857143
+Moth,2016,Kharif     ,Himachal Pradesh,15.0,4,1373.9,2298.75,5.25,0.176666667
+Other Kharif pulses,2016,Kharif     ,Himachal Pradesh,1727.0,495,1373.9,264662.75,604.45,0.35
+Peas & beans (Pulses),2016,Kharif     ,Himachal Pradesh,612.0,914,1373.9,93789.0,214.2,1.316666667
+Peas & beans (Pulses),2016,Rabi       ,Himachal Pradesh,7156.0,10189,1373.9,1096657.0,2504.6,1.144545455
+Potato,2016,Kharif     ,Himachal Pradesh,6448.0,64460,1373.9,988156.0,2256.8,11.604
+Potato,2016,Rabi       ,Himachal Pradesh,3407.0,23691,1373.9,522122.75,1192.45,4.691
+Ragi,2016,Kharif     ,Himachal Pradesh,1867.0,1958,1373.9,286117.75,653.45,0.852857143
+Rapeseed &Mustard,2016,Rabi       ,Himachal Pradesh,7129.0,1692,1373.9,1092519.25,2495.15,0.3
+Rice,2016,Kharif     ,Himachal Pradesh,70855.0,103557,1373.9,10858528.75,24799.25,1.559090909
+Sannhamp,2016,Kharif     ,Himachal Pradesh,5.0,1,1373.9,766.25,1.75,0.125
+Sesamum,2016,Kharif     ,Himachal Pradesh,2715.0,861,1373.9,416073.75,950.25,0.322222222
+Small millets,2016,Kharif     ,Himachal Pradesh,5045.0,3656,1373.9,773146.25,1765.75,0.74
+Soyabean,2016,Kharif     ,Himachal Pradesh,512.0,915,1373.9,78464.0,179.2,1.522857143
+Sugarcane,2016,Whole Year ,Himachal Pradesh,1953.0,47999,1373.9,299297.25,683.55,17.29142857
+Turmeric,2016,Kharif     ,Himachal Pradesh,136.0,81,1373.9,20842.0,47.6,0.59875
+Urad,2016,Kharif     ,Himachal Pradesh,9124.0,3682,1373.9,1398253.0,3193.4,0.528181818
+Wheat,2016,Rabi       ,Himachal Pradesh,325910.0,331303,1373.9,49945707.5,114068.5,1.0275
+Arhar/Tur,2017,Kharif     ,Himachal Pradesh,45.0,23,1182.2,7084.8,17.1,0.5
+Bajra,2017,Kharif     ,Himachal Pradesh,79.0,58,1182.2,12437.76,30.02,0.718
+Barley,2017,Rabi       ,Himachal Pradesh,19160.0,33878,1182.2,3016550.4,7280.8,1.69
+Coriander,2017,Rabi       ,Himachal Pradesh,104.0,14,1182.2,16373.76,39.52,0.207142857
+Garlic,2017,Rabi       ,Himachal Pradesh,3342.0,1275,1182.2,526164.48,1269.96,0.584444444
+Gram,2017,Rabi       ,Himachal Pradesh,358.0,373,1182.2,56363.52,136.04,1.027777778
+Groundnut,2017,Kharif     ,Himachal Pradesh,36.0,37,1182.2,5667.84,13.68,0.9275
+Horse-gram,2017,Kharif     ,Himachal Pradesh,1614.0,938,1182.2,254108.16,613.32,0.561
+Linseed,2017,Rabi       ,Himachal Pradesh,803.0,240,1182.2,126424.32,305.14,0.295
+Maize,2017,Kharif     ,Himachal Pradesh,280811.0,711114,1182.2,44210883.84,106708.18,2.886666667
+Masoor,2017,Rabi       ,Himachal Pradesh,441.0,386,1182.2,69431.04,167.58,0.848888889
+Moong(Green Gram),2017,Kharif     ,Himachal Pradesh,130.0,92,1182.2,20467.2,49.4,0.725714286
+Moth,2017,Kharif     ,Himachal Pradesh,17.0,11,1182.2,2676.48,6.46,0.58
+Onion,2017,Rabi       ,Himachal Pradesh,594.0,3732,1182.2,93519.36,225.72,6.06
+Other  Rabi pulses,2017,Rabi       ,Himachal Pradesh,10078.0,40096,1182.2,1586680.32,3829.64,3.981666667
+Other Kharif pulses,2017,Kharif     ,Himachal Pradesh,6504.0,5974,1182.2,1023989.76,2471.52,0.928333333
+Peas & beans (Pulses),2017,Rabi       ,Himachal Pradesh,2353.0,4853,1182.2,370456.32,894.14,2.057272727
+Potato,2017,Kharif     ,Himachal Pradesh,6458.0,63460,1182.2,1016747.52,2454.04,10.488
+Potato,2017,Rabi       ,Himachal Pradesh,3413.0,24219,1182.2,537342.72,1296.94,5.426
+Ragi,2017,Kharif     ,Himachal Pradesh,1817.0,1918,1182.2,286068.48,690.46,0.924285714
+Rapeseed &Mustard,2017,Rabi       ,Himachal Pradesh,8326.0,4542,1182.2,1310845.44,3163.88,0.51
+Rice,2017,Kharif     ,Himachal Pradesh,71613.0,114785,1182.2,11274750.72,27212.94,1.618181818
+Sesamum,2017,Kharif     ,Himachal Pradesh,127.0,58,1182.2,19994.88,48.26,0.447777778
+Small millets,2017,Kharif     ,Himachal Pradesh,4098.0,3306,1182.2,645189.12,1557.24,0.825714286
+Soyabean,2017,Kharif     ,Himachal Pradesh,554.0,929,1182.2,87221.76,210.52,1.684285714
+Sugarcane,2017,Whole Year ,Himachal Pradesh,1874.0,36730,1182.2,295042.56,712.12,17.11714286
+Turmeric,2017,Kharif     ,Himachal Pradesh,136.0,85,1182.2,21411.84,51.68,0.66375
+Urad,2017,Kharif     ,Himachal Pradesh,6922.0,4616,1182.2,1089799.68,2630.36,0.729090909
+Wheat,2017,Rabi       ,Himachal Pradesh,342675.0,603587,1182.2,53950752.0,130216.5,1.608333333
+Arhar/Tur,2018,Kharif     ,Himachal Pradesh,49.0,25,1052.2,7947.8,17.15,0.486666667
+Bajra,2018,Kharif     ,Himachal Pradesh,88.0,65,1052.2,14273.6,30.8,0.631666667
+Barley,2018,Rabi       ,Himachal Pradesh,20356.0,36030,1052.2,3301743.2,7124.6,1.78
+Coriander,2018,Rabi       ,Himachal Pradesh,128.0,28,1052.2,20761.6,44.8,0.33
+Cotton(lint),2018,Kharif     ,Himachal Pradesh,25.0,9,1052.2,4055.0,8.75,0.36
+Dry chillies,2018,Kharif     ,Himachal Pradesh,578.0,199,1052.2,93751.6,202.3,0.313
+Garlic,2018,Rabi       ,Himachal Pradesh,3596.0,1421,1052.2,583271.2,1258.6,0.559
+Ginger,2018,Kharif     ,Himachal Pradesh,2223.0,8940,1052.2,360570.6,778.05,3.759
+Gram,2018,Rabi       ,Himachal Pradesh,384.0,399,1052.2,62284.8,134.4,1.014444444
+Groundnut,2018,Kharif     ,Himachal Pradesh,42.0,43,1052.2,6812.4,14.7,0.9475
+Horse-gram,2018,Kharif     ,Himachal Pradesh,1618.0,938,1052.2,262439.6,566.3,0.549
+Linseed,2018,Rabi       ,Himachal Pradesh,811.0,243,1052.2,131544.2,283.85,0.295
+Maize,2018,Kharif     ,Himachal Pradesh,286780.0,725553,1052.2,46515716.0,100373.0,2.600833333
+Masoor,2018,Rabi       ,Himachal Pradesh,484.0,426,1052.2,78504.8,169.4,0.837777778
+Moong(Green Gram),2018,Kharif     ,Himachal Pradesh,108.0,77,1052.2,17517.6,37.8,0.714285714
+Moth,2018,Kharif     ,Himachal Pradesh,16.0,10,1052.2,2595.2,5.6,0.59
+Onion,2018,Rabi       ,Himachal Pradesh,640.0,4015,1052.2,103808.0,224.0,6.001
+Other  Rabi pulses,2018,Rabi       ,Himachal Pradesh,9078.0,36130,1052.2,1472451.6,3177.3,3.981666667
+Other Kharif pulses,2018,Kharif     ,Himachal Pradesh,6568.0,6043,1052.2,1065329.6,2298.8,0.925714286
+Peas & beans (Pulses),2018,Rabi       ,Himachal Pradesh,2550.0,5253,1052.2,413610.0,892.5,2.054545455
+Potato,2018,Kharif     ,Himachal Pradesh,2900.0,21312,1052.2,470380.0,1015.0,5.96875
+Potato,2018,Rabi       ,Himachal Pradesh,7029.0,72777,1052.2,1140103.8,2460.15,9.303333333
+Ragi,2018,Kharif     ,Himachal Pradesh,1720.0,1823,1052.2,278984.0,602.0,0.9075
+Rapeseed &Mustard,2018,Rabi       ,Himachal Pradesh,8533.0,4693,1052.2,1384052.6,2986.55,0.501818182
+Rice,2018,Kharif     ,Himachal Pradesh,71810.0,114896,1052.2,11647582.0,25133.5,1.623636364
+Sannhamp,2018,Kharif     ,Himachal Pradesh,8.0,3,1052.2,1297.6,2.8,0.25
+Sesamum,2018,Kharif     ,Himachal Pradesh,327.0,147,1052.2,53039.4,114.45,0.442222222
+Small millets,2018,Kharif     ,Himachal Pradesh,5012.0,4060,1052.2,812946.4,1754.2,0.7925
+Soyabean,2018,Kharif     ,Himachal Pradesh,554.0,931,1052.2,89858.8,193.9,1.59625
+Sugarcane,2018,Whole Year ,Himachal Pradesh,1585.0,38538,1052.2,257087.0,554.75,17.335
+Turmeric,2018,Kharif     ,Himachal Pradesh,274.0,170,1052.2,44442.8,95.9,0.688888889
+Urad,2018,Kharif     ,Himachal Pradesh,7001.0,4699,1052.2,1135562.2,2450.35,0.732727273
+Wheat,2018,Rabi       ,Himachal Pradesh,319002.0,564634,1052.2,51742124.4,111650.7,1.594166667
+Arhar/Tur,2019,Kharif     ,Himachal Pradesh,77.0,50,1217.7,13225.52,28.49,0.69
+Bajra,2019,Kharif     ,Himachal Pradesh,107.0,109,1217.7,18378.32,39.59,1.005
+Barley,2019,Rabi       ,Himachal Pradesh,20404.0,35413,1217.7,3504591.04,7549.48,1.748181818
+Coriander,2019,Rabi       ,Himachal Pradesh,130.0,66,1217.7,22328.8,48.1,0.575
+Cotton(lint),2019,Kharif     ,Himachal Pradesh,15.0,7,1217.7,2576.4,5.55,0.47
+Dry chillies,2019,Kharif     ,Himachal Pradesh,583.0,276,1217.7,100136.08,215.71,0.484
+Garlic,2019,Rabi       ,Himachal Pradesh,3943.0,2575,1217.7,677249.68,1458.91,0.672
+Ginger,2019,Kharif     ,Himachal Pradesh,2264.0,10675,1217.7,388864.64,837.68,3.946666667
+Gram,2019,Rabi       ,Himachal Pradesh,394.0,421,1217.7,67673.44,145.78,1.052222222
+Groundnut,2019,Kharif     ,Himachal Pradesh,44.0,51,1217.7,7557.44,16.28,1.0825
+Horse-gram,2019,Kharif     ,Himachal Pradesh,1633.0,1022,1217.7,280484.08,604.21,0.613
+Linseed,2019,Rabi       ,Himachal Pradesh,820.0,342,1217.7,140843.2,303.4,0.415
+Maize,2019,Kharif     ,Himachal Pradesh,287444.0,744603,1217.7,49371381.44,106354.28,2.630833333
+Masoor,2019,Rabi       ,Himachal Pradesh,490.0,454,1217.7,84162.4,181.3,0.908888889
+Moong(Green Gram),2019,Kharif     ,Himachal Pradesh,117.0,90,1217.7,20095.92,43.29,0.74875
+Moth,2019,Kharif     ,Himachal Pradesh,28.0,22,1217.7,4809.28,10.36,0.755
+Onion,2019,Rabi       ,Himachal Pradesh,952.0,7050,1217.7,163515.52,352.24,7.29
+Other  Rabi pulses,2019,Rabi       ,Himachal Pradesh,9080.0,36316,1217.7,1559580.8,3359.6,4.0
+Other Kharif pulses,2019,Kharif     ,Himachal Pradesh,6996.0,6541,1217.7,1201632.96,2588.52,0.925
+Peas & beans (Pulses),2019,Rabi       ,Himachal Pradesh,2565.0,5167,1217.7,440564.4,949.05,2.062727273
+Potato,2019,Kharif     ,Himachal Pradesh,2970.0,24480,1217.7,510127.2,1098.9,7.22375
+Potato,2019,Rabi       ,Himachal Pradesh,7156.0,84443,1217.7,1229114.56,2647.72,10.83
+Ragi,2019,Kharif     ,Himachal Pradesh,1757.0,2060,1217.7,301782.32,650.09,1.0725
+Rapeseed &Mustard,2019,Rabi       ,Himachal Pradesh,8605.0,4911,1217.7,1477994.8,3183.85,0.535454545
+Rice,2019,Kharif     ,Himachal Pradesh,72620.0,116879,1217.7,12473211.2,26869.4,1.656363636
+Sesamum,2019,Kharif     ,Himachal Pradesh,379.0,191,1217.7,65097.04,140.23,0.481111111
+Small millets,2019,Kharif     ,Himachal Pradesh,5214.0,4802,1217.7,895556.64,1929.18,0.865833333
+Soyabean,2019,Kharif     ,Himachal Pradesh,556.0,949,1217.7,95498.56,205.72,1.63125
+Sugarcane,2019,Whole Year ,Himachal Pradesh,1603.0,36143,1217.7,275331.28,593.11,16.91166667
+Turmeric,2019,Kharif     ,Himachal Pradesh,285.0,197,1217.7,48951.6,105.45,0.747777778
+Urad,2019,Kharif     ,Himachal Pradesh,7017.0,5155,1217.7,1205239.92,2596.29,0.777272727
+Wheat,2019,Rabi       ,Himachal Pradesh,319098.0,619689,1217.7,54808272.48,118066.26,1.7575
+Bajra,2003,Kharif     ,Himachal Pradesh,312.0,173,1112.6,30881.76,74.88,0.56
+Barley,2003,Rabi       ,Himachal Pradesh,24324.0,25393,1112.6,2407589.52,5837.76,1.142727273
+Ginger,2003,Kharif     ,Himachal Pradesh,2044.0,14658,1112.6,202315.12,490.56,6.75
+Maize,2003,Kharif     ,Himachal Pradesh,298467.0,729571,1112.6,29542263.66,71632.08,2.503333333
+Potato,2003,Whole Year ,Himachal Pradesh,15036.0,173169,1112.6,1488263.28,3608.64,11.48666667
+Rice,2003,Kharif     ,Himachal Pradesh,81335.0,120624,1112.6,8050538.3,19520.4,1.469090909
+Wheat,2003,Rabi       ,Himachal Pradesh,365359.0,496930,1112.6,36163233.82,87686.16,1.3625
+Bajra,2004,Kharif     ,Himachal Pradesh,281.0,150,939.2,30443.54,59.01,0.652
+Barley,2004,Rabi       ,Himachal Pradesh,24427.0,33713,939.2,2646421.18,5129.67,1.432727273
+Ginger,2004,Kharif     ,Himachal Pradesh,2043.0,14567,939.2,221338.62,429.03,7.264285714
+Maize,2004,Kharif     ,Himachal Pradesh,297887.0,636294,939.2,32273077.58,62556.27,2.1625
+Potato,2004,Whole Year ,Himachal Pradesh,14808.0,147874,939.2,1604298.72,3109.68,10.27166667
+Rice,2004,Kharif     ,Himachal Pradesh,79519.0,109129,939.2,8615088.46,16698.99,1.454545455
+Wheat,2004,Rabi       ,Himachal Pradesh,367770.0,687452,939.2,39844201.8,77231.7,1.843333333

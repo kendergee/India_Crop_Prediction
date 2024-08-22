@@ -1,0 +1,6 @@
+crop_model_polynomial_reg.py
+crop_model_Random_Forest.py
+crop_model_SVR.py
+crop_model_template.py
+grouped_crop_yield.csv
+India_crop_XGBoost.py

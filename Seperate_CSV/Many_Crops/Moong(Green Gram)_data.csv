@@ -1,0 +1,741 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Moong(Green Gram),1997,Kharif     ,West Bengal,1490.0,711,1852.9,141803.3,461.9,0.548888889
+Moong(Green Gram),1997,Rabi       ,West Bengal,3269.0,1710,1852.9,311110.73,1013.39,0.542857143
+Moong(Green Gram),1997,Summer     ,West Bengal,9959.0,303,1852.9,947798.03,3087.29,0.046
+Moong(Green Gram),1998,Kharif     ,Karnataka,311720.0,61227,1260.8,30797936.0,90398.8,0.180769231
+Moong(Green Gram),1998,Rabi       ,Karnataka,15627.0,7005,1260.8,1543947.6,4531.83,0.438823529
+Moong(Green Gram),1998,Kharif     ,West Bengal,822.0,429,2152.5,81213.6,238.38,0.5075
+Moong(Green Gram),1998,Rabi       ,West Bengal,2729.0,1598,2152.5,269625.2,791.41,0.61
+Moong(Green Gram),1998,Summer     ,West Bengal,9320.0,2980,2152.5,920816.0,2702.8,0.312857143
+Moong(Green Gram),1999,Rabi       ,Puducherry,2453.0,1321,1434.5875,260336.89,662.31,0.553333333
+Moong(Green Gram),1999,Kharif     ,West Bengal,578.0,293,2318.1,61343.14,156.06,0.5325
+Moong(Green Gram),1999,Rabi       ,West Bengal,2375.0,1465,2318.1,252058.75,641.25,0.615
+Moong(Green Gram),1999,Summer     ,West Bengal,7947.0,3942,2318.1,843415.11,2145.69,0.850625
+Moong(Green Gram),2000,Kharif     ,Andhra Pradesh,392017.0,141194,935.6,38484308.89,101924.42,0.404090909
+Moong(Green Gram),2000,Rabi       ,Andhra Pradesh,128365.0,43016,935.6,12601592.05,33374.9,0.371578947
+Moong(Green Gram),2000,Kharif     ,Karnataka,435355.0,180709,1213.3,42738800.35,113192.3,0.419130435
+Moong(Green Gram),2000,Rabi       ,Karnataka,15474.0,4147,1213.3,1519082.58,4023.24,0.26875
+Moong(Green Gram),2000,Kharif     ,Puducherry,2480.0,1400,1434.5875,243461.6,644.8,0.586666667
+Moong(Green Gram),2000,Rabi       ,Puducherry,2480.0,1400,1434.5875,243461.6,644.8,0.586666667
+Moong(Green Gram),2000,Kharif     ,West Bengal,635.0,308,1907.7,62337.95,165.1,0.498571429
+Moong(Green Gram),2000,Rabi       ,West Bengal,2410.0,1402,1907.7,236589.7,626.6,0.583636364
+Moong(Green Gram),2000,Summer     ,West Bengal,8197.0,4809,1907.7,804699.49,2131.22,0.544666667
+Moong(Green Gram),2001,Kharif     ,Andhra Pradesh,338337.0,113312,928.4,34554357.81,87967.62,0.408636364
+Moong(Green Gram),2001,Rabi       ,Andhra Pradesh,137698.0,42031,928.4,14063096.74,35801.48,0.351
+Moong(Green Gram),2001,Rabi       ,Assam,8206.0,3740,1824.7,838078.78,2133.56,0.44173913
+Moong(Green Gram),2001,Kharif     ,Karnataka,251332.0,65336,1002.9,25668537.16,65346.32,0.31826087
+Moong(Green Gram),2001,Rabi       ,Karnataka,7111.0,2090,1002.9,726246.43,1848.86,0.282941176
+Moong(Green Gram),2001,Rabi       ,Puducherry,544.0,105,1434.5875,55558.72,141.44,0.236666667
+Moong(Green Gram),2001,Kharif     ,West Bengal,619.0,311,1556.6,63218.47,160.94,0.556666667
+Moong(Green Gram),2001,Rabi       ,West Bengal,1814.0,998,1556.6,185263.82,471.64,0.569
+Moong(Green Gram),2001,Summer     ,West Bengal,8468.0,4733,1556.6,864836.84,2201.68,0.549444444
+Moong(Green Gram),2002,Kharif     ,Andhra Pradesh,355292.0,87862,648.1,33635493.64,88823.0,0.217272727
+Moong(Green Gram),2002,Rabi       ,Andhra Pradesh,118162.0,30110,648.1,11186396.54,29540.5,0.291
+Moong(Green Gram),2002,Rabi       ,Assam,7161.0,3286,1973.6,677931.87,1790.25,0.450434783
+Moong(Green Gram),2002,Kharif     ,Tamil Nadu,112812.0,48053,315.9,10679912.04,28203.0,0.411851852
+Moong(Green Gram),2002,Kharif     ,West Bengal,556.0,268,1629.1,52636.52,139.0,0.532857143
+Moong(Green Gram),2002,Rabi       ,West Bengal,1601.0,942,1629.1,151566.67,400.25,0.58
+Moong(Green Gram),2002,Summer     ,West Bengal,7615.0,3840,1629.1,720912.05,1903.75,0.596875
+Moong(Green Gram),2003,Kharif     ,Andhra Pradesh,478726.0,244136,826.0,47384299.48,114894.24,0.495
+Moong(Green Gram),2003,Rabi       ,Andhra Pradesh,201785.0,68268,826.0,19972679.3,48428.4,0.353
+Moong(Green Gram),2003,Rabi       ,Assam,7595.0,3513,2213.7,751753.1,1822.8,0.443913043
+Moong(Green Gram),2003,Kharif     ,Karnataka,264392.0,39470,867.6,26169520.16,63454.08,0.097727273
+Moong(Green Gram),2003,Rabi       ,Karnataka,8380.0,2451,867.6,829452.4,2011.2,0.290666667
+Moong(Green Gram),2003,Rabi       ,Puducherry,1299.0,388,1434.5875,128575.02,311.76,0.483333333
+Moong(Green Gram),2003,Kharif     ,Tamil Nadu,125690.0,53315,345.6,12440796.2,30165.6,0.407037037
+Moong(Green Gram),2003,Kharif     ,West Bengal,835.0,431,1526.7,82648.3,200.4,0.61
+Moong(Green Gram),2003,Rabi       ,West Bengal,1470.0,960,1526.7,145500.6,352.8,0.597692308
+Moong(Green Gram),2003,Summer     ,West Bengal,8823.0,3400,1526.7,873300.54,2117.52,0.428666667
+Moong(Green Gram),2004,Kharif     ,Karnataka,517592.0,81212,1117.7,56075917.28,108694.32,0.170833333
+Moong(Green Gram),2004,Rabi       ,Karnataka,5792.0,1412,1117.7,627505.28,1216.32,0.239411765
+Moong(Green Gram),2004,Kharif     ,Tamil Nadu,154959.0,61760,1034.0,16788258.06,32541.39,0.417777778
+Moong(Green Gram),2005,Kharif     ,Andhra Pradesh,251959.0,122697,1075.5,30214923.28,52911.39,0.582272727
+Moong(Green Gram),2005,Rabi       ,Andhra Pradesh,132963.0,42623,1075.5,15944922.96,27922.23,0.448333333
+Moong(Green Gram),2005,Rabi       ,Assam,7512.0,3428,2184.6,900839.04,1577.52,0.44037037
+Moong(Green Gram),2005,Kharif     ,Karnataka,393240.0,96325,1316.2,47157340.8,82580.4,0.242173913
+Moong(Green Gram),2005,Rabi       ,Karnataka,7658.0,2255,1316.2,918347.36,1608.18,0.29125
+Moong(Green Gram),2005,Kharif     ,Tamil Nadu,136699.0,45881,1364.1,16392944.08,28706.79,0.383571429
+Moong(Green Gram),2005,Kharif     ,West Bengal,725.0,365,1650.1,86942.0,152.25,0.565
+Moong(Green Gram),2005,Rabi       ,West Bengal,1411.0,931,1650.1,169207.12,296.31,0.648
+Moong(Green Gram),2005,Summer     ,West Bengal,9364.0,3258,1650.1,1122930.88,1966.44,0.35125
+Moong(Green Gram),2006,Kharif     ,Andhra Pradesh,246320.0,80062,845.2,31457527.2,54190.4,0.312727273
+Moong(Green Gram),2006,Rabi       ,Andhra Pradesh,147594.0,63534,845.2,18849229.74,32470.68,0.597142857
+Moong(Green Gram),2006,Rabi       ,Assam,7374.0,3395,1774.9,941733.54,1622.28,0.444074074
+Moong(Green Gram),2006,Kharif     ,Karnataka,440724.0,50943,1146.3,56284862.04,96959.28,0.158695652
+Moong(Green Gram),2006,Rabi       ,Karnataka,9041.0,2729,1146.3,1154626.11,1989.02,0.29375
+Moong(Green Gram),2006,Whole Year ,Tamil Nadu,134071.0,77404,927.9,17122207.41,29495.62,0.588214286
+Moong(Green Gram),2006,Kharif     ,West Bengal,874.0,325,1631.4,111618.54,192.28,0.4475
+Moong(Green Gram),2006,Rabi       ,West Bengal,1238.0,801,1631.4,158104.98,272.36,0.60375
+Moong(Green Gram),2006,Summer     ,West Bengal,10532.0,3934,1631.4,1345041.72,2317.04,0.403125
+Moong(Green Gram),2007,Summer     ,Puducherry,2183.0,272,1434.5875,291212.2,349.28,0.406666667
+Moong(Green Gram),2007,Rabi       ,Assam,7719.0,3550,2154.1,1029714.6,1235.04,0.43962963
+Moong(Green Gram),2007,Kharif     ,Karnataka,520630.0,117008,1323.3,69452042.0,83300.8,0.217391304
+Moong(Green Gram),2007,Rabi       ,Karnataka,9402.0,3069,1323.3,1254226.8,1504.32,0.344666667
+Moong(Green Gram),2007,Whole Year ,Tamil Nadu,158691.0,46213,1067.2,21169379.4,25390.56,0.414285714
+Moong(Green Gram),2007,Kharif     ,West Bengal,536.0,287,2007.5,71502.4,85.76,0.58
+Moong(Green Gram),2007,Rabi       ,West Bengal,1677.0,1090,2007.5,223711.8,268.32,0.697
+Moong(Green Gram),2007,Summer     ,West Bengal,14253.0,10041,2007.5,1901350.2,2280.48,0.783125
+Moong(Green Gram),2008,Rabi       ,Puducherry,5.0,3,1434.5875,715.2,0.45,0.6
+Moong(Green Gram),2008,Summer     ,Puducherry,1220.0,233,1434.5875,174508.8,109.8,0.37
+Moong(Green Gram),2008,Kharif     ,Andhra Pradesh,206857.0,91928,944.6,29588825.28,18617.13,0.436818182
+Moong(Green Gram),2008,Rabi       ,Andhra Pradesh,112694.0,44272,944.6,16119749.76,10142.46,0.582631579
+Moong(Green Gram),2008,Rabi       ,Assam,5634.0,2586,2109.9,805887.36,507.06,0.43962963
+Moong(Green Gram),2008,Kharif     ,Karnataka,266386.0,36587,1164.1,38103853.44,23974.74,0.141304348
+Moong(Green Gram),2008,Rabi       ,Karnataka,8293.0,2120,1164.1,1186230.72,746.37,0.267857143
+Moong(Green Gram),2008,Whole Year ,Tamil Nadu,138598.0,31336,1201.9,19825057.92,12473.82,0.336333333
+Moong(Green Gram),2008,Kharif     ,West Bengal,1079.0,989,1560.1,154340.16,97.11,0.681428571
+Moong(Green Gram),2008,Rabi       ,West Bengal,1570.0,1016,1560.1,224572.8,141.3,0.628181818
+Moong(Green Gram),2008,Summer     ,West Bengal,12168.0,6091,1560.1,1740510.72,1095.12,0.75
+Moong(Green Gram),2009,Rabi       ,Puducherry,4.0,2,1434.5875,623.28,0.68,0.5
+Moong(Green Gram),2009,Summer     ,Puducherry,1060.0,92,1434.5875,165169.2,180.2,0.346666667
+Moong(Green Gram),2009,Kharif     ,Andhra Pradesh,205281.0,21104,711.0,31986885.42,34897.77,0.167727273
+Moong(Green Gram),2009,Rabi       ,Andhra Pradesh,101342.0,41502,711.0,15791110.44,17228.14,0.475
+Moong(Green Gram),2009,Rabi       ,Assam,7519.0,3439,1727.1,1171610.58,1278.23,0.447037037
+Moong(Green Gram),2009,Kharif     ,Karnataka,370345.0,45514,1321.0,57707157.9,62958.65,0.199565217
+Moong(Green Gram),2009,Rabi       ,Karnataka,8958.0,2349,1321.0,1395835.56,1522.86,0.28
+Moong(Green Gram),2009,Whole Year ,Tamil Nadu,138138.0,47673,928.5,21524663.16,23483.46,0.410322581
+Moong(Green Gram),2010,Kharif     ,Puducherry,1.0,1,1434.5875,166.11,0.24,1.0
+Moong(Green Gram),2010,Rabi       ,Puducherry,15.0,9,1434.5875,2491.65,3.6,0.77
+Moong(Green Gram),2010,Summer     ,Puducherry,1477.0,691,1434.5875,245344.47,354.48,0.613333333
+Moong(Green Gram),2010,Rabi       ,Assam,9022.0,4243,2578.5,1498644.42,2165.28,0.451851852
+Moong(Green Gram),2010,Kharif     ,Andhra Pradesh,261106.0,121685,1297.0,43372317.66,62665.44,0.355
+Moong(Green Gram),2010,Rabi       ,Andhra Pradesh,116941.0,44241,1297.0,19425069.51,28065.84,0.463
+Moong(Green Gram),2010,Kharif     ,Karnataka,390821.0,107597,1317.7,64919276.31,93797.04,0.284166667
+Moong(Green Gram),2010,Rabi       ,Karnataka,10263.0,2702,1317.7,1704786.93,2463.12,0.262
+Moong(Green Gram),2011,Kharif     ,Puducherry,1.0,1,1434.5875,167.52,0.33,1.0
+Moong(Green Gram),2011,Rabi       ,Puducherry,3.0,1,1434.5875,502.56,0.99,0.25
+Moong(Green Gram),2011,Summer     ,Puducherry,1310.0,481,1434.5875,219451.2,432.3,0.495
+Moong(Green Gram),2011,Rabi       ,Assam,11512.0,6347,1743.4,1928490.24,3798.96,0.524074074
+Moong(Green Gram),2011,Kharif     ,Andhra Pradesh,152088.0,82507,861.9,25477781.76,50189.04,0.537727273
+Moong(Green Gram),2011,Rabi       ,Andhra Pradesh,131376.0,79912,861.9,22008107.52,43354.08,0.6295
+Moong(Green Gram),2011,Kharif     ,Karnataka,283536.0,72069,1178.986364,47497950.72,93566.88,0.259166667
+Moong(Green Gram),2011,Rabi       ,Karnataka,8723.0,2915,1178.986364,1461276.96,2878.59,0.337647059
+Moong(Green Gram),2011,Whole Year ,Tamil Nadu,164069.0,85118,926.5,27484838.88,54142.77,0.600344828
+Moong(Green Gram),2012,Kharif     ,Andhra Pradesh,151000.0,107000,968.7,22770800.0,46810.0,0.554736842
+Moong(Green Gram),2012,Rabi       ,Andhra Pradesh,127000.0,87000,968.7,19151600.0,39370.0,0.768666667
+Moong(Green Gram),2012,Rabi       ,Assam,10052.0,5953,2167.5,1515841.6,3116.12,0.565185185
+Moong(Green Gram),2012,Kharif     ,Karnataka,169271.0,51289,956.2,25526066.8,52474.01,0.200833333
+Moong(Green Gram),2012,Rabi       ,Karnataka,4868.0,1140,956.2,734094.4,1509.08,0.211818182
+Moong(Green Gram),2012,Whole Year ,Kerala,101.0,0,2187.6,15230.8,31.31,0.0
+Moong(Green Gram),2013,Kharif     ,Andhra Pradesh,17490.0,8956,1062.3,2527130.1,4722.3,0.627692308
+Moong(Green Gram),2013,Rabi       ,Andhra Pradesh,116216.0,72653,1062.3,16792049.84,31378.32,0.670769231
+Moong(Green Gram),2013,Rabi       ,Assam,12184.0,7807,1797.7,1760466.16,3289.68,0.621851852
+Moong(Green Gram),2013,Kharif     ,Karnataka,313563.0,79305,1235.6,45306717.87,84662.01,0.249583333
+Moong(Green Gram),2013,Rabi       ,Karnataka,6145.0,1551,1235.6,887891.05,1659.15,0.240666667
+Moong(Green Gram),2013,Whole Year ,Kerala,121.0,0,3255.4,17483.29,32.67,0.0
+Moong(Green Gram),2013,Kharif     ,Tamil Nadu,25034.0,14083,740.9,3617162.66,6759.18,0.572307692
+Moong(Green Gram),2013,Rabi       ,Tamil Nadu,170251.0,137317,740.9,24599566.99,45967.77,0.774074074
+Moong(Green Gram),2014,Kharif     ,Andhra Pradesh,11408.0,10461,687.6,1722151.68,3764.64,0.807692308
+Moong(Green Gram),2014,Rabi       ,Andhra Pradesh,160036.0,131294,687.6,24159034.56,52811.88,0.767692308
+Moong(Green Gram),2014,Rabi       ,Assam,11285.0,7757,1899.0,1703583.6,3724.05,0.640740741
+Moong(Green Gram),2014,Kharif     ,Karnataka,257166.0,50500,1238.5,38821779.36,84864.78,0.192916667
+Moong(Green Gram),2014,Rabi       ,Karnataka,6230.0,2049,1238.5,940480.8,2055.9,0.336153846
+Moong(Green Gram),2014,Whole Year ,Kerala,163.0,0,3046.4,24606.48,53.79,0.0
+Moong(Green Gram),2014,Kharif     ,Tamil Nadu,28296.0,17906,911.3,4271564.16,9337.68,0.633076923
+Moong(Green Gram),2014,Rabi       ,Tamil Nadu,201265.0,162820,911.3,30382964.4,66417.45,0.821
+Moong(Green Gram),2015,Kharif     ,Andhra Pradesh,51600.0,18197,940.7,8148156.0,17028.0,0.550769231
+Moong(Green Gram),2015,Rabi       ,Andhra Pradesh,159540.0,118722,940.7,25192961.4,52648.2,0.734615385
+Moong(Green Gram),2015,Rabi       ,Puducherry,9.0,10,1980.6,1421.19,2.97,1.11
+Moong(Green Gram),2015,Summer     ,Puducherry,1039.0,330,1980.6,164068.49,342.87,0.59
+Moong(Green Gram),2015,Rabi       ,Assam,10798.0,7310,2155.3,1705112.18,3563.34,0.648888889
+Moong(Green Gram),2015,Kharif     ,Karnataka,340527.0,40983,1024.9,53772618.57,112373.91,0.150416667
+Moong(Green Gram),2015,Rabi       ,Karnataka,4972.0,1504,1024.9,785128.52,1640.76,0.292727273
+Moong(Green Gram),2015,Summer     ,Karnataka,2939.0,929,1024.9,464097.49,969.87,0.285
+Moong(Green Gram),2015,Kharif     ,Tamil Nadu,34470.0,27328,1201.9,5443157.7,11375.1,0.789285714
+Moong(Green Gram),2015,Rabi       ,Tamil Nadu,204372.0,106918,1201.9,32272382.52,67442.76,0.577037037
+Moong(Green Gram),2016,Kharif     ,Andhra Pradesh,32294.0,16742,890.0,4949055.5,11302.9,0.606923077
+Moong(Green Gram),2016,Rabi       ,Andhra Pradesh,102067.0,49549,890.0,15641767.75,35723.45,0.458461538
+Moong(Green Gram),2016,Rabi       ,Puducherry,8.0,5,1391.3,1226.0,2.8,0.75
+Moong(Green Gram),2016,Summer     ,Puducherry,750.0,91,1391.3,114937.5,262.5,0.433333333
+Moong(Green Gram),2016,Rabi       ,Assam,10724.0,7435,2296.8,1643453.0,3753.4,0.651851852
+Moong(Green Gram),2016,Kharif     ,Karnataka,415582.0,115532,1147.2,63687941.5,145453.7,0.2375
+Moong(Green Gram),2016,Rabi       ,Karnataka,3959.0,354,1147.2,606716.75,1385.65,0.077
+Moong(Green Gram),2016,Summer     ,Karnataka,678.0,188,1147.2,103903.5,237.3,0.267777778
+Moong(Green Gram),2016,Kharif     ,Tamil Nadu,28751.0,23234,912.4,4406090.75,10062.85,0.764230769
+Moong(Green Gram),2016,Rabi       ,Tamil Nadu,137223.0,32853,912.4,21029424.75,48028.05,0.224285714
+Moong(Green Gram),2017,Kharif     ,Andhra Pradesh,18008.0,10705,868.2,2835179.52,6843.04,0.625384615
+Moong(Green Gram),2017,Rabi       ,Andhra Pradesh,121311.0,81419,868.2,19099203.84,46098.18,0.693076923
+Moong(Green Gram),2017,Rabi       ,Puducherry,3.0,3,1582.4,472.32,1.14,1.0
+Moong(Green Gram),2017,Summer     ,Puducherry,636.0,151,1582.4,100131.84,241.68,0.513333333
+Moong(Green Gram),2017,Rabi       ,Assam,11410.0,8046,2098.563636,1796390.4,4335.8,0.658518519
+Moong(Green Gram),2017,Kharif     ,Karnataka,391710.0,127396,1111.7,61670822.4,148849.8,0.264090909
+Moong(Green Gram),2017,Rabi       ,Karnataka,4122.0,687,1111.7,648967.68,1566.36,0.18625
+Moong(Green Gram),2017,Summer     ,Karnataka,743.0,205,1111.7,116977.92,282.34,0.283333333
+Moong(Green Gram),2017,Kharif     ,Tamil Nadu,29447.0,17926,970.9,4636135.68,11189.86,0.642142857
+Moong(Green Gram),2017,Rabi       ,Tamil Nadu,151140.0,60333,970.9,23795481.6,57433.2,0.446296296
+Moong(Green Gram),2018,Kharif     ,Andhra Pradesh,17874.0,5247,1220.5,2899162.8,6255.9,0.608461538
+Moong(Green Gram),2018,Rabi       ,Andhra Pradesh,103081.0,79502,1220.5,16719738.2,36078.35,0.678461538
+Moong(Green Gram),2018,Rabi       ,Puducherry,5.0,4,1693.9,811.0,1.75,0.835
+Moong(Green Gram),2018,Summer     ,Puducherry,660.0,274,1693.9,107052.0,231.0,0.66
+Moong(Green Gram),2018,Rabi       ,Assam,11113.0,7703,2372.9,1802528.6,3889.55,0.66
+Moong(Green Gram),2018,Kharif     ,Karnataka,436845.0,141364,1419.1,70856259.0,152895.75,0.325925926
+Moong(Green Gram),2018,Rabi       ,Karnataka,5898.0,1324,1419.1,956655.6,2064.3,0.23
+Moong(Green Gram),2018,Summer     ,Karnataka,246.0,66,1419.1,39901.2,86.1,0.261666667
+Moong(Green Gram),2018,Kharif     ,Tamil Nadu,26977.0,18186,986.2,4375669.4,9441.95,0.6508
+Moong(Green Gram),2018,Rabi       ,Tamil Nadu,143341.0,58676,986.2,23249910.2,50169.35,0.402857143
+Moong(Green Gram),2019,Kharif     ,Andhra Pradesh,13444.0,5138,899.2,2309141.44,4974.28,0.625384615
+Moong(Green Gram),2019,Rabi       ,Andhra Pradesh,93535.0,81072,899.2,16065571.6,34607.95,0.885384615
+Moong(Green Gram),2019,Rabi       ,Puducherry,12.0,9,1317.0,2061.12,4.44,0.75
+Moong(Green Gram),2019,Summer     ,Puducherry,629.0,156,1317.0,108037.04,232.73,0.606666667
+Moong(Green Gram),2019,Rabi       ,Assam,10837.0,8163,2084.7,1861363.12,4009.69,0.705185185
+Moong(Green Gram),2019,Kharif     ,Karnataka,392336.0,138221,1422.3,67387631.36,145164.32,0.298461538
+Moong(Green Gram),2019,Rabi       ,Karnataka,11109.0,2731,1422.3,1908081.84,4110.33,0.215416667
+Moong(Green Gram),2019,Summer     ,Karnataka,310.0,51,1422.3,53245.6,114.7,0.088571429
+Moong(Green Gram),2019,Kharif     ,Tamil Nadu,22747.0,13049,910.1,3907024.72,8416.39,0.587407407
+Moong(Green Gram),2019,Rabi       ,Tamil Nadu,149191.0,63365,910.1,25625046.16,55200.67,0.47137931
+Moong(Green Gram),1997,Kharif     ,Andhra Pradesh,316800.0,80900,927.5,30149856.0,98208.0,0.34
+Moong(Green Gram),1997,Rabi       ,Andhra Pradesh,137000.0,53200,927.5,13038290.0,42470.0,0.363333333
+Moong(Green Gram),1997,Kharif     ,Gujarat,178800.0,101300,798.9,17016396.0,55428.0,0.596111111
+Moong(Green Gram),1997,Kharif     ,Maharashtra,612100.0,221000,1156.1,58253557.0,189751.0,0.444444444
+Moong(Green Gram),1997,Whole Year ,Punjab,49300.0,31700,690.1,4691881.0,15283.0,0.601666667
+Moong(Green Gram),1997,Kharif     ,Uttar Pradesh,29316.0,8446,473.9,2790003.72,9087.96,0.332985075
+Moong(Green Gram),1997,Summer     ,Uttar Pradesh,86459.0,36738,473.9,8228303.03,26802.29,0.476029412
+Moong(Green Gram),1998,Kharif     ,Andhra Pradesh,333300.0,163500,1048.3,32930040.0,96657.0,0.560909091
+Moong(Green Gram),1998,Rabi       ,Andhra Pradesh,136800.0,53900,1048.3,13515840.0,39672.0,0.354285714
+Moong(Green Gram),1998,Kharif     ,Gujarat,174200.0,69100,775.6,17210960.0,50518.0,0.565
+Moong(Green Gram),1998,Kharif     ,Haryana,20763.0,5400,687.6,2051384.4,6021.27,0.097857143
+Moong(Green Gram),1998,Kharif     ,Himachal Pradesh,62.0,25,1381.6,6125.6,17.98,0.375
+Moong(Green Gram),1998,Kharif     ,Maharashtra,649100.0,375700,1314.8,64131080.0,188239.0,0.603928571
+Moong(Green Gram),1998,Kharif     ,Punjab,42300.0,25600,588.6,4179240.0,12267.0,0.596666667
+Moong(Green Gram),1998,Kharif     ,Tamil Nadu,183249.0,91770,1077.1,18105001.2,53142.21,0.488148148
+Moong(Green Gram),1998,Kharif     ,Tripura,700.0,330,2472.9,69160.0,203.0,0.4675
+Moong(Green Gram),1998,Rabi       ,Tripura,630.0,260,2472.9,62244.0,182.7,0.4125
+Moong(Green Gram),1998,Kharif     ,Uttar Pradesh,26341.0,5716,743.4,2602490.8,7638.89,0.255671642
+Moong(Green Gram),1998,Summer     ,Uttar Pradesh,81599.0,41796,743.4,8061981.2,23663.71,0.534788732
+Moong(Green Gram),1999,Kharif     ,Bihar,8821.0,4654,1402.7,936172.73,2381.67,0.552068966
+Moong(Green Gram),1999,Rabi       ,Bihar,172631.0,95154,1402.7,18321328.03,46610.37,0.567096774
+Moong(Green Gram),1999,Kharif     ,Gujarat,107500.0,26100,458.9,11408975.0,29025.0,0.213333333
+Moong(Green Gram),1999,Kharif     ,Haryana,9927.0,2000,344.0,1053552.51,2680.29,0.056666667
+Moong(Green Gram),1999,Kharif     ,Himachal Pradesh,342.0,139,1144.9,36296.46,92.34,0.255
+Moong(Green Gram),1999,Kharif     ,Karnataka,376358.0,130131,1203.8,39942874.54,101616.66,0.333333333
+Moong(Green Gram),1999,Rabi       ,Karnataka,15414.0,3835,1203.8,1635887.82,4161.78,0.294117647
+Moong(Green Gram),1999,Kharif     ,Maharashtra,619900.0,288780,1166.5,65789987.0,167373.0,0.5221875
+Moong(Green Gram),1999,Kharif     ,Nagaland,2500.0,1800,1782.2,265325.0,675.0,0.717142857
+Moong(Green Gram),1999,Kharif     ,Odisha,149000.0,51470,1484.3,15813370.0,40230.0,0.355384615
+Moong(Green Gram),1999,Rabi       ,Odisha,441000.0,175720,1484.3,46803330.0,119070.0,0.371333333
+Moong(Green Gram),1999,Kharif     ,Punjab,38300.0,22800,364.4,4064779.0,10341.0,0.636666667
+Moong(Green Gram),1999,Kharif     ,Tamil Nadu,175337.0,93209,922.8,18608515.81,47340.99,0.541538462
+Moong(Green Gram),1999,Kharif     ,Uttar Pradesh,26715.0,7518,883.4,2835262.95,7213.05,0.322295082
+Moong(Green Gram),1999,Summer     ,Uttar Pradesh,70973.0,38408,883.4,7532364.49,19162.71,0.599577465
+Moong(Green Gram),2000,Kharif     ,Bihar,9229.0,5165,1207.0,906010.93,2399.54,0.605333333
+Moong(Green Gram),2000,Rabi       ,Bihar,177813.0,103366,1207.0,17455902.21,46231.38,0.566470588
+Moong(Green Gram),2000,Kharif     ,Chhattisgarh,9836.0,2639,896.4,965600.12,2557.36,0.216875
+Moong(Green Gram),2000,Rabi       ,Chhattisgarh,4327.0,940,896.4,424781.59,1125.02,0.200666667
+Moong(Green Gram),2000,Kharif     ,Gujarat,149500.0,38200,379.7,14676415.0,38870.0,0.327894737
+Moong(Green Gram),2000,Kharif     ,Haryana,5331.0,1200,383.7,523344.27,1386.06,0.062666667
+Moong(Green Gram),2000,Kharif     ,Himachal Pradesh,288.0,81,1068.4,28272.96,74.88,0.3775
+Moong(Green Gram),2000,Kharif     ,Maharashtra,714300.0,243900,1057.8,70122831.0,185718.0,0.472727273
+Moong(Green Gram),2000,Kharif     ,Nagaland,2000.0,1800,1631.8,196340.0,520.0,0.90125
+Moong(Green Gram),2000,Kharif     ,Odisha,147440.0,29290,1066.0,14474184.8,38334.4,0.21
+Moong(Green Gram),2000,Kharif     ,Punjab,29500.0,18400,405.3,2896015.0,7670.0,0.665
+Moong(Green Gram),2000,Kharif     ,Tamil Nadu,198603.0,90864,971.1,19496856.51,51636.78,0.484814815
+Moong(Green Gram),2000,Kharif     ,Uttar Pradesh,28449.0,8585,874.4,2792838.33,7396.74,0.308225806
+Moong(Green Gram),2000,Rabi       ,Uttar Pradesh,53103.0,24016,874.4,5213121.51,13806.78,0.510294118
+Moong(Green Gram),2000,Kharif     ,Uttarakhand,45.0,16,1413.4,4417.65,11.7,0.393333333
+Moong(Green Gram),2000,Rabi       ,Uttarakhand,110.0,31,1413.4,10798.7,28.6,0.353333333
+Moong(Green Gram),2001,Kharif     ,Bihar,7902.0,4465,1247.0,807031.26,2054.52,0.627777778
+Moong(Green Gram),2001,Kharif     ,Chhattisgarh,9669.0,2887,1550.0,987494.97,2513.94,0.261875
+Moong(Green Gram),2001,Rabi       ,Chhattisgarh,5558.0,1536,1550.0,567638.54,1445.08,0.247333333
+Moong(Green Gram),2001,Kharif     ,Gujarat,168400.0,76700,666.5,17198692.0,43784.0,0.505555556
+Moong(Green Gram),2001,Kharif     ,Haryana,13620.0,3100,483.8,1391010.6,3541.2,0.069411765
+Moong(Green Gram),2001,Kharif     ,Himachal Pradesh,94.0,32,918.1,9600.22,24.44,0.498571429
+Moong(Green Gram),2001,Kharif     ,Maharashtra,710600.0,290500,1035.8,72573578.0,184756.0,0.501515152
+Moong(Green Gram),2001,Kharif     ,Mizoram,5.5,4,2406.4,561.715,1.43,0.69
+Moong(Green Gram),2001,Rabi       ,Mizoram,82.77,72,2406.4,8453.3001,21.5202,1.05
+Moong(Green Gram),2001,Kharif     ,Nagaland,3000.0,2000,1532.0,306390.0,780.0,0.745
+Moong(Green Gram),2001,Kharif     ,Odisha,212511.0,51097,1672.5,21703748.43,55252.86,0.235666667
+Moong(Green Gram),2001,Kharif     ,Punjab,23000.0,11000,479.3,2348990.0,5980.0,0.562307692
+Moong(Green Gram),2001,Kharif     ,Tamil Nadu,128995.0,53470,481.3,13174259.35,33538.7,0.415925926
+Moong(Green Gram),2001,Kharif     ,Uttar Pradesh,28084.0,7724,849.9,2868218.92,7301.84,0.270909091
+Moong(Green Gram),2001,Rabi       ,Uttar Pradesh,38576.0,18201,849.9,3939766.88,10029.76,0.503421053
+Moong(Green Gram),2001,Kharif     ,Uttarakhand,67.0,32,1541.3,6842.71,17.42,0.3425
+Moong(Green Gram),2001,Rabi       ,Uttarakhand,59.0,16,1541.3,6025.67,15.34,0.286666667
+Moong(Green Gram),2002,Kharif     ,Bihar,10659.0,5746,1105.8,1009087.53,2664.75,0.471212121
+Moong(Green Gram),2002,Summer     ,Bihar,185137.0,112835,1105.8,17526919.79,46284.25,0.586
+Moong(Green Gram),2002,Kharif     ,Chhattisgarh,9625.0,2253,1001.4,911198.75,2406.25,0.21125
+Moong(Green Gram),2002,Rabi       ,Chhattisgarh,6822.0,1698,1001.4,645838.74,1705.5,0.249333333
+Moong(Green Gram),2002,Kharif     ,Gujarat,140200.0,32300,458.4,13272734.0,35050.0,0.282777778
+Moong(Green Gram),2002,Kharif     ,Haryana,18329.0,2800,353.9,1735206.43,4582.25,0.138
+Moong(Green Gram),2002,Kharif     ,Himachal Pradesh,394.0,112,890.8,37299.98,98.5,0.241666667
+Moong(Green Gram),2002,Kharif     ,Karnataka,402442.0,26399,860.8,38099184.14,100610.5,0.079565217
+Moong(Green Gram),2002,Rabi       ,Karnataka,10484.0,1831,860.8,992520.28,2621.0,0.171764706
+Moong(Green Gram),2002,Kharif     ,Maharashtra,762300.0,376100,967.4,72166941.0,190575.0,0.573636364
+Moong(Green Gram),2002,Kharif     ,Mizoram,13.0,9,2627.0,1230.71,3.25,0.69
+Moong(Green Gram),2002,Rabi       ,Mizoram,37.0,38,2627.0,3502.79,9.25,0.866666667
+Moong(Green Gram),2002,Kharif     ,Nagaland,2000.0,2000,1536.6,189340.0,500.0,1.1575
+Moong(Green Gram),2002,Kharif     ,Odisha,168305.0,38348,1102.8,15933434.35,42076.25,0.205666667
+Moong(Green Gram),2002,Kharif     ,Punjab,15700.0,10500,301.8,1486319.0,3925.0,0.703846154
+Moong(Green Gram),2002,Kharif     ,Uttarakhand,76.0,22,1610.3,7194.92,19.0,0.37
+Moong(Green Gram),2002,Rabi       ,Uttarakhand,48.0,12,1610.3,4544.16,12.0,0.25
+Moong(Green Gram),2002,Summer     ,Uttarakhand,34489.0,19967,1610.3,3265073.63,8622.25,0.58
+Moong(Green Gram),2003,Kharif     ,Bihar,8398.0,4231,1353.9,831234.04,2015.52,0.527575758
+Moong(Green Gram),2003,Rabi       ,Bihar,24894.0,11255,1353.9,2464008.12,5974.56,0.47
+Moong(Green Gram),2003,Summer     ,Bihar,181373.0,88908,1353.9,17952299.54,43529.52,0.496857143
+Moong(Green Gram),2003,Kharif     ,Chhattisgarh,9804.0,2713,1643.7,970399.92,2352.96,0.258125
+Moong(Green Gram),2003,Rabi       ,Chhattisgarh,8197.0,2081,1643.7,811339.06,1967.28,0.238
+Moong(Green Gram),2003,Kharif     ,Gujarat,206800.0,121200,902.5,20469064.0,49632.0,0.597083333
+Moong(Green Gram),2003,Kharif     ,Haryana,25215.0,4000,592.3,2495780.7,6051.6,0.081875
+Moong(Green Gram),2003,Kharif     ,Madhya Pradesh,709.0,172,1163.0,70176.82,170.16,0.24
+Moong(Green Gram),2003,Rabi       ,Madhya Pradesh,13.0,3,1163.0,1286.74,3.12,0.23
+Moong(Green Gram),2003,Kharif     ,Maharashtra,700100.0,390500,1037.4,69295898.0,168024.0,0.583939394
+Moong(Green Gram),2003,Kharif     ,Mizoram,24.0,30,2499.5,2375.52,5.76,1.245
+Moong(Green Gram),2003,Rabi       ,Mizoram,44.0,46,2499.5,4355.12,10.56,0.944
+Moong(Green Gram),2003,Kharif     ,Nagaland,2000.0,3000,1709.8,197960.0,480.0,1.49375
+Moong(Green Gram),2003,Kharif     ,Odisha,257261.0,60081,1648.2,25463693.78,61742.64,0.229333333
+Moong(Green Gram),2003,Kharif     ,Punjab,18900.0,15800,451.7,1870722.0,4536.0,0.815384615
+Moong(Green Gram),2003,Kharif     ,Uttar Pradesh,35227.0,8228,1075.6,3486768.46,8454.48,0.2940625
+Moong(Green Gram),2003,Summer     ,Uttar Pradesh,34070.0,18128,1075.6,3372248.6,8176.8,0.556911765
+Moong(Green Gram),2003,Kharif     ,Uttarakhand,13.0,5,1734.3,1286.74,3.12,0.443333333
+Moong(Green Gram),2003,Summer     ,Uttarakhand,39.0,12,1734.3,3860.22,9.36,0.305
+Moong(Green Gram),2004,Kharif     ,Andhra Pradesh,304051.0,110550,781.8,32940885.34,63850.71,0.367727273
+Moong(Green Gram),2004,Rabi       ,Andhra Pradesh,150094.0,48901,781.8,16261183.96,31519.74,0.368421053
+Moong(Green Gram),2004,Rabi       ,Assam,7293.0,3429,2536.9,790123.62,1531.53,0.449565217
+Moong(Green Gram),2004,Kharif     ,Bihar,7323.0,3617,1147.8,793373.82,1537.83,0.470555556
+Moong(Green Gram),2004,Summer     ,Bihar,175402.0,96750,1147.8,19003052.68,36834.42,0.501428571
+Moong(Green Gram),2004,Kharif     ,Chhattisgarh,9939.0,2554,1122.8,1076791.26,2087.19,0.253125
+Moong(Green Gram),2004,Rabi       ,Chhattisgarh,6428.0,1334,1122.8,696409.52,1349.88,0.201333333
+Moong(Green Gram),2004,Kharif     ,Gujarat,173100.0,71700,719.8,18753654.0,36351.0,0.44875
+Moong(Green Gram),2004,Kharif     ,Haryana,16039.0,6100,484.6,1737665.26,3368.19,0.148823529
+Moong(Green Gram),2004,Kharif     ,Maharashtra,656000.0,227800,1052.0,71071040.0,137760.0,0.509090909
+Moong(Green Gram),2004,Kharif     ,Nagaland,1300.0,840,1711.5,140842.0,273.0,0.621428571
+Moong(Green Gram),2004,Kharif     ,Punjab,15000.0,12000,366.4,1625100.0,3150.0,0.811666667
+Moong(Green Gram),2004,Kharif     ,Tripura,340.0,183,2706.3,36835.6,71.4,0.5375
+Moong(Green Gram),2004,Rabi       ,Tripura,442.0,220,2706.3,47886.28,92.82,0.505
+Moong(Green Gram),2004,Kharif     ,Uttarakhand,4.0,1,1219.6,433.36,0.84,0.166666667
+Moong(Green Gram),2004,Summer     ,Uttarakhand,16.0,6,1219.6,1733.44,3.36,0.365
+Moong(Green Gram),2004,Kharif     ,West Bengal,674.0,315,1612.9,73021.16,141.54,0.484285714
+Moong(Green Gram),2004,Rabi       ,West Bengal,1238.0,831,1612.9,134124.92,259.98,0.607272727
+Moong(Green Gram),2004,Summer     ,West Bengal,9804.0,3249,1612.9,1062165.36,2058.84,0.341875
+Moong(Green Gram),2005,Kharif     ,Bihar,8247.0,4898,907.8,988980.24,1731.87,0.563714286
+Moong(Green Gram),2005,Summer     ,Bihar,163458.0,93615,907.8,19601883.36,34326.18,0.591388889
+Moong(Green Gram),2005,Kharif     ,Chhattisgarh,10068.0,2745,1292.7,1207354.56,2114.28,0.25
+Moong(Green Gram),2005,Rabi       ,Chhattisgarh,6999.0,1576,1292.7,839320.08,1469.79,0.235384615
+Moong(Green Gram),2005,Kharif     ,Gujarat,153700.0,92400,942.4,18431704.0,32277.0,0.587916667
+Moong(Green Gram),2005,Kharif     ,Haryana,17866.0,7700,516.9,2142490.72,3751.86,0.251764706
+Moong(Green Gram),2005,Kharif     ,Himachal Pradesh,381.0,159,1248.1,45689.52,80.01,0.401111111
+Moong(Green Gram),2005,Kharif     ,Madhya Pradesh,75291.0,22940,1032.7,9028896.72,15811.11,0.323617021
+Moong(Green Gram),2005,Kharif     ,Maharashtra,533800.0,189100,1387.2,64013296.0,112098.0,0.45969697
+Moong(Green Gram),2005,Kharif     ,Mizoram,18.0,23,2075.4,2158.56,3.78,0.94
+Moong(Green Gram),2005,Rabi       ,Mizoram,63.0,89,2075.4,7554.96,13.23,1.65
+Moong(Green Gram),2005,Kharif     ,Nagaland,730.0,640,1568.6,87541.6,153.3,0.83125
+Moong(Green Gram),2005,Kharif     ,Punjab,12300.0,9900,566.7,1475016.0,2583.0,0.839166667
+Moong(Green Gram),2005,Kharif     ,Tripura,963.0,518,1765.9,115482.96,202.23,0.54
+Moong(Green Gram),2005,Rabi       ,Tripura,317.0,191,1765.9,38014.64,66.57,0.5875
+Moong(Green Gram),2005,Kharif     ,Uttarakhand,1.0,0,1353.3,119.92,0.21,0.0
+Moong(Green Gram),2005,Summer     ,Uttarakhand,15.0,7,1353.3,1798.8,3.15,0.47
+Moong(Green Gram),2006,Kharif     ,Bihar,6987.0,4067,1052.8,892309.77,1537.14,0.604516129
+Moong(Green Gram),2006,Summer     ,Bihar,168647.0,88675,1052.8,21537908.37,37102.34,0.548285714
+Moong(Green Gram),2006,Kharif     ,Chhattisgarh,9516.0,2699,1317.2,1215288.36,2093.52,0.241111111
+Moong(Green Gram),2006,Rabi       ,Chhattisgarh,6971.0,1635,1317.2,890266.41,1533.62,0.243571429
+Moong(Green Gram),2006,Kharif     ,Gujarat,193200.0,67000,1056.2,24673572.0,42504.0,0.365
+Moong(Green Gram),2006,Kharif     ,Haryana,21380.0,9300,329.3,2730439.8,4703.6,0.308947368
+Moong(Green Gram),2006,Kharif     ,Himachal Pradesh,452.0,202,1207.0,57724.92,99.44,0.415555556
+Moong(Green Gram),2006,Kharif     ,Madhya Pradesh,71963.0,22894,1072.3,9190394.73,15831.86,0.325319149
+Moong(Green Gram),2006,Rabi       ,Madhya Pradesh,3039.0,810,1072.3,388110.69,668.58,0.288888889
+Moong(Green Gram),2006,Kharif     ,Maharashtra,573100.0,236100,1439.4,73190601.0,126082.0,0.538181818
+Moong(Green Gram),2006,Kharif     ,Nagaland,1000.0,1260,1362.5,127710.0,220.0,1.20375
+Moong(Green Gram),2006,Kharif     ,Punjab,12300.0,10700,569.6,1570833.0,2706.0,0.904545455
+Moong(Green Gram),2006,Kharif     ,Tripura,744.0,389,1764.3,95016.24,163.68,0.515
+Moong(Green Gram),2006,Rabi       ,Tripura,349.0,185,1764.3,44570.79,76.78,0.53
+Moong(Green Gram),2006,Kharif     ,Uttarakhand,2.0,2,1178.9,255.42,0.44,1.0
+Moong(Green Gram),2006,Rabi       ,Uttarakhand,30.0,13,1178.9,3831.3,6.6,0.43
+Moong(Green Gram),2007,Kharif     ,Andhra Pradesh,286000.0,140000,1004.2,38152400.0,45760.0,0.424210526
+Moong(Green Gram),2007,Rabi       ,Andhra Pradesh,152000.0,52000,1004.2,20276800.0,24320.0,0.500769231
+Moong(Green Gram),2007,Kharif     ,Bihar,8834.0,5358,1600.2,1178455.6,1413.44,0.627878788
+Moong(Green Gram),2007,Summer     ,Bihar,156047.0,93579,1600.2,20816669.8,24967.52,0.644117647
+Moong(Green Gram),2007,Kharif     ,Chhattisgarh,9211.0,2615,1246.2,1228747.4,1473.76,0.275
+Moong(Green Gram),2007,Rabi       ,Chhattisgarh,6937.0,1627,1246.2,925395.8,1109.92,0.255714286
+Moong(Green Gram),2007,Kharif     ,Gujarat,209400.0,114400,1021.6,27933960.0,33504.0,0.56125
+Moong(Green Gram),2007,Kharif     ,Haryana,21796.0,9600,443.8,2907586.4,3487.36,0.193529412
+Moong(Green Gram),2007,Kharif     ,Himachal Pradesh,685.0,324,1095.4,91379.0,109.6,0.467142857
+Moong(Green Gram),2007,Kharif     ,Maharashtra,660800.0,367100,1257.2,88150720.0,105728.0,0.598181818
+Moong(Green Gram),2007,Kharif     ,Nagaland,450.0,520,1769.0,60030.0,72.0,1.13
+Moong(Green Gram),2007,Kharif     ,Punjab,11700.0,8400,527.2,1560780.0,1872.0,0.779166667
+Moong(Green Gram),2007,Kharif     ,Tripura,366.0,183,2831.8,48824.4,58.56,0.4975
+Moong(Green Gram),2007,Rabi       ,Tripura,242.0,137,2831.8,32282.8,38.72,0.5625
+Moong(Green Gram),2007,Kharif     ,Uttar Pradesh,31082.0,6183,672.9,4146338.8,4973.12,0.191636364
+Moong(Green Gram),2007,Summer     ,Uttar Pradesh,31600.0,20085,672.9,4215440.0,5056.0,0.616896552
+Moong(Green Gram),2007,Kharif     ,Uttarakhand,8.0,3,1924.3,1067.2,1.28,0.416666667
+Moong(Green Gram),2007,Summer     ,Uttarakhand,14.0,6,1924.3,1867.6,2.24,0.316666667
+Moong(Green Gram),2008,Kharif     ,Bihar,8587.0,5609,1197.7,1228284.48,772.83,0.674411765
+Moong(Green Gram),2008,Summer     ,Bihar,162664.0,108935,1197.7,23267458.56,14639.76,0.639428571
+Moong(Green Gram),2008,Kharif     ,Chhattisgarh,9230.0,2423,1117.9,1320259.2,830.7,0.252222222
+Moong(Green Gram),2008,Rabi       ,Chhattisgarh,6972.0,1559,1117.9,997274.88,627.48,0.232142857
+Moong(Green Gram),2008,Kharif     ,Gujarat,162000.0,70100,746.1,23172480.0,14580.0,0.454
+Moong(Green Gram),2008,Kharif     ,Haryana,14380.0,6500,715.6,2056915.2,1294.2,0.197777778
+Moong(Green Gram),2008,Kharif     ,Himachal Pradesh,109.0,45,1357.1,15591.36,9.81,0.32
+Moong(Green Gram),2008,Kharif     ,Maharashtra,426600.0,106000,1052.8,61020864.0,38394.0,0.391818182
+Moong(Green Gram),2008,Kharif     ,Manipur,431.0,474,1134.8,61650.24,38.79,1.133333333
+Moong(Green Gram),2008,Kharif     ,Nagaland,400.0,250,1540.9,57216.0,36.0,0.5625
+Moong(Green Gram),2008,Kharif     ,Punjab,8900.0,7900,691.3,1273056.0,801.0,0.900769231
+Moong(Green Gram),2008,Kharif     ,Tripura,389.0,204,1827.8,55642.56,35.01,0.52
+Moong(Green Gram),2008,Rabi       ,Tripura,218.0,135,1827.8,31182.72,19.62,0.635
+Moong(Green Gram),2008,Kharif     ,Uttar Pradesh,30518.0,11286,891.6,4365294.72,2746.62,0.382
+Moong(Green Gram),2008,Summer     ,Uttar Pradesh,33674.0,25174,891.6,4816728.96,3030.66,0.727460317
+Moong(Green Gram),2008,Kharif     ,Uttarakhand,56.0,25,1363.7,8010.24,5.04,0.403333333
+Moong(Green Gram),2009,Kharif     ,Bihar,8351.0,5537,889.3,1301252.82,1419.67,0.677058824
+Moong(Green Gram),2009,Summer     ,Bihar,149909.0,64911,889.3,23358820.38,25484.53,0.513055556
+Moong(Green Gram),2009,Kharif     ,Chhattisgarh,9429.0,2343,956.9,1469226.78,1602.93,0.241111111
+Moong(Green Gram),2009,Rabi       ,Chhattisgarh,7089.0,1597,956.9,1104607.98,1205.13,0.204
+Moong(Green Gram),2009,Kharif     ,Gujarat,165500.0,59700,618.0,25788210.0,28135.0,0.4116
+Moong(Green Gram),2009,Kharif     ,Haryana,14899.0,6600,393.0,2321562.18,2532.83,0.235625
+Moong(Green Gram),2009,Kharif     ,Himachal Pradesh,225.0,104,969.9,35059.5,38.25,0.367142857
+Moong(Green Gram),2009,Kharif     ,Maharashtra,427700.0,142000,1002.4,66644214.0,72709.0,0.4371875
+Moong(Green Gram),2009,Kharif     ,Manipur,190.0,155,992.5,29605.8,32.3,0.718888889
+Moong(Green Gram),2009,Kharif     ,Nagaland,620.0,560,1225.9,96608.4,105.4,0.897272727
+Moong(Green Gram),2009,Kharif     ,Punjab,7000.0,6400,371.3,1090740.0,1190.0,0.941818182
+Moong(Green Gram),2009,Kharif     ,Tripura,398.0,222,2004.2,62016.36,67.66,0.555
+Moong(Green Gram),2009,Rabi       ,Tripura,230.0,131,2004.2,35838.6,39.1,0.5625
+Moong(Green Gram),2009,Kharif     ,Uttar Pradesh,35348.0,5227,585.8,5507925.36,6009.16,0.142909091
+Moong(Green Gram),2009,Summer     ,Uttar Pradesh,37104.0,26685,585.8,5781545.28,6307.68,0.740806452
+Moong(Green Gram),2009,Kharif     ,Uttarakhand,8.0,6,847.8,1246.56,1.36,0.855
+Moong(Green Gram),2009,Rabi       ,Uttarakhand,8.0,6,847.8,1246.56,1.36,0.855
+Moong(Green Gram),2009,Kharif     ,West Bengal,2055.0,1718,1317.2,320210.1,349.35,0.652222222
+Moong(Green Gram),2009,Rabi       ,West Bengal,1677.0,1097,1317.2,261310.14,285.09,0.682727273
+Moong(Green Gram),2009,Summer     ,West Bengal,13055.0,6443,1317.2,2034230.1,2219.35,0.560666667
+Moong(Green Gram),2009,Kharif     ,Madhya Pradesh,73809.0,23862,904.1,11500918.38,12547.53,0.345306122
+Moong(Green Gram),2009,Rabi       ,Madhya Pradesh,2534.0,652,904.1,394847.88,430.78,0.303793103
+Moong(Green Gram),2010,Kharif     ,Bihar,9298.0,6080,629.2,1544490.78,2231.52,0.66375
+Moong(Green Gram),2010,Summer     ,Bihar,150720.0,81259,629.2,25036099.2,36172.8,0.656571429
+Moong(Green Gram),2010,Kharif     ,Chhattisgarh,9155.0,2648,1283.1,1520737.05,2197.2,0.242777778
+Moong(Green Gram),2010,Rabi       ,Chhattisgarh,7116.0,1607,1283.1,1182038.76,1707.84,0.235333333
+Moong(Green Gram),2010,Kharif     ,Gujarat,177400.0,89200,1107.5,29467914.0,42576.0,0.4828
+Moong(Green Gram),2010,Summer     ,Gujarat,71000.0,39000,1107.5,11793810.0,17040.0,0.584615385
+Moong(Green Gram),2010,Kharif     ,Haryana,25983.0,11900,639.2,4316036.13,6235.92,0.205555556
+Moong(Green Gram),2010,Kharif     ,Himachal Pradesh,433.0,202,1319.8,71925.63,103.92,0.505714286
+Moong(Green Gram),2010,Kharif     ,Madhya Pradesh,83782.0,29404,856.3,13917028.02,20107.68,0.3646
+Moong(Green Gram),2010,Rabi       ,Madhya Pradesh,2941.0,662,856.3,488529.51,705.84,0.179117647
+Moong(Green Gram),2010,Kharif     ,Maharashtra,553700.0,372400,1389.0,91975107.0,132888.0,0.68125
+Moong(Green Gram),2010,Kharif     ,Manipur,390.0,399,2160.5,64782.9,93.6,1.033333333
+Moong(Green Gram),2010,Kharif     ,Nagaland,200.0,190,1771.8,33222.0,48.0,0.98625
+Moong(Green Gram),2010,Kharif     ,Punjab,7800.0,6300,392.7,1295658.0,1872.0,0.861666667
+Moong(Green Gram),2010,Kharif     ,Tamil Nadu,171666.0,57683,1095.2,28515439.26,41199.84,0.465666667
+Moong(Green Gram),2010,Kharif     ,Tripura,396.0,212,2348.3,65779.56,95.04,0.5375
+Moong(Green Gram),2010,Rabi       ,Tripura,199.0,113,2348.3,33055.89,47.76,0.5575
+Moong(Green Gram),2010,Kharif     ,Uttar Pradesh,41377.0,19457,742.6,6873133.47,9930.48,0.473818182
+Moong(Green Gram),2010,Summer     ,Uttar Pradesh,47491.0,42436,742.6,7888730.01,11397.84,0.854603175
+Moong(Green Gram),2010,Kharif     ,Uttarakhand,102.0,54,1419.0,16943.22,24.48,0.515
+Moong(Green Gram),2010,Rabi       ,Uttarakhand,16.0,9,1419.0,2657.76,3.84,0.605
+Moong(Green Gram),2010,Kharif     ,Jammu and Kashmir,946.0,402,1352.0,157140.06,227.04,0.4975
+Moong(Green Gram),2010,Rabi       ,Jammu and Kashmir,17.0,20,1352.0,2823.87,4.08,1.2
+Moong(Green Gram),2010,Kharif     ,West Bengal,869.0,613,1096.0,144349.59,208.56,0.666666667
+Moong(Green Gram),2010,Rabi       ,West Bengal,1820.0,1201,1096.0,302320.2,436.8,0.773
+Moong(Green Gram),2010,Summer     ,West Bengal,14956.0,10352,1096.0,2484341.16,3589.44,0.673125
+Moong(Green Gram),2011,Kharif     ,Bihar,7736.0,4700,1097.1,1295934.72,2552.88,0.6259375
+Moong(Green Gram),2011,Summer     ,Bihar,150217.0,90101,1097.1,25164351.84,49571.61,0.683888889
+Moong(Green Gram),2011,Kharif     ,Chhattisgarh,8652.0,2306,1302.7,1449383.04,2855.16,0.256296296
+Moong(Green Gram),2011,Rabi       ,Chhattisgarh,6698.0,1579,1302.7,1122048.96,2210.34,0.282727273
+Moong(Green Gram),2011,Summer     ,Chhattisgarh,1.0,0,1302.7,167.52,0.33,0.0
+Moong(Green Gram),2011,Kharif     ,Gujarat,200000.0,87700,890.5,33504000.0,66000.0,0.46826087
+Moong(Green Gram),2011,Summer     ,Gujarat,65500.0,33000,890.5,10972560.0,21615.0,0.5128
+Moong(Green Gram),2011,Kharif     ,Haryana,16846.0,8000,471.5409091,2822041.92,5559.18,0.245
+Moong(Green Gram),2011,Kharif     ,Himachal Pradesh,256.0,129,1108.3,42885.12,84.48,0.478571429
+Moong(Green Gram),2011,Kharif     ,Madhya Pradesh,79340.0,18025,852.6,13291036.8,26182.2,0.252244898
+Moong(Green Gram),2011,Rabi       ,Madhya Pradesh,2899.0,695,852.6,485640.48,956.67,0.213
+Moong(Green Gram),2011,Kharif     ,Maharashtra,432700.0,253540,1174.095455,72485904.0,142791.0,0.5225
+Moong(Green Gram),2011,Kharif     ,Manipur,439.0,420,1533.561905,73541.28,144.87,0.971111111
+Moong(Green Gram),2011,Kharif     ,Punjab,6600.0,5600,705.2,1105632.0,2178.0,0.894545455
+Moong(Green Gram),2011,Kharif     ,Tripura,462.0,247,2295.609091,77394.24,152.46,0.535
+Moong(Green Gram),2011,Rabi       ,Tripura,251.0,147,2295.609091,42047.52,82.83,0.585
+Moong(Green Gram),2011,Kharif     ,Uttar Pradesh,38194.0,16182,777.4,6398258.88,12604.02,0.426923077
+Moong(Green Gram),2011,Summer     ,Uttar Pradesh,35262.0,29663,777.4,5907090.24,11636.46,0.770327869
+Moong(Green Gram),2011,Summer     ,Uttarakhand,3.0,2,1564.7,502.56,0.99,0.67
+Moong(Green Gram),2011,Kharif     ,West Bengal,806.0,577,1686.5,135021.12,265.98,0.66625
+Moong(Green Gram),2011,Rabi       ,West Bengal,1936.0,1289,1686.5,324318.72,638.88,0.7
+Moong(Green Gram),2011,Summer     ,West Bengal,17288.0,11084,1686.5,2896085.76,5705.04,0.801875
+Moong(Green Gram),2012,Kharif     ,Bihar,8835.0,7179,924.1,1332318.0,2738.85,0.695294118
+Moong(Green Gram),2012,Summer     ,Bihar,147623.0,92127,924.1,22261548.4,45763.13,0.681891892
+Moong(Green Gram),2012,Kharif     ,Chhattisgarh,8540.0,2652,1366.8,1287832.0,2647.4,0.287037037
+Moong(Green Gram),2012,Rabi       ,Chhattisgarh,6946.0,1585,1366.8,1047456.8,2153.26,0.264761905
+Moong(Green Gram),2012,Kharif     ,Gujarat,91600.0,39900,460.6,13813280.0,28396.0,0.432608696
+Moong(Green Gram),2012,Summer     ,Gujarat,23600.0,11900,460.6,3558880.0,7316.0,0.691818182
+Moong(Green Gram),2012,Kharif     ,Haryana,8616.0,4167,307.9,1299292.8,2670.96,0.441875
+Moong(Green Gram),2012,Kharif     ,Himachal Pradesh,282.0,133,1035.0,42525.6,87.42,0.405714286
+Moong(Green Gram),2012,Kharif     ,Madhya Pradesh,71664.0,26845,1049.5,10806931.2,22215.84,0.39
+Moong(Green Gram),2012,Rabi       ,Madhya Pradesh,12931.0,3313,1049.5,1949994.8,4008.61,0.291428571
+Moong(Green Gram),2012,Kharif     ,Maharashtra,431200.0,211340,1003.4,65024960.0,133672.0,0.460322581
+Moong(Green Gram),2012,Kharif     ,Manipur,340.0,311,1176.7,51272.0,105.4,0.914444444
+Moong(Green Gram),2012,Kharif     ,Punjab,4800.0,4200,338.9,723840.0,1488.0,0.894545455
+Moong(Green Gram),2012,Kharif     ,Tamil Nadu,118615.0,33674,706.8,17887142.0,36770.65,0.301724138
+Moong(Green Gram),2012,Kharif     ,Tripura,386.0,207,1882.2,58208.8,119.66,0.535
+Moong(Green Gram),2012,Rabi       ,Tripura,281.0,163,1882.2,42374.8,87.11,0.59625
+Moong(Green Gram),2012,Kharif     ,Uttar Pradesh,39751.0,20148,746.3,5994450.8,12322.81,0.554642857
+Moong(Green Gram),2012,Summer     ,Uttar Pradesh,37511.0,30562,746.3,5656658.8,11628.41,0.764029851
+Moong(Green Gram),2012,Summer     ,Uttarakhand,12.0,9,1309.8,1809.6,3.72,0.725
+Moong(Green Gram),2012,Kharif     ,West Bengal,1244.0,955,1566.0,187595.2,385.64,0.68875
+Moong(Green Gram),2012,Rabi       ,West Bengal,1941.0,1513,1566.0,292702.8,601.71,0.701818182
+Moong(Green Gram),2012,Summer     ,West Bengal,20016.0,13314,1566.0,3018412.8,6204.96,0.89875
+Moong(Green Gram),2013,Kharif     ,Bihar,9138.0,7360,1069.9,1320349.62,2467.26,0.7315625
+Moong(Green Gram),2013,Summer     ,Bihar,145905.0,98013,1069.9,21081813.45,39394.35,0.817567568
+Moong(Green Gram),2013,Kharif     ,Chhattisgarh,8617.0,2551,1418.3,1245070.33,2326.59,0.274814815
+Moong(Green Gram),2013,Rabi       ,Chhattisgarh,6562.0,1409,1418.3,948143.38,1771.74,0.254090909
+Moong(Green Gram),2013,Kharif     ,Gujarat,127421.0,67612,1006.5,18411060.29,34403.67,0.55375
+Moong(Green Gram),2013,Summer     ,Gujarat,31505.0,16604,1006.5,4552157.45,8506.35,0.5245
+Moong(Green Gram),2013,Kharif     ,Haryana,7100.0,3600,452.2,1025879.0,1917.0,0.438571429
+Moong(Green Gram),2013,Kharif     ,Himachal Pradesh,300.0,142,1216.9,43347.0,81.0,0.484285714
+Moong(Green Gram),2013,Kharif     ,Madhya Pradesh,75236.0,30998,1451.4,10870849.64,20313.72,0.398235294
+Moong(Green Gram),2013,Rabi       ,Madhya Pradesh,121485.0,49274,1451.4,17553367.65,32800.95,0.3775
+Moong(Green Gram),2013,Kharif     ,Maharashtra,430700.0,200572,1409.8,62231843.0,116289.0,0.653103448
+Moong(Green Gram),2013,Kharif     ,Manipur,440.0,422,1428.8,63575.6,118.8,0.957777778
+Moong(Green Gram),2013,Kharif     ,Nagaland,330.0,330,1350.9,47681.7,89.1,1.0
+Moong(Green Gram),2013,Kharif     ,Punjab,4600.0,3800,586.6,664654.0,1242.0,0.860833333
+Moong(Green Gram),2013,Kharif     ,Telangana,110951.0,73489,1348.7,16031309.99,29956.77,0.656666667
+Moong(Green Gram),2013,Rabi       ,Telangana,12516.0,11549,1348.7,1808436.84,3379.32,0.9325
+Moong(Green Gram),2013,Kharif     ,Tripura,631.0,338,2043.5,91173.19,170.37,0.5275
+Moong(Green Gram),2013,Rabi       ,Tripura,274.0,155,2043.5,39590.26,73.98,0.5775
+Moong(Green Gram),2013,Kharif     ,Uttar Pradesh,38504.0,12350,995.2,5563442.96,10396.08,0.362181818
+Moong(Green Gram),2013,Summer     ,Uttar Pradesh,41012.0,27381,995.2,5925823.88,11073.24,0.646825397
+Moong(Green Gram),2013,Kharif     ,Uttarakhand,15.0,8,1735.4,2167.35,4.05,0.525
+Moong(Green Gram),2013,Summer     ,Uttarakhand,10.0,5,1735.4,1444.9,2.7,0.5
+Moong(Green Gram),2013,Kharif     ,West Bengal,976.0,823,1939.9,141022.24,263.52,0.687777778
+Moong(Green Gram),2013,Rabi       ,West Bengal,2003.0,1606,1939.9,289413.47,540.81,0.733
+Moong(Green Gram),2013,Summer     ,West Bengal,21446.0,14571,1939.9,3098732.54,5790.42,0.804705882
+Moong(Green Gram),2014,Kharif     ,Bihar,11016.0,9232,1061.0,1662975.36,3635.28,0.7175
+Moong(Green Gram),2014,Summer     ,Bihar,156699.0,90725,1061.0,23655281.04,51710.67,0.638918919
+Moong(Green Gram),2014,Kharif     ,Chhattisgarh,8803.0,2534,1274.7,1328900.88,2904.99,0.271481481
+Moong(Green Gram),2014,Rabi       ,Chhattisgarh,7622.0,1621,1274.7,1150617.12,2515.26,0.231304348
+Moong(Green Gram),2014,Kharif     ,Gujarat,82314.0,40681,605.6,12426121.44,27163.62,0.5490625
+Moong(Green Gram),2014,Summer     ,Gujarat,35984.0,18252,605.6,5432144.64,11874.72,0.526
+Moong(Green Gram),2014,Kharif     ,Haryana,6700.0,3300,301.3,1011432.0,2211.0,0.44
+Moong(Green Gram),2014,Kharif     ,Himachal Pradesh,222.0,97,1019.9,33513.12,73.26,0.485714286
+Moong(Green Gram),2014,Kharif     ,Madhya Pradesh,149000.0,68000,891.2,22493040.0,49170.0,0.437209302
+Moong(Green Gram),2014,Kharif     ,Maharashtra,315200.0,83700,1001.6,47582592.0,104016.0,0.273939394
+Moong(Green Gram),2014,Kharif     ,Manipur,428.0,417,987.5,64610.88,141.24,0.971111111
+Moong(Green Gram),2014,Kharif     ,Nagaland,350.0,350,1333.3,52836.0,115.5,1.0
+Moong(Green Gram),2014,Kharif     ,Punjab,3700.0,3100,382.7,558552.0,1221.0,0.921818182
+Moong(Green Gram),2014,Kharif     ,Telangana,69848.0,34548,746.4,10544254.08,23049.84,0.47
+Moong(Green Gram),2014,Rabi       ,Telangana,17504.0,10306,746.4,2642403.84,5776.32,0.59625
+Moong(Green Gram),2014,Kharif     ,Tripura,569.0,312,2015.7,85896.24,187.77,0.54
+Moong(Green Gram),2014,Rabi       ,Tripura,619.0,381,2015.7,93444.24,204.27,0.60375
+Moong(Green Gram),2014,Kharif     ,Uttar Pradesh,37182.0,11887,616.4,5612994.72,12270.06,0.308448276
+Moong(Green Gram),2014,Summer     ,Uttar Pradesh,50984.0,34274,616.4,7696544.64,16824.72,0.657076923
+Moong(Green Gram),2014,Kharif     ,Uttarakhand,17.0,10,1287.4,2566.32,5.61,0.843333333
+Moong(Green Gram),2014,Summer     ,Uttarakhand,17.0,9,1287.4,2566.32,5.61,0.75
+Moong(Green Gram),2014,Kharif     ,West Bengal,1124.0,960,1483.5,169679.04,370.92,0.733
+Moong(Green Gram),2014,Rabi       ,West Bengal,2571.0,1727,1483.5,388118.16,848.43,0.778
+Moong(Green Gram),2014,Summer     ,West Bengal,27994.0,19059,1483.5,4225974.24,9238.02,0.90625
+Moong(Green Gram),2015,Kharif     ,Bihar,12217.0,8342,874.0,1929186.47,4031.61,0.675806452
+Moong(Green Gram),2015,Summer     ,Bihar,157006.0,86019,874.0,24792817.46,51811.98,0.686486486
+Moong(Green Gram),2015,Kharif     ,Chhattisgarh,9915.0,4561,1136.0,1565677.65,3271.95,0.371111111
+Moong(Green Gram),2015,Rabi       ,Chhattisgarh,4973.0,2002,1136.0,785286.43,1641.09,0.347826087
+Moong(Green Gram),2015,Kharif     ,Gujarat,104232.0,52680,584.3,16459275.12,34396.56,0.530967742
+Moong(Green Gram),2015,Summer     ,Gujarat,25225.0,13048,584.3,3983279.75,8324.25,0.538387097
+Moong(Green Gram),2015,Kharif     ,Haryana,9800.0,5420,426.8,1547518.0,3234.0,0.606666667
+Moong(Green Gram),2015,Kharif     ,Himachal Pradesh,130.0,64,1223.2,20528.3,42.9,0.5
+Moong(Green Gram),2015,Kharif     ,Madhya Pradesh,194000.0,54181,1000.7,30634540.0,64020.0,0.310909091
+Moong(Green Gram),2015,Kharif     ,Maharashtra,365868.0,69032,875.7,57774215.88,120736.44,0.20030303
+Moong(Green Gram),2015,Summer     ,Maharashtra,2552.0,591,875.7,402986.32,842.16,0.203846154
+Moong(Green Gram),2015,Kharif     ,Manipur,451.0,500,1329.1,71217.41,148.83,1.105555556
+Moong(Green Gram),2015,Kharif     ,Nagaland,390.0,400,1308.3,61584.9,128.7,1.008888889
+Moong(Green Gram),2015,Kharif     ,Punjab,6400.0,4290,512.6,1010624.0,2112.0,0.699230769
+Moong(Green Gram),2015,Kharif     ,Telangana,411094.0,421667,747.9,64915853.54,135661.02,1.773333333
+Moong(Green Gram),2015,Rabi       ,Telangana,152891.0,213712,747.9,24143017.81,50454.03,1.04
+Moong(Green Gram),2015,Kharif     ,Tripura,2200.0,1111,2334.4,347402.0,726.0,0.50625
+Moong(Green Gram),2015,Rabi       ,Tripura,1028.0,565,2334.4,162331.48,339.24,0.53875
+Moong(Green Gram),2015,Kharif     ,Uttar Pradesh,45628.0,9894,596.7,7205117.48,15057.24,0.245
+Moong(Green Gram),2015,Summer     ,Uttar Pradesh,64569.0,40979,596.7,10196090.79,21307.77,0.617205882
+Moong(Green Gram),2015,Kharif     ,Uttarakhand,3.0,2,1247.6,473.73,0.99,0.75
+Moong(Green Gram),2015,Summer     ,Uttarakhand,15.0,9,1247.6,2368.65,4.95,0.846666667
+Moong(Green Gram),2015,Kharif     ,West Bengal,1192.0,1029,1717.0,188228.72,393.36,0.762727273
+Moong(Green Gram),2015,Rabi       ,West Bengal,2633.0,1800,1717.0,415777.03,868.89,0.767
+Moong(Green Gram),2015,Summer     ,West Bengal,53186.0,36274,1717.0,8398601.26,17551.38,0.876875
+Moong(Green Gram),2016,Kharif     ,Arunachal Pradesh,1287.0,1277,2933.7,197232.75,450.45,0.982941176
+Moong(Green Gram),2016,Kharif     ,Bihar,10651.0,8329,1205.6,1632265.75,3727.85,0.76516129
+Moong(Green Gram),2016,Summer     ,Bihar,161583.0,111547,1205.6,24762594.75,56554.05,0.781578947
+Moong(Green Gram),2016,Kharif     ,Chhattisgarh,9014.0,4071,1298.9,1381395.5,3154.9,0.398148148
+Moong(Green Gram),2016,Rabi       ,Chhattisgarh,6168.0,2367,1298.9,945246.0,2158.8,0.3312
+Moong(Green Gram),2016,Kharif     ,Gujarat,153577.0,69704,710.5,23535675.25,53751.95,0.472580645
+Moong(Green Gram),2016,Summer     ,Gujarat,29165.0,26435,710.5,4469536.25,10207.75,0.766129032
+Moong(Green Gram),2016,Kharif     ,Haryana,15800.0,5200,554.7,2421350.0,5530.0,0.686
+Moong(Green Gram),2016,Kharif     ,Himachal Pradesh,71.0,25,1373.9,10880.75,24.85,0.282857143
+Moong(Green Gram),2016,Kharif     ,Madhya Pradesh,224000.0,131000,1048.4,34328000.0,78400.0,0.576956522
+Moong(Green Gram),2016,Kharif     ,Maharashtra,444267.0,260048,1151.1,68083917.75,155493.45,0.5925
+Moong(Green Gram),2016,Kharif     ,Manipur,451.0,496,2039.8,69115.75,157.85,1.094444444
+Moong(Green Gram),2016,Kharif     ,Nagaland,450.0,460,1959.8,68962.5,157.5,1.008888889
+Moong(Green Gram),2016,Kharif     ,Punjab,4800.0,4000,635.9,735600.0,1680.0,0.8025
+Moong(Green Gram),2016,Kharif     ,Telangana,134700.0,82101,942.6,20642775.0,47145.0,0.648666667
+Moong(Green Gram),2016,Rabi       ,Telangana,11023.0,9955,942.6,1689274.75,3858.05,0.90962963
+Moong(Green Gram),2016,Kharif     ,Tripura,2228.0,1234,2475.3,341441.0,779.8,0.55
+Moong(Green Gram),2016,Rabi       ,Tripura,1200.0,734,2475.3,183900.0,420.0,0.61375
+Moong(Green Gram),2016,Kharif     ,Uttar Pradesh,44299.0,18358,965.3,6788821.75,15504.65,0.468474576
+Moong(Green Gram),2016,Summer     ,Uttar Pradesh,47594.0,33556,965.3,7293780.5,16657.9,0.66015625
+Moong(Green Gram),2016,Kharif     ,Uttarakhand,37.0,18,1580.9,5670.25,12.95,0.333333333
+Moong(Green Gram),2016,Summer     ,Uttarakhand,3.0,3,1580.9,459.75,1.05,1.0
+Moong(Green Gram),2016,Kharif     ,West Bengal,1238.0,1106,1795.8,189723.5,433.3,0.790833333
+Moong(Green Gram),2016,Rabi       ,West Bengal,2760.0,1919,1795.8,422970.0,966.0,0.779090909
+Moong(Green Gram),2016,Summer     ,West Bengal,46413.0,33159,1795.8,7112792.25,16244.55,0.810526316
+Moong(Green Gram),2017,Kharif     ,Arunachal Pradesh,1268.0,1299,2745.5,199633.92,481.84,1.165882353
+Moong(Green Gram),2017,Kharif     ,Bihar,7437.0,5526,1112.0,1170881.28,2826.06,1.009655172
+Moong(Green Gram),2017,Summer     ,Bihar,169944.0,120185,1112.0,26755983.36,64578.72,0.855526316
+Moong(Green Gram),2017,Kharif     ,Chhattisgarh,8394.0,4072,1124.5,1321551.36,3189.72,0.413076923
+Moong(Green Gram),2017,Rabi       ,Chhattisgarh,3564.0,848,1124.5,561116.16,1354.32,0.31625
+Moong(Green Gram),2017,Kharif     ,Gujarat,125347.0,71444,814.8,19734631.68,47631.86,0.626333333
+Moong(Green Gram),2017,Summer     ,Gujarat,26721.0,26031,814.8,4206954.24,10153.98,0.7928125
+Moong(Green Gram),2017,Kharif     ,Haryana,13720.0,6330,417.1,2160076.8,5213.6,0.416666667
+Moong(Green Gram),2017,Kharif     ,Himachal Pradesh,130.0,92,1182.2,20467.2,49.4,0.725714286
+Moong(Green Gram),2017,Kharif     ,Jharkhand,29004.0,23589,1165.7,4566389.76,11021.52,0.79125
+Moong(Green Gram),2017,Kharif     ,Madhya Pradesh,228400.0,137110,800.0,35959296.0,86792.0,0.594509804
+Moong(Green Gram),2017,Summer     ,Madhya Pradesh,206170.0,252050,800.0,32459404.8,78344.6,1.02255814
+Moong(Green Gram),2017,Kharif     ,Maharashtra,432072.0,158517,1129.5,68025415.68,164187.36,0.3575
+Moong(Green Gram),2017,Kharif     ,Manipur,448.0,498,1780.0,70533.12,170.24,1.11
+Moong(Green Gram),2017,Kharif     ,Nagaland,480.0,510,1722.1,75571.2,182.4,1.048888889
+Moong(Green Gram),2017,Kharif     ,Punjab,3500.0,3000,497.5,551040.0,1330.0,0.847
+Moong(Green Gram),2017,Rabi       ,Punjab,18000.0,15500,497.5,2833920.0,6840.0,0.862727273
+Moong(Green Gram),2017,Kharif     ,Telangana,91534.0,58434,815.7,14411112.96,34782.92,0.663
+Moong(Green Gram),2017,Rabi       ,Telangana,6880.0,5723,815.7,1083187.2,2614.4,0.835416667
+Moong(Green Gram),2017,Kharif     ,Tripura,2473.0,1348,3326.8,389349.12,939.74,0.545
+Moong(Green Gram),2017,Rabi       ,Tripura,2320.0,1450,3326.8,365260.8,881.6,0.62375
+Moong(Green Gram),2017,Kharif     ,Uttar Pradesh,45050.0,17766,652.1,7092672.0,17119.0,0.400655738
+Moong(Green Gram),2017,Summer     ,Uttar Pradesh,42125.0,28284,652.1,6632160.0,16007.5,0.653220339
+Moong(Green Gram),2017,Kharif     ,Uttarakhand,15.0,8,1475.8,2361.6,5.7,0.533333333
+Moong(Green Gram),2017,Summer     ,Uttarakhand,6.0,4,1475.8,944.64,2.28,0.67
+Moong(Green Gram),2017,Kharif     ,West Bengal,2813.0,2185,1830.0,442878.72,1068.94,0.829
+Moong(Green Gram),2017,Rabi       ,West Bengal,1658.0,1465,1830.0,261035.52,630.04,0.771111111
+Moong(Green Gram),2017,Summer     ,West Bengal,57617.0,44182,1830.0,9071220.48,21894.46,0.938571429
+Moong(Green Gram),2018,Kharif     ,Arunachal Pradesh,1313.0,1339,2992.9,212968.6,459.55,1.09
+Moong(Green Gram),2018,Kharif     ,Bihar,9155.0,5315,1521.4,1484941.0,3204.25,0.6025
+Moong(Green Gram),2018,Summer     ,Bihar,160470.0,113163,1521.4,26028234.0,56164.5,0.767368421
+Moong(Green Gram),2018,Kharif     ,Chhattisgarh,7562.0,3866,1515.5,1226556.4,2646.7,0.414444444
+Moong(Green Gram),2018,Rabi       ,Chhattisgarh,3177.0,986,1515.5,515309.4,1111.95,0.423181818
+Moong(Green Gram),2018,Kharif     ,Gujarat,63056.0,21073,1125.4,10227683.2,22069.6,0.383103448
+Moong(Green Gram),2018,Summer     ,Gujarat,23775.0,28084,1125.4,3856305.0,8321.25,1.164827586
+Moong(Green Gram),2018,Kharif     ,Haryana,30947.0,20902,533.2,5019603.4,10831.45,0.566875
+Moong(Green Gram),2018,Kharif     ,Himachal Pradesh,108.0,77,1052.2,17517.6,37.8,0.714285714
+Moong(Green Gram),2018,Kharif     ,Jharkhand,30365.0,22664,1222.7,4925203.0,10627.75,0.734166667
+Moong(Green Gram),2018,Kharif     ,Madhya Pradesh,95295.0,38283,1102.2,15456849.0,33353.25,0.43627451
+Moong(Green Gram),2018,Summer     ,Madhya Pradesh,406.0,118,1102.2,65853.2,142.1,0.255925926
+Moong(Green Gram),2018,Kharif     ,Maharashtra,481049.0,203771,1387.4,78026147.8,168367.15,0.366896552
+Moong(Green Gram),2018,Kharif     ,Manipur,456.0,482,1196.9,73963.2,159.6,1.053333333
+Moong(Green Gram),2018,Kharif     ,Nagaland,480.0,500,1372.7,77856.0,168.0,1.026666667
+Moong(Green Gram),2018,Kharif     ,Punjab,3200.0,2700,585.5,519040.0,1120.0,0.882727273
+Moong(Green Gram),2018,Rabi       ,Punjab,16300.0,14100,585.5,2643860.0,5705.0,0.853181818
+Moong(Green Gram),2018,Kharif     ,Telangana,65643.0,41307,1350.3,10647294.6,22975.05,0.618
+Moong(Green Gram),2018,Rabi       ,Telangana,6648.0,6301,1350.3,1078305.6,2326.8,0.961923077
+Moong(Green Gram),2018,Kharif     ,Tripura,2082.0,1255,2169.1,337700.4,728.7,0.60125
+Moong(Green Gram),2018,Rabi       ,Tripura,1961.0,1303,2169.1,318074.2,686.35,0.66625
+Moong(Green Gram),2018,Kharif     ,Uttar Pradesh,50515.0,21427,792.8,8193533.0,17680.25,0.486231884
+Moong(Green Gram),2018,Summer     ,Uttar Pradesh,41462.0,34413,792.8,6725136.4,14511.7,0.794444444
+Moong(Green Gram),2018,Kharif     ,Uttarakhand,1.0,1,1373.0,162.2,0.35,1.0
+Moong(Green Gram),2018,Kharif     ,West Bengal,2594.0,1948,2012.6,420746.8,907.9,0.79
+Moong(Green Gram),2018,Rabi       ,West Bengal,965.0,684,2012.6,156523.0,337.75,0.694444444
+Moong(Green Gram),2018,Summer     ,West Bengal,61018.0,29205,2012.6,9897119.6,21356.3,0.95
+Moong(Green Gram),2019,Kharif     ,Arunachal Pradesh,1318.0,1354,2433.3,226379.68,487.66,1.121904762
+Moong(Green Gram),2019,Kharif     ,Bihar,7383.0,4637,1194.7,1268104.08,2731.71,0.707307692
+Moong(Green Gram),2019,Summer     ,Bihar,158285.0,105406,1194.7,27187031.6,58565.45,0.705789474
+Moong(Green Gram),2019,Kharif     ,Chhattisgarh,3554.0,1476,1420.3,610435.04,1314.98,0.423703704
+Moong(Green Gram),2019,Rabi       ,Chhattisgarh,2728.0,968,1420.3,468561.28,1009.36,0.362
+Moong(Green Gram),2019,Summer     ,Chhattisgarh,153.0,0,1420.3,26279.28,56.61,0.0
+Moong(Green Gram),2019,Kharif     ,Gujarat,91512.0,58758,1067.8,15718101.12,33859.44,0.653571429
+Moong(Green Gram),2019,Summer     ,Gujarat,43414.0,45370,1067.8,7456788.64,16063.18,1.031818182
+Moong(Green Gram),2019,Kharif     ,Haryana,23852.0,15894,351.8,4096819.52,8825.24,0.5855
+Moong(Green Gram),2019,Kharif     ,Himachal Pradesh,117.0,90,1217.7,20095.92,43.29,0.74875
+Moong(Green Gram),2019,Kharif     ,Jharkhand,22936.0,18556,1137.8,3939487.36,8486.32,0.805652174
+Moong(Green Gram),2019,Kharif     ,Madhya Pradesh,45938.0,14329,1446.7,7890310.88,16997.06,0.358823529
+Moong(Green Gram),2019,Summer     ,Madhya Pradesh,418554.0,575804,1446.7,71890835.04,154864.98,0.813673469
+Moong(Green Gram),2019,Kharif     ,Maharashtra,386788.0,150720,1555.8,66434706.88,143111.56,0.406551724
+Moong(Green Gram),2019,Kharif     ,Nagaland,480.0,500,1593.0,82444.8,177.6,1.026666667
+Moong(Green Gram),2019,Autumn     ,Odisha,10656.0,3144,1593.9,1830274.56,3942.72,0.370909091
+Moong(Green Gram),2019,Summer     ,Odisha,169358.0,57566,1593.9,29088930.08,62662.46,0.431538462
+Moong(Green Gram),2019,Winter     ,Odisha,60116.0,20003,1593.9,10325524.16,22242.92,0.386818182
+Moong(Green Gram),2019,Kharif     ,Punjab,2600.0,2300,653.2,446576.0,962.0,0.836666667
+Moong(Green Gram),2019,Rabi       ,Punjab,21300.0,19500,653.2,3658488.0,7881.0,0.915714286
+Moong(Green Gram),2019,Kharif     ,Telangana,59908.0,47192,1031.7,10289798.08,22165.96,0.750967742
+Moong(Green Gram),2019,Rabi       ,Telangana,5904.0,5598,1031.7,1014071.04,2184.48,0.953214286
+Moong(Green Gram),2019,Kharif     ,Tripura,2262.0,1462,2252.8,388521.12,836.94,0.63875
+Moong(Green Gram),2019,Rabi       ,Tripura,1770.0,1220,2252.8,304015.2,654.9,0.68875
+Moong(Green Gram),2019,Kharif     ,Uttar Pradesh,48924.0,14042,814.5,8403186.24,18101.88,0.404264706
+Moong(Green Gram),2019,Summer     ,Uttar Pradesh,44372.0,39252,814.5,7621334.72,16417.64,0.854363636
+Moong(Green Gram),2019,Kharif     ,Uttarakhand,2.0,2,1378.9,343.52,0.74,1.0
+Moong(Green Gram),2019,Summer     ,Uttarakhand,10.0,6,1378.9,1717.6,3.7,0.62
+Moong(Green Gram),2019,Kharif     ,West Bengal,2249.0,1896,1733.4,386288.24,832.13,0.874444444
+Moong(Green Gram),2019,Rabi       ,West Bengal,1900.0,1497,1733.4,326344.0,703.0,0.756666667
+Moong(Green Gram),2019,Summer     ,West Bengal,70233.0,28665,1733.4,12063220.08,25986.21,0.747619048
+Moong(Green Gram),2020,Kharif     ,Uttarakhand,9.0,6,1313.947826,1742.49,3.33,0.856666667
+Moong(Green Gram),2020,Summer     ,Uttarakhand,8.0,5,1313.947826,1548.88,2.96,0.785
+Moong(Green Gram),1999,Kharif     ,Andhra Pradesh,320634.0,174742,650.4,34028886.42,86571.18,0.626818182
+Moong(Green Gram),1999,Rabi       ,Andhra Pradesh,138055.0,36027,650.4,14651777.15,37274.85,0.335263158
+Moong(Green Gram),2001,Kharif     ,Jammu and Kashmir,2406.0,1070,953.8,245724.78,625.56,0.49125
+Moong(Green Gram),2002,Kharif     ,Jammu and Kashmir,2650.0,1236,933.2,250875.5,662.5,0.5075
+Moong(Green Gram),2002,Rabi       ,Puducherry,1017.0,201,1434.5875,96279.39,254.25,0.403333333
+Moong(Green Gram),2002,Kharif     ,Uttar Pradesh,22130.0,6235,664.0,2095047.1,5532.5,0.382741935
+Moong(Green Gram),2002,Summer     ,Uttar Pradesh,31599.0,18453,664.0,2991477.33,7899.75,0.559545455
+Moong(Green Gram),2003,Kharif     ,Jammu and Kashmir,1810.0,884,1430.3,179153.8,434.4,0.502857143
+Moong(Green Gram),2004,Kharif     ,Jammu and Kashmir,1944.0,945,1032.1,210612.96,408.24,0.462222222
+Moong(Green Gram),2004,Autumn     ,Odisha,18750.0,4373,1290.4,2031375.0,3937.5,0.171176471
+Moong(Green Gram),2004,Summer     ,Odisha,111395.0,35257,1290.4,12068534.3,23392.95,0.275
+Moong(Green Gram),2004,Winter     ,Odisha,82486.0,16515,1290.4,8936533.24,17322.06,0.196666667
+Moong(Green Gram),2005,Kharif     ,Jammu and Kashmir,1782.0,850,1721.8,213697.44,374.22,0.503333333
+Moong(Green Gram),2006,Kharif     ,Jammu and Kashmir,1559.0,760,1786.5,199099.89,342.98,0.503333333
+Moong(Green Gram),2007,Kharif     ,Jammu and Kashmir,864.0,421,1042.2,115257.6,138.24,0.504285714
+Moong(Green Gram),2009,Kharif     ,Jammu and Kashmir,890.0,410,751.7,138679.8,151.3,0.512222222
+Moong(Green Gram),2011,Kharif     ,Jammu and Kashmir,1498.0,874,887.6,250944.96,494.34,0.646363636
+Moong(Green Gram),2012,Kharif     ,Jammu and Kashmir,1561.0,836,1116.7,235398.8,483.91,0.639230769
+Moong(Green Gram),2012,Rabi       ,Jammu and Kashmir,72.0,86,1116.7,10857.6,22.32,1.2
+Moong(Green Gram),2012,Rabi       ,Puducherry,37.0,22,1098.3,5579.6,11.47,0.79
+Moong(Green Gram),2012,Summer     ,Puducherry,865.0,247,1098.3,130442.0,268.15,0.643333333
+Moong(Green Gram),2013,Rabi       ,Puducherry,37.0,19,1083.2,5346.13,9.99,0.51
+Moong(Green Gram),2013,Summer     ,Puducherry,590.0,236,1083.2,85249.1,159.3,0.55
+Moong(Green Gram),2014,Kharif     ,Jammu and Kashmir,1583.0,285,1278.4,238969.68,522.39,0.585714286
+Moong(Green Gram),2014,Rabi       ,Puducherry,56.0,42,1330.0,8453.76,18.48,0.75
+Moong(Green Gram),2014,Summer     ,Puducherry,1023.0,395,1330.0,154432.08,337.59,0.566666667
+Moong(Green Gram),2015,Kharif     ,Jammu and Kashmir,345.0,148,1572.6,54478.95,113.85,0.50625
+Moong(Green Gram),2015,Rabi       ,Jammu and Kashmir,3.0,1,1572.6,473.73,0.99,0.3
+Moong(Green Gram),2016,Kharif     ,Jammu and Kashmir,806.0,461,902.8,123519.5,282.1,0.502727273
+Moong(Green Gram),2017,Kharif     ,Jammu and Kashmir,614.0,237,1279.1,96668.16,233.32,0.478571429
+Moong(Green Gram),2018,Kharif     ,Jammu and Kashmir,381.0,166,1016.3,61798.2,133.35,0.48
+Moong(Green Gram),2019,Kharif     ,Jammu and Kashmir,308.0,133,1324.1,52902.08,113.96,0.485714286
+Moong(Green Gram),2004,Rabi       ,Puducherry,1862.0,568,1434.5875,201729.08,391.02,0.45
+Moong(Green Gram),2005,Rabi       ,Puducherry,1971.0,617,1434.5875,236362.32,413.91,0.426666667
+Moong(Green Gram),2013,Rabi       ,Jammu and Kashmir,72.0,86,1193.8,10403.28,19.44,1.2
+Moong(Green Gram),1999,Whole Year ,Tripura,6135.0,4170,2147.4,651107.55,1656.45,0.6725
+Moong(Green Gram),2000,Whole Year ,Tripura,6260.0,4507,2437.5,614544.2,1627.6,0.7025
+Moong(Green Gram),2001,Whole Year ,Tripura,5260.0,3857,2284.4,537203.8,1367.6,0.7325
+Moong(Green Gram),2002,Whole Year ,Tripura,5003.0,3520,2579.8,473634.01,1250.75,0.695
+Moong(Green Gram),2003,Whole Year ,Tripura,4032.0,2746,2487.9,399087.36,967.68,0.6775
+Moong(Green Gram),2004,Kharif     ,Mizoram,15.0,17,2640.8,1625.1,3.15,1.13
+Moong(Green Gram),2004,Rabi       ,Mizoram,60.0,70,2640.8,6500.4,12.6,1.18
+Moong(Green Gram),1998,Autumn     ,Odisha,21845.0,5123,1357.1,2158286.0,6335.05,0.174210526
+Moong(Green Gram),1998,Summer     ,Odisha,92720.0,22077,1357.1,9160736.0,26888.8,0.253793103
+Moong(Green Gram),1998,Winter     ,Odisha,106933.0,17537,1357.1,10564980.4,31010.57,0.136296296
+Moong(Green Gram),2005,Autumn     ,Odisha,20063.0,4344,1503.4,2405954.96,4213.23,0.175333333
+Moong(Green Gram),2005,Summer     ,Odisha,132266.0,42509,1503.4,15861338.72,27775.86,0.2875
+Moong(Green Gram),2005,Winter     ,Odisha,104909.0,19319,1503.4,12580687.28,22030.89,0.239259259
+Moong(Green Gram),2006,Autumn     ,Odisha,22715.0,5201,1716.9,2900932.65,4997.3,0.20125
+Moong(Green Gram),2006,Summer     ,Odisha,127125.0,34313,1716.9,16235133.75,27967.5,0.278275862
+Moong(Green Gram),2006,Winter     ,Odisha,85385.0,17673,1716.9,10904518.35,18784.7,0.23862069
+Moong(Green Gram),2007,Autumn     ,Odisha,23687.0,5930,1633.8,3159845.8,3789.92,0.199375
+Moong(Green Gram),2007,Summer     ,Odisha,148138.0,38981,1633.8,19761609.2,23702.08,0.288928571
+Moong(Green Gram),2007,Winter     ,Odisha,86079.0,18188,1633.8,11482938.6,13772.64,0.254074074
+Moong(Green Gram),2008,Autumn     ,Odisha,22676.0,5300,1539.0,3243575.04,2040.84,0.184285714
+Moong(Green Gram),2008,Summer     ,Odisha,125260.0,36512,1539.0,17917190.4,11273.4,0.2825
+Moong(Green Gram),2008,Winter     ,Odisha,85557.0,18854,1539.0,12238073.28,7700.13,0.265357143
+Moong(Green Gram),2009,Autumn     ,Odisha,21731.0,4949,1330.3,3386124.42,3694.27,0.338
+Moong(Green Gram),2009,Summer     ,Odisha,147688.0,46492,1330.3,23012744.16,25106.96,0.296206897
+Moong(Green Gram),2009,Winter     ,Odisha,120690.0,27253,1330.3,18805915.8,20517.3,0.263703704
+Moong(Green Gram),2010,Autumn     ,Odisha,25378.0,6479,1291.9,4215539.58,6090.72,0.21375
+Moong(Green Gram),2010,Summer     ,Odisha,184234.0,61251,1291.9,30603109.74,44216.16,0.291034483
+Moong(Green Gram),2010,Winter     ,Odisha,78502.0,17381,1291.9,13039967.22,18840.48,0.248076923
+Moong(Green Gram),2011,Autumn     ,Odisha,24786.0,5254,1346.2,4152150.72,8179.38,0.190769231
+Moong(Green Gram),2011,Summer     ,Odisha,147141.0,47584,1346.2,24649060.32,48556.53,0.2925
+Moong(Green Gram),2011,Winter     ,Odisha,41861.0,8498,1346.2,7012554.72,13814.13,0.294814815
+Moong(Green Gram),2012,Autumn     ,Odisha,21882.0,5999,1430.2,3299805.6,6783.42,0.242857143
+Moong(Green Gram),2012,Summer     ,Odisha,159285.0,54343,1430.2,24020178.0,49378.35,0.360357143
+Moong(Green Gram),2012,Winter     ,Odisha,99426.0,27442,1430.2,14993440.8,30822.06,0.322
+Moong(Green Gram),2013,Autumn     ,Odisha,24135.0,7728,1632.4,3487266.15,6516.45,0.2575
+Moong(Green Gram),2013,Summer     ,Odisha,137237.0,56544,1632.4,19829374.13,37053.99,0.398888889
+Moong(Green Gram),2013,Winter     ,Odisha,90618.0,24421,1632.4,13093394.82,24466.86,0.3176
+Moong(Green Gram),2014,Autumn     ,Odisha,22009.0,4904,1536.9,3322478.64,7262.97,0.278888889
+Moong(Green Gram),2014,Summer     ,Odisha,175592.0,70272,1536.9,26507368.32,57945.36,0.391481481
+Moong(Green Gram),2014,Winter     ,Odisha,97798.0,29848,1536.9,14763586.08,32273.34,0.322857143
+Moong(Green Gram),2015,Autumn     ,Odisha,19391.0,4715,1210.1,3062032.81,6399.03,0.231111111
+Moong(Green Gram),2015,Summer     ,Odisha,200039.0,65014,1210.1,31588158.49,66012.87,0.332413793
+Moong(Green Gram),2015,Winter     ,Odisha,70356.0,15494,1210.1,11109915.96,23217.48,0.249545455
+Moong(Green Gram),2016,Autumn     ,Odisha,40753.0,17849,1460.5,6245397.25,14263.55,0.60875
+Moong(Green Gram),2016,Summer     ,Odisha,157356.0,74083,1460.5,24114807.0,55074.6,0.461153846
+Moong(Green Gram),2016,Winter     ,Odisha,128055.0,41693,1460.5,19624428.75,44819.25,0.407916667
+Moong(Green Gram),2017,Autumn     ,Odisha,26254.0,8381,1344.4,4133429.76,9976.52,0.383333333
+Moong(Green Gram),2017,Summer     ,Odisha,127403.0,57568,1344.4,20058328.32,48413.14,0.444814815
+Moong(Green Gram),2017,Winter     ,Odisha,82357.0,25559,1344.4,12966286.08,31295.66,0.419130435
+Moong(Green Gram),2018,Autumn     ,Odisha,10615.0,2798,1635.9,1721753.0,3715.25,0.418
+Moong(Green Gram),2018,Summer     ,Odisha,143548.0,50843,1635.9,23283485.6,50241.8,0.405555556
+Moong(Green Gram),2018,Winter     ,Odisha,62479.0,17222,1635.9,10134093.8,21867.65,0.332173913

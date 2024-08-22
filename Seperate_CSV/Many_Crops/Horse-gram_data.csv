@@ -1,0 +1,372 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Horse-gram,1997,Kharif     ,Karnataka,178872.0,80124,1266.7,17023248.24,55450.32,0.45
+Horse-gram,1997,Rabi       ,Karnataka,163173.0,82572,1266.7,15529174.41,50583.63,0.514705882
+Horse-gram,1997,Kharif     ,West Bengal,5645.0,2556,1852.9,537234.65,1749.95,0.438888889
+Horse-gram,1998,Kharif     ,Karnataka,189486.0,90718,1260.8,18721216.8,54950.94,0.504615385
+Horse-gram,1998,Rabi       ,Karnataka,134779.0,62084,1260.8,13316165.2,39085.91,0.4492
+Horse-gram,1998,Rabi       ,West Bengal,4958.0,2043,2152.5,489850.4,1437.82,0.422
+Horse-gram,1999,Rabi       ,West Bengal,4326.0,2087,2318.1,459118.38,1168.02,0.452
+Horse-gram,2000,Kharif     ,Andhra Pradesh,13824.0,6838,935.6,1357102.08,3594.24,0.5
+Horse-gram,2000,Rabi       ,Andhra Pradesh,64789.0,13492,935.6,6360336.13,16845.14,0.209545455
+Horse-gram,2000,Kharif     ,Karnataka,161959.0,92938,1213.3,15899515.03,42109.34,0.63625
+Horse-gram,2000,Rabi       ,Karnataka,133213.0,63457,1213.3,13077520.21,34635.38,0.454583333
+Horse-gram,2000,Rabi       ,West Bengal,4311.0,2164,1907.7,423210.87,1120.86,0.49
+Horse-gram,2001,Kharif     ,Andhra Pradesh,11412.0,4417,928.4,1165507.56,2967.12,0.368888889
+Horse-gram,2001,Rabi       ,Andhra Pradesh,68927.0,34846,928.4,7039514.51,17921.02,0.458095238
+Horse-gram,2001,Kharif     ,Karnataka,155207.0,81931,1002.9,15851290.91,40353.82,0.5225
+Horse-gram,2001,Rabi       ,Karnataka,188076.0,67105,1002.9,19208201.88,48899.76,0.3728
+Horse-gram,2001,Rabi       ,West Bengal,3681.0,3167,1556.6,375940.53,957.06,0.651111111
+Horse-gram,2002,Kharif     ,Andhra Pradesh,14961.0,6547,648.1,1416357.87,3740.25,0.420833333
+Horse-gram,2002,Rabi       ,Andhra Pradesh,66480.0,22552,648.1,6293661.6,16620.0,0.294090909
+Horse-gram,2002,Kharif     ,Tamil Nadu,81711.0,20782,315.9,7735580.37,20427.75,0.25125
+Horse-gram,2002,Rabi       ,West Bengal,5748.0,2668,1629.1,544163.16,1437.0,0.498
+Horse-gram,2003,Kharif     ,Andhra Pradesh,11304.0,4592,826.0,1118869.92,2712.96,0.35
+Horse-gram,2003,Rabi       ,Andhra Pradesh,68190.0,34385,826.0,6749446.2,16365.6,0.463333333
+Horse-gram,2003,Kharif     ,Karnataka,109019.0,38239,867.6,10790700.62,26164.56,0.341666667
+Horse-gram,2003,Rabi       ,Karnataka,164703.0,38936,867.6,16302302.94,39528.72,0.256153846
+Horse-gram,2003,Kharif     ,Tamil Nadu,68092.0,18240,345.6,6739746.16,16342.08,0.273043478
+Horse-gram,2003,Rabi       ,West Bengal,4089.0,1783,1526.7,404729.22,981.36,0.457272727
+Horse-gram,2004,Kharif     ,Karnataka,140741.0,73217,1117.7,15247879.94,29555.61,0.553461538
+Horse-gram,2004,Rabi       ,Karnataka,142341.0,48305,1117.7,15421223.94,29891.61,0.3556
+Horse-gram,2004,Kharif     ,Tamil Nadu,67513.0,20110,1034.0,7314358.42,14177.73,0.3068
+Horse-gram,2005,Kharif     ,Andhra Pradesh,9919.0,4917,1075.5,1189486.48,2082.99,0.43
+Horse-gram,2005,Rabi       ,Andhra Pradesh,46703.0,16110,1075.5,5600623.76,9807.63,0.32
+Horse-gram,2005,Kharif     ,Karnataka,124702.0,71145,1316.2,14954263.84,26187.42,0.609166667
+Horse-gram,2005,Rabi       ,Karnataka,144530.0,57634,1316.2,17332037.6,30351.3,0.453461538
+Horse-gram,2005,Kharif     ,Tamil Nadu,60415.0,22023,1364.1,7244966.8,12687.15,0.3724
+Horse-gram,2005,Rabi       ,West Bengal,2800.0,1292,1650.1,335776.0,588.0,0.475454545
+Horse-gram,2006,Kharif     ,Andhra Pradesh,10311.0,4554,845.2,1316817.81,2268.42,0.435
+Horse-gram,2006,Rabi       ,Andhra Pradesh,53703.0,25476,845.2,6858410.13,11814.66,0.4105
+Horse-gram,2006,Kharif     ,Karnataka,111793.0,40225,1146.3,14277084.03,24594.46,0.370434783
+Horse-gram,2006,Rabi       ,Karnataka,212545.0,62867,1146.3,27144121.95,46759.9,0.368076923
+Horse-gram,2006,Whole Year ,Tamil Nadu,55635.0,32549,927.9,7105145.85,12239.7,0.5884
+Horse-gram,2006,Rabi       ,West Bengal,2414.0,1139,1631.4,308291.94,531.08,0.531818182
+Horse-gram,2007,Kharif     ,Karnataka,100262.0,51331,1323.3,13374950.8,16041.92,0.563333333
+Horse-gram,2007,Rabi       ,Karnataka,126748.0,59887,1323.3,16908183.2,20279.68,0.490714286
+Horse-gram,2007,Whole Year ,Tamil Nadu,48448.0,21339,1067.2,6462963.2,7751.68,0.4488
+Horse-gram,2007,Rabi       ,West Bengal,2213.0,1106,2007.5,295214.2,354.08,0.506
+Horse-gram,2008,Kharif     ,Andhra Pradesh,4963.0,2423,944.6,709907.52,446.67,0.489
+Horse-gram,2008,Rabi       ,Andhra Pradesh,34347.0,14062,944.6,4912994.88,3091.23,0.448095238
+Horse-gram,2008,Kharif     ,Karnataka,94450.0,42718,1164.1,13510128.0,8500.5,0.4976
+Horse-gram,2008,Rabi       ,Karnataka,122164.0,45265,1164.1,17474338.56,10994.76,0.416428571
+Horse-gram,2008,Whole Year ,Tamil Nadu,44749.0,21052,1201.9,6400896.96,4027.41,0.459230769
+Horse-gram,2008,Rabi       ,West Bengal,1897.0,940,1560.1,271346.88,170.73,0.489
+Horse-gram,2009,Kharif     ,Andhra Pradesh,20162.0,13170,711.0,3141642.84,3427.54,0.6
+Horse-gram,2009,Rabi       ,Andhra Pradesh,39303.0,23512,711.0,6124193.46,6681.51,0.508571429
+Horse-gram,2009,Kharif     ,Karnataka,114622.0,60384,1321.0,17860400.04,19485.74,0.4852
+Horse-gram,2009,Rabi       ,Karnataka,112804.0,52780,1321.0,17577119.28,19176.68,0.455714286
+Horse-gram,2009,Whole Year ,Tamil Nadu,47231.0,21816,928.5,7359534.42,8029.27,0.4292
+Horse-gram,2010,Kharif     ,Andhra Pradesh,6234.0,2985,1297.0,1035529.74,1496.16,0.4775
+Horse-gram,2010,Rabi       ,Andhra Pradesh,31431.0,13673,1297.0,5221003.41,7543.44,0.44047619
+Horse-gram,2010,Kharif     ,Karnataka,88254.0,50744,1317.7,14659871.94,21180.96,0.621538462
+Horse-gram,2010,Rabi       ,Karnataka,132555.0,80189,1317.7,22018711.05,31813.2,0.571724138
+Horse-gram,2011,Kharif     ,Andhra Pradesh,5878.0,2699,861.9,984682.56,1939.74,0.375
+Horse-gram,2011,Rabi       ,Andhra Pradesh,24983.0,10520,861.9,4185152.16,8244.39,0.345
+Horse-gram,2011,Kharif     ,Karnataka,65620.0,35860,1178.986364,10992662.4,21654.6,0.581538462
+Horse-gram,2011,Rabi       ,Karnataka,113665.0,57234,1178.986364,19041160.8,37509.45,0.464285714
+Horse-gram,2011,Whole Year ,Tamil Nadu,68968.0,37181,926.5,11553519.36,22759.44,0.5356
+Horse-gram,2012,Kharif     ,Andhra Pradesh,5000.0,3000,968.7,754000.0,1550.0,0.556666667
+Horse-gram,2012,Rabi       ,Andhra Pradesh,27000.0,16000,968.7,4071600.0,8370.0,0.566666667
+Horse-gram,2012,Kharif     ,Karnataka,63877.0,25984,956.2,9632651.6,19801.87,0.419230769
+Horse-gram,2012,Rabi       ,Karnataka,135973.0,51933,956.2,20504728.4,42151.63,0.368518519
+Horse-gram,2012,Whole Year ,Kerala,105.0,0,2187.6,15834.0,32.55,0.0
+Horse-gram,2013,Kharif     ,Andhra Pradesh,8768.0,5120,1062.3,1266888.32,2367.36,0.58125
+Horse-gram,2013,Rabi       ,Andhra Pradesh,19438.0,9743,1062.3,2808596.62,5248.26,0.4925
+Horse-gram,2013,Kharif     ,Karnataka,60159.0,30301,1235.6,8692373.91,16242.93,0.537777778
+Horse-gram,2013,Rabi       ,Karnataka,102917.0,52585,1235.6,14870477.33,27787.59,0.492592593
+Horse-gram,2013,Whole Year ,Kerala,69.0,0,3255.4,9969.81,18.63,0.0
+Horse-gram,2013,Kharif     ,Tamil Nadu,13732.0,8570,740.9,1984136.68,3707.64,0.595454545
+Horse-gram,2013,Rabi       ,Tamil Nadu,75001.0,48299,740.9,10836894.49,20250.27,0.688076923
+Horse-gram,2014,Kharif     ,Andhra Pradesh,10529.0,4728,687.6,1589457.84,3474.57,0.37
+Horse-gram,2014,Rabi       ,Andhra Pradesh,24562.0,10784,687.6,3707879.52,8105.46,0.434166667
+Horse-gram,2014,Kharif     ,Karnataka,57641.0,26921,1238.5,8701485.36,19021.53,0.4912
+Horse-gram,2014,Rabi       ,Karnataka,122862.0,60255,1238.5,18547247.52,40544.46,0.525384615
+Horse-gram,2014,Whole Year ,Kerala,111.0,0,3046.4,16756.56,36.63,0.0
+Horse-gram,2014,Kharif     ,Tamil Nadu,13931.0,10597,911.3,2103023.76,4597.23,0.764583333
+Horse-gram,2014,Rabi       ,Tamil Nadu,78131.0,57707,911.3,11794655.76,25783.23,0.735833333
+Horse-gram,2015,Kharif     ,Andhra Pradesh,35190.0,10511,940.7,5556852.9,11612.7,0.363333333
+Horse-gram,2015,Rabi       ,Andhra Pradesh,22577.0,11421,940.7,3565134.07,7450.41,0.5475
+Horse-gram,2015,Kharif     ,Karnataka,53718.0,24923,1024.9,8482609.38,17726.94,0.4544
+Horse-gram,2015,Rabi       ,Karnataka,112390.0,54360,1024.9,17747504.9,37088.7,0.461153846
+Horse-gram,2015,Kharif     ,Tamil Nadu,11492.0,6908,1201.9,1814701.72,3792.36,0.623181818
+Horse-gram,2015,Rabi       ,Tamil Nadu,64411.0,37706,1201.9,10171141.01,21255.63,0.580952381
+Horse-gram,2016,Kharif     ,Andhra Pradesh,1411.0,182,890.0,216235.75,493.85,0.155
+Horse-gram,2016,Rabi       ,Andhra Pradesh,11425.0,5666,890.0,1750881.25,3998.75,0.461666667
+Horse-gram,2016,Kharif     ,Karnataka,35541.0,10705,1147.2,5446658.25,12439.35,0.521666667
+Horse-gram,2016,Rabi       ,Karnataka,88261.0,5710,1147.2,13525998.25,30891.35,0.131153846
+Horse-gram,2016,Kharif     ,Tamil Nadu,3751.0,1175,912.4,574840.75,1312.85,0.393636364
+Horse-gram,2016,Rabi       ,Tamil Nadu,34851.0,11186,912.4,5340915.75,12197.85,0.2972
+Horse-gram,2017,Kharif     ,Andhra Pradesh,16828.0,7066,868.2,2649400.32,6394.64,0.286666667
+Horse-gram,2017,Rabi       ,Andhra Pradesh,21890.0,15129,868.2,3446361.6,8318.2,0.658333333
+Horse-gram,2017,Kharif     ,Karnataka,47383.0,32738,1111.7,7459979.52,18005.54,0.74
+Horse-gram,2017,Rabi       ,Karnataka,125758.0,79274,1111.7,19799339.52,47788.04,0.587692308
+Horse-gram,2017,Kharif     ,Tamil Nadu,8712.0,6273,970.9,1371617.28,3310.56,0.77
+Horse-gram,2017,Rabi       ,Tamil Nadu,53495.0,42261,970.9,8422252.8,20328.1,0.794782609
+Horse-gram,2018,Kharif     ,Andhra Pradesh,57122.0,10517,1220.5,9265188.4,19992.7,0.136
+Horse-gram,2018,Rabi       ,Andhra Pradesh,61676.0,27729,1220.5,10003847.2,21586.6,0.555384615
+Horse-gram,2018,Kharif     ,Karnataka,37589.0,15807,1419.1,6096935.8,13156.15,0.450740741
+Horse-gram,2018,Rabi       ,Karnataka,146902.0,73961,1419.1,23827504.4,51415.7,0.487307692
+Horse-gram,2018,Kharif     ,Tamil Nadu,4045.0,2883,986.2,656099.0,1415.75,0.685
+Horse-gram,2018,Rabi       ,Tamil Nadu,73408.0,50647,986.2,11906777.6,25692.8,0.715652174
+Horse-gram,2019,Kharif     ,Andhra Pradesh,83567.0,39442,899.2,14353467.92,30919.79,0.251666667
+Horse-gram,2019,Rabi       ,Andhra Pradesh,29995.0,16670,899.2,5151941.2,11098.15,0.606923077
+Horse-gram,2019,Kharif     ,Karnataka,93699.0,71326,1422.3,16093740.24,34668.63,0.775185185
+Horse-gram,2019,Rabi       ,Karnataka,76212.0,50531,1422.3,13090173.12,28198.44,0.6675
+Horse-gram,2019,Kharif     ,Tamil Nadu,2439.0,1697,910.1,418922.64,902.43,0.725
+Horse-gram,2019,Rabi       ,Tamil Nadu,76619.0,59679,910.1,13160079.44,28349.03,0.719565217
+Horse-gram,1997,Summer     ,Odisha,952.0,253,1496.6,90601.84,295.12,0.274444444
+Horse-gram,1997,Winter     ,Odisha,114779.0,32809,1496.6,10923517.43,35581.49,0.303448276
+Horse-gram,1997,Kharif     ,Andhra Pradesh,19600.0,6900,927.5,1865332.0,6076.0,0.4025
+Horse-gram,1997,Rabi       ,Andhra Pradesh,90500.0,37200,927.5,8612885.0,28055.0,0.3655
+Horse-gram,1998,Kharif     ,Andhra Pradesh,19100.0,7900,1048.3,1887080.0,5539.0,0.44
+Horse-gram,1998,Rabi       ,Andhra Pradesh,92000.0,27800,1048.3,9089600.0,26680.0,0.360952381
+Horse-gram,1998,Kharif     ,Himachal Pradesh,3028.0,1475,1381.6,299166.4,878.12,0.467
+Horse-gram,1998,Kharif     ,Tamil Nadu,123050.0,61658,1077.1,12157340.0,35684.5,0.5325
+Horse-gram,1999,Kharif     ,Bihar,16021.0,12028,1402.7,1700308.73,4325.67,0.73125
+Horse-gram,1999,Kharif     ,Himachal Pradesh,3307.0,1634,1144.9,350971.91,892.89,0.475555556
+Horse-gram,1999,Kharif     ,Karnataka,140609.0,62513,1203.8,14922833.17,37964.43,0.4468
+Horse-gram,1999,Rabi       ,Karnataka,211622.0,90512,1203.8,22459442.86,57137.94,0.370434783
+Horse-gram,1999,Rabi       ,Odisha,290330.0,96910,1484.3,30812722.9,78389.1,0.330869565
+Horse-gram,1999,Kharif     ,Tamil Nadu,132166.0,57685,922.8,14026777.58,35684.82,0.440833333
+Horse-gram,2000,Kharif     ,Bihar,17533.0,13548,1207.0,1721214.61,4558.58,0.74826087
+Horse-gram,2000,Kharif     ,Chhattisgarh,61595.0,18258,896.4,6046781.15,16014.7,0.276875
+Horse-gram,2000,Kharif     ,Himachal Pradesh,2807.0,805,1068.4,275563.19,729.82,0.278181818
+Horse-gram,2000,Kharif     ,Odisha,75996.0,14594,1066.0,7460527.32,19758.96,0.217931034
+Horse-gram,2000,Kharif     ,Tamil Nadu,148579.0,65066,971.1,14586000.43,38630.54,0.429545455
+Horse-gram,2000,Kharif     ,Uttarakhand,9223.0,4787,1413.4,905421.91,2397.98,0.555454545
+Horse-gram,2001,Kharif     ,Bihar,14349.0,11520,1247.0,1465463.37,3730.74,0.781904762
+Horse-gram,2001,Kharif     ,Chhattisgarh,57694.0,19650,1550.0,5892288.22,15000.44,0.325625
+Horse-gram,2001,Kharif     ,Haryana,310.0,0,483.8,31660.3,80.6,0.0
+Horse-gram,2001,Kharif     ,Himachal Pradesh,2418.0,967,918.1,246950.34,628.68,0.396
+Horse-gram,2001,Kharif     ,Odisha,91171.0,28017,1672.5,9311294.23,23704.46,0.315172414
+Horse-gram,2001,Kharif     ,Uttarakhand,7781.0,3437,1541.3,794673.53,2023.06,0.476666667
+Horse-gram,2002,Kharif     ,Bihar,13093.0,10420,1105.8,1239514.31,3273.25,0.790909091
+Horse-gram,2002,Kharif     ,Chhattisgarh,54490.0,13149,1001.4,5158568.3,13622.5,0.259375
+Horse-gram,2002,Rabi       ,Chhattisgarh,2969.0,748,1001.4,281075.23,742.25,0.258333333
+Horse-gram,2002,Kharif     ,Haryana,446.0,100,353.9,42222.82,111.5,0.062
+Horse-gram,2002,Kharif     ,Himachal Pradesh,2582.0,599,890.8,244437.94,645.5,0.238181818
+Horse-gram,2002,Kharif     ,Karnataka,132978.0,51995,860.8,12589027.26,33244.5,0.426666667
+Horse-gram,2002,Rabi       ,Karnataka,202130.0,57319,860.8,19135647.1,50532.5,0.408333333
+Horse-gram,2002,Kharif     ,Odisha,75952.0,14322,1102.8,7190375.84,18988.0,0.222666667
+Horse-gram,2002,Kharif     ,Uttarakhand,7589.0,3499,1610.3,718450.63,1897.25,0.494
+Horse-gram,2003,Kharif     ,Bihar,15425.0,11399,1353.9,1526766.5,3702.0,0.743043478
+Horse-gram,2003,Kharif     ,Chhattisgarh,52598.0,17492,1643.7,5206150.04,12623.52,0.324375
+Horse-gram,2003,Rabi       ,Chhattisgarh,3149.0,910,1643.7,311688.02,755.76,0.3275
+Horse-gram,2003,Kharif     ,Haryana,4336.0,700,592.3,429177.28,1040.64,0.088
+Horse-gram,2003,Kharif     ,Madhya Pradesh,30880.0,9527,1163.0,3056502.4,7411.2,0.254705882
+Horse-gram,2003,Rabi       ,Madhya Pradesh,152.0,43,1163.0,15044.96,36.48,0.305
+Horse-gram,2003,Kharif     ,Odisha,87826.0,24752,1648.2,8693017.48,21078.24,0.293103448
+Horse-gram,2003,Kharif     ,Uttarakhand,8171.0,6066,1734.3,808765.58,1961.04,0.749090909
+Horse-gram,2004,Kharif     ,Andhra Pradesh,10077.0,4552,781.8,1091742.18,2116.17,0.433
+Horse-gram,2004,Rabi       ,Andhra Pradesh,56470.0,21003,781.8,6117959.8,11858.7,0.338571429
+Horse-gram,2004,Kharif     ,Bihar,15011.0,12130,1147.8,1626291.74,3152.31,0.7795
+Horse-gram,2004,Kharif     ,Chhattisgarh,55371.0,16431,1122.8,5998894.14,11627.91,0.291875
+Horse-gram,2004,Kharif     ,Haryana,515.0,100,484.6,55795.1,108.15,0.103333333
+Horse-gram,2004,Kharif     ,Madhya Pradesh,29682.0,7675,895.7,3215747.88,6233.22,0.278235294
+Horse-gram,2004,Rabi       ,Madhya Pradesh,160.0,45,895.7,17334.4,33.6,0.305
+Horse-gram,2004,Kharif     ,Uttarakhand,8575.0,6134,1219.6,929015.5,1800.75,0.724545455
+Horse-gram,2004,Rabi       ,West Bengal,2785.0,1163,1612.9,301726.9,584.85,0.364
+Horse-gram,2005,Kharif     ,Bihar,11744.0,10101,907.8,1408340.48,2466.24,0.8425
+Horse-gram,2005,Kharif     ,Chhattisgarh,51006.0,16802,1292.7,6116639.52,10711.26,0.479375
+Horse-gram,2005,Rabi       ,Chhattisgarh,2860.0,790,1292.7,342971.2,600.6,0.279166667
+Horse-gram,2005,Kharif     ,Haryana,5685.0,1200,516.9,681745.2,1193.85,0.121666667
+Horse-gram,2005,Kharif     ,Himachal Pradesh,2370.0,871,1248.1,284210.4,497.7,0.381
+Horse-gram,2005,Kharif     ,Madhya Pradesh,27053.0,7475,1032.7,3244195.76,5681.13,0.266666667
+Horse-gram,2005,Rabi       ,Madhya Pradesh,153.0,43,1032.7,18347.76,32.13,0.163333333
+Horse-gram,2005,Kharif     ,Uttarakhand,8571.0,5116,1353.3,1027834.32,1799.91,0.637272727
+Horse-gram,2006,Kharif     ,Chhattisgarh,50346.0,15934,1317.2,6429687.66,11076.12,0.281666667
+Horse-gram,2006,Rabi       ,Chhattisgarh,2492.0,696,1317.2,318253.32,548.24,0.445384615
+Horse-gram,2006,Kharif     ,Haryana,2057.0,600,329.3,262699.47,452.54,0.23
+Horse-gram,2006,Kharif     ,Himachal Pradesh,2551.0,1337,1207.0,325788.21,561.22,0.484
+Horse-gram,2006,Kharif     ,Madhya Pradesh,25431.0,7366,1072.3,3247793.01,5594.82,0.283846154
+Horse-gram,2006,Rabi       ,Madhya Pradesh,211.0,59,1072.3,26946.81,46.42,0.093333333
+Horse-gram,2006,Kharif     ,Uttarakhand,9523.0,6745,1178.9,1216182.33,2095.06,0.695454545
+Horse-gram,2007,Kharif     ,Andhra Pradesh,7000.0,4000,1004.2,933800.0,1120.0,0.585
+Horse-gram,2007,Rabi       ,Andhra Pradesh,43000.0,21000,1004.2,5736200.0,6880.0,0.486363636
+Horse-gram,2007,Kharif     ,Chhattisgarh,50203.0,16113,1246.2,6697080.2,8032.48,0.3
+Horse-gram,2007,Rabi       ,Chhattisgarh,2814.0,823,1246.2,375387.6,450.24,0.324166667
+Horse-gram,2007,Kharif     ,Haryana,458.0,100,443.8,61097.2,73.28,0.0825
+Horse-gram,2007,Kharif     ,Himachal Pradesh,2422.0,1097,1095.4,323094.8,387.52,0.444
+Horse-gram,2007,Kharif     ,Madhya Pradesh,23989.0,7716,740.4,3200132.6,3838.24,0.286666667
+Horse-gram,2007,Rabi       ,Madhya Pradesh,165.0,46,740.4,22011.0,26.4,0.186666667
+Horse-gram,2007,Kharif     ,Uttarakhand,9001.0,7005,1924.3,1200733.4,1440.16,0.749090909
+Horse-gram,2008,Kharif     ,Chhattisgarh,49308.0,15504,1117.9,7053016.32,4437.72,0.288888889
+Horse-gram,2008,Rabi       ,Chhattisgarh,2273.0,616,1117.9,325129.92,204.57,0.270909091
+Horse-gram,2008,Kharif     ,Haryana,520.0,200,715.6,74380.8,46.8,0.2725
+Horse-gram,2008,Kharif     ,Himachal Pradesh,2238.0,868,1357.1,320123.52,201.42,0.349
+Horse-gram,2008,Kharif     ,Madhya Pradesh,23676.0,7406,895.0,3386615.04,2130.84,0.323846154
+Horse-gram,2008,Rabi       ,Madhya Pradesh,193.0,54,895.0,27606.72,17.37,0.28
+Horse-gram,2008,Kharif     ,Uttarakhand,9531.0,7419,1363.7,1363314.24,857.79,0.749090909
+Horse-gram,2009,Kharif     ,Bihar,10984.0,10578,889.3,1711526.88,1867.28,0.9665
+Horse-gram,2009,Kharif     ,Chhattisgarh,48893.0,13571,956.9,7618507.26,8311.81,0.281764706
+Horse-gram,2009,Rabi       ,Chhattisgarh,2169.0,564,956.9,337973.58,368.73,0.248181818
+Horse-gram,2009,Kharif     ,Haryana,436.0,100,393.0,67937.52,74.12,0.09
+Horse-gram,2009,Kharif     ,Himachal Pradesh,2005.0,599,969.9,312419.1,340.85,0.306
+Horse-gram,2009,Kharif     ,Uttarakhand,9538.0,5909,847.8,1486211.16,1621.46,0.650909091
+Horse-gram,2009,Rabi       ,West Bengal,1863.0,935,1317.2,290292.66,316.71,0.555
+Horse-gram,2009,Kharif     ,Madhya Pradesh,22133.0,6708,904.1,3448764.06,3762.61,0.3075
+Horse-gram,2009,Rabi       ,Madhya Pradesh,171.0,56,904.1,26645.22,29.07,0.3325
+Horse-gram,2010,Kharif     ,Bihar,9870.0,9318,629.2,1639505.7,2368.8,0.938888889
+Horse-gram,2010,Kharif     ,Chhattisgarh,48782.0,13995,1283.1,8103178.02,11707.68,0.306470588
+Horse-gram,2010,Rabi       ,Chhattisgarh,2109.0,562,1283.1,350325.99,506.16,0.256363636
+Horse-gram,2010,Kharif     ,Haryana,416.0,100,639.2,69101.76,99.84,0.0725
+Horse-gram,2010,Kharif     ,Himachal Pradesh,1805.0,1012,1319.8,299828.55,433.2,0.554
+Horse-gram,2010,Kharif     ,Madhya Pradesh,19827.0,6506,856.3,3293462.97,4758.48,0.290769231
+Horse-gram,2010,Rabi       ,Madhya Pradesh,100.0,25,856.3,16611.0,24.0,0.25
+Horse-gram,2010,Kharif     ,Nagaland,330.0,330,1771.8,54816.3,79.2,1.011818182
+Horse-gram,2010,Kharif     ,Tamil Nadu,47320.0,21729,1095.2,7860325.2,11356.8,0.444615385
+Horse-gram,2010,Kharif     ,Uttarakhand,9690.0,8179,1419.0,1609605.9,2325.6,0.854545455
+Horse-gram,2010,Kharif     ,Jammu and Kashmir,1006.0,312,1352.0,167106.66,241.44,0.345714286
+Horse-gram,2010,Kharif     ,West Bengal,2363.0,1190,1096.0,392517.93,567.12,0.529
+Horse-gram,2011,Kharif     ,Bihar,8641.0,8226,1097.1,1447540.32,2851.53,0.954761905
+Horse-gram,2011,Kharif     ,Chhattisgarh,46924.0,13721,1302.7,7860708.48,15484.92,0.312272727
+Horse-gram,2011,Rabi       ,Chhattisgarh,1777.0,699,1302.7,297683.04,586.41,0.334615385
+Horse-gram,2011,Kharif     ,Haryana,423.0,100,471.5409091,70860.96,139.59,0.093333333
+Horse-gram,2011,Kharif     ,Himachal Pradesh,2066.0,1030,1108.3,346096.32,681.78,0.523
+Horse-gram,2011,Kharif     ,Madhya Pradesh,18823.0,4475,852.6,3153228.96,6211.59,0.213333333
+Horse-gram,2011,Rabi       ,Madhya Pradesh,126.0,31,852.6,21107.52,41.58,0.2375
+Horse-gram,2011,Kharif     ,Nagaland,330.0,330,1544.354545,55281.6,108.9,1.011818182
+Horse-gram,2011,Kharif     ,Uttarakhand,10016.0,8120,1564.7,1677880.32,3305.28,0.848181818
+Horse-gram,2011,Kharif     ,West Bengal,2046.0,984,1686.5,342745.92,675.18,0.525
+Horse-gram,2012,Kharif     ,Bihar,8006.0,7752,924.1,1207304.8,2481.86,0.97375
+Horse-gram,2012,Kharif     ,Chhattisgarh,46068.0,14340,1366.8,6947054.4,14281.08,0.3325
+Horse-gram,2012,Rabi       ,Chhattisgarh,1509.0,425,1366.8,227557.2,467.79,0.300833333
+Horse-gram,2012,Kharif     ,Haryana,343.0,136,307.9,51724.4,106.33,0.26
+Horse-gram,2012,Kharif     ,Himachal Pradesh,1910.0,744,1035.0,288028.0,592.1,0.622
+Horse-gram,2012,Kharif     ,Madhya Pradesh,15576.0,6560,1049.5,2348860.8,4828.56,0.365454545
+Horse-gram,2012,Rabi       ,Madhya Pradesh,77.0,27,1049.5,11611.6,23.87,0.29
+Horse-gram,2012,Kharif     ,Nagaland,420.0,440,1296.6,63336.0,130.2,1.040909091
+Horse-gram,2012,Kharif     ,Tamil Nadu,63505.0,25455,706.8,9576554.0,19686.55,0.331923077
+Horse-gram,2012,Kharif     ,Uttarakhand,10867.0,8700,1309.8,1638743.6,3368.77,0.803636364
+Horse-gram,2012,Kharif     ,West Bengal,1933.0,957,1566.0,291496.4,599.23,0.518
+Horse-gram,2013,Kharif     ,Bihar,8221.0,7828,1069.9,1187852.29,2219.67,0.957142857
+Horse-gram,2013,Kharif     ,Chhattisgarh,44568.0,13804,1418.3,6439630.32,12033.36,0.322727273
+Horse-gram,2013,Rabi       ,Chhattisgarh,1366.0,359,1418.3,197373.34,368.82,0.321428571
+Horse-gram,2013,Kharif     ,Haryana,600.0,400,452.2,86694.0,162.0,0.723333333
+Horse-gram,2013,Kharif     ,Himachal Pradesh,1750.0,613,1216.9,252857.5,472.5,0.352
+Horse-gram,2013,Kharif     ,Madhya Pradesh,14253.0,7464,1451.4,2059415.97,3848.31,0.404166667
+Horse-gram,2013,Rabi       ,Madhya Pradesh,71.0,26,1451.4,10258.79,19.17,0.37
+Horse-gram,2013,Kharif     ,Telangana,507.0,315,1348.7,73256.43,136.89,0.61
+Horse-gram,2013,Rabi       ,Telangana,2437.0,1165,1348.7,352122.13,657.99,0.481428571
+Horse-gram,2013,Kharif     ,Uttarakhand,10523.0,8474,1735.4,1520468.27,2841.21,0.792727273
+Horse-gram,2013,Kharif     ,West Bengal,1931.0,981,1939.9,279010.19,521.37,0.564444444
+Horse-gram,2014,Kharif     ,Bihar,8318.0,7960,1061.0,1255685.28,2744.94,0.964736842
+Horse-gram,2014,Kharif     ,Chhattisgarh,43859.0,13849,1274.7,6620954.64,14473.47,0.324347826
+Horse-gram,2014,Rabi       ,Chhattisgarh,1399.0,417,1274.7,211193.04,461.67,0.294166667
+Horse-gram,2014,Kharif     ,Haryana,300.0,300,301.3,45288.0,99.0,1.0
+Horse-gram,2014,Kharif     ,Himachal Pradesh,1472.0,607,1019.9,222213.12,485.76,0.375
+Horse-gram,2014,Kharif     ,Madhya Pradesh,14000.0,8000,891.2,2113440.0,4620.0,0.526
+Horse-gram,2014,Kharif     ,Nagaland,450.0,480,1333.3,67932.0,148.5,1.046363636
+Horse-gram,2014,Kharif     ,Telangana,529.0,274,746.4,79857.84,174.57,0.51
+Horse-gram,2014,Rabi       ,Telangana,1778.0,679,746.4,268406.88,586.74,0.39375
+Horse-gram,2014,Kharif     ,Uttarakhand,12109.0,9783,1287.4,1827974.64,3995.97,0.807272727
+Horse-gram,2014,Rabi       ,West Bengal,1989.0,1031,1483.5,300259.44,656.37,0.639
+Horse-gram,2015,Kharif     ,Bihar,7763.0,7210,874.0,1225855.33,2561.79,0.925
+Horse-gram,2015,Kharif     ,Chhattisgarh,40528.0,14052,1136.0,6399776.48,13374.24,0.39
+Horse-gram,2015,Rabi       ,Chhattisgarh,3820.0,1036,1136.0,603216.2,1260.6,0.263333333
+Horse-gram,2015,Kharif     ,Haryana,200.0,100,426.8,31582.0,66.0,0.5
+Horse-gram,2015,Kharif     ,Himachal Pradesh,1614.0,757,1223.2,254866.74,532.62,0.452
+Horse-gram,2015,Kharif     ,Madhya Pradesh,13000.0,3376,1000.7,2052830.0,4290.0,0.258
+Horse-gram,2015,Kharif     ,Nagaland,490.0,520,1308.3,77375.9,161.7,1.040909091
+Horse-gram,2015,Kharif     ,Telangana,510.0,110,747.9,80534.1,168.3,0.22
+Horse-gram,2015,Rabi       ,Telangana,1530.0,684,747.9,241602.3,504.9,0.418888889
+Horse-gram,2015,Kharif     ,Uttarakhand,11580.0,10292,1247.6,1828597.8,3821.4,0.893636364
+Horse-gram,2015,Rabi       ,West Bengal,2081.0,1081,1717.0,328610.71,686.73,0.662727273
+Horse-gram,2016,Kharif     ,Bihar,8300.0,7626,1205.6,1271975.0,2905.0,0.919444444
+Horse-gram,2016,Kharif     ,Chhattisgarh,39873.0,15245,1298.9,6110537.25,13955.55,0.405217391
+Horse-gram,2016,Rabi       ,Chhattisgarh,3855.0,1122,1298.9,590778.75,1349.25,0.273636364
+Horse-gram,2016,Kharif     ,Haryana,200.0,100,554.7,30650.0,70.0,0.5
+Horse-gram,2016,Kharif     ,Himachal Pradesh,1696.0,595,1373.9,259912.0,593.6,0.353
+Horse-gram,2016,Kharif     ,Madhya Pradesh,13000.0,6420,1048.4,1992250.0,4550.0,0.484
+Horse-gram,2016,Kharif     ,Nagaland,500.0,530,1959.8,76625.0,175.0,1.040909091
+Horse-gram,2016,Kharif     ,Telangana,353.0,135,942.6,54097.25,123.55,0.395714286
+Horse-gram,2016,Rabi       ,Telangana,1310.0,500,942.6,200757.5,458.5,0.360625
+Horse-gram,2016,Kharif     ,Uttarakhand,11762.0,9536,1580.9,1802526.5,4116.7,0.831818182
+Horse-gram,2016,Rabi       ,West Bengal,2160.0,1185,1795.8,331020.0,756.0,0.683333333
+Horse-gram,2017,Kharif     ,Bihar,8587.0,7978,1112.0,1351937.28,3263.06,0.914666667
+Horse-gram,2017,Kharif     ,Chhattisgarh,38331.0,14818,1124.5,6034832.64,14565.78,0.4
+Horse-gram,2017,Rabi       ,Chhattisgarh,3256.0,944,1124.5,512624.64,1237.28,0.256363636
+Horse-gram,2017,Kharif     ,Haryana,290.0,80,417.1,45657.6,110.2,0.145
+Horse-gram,2017,Kharif     ,Himachal Pradesh,1614.0,938,1182.2,254108.16,613.32,0.561
+Horse-gram,2017,Kharif     ,Jharkhand,14088.0,8831,1165.7,2218014.72,5353.44,0.631
+Horse-gram,2017,Kharif     ,Madhya Pradesh,14240.0,5690,800.0,2241945.6,5411.2,0.34875
+Horse-gram,2017,Kharif     ,Nagaland,520.0,570,1722.1,81868.8,197.6,1.064545455
+Horse-gram,2017,Kharif     ,Telangana,237.0,0,815.7,37313.28,90.06,0.0
+Horse-gram,2017,Rabi       ,Telangana,963.0,0,815.7,151614.72,365.94,0.0
+Horse-gram,2017,Kharif     ,Uttarakhand,12728.0,10555,1475.8,2003896.32,4836.64,0.923636364
+Horse-gram,2017,Rabi       ,West Bengal,1319.0,752,1830.0,207663.36,501.22,0.595454545
+Horse-gram,2018,Kharif     ,Bihar,9912.0,8965,1521.4,1607726.4,3469.2,0.912666667
+Horse-gram,2018,Kharif     ,Chhattisgarh,37505.0,14524,1515.5,6083311.0,13126.75,0.407826087
+Horse-gram,2018,Rabi       ,Chhattisgarh,1150.0,345,1515.5,186530.0,402.5,0.3975
+Horse-gram,2018,Kharif     ,Haryana,289.0,145,533.2,46875.8,101.15,0.5
+Horse-gram,2018,Kharif     ,Himachal Pradesh,1618.0,938,1052.2,262439.6,566.3,0.549
+Horse-gram,2018,Kharif     ,Jharkhand,17053.0,11291,1222.7,2765996.6,5968.55,0.625714286
+Horse-gram,2018,Kharif     ,Madhya Pradesh,1852.0,699,1102.2,300394.4,648.2,0.216666667
+Horse-gram,2018,Kharif     ,Nagaland,540.0,580,1372.7,87588.0,189.0,1.041818182
+Horse-gram,2018,Kharif     ,Telangana,144.0,92,1350.3,23356.8,50.4,0.654
+Horse-gram,2018,Rabi       ,Telangana,736.0,467,1350.3,119379.2,257.6,0.668571429
+Horse-gram,2018,Kharif     ,Uttarakhand,12898.0,11419,1373.0,2092055.6,4514.3,0.885454545
+Horse-gram,2018,Rabi       ,West Bengal,1405.0,697,2012.6,227891.0,491.75,0.568571429
+Horse-gram,2019,Kharif     ,Bihar,8077.0,7456,1194.7,1387305.52,2988.49,0.91875
+Horse-gram,2019,Kharif     ,Chhattisgarh,25983.0,10152,1420.3,4462840.08,9613.71,0.406956522
+Horse-gram,2019,Rabi       ,Chhattisgarh,345.0,99,1420.3,59257.2,127.65,0.262727273
+Horse-gram,2019,Kharif     ,Haryana,425.0,213,351.8,72998.0,157.25,0.666666667
+Horse-gram,2019,Kharif     ,Himachal Pradesh,1633.0,1022,1217.7,280484.08,604.21,0.613
+Horse-gram,2019,Kharif     ,Jharkhand,20264.0,13618,1137.8,3480544.64,7497.68,0.645238095
+Horse-gram,2019,Kharif     ,Nagaland,540.0,580,1593.0,92750.4,199.8,1.041818182
+Horse-gram,2019,Summer     ,Odisha,36.0,23,1593.9,6183.36,13.32,0.63
+Horse-gram,2019,Winter     ,Odisha,22722.0,8999,1593.9,3902730.72,8407.14,0.400344828
+Horse-gram,2019,Kharif     ,Telangana,431.0,371,1031.7,74028.56,159.47,0.818333333
+Horse-gram,2019,Rabi       ,Telangana,619.0,539,1031.7,106319.44,229.03,0.870526316
+Horse-gram,2019,Kharif     ,Uttarakhand,13223.0,12194,1378.9,2271182.48,4892.51,0.931818182
+Horse-gram,2019,Rabi       ,West Bengal,1739.0,919,1733.4,298690.64,643.43,0.563
+Horse-gram,2020,Kharif     ,Uttarakhand,13149.0,12844,1313.947826,2545777.89,4865.13,0.969090909
+Horse-gram,1999,Kharif     ,Andhra Pradesh,17595.0,5969,650.4,1867357.35,4750.65,0.387857143
+Horse-gram,1999,Rabi       ,Andhra Pradesh,83409.0,29925,650.4,8852197.17,22520.43,0.379047619
+Horse-gram,2001,Kharif     ,Jammu and Kashmir,1944.0,600,953.8,198540.72,505.44,0.37
+Horse-gram,2004,Summer     ,Odisha,240.0,62,1290.4,26001.6,50.4,0.21
+Horse-gram,2004,Winter     ,Odisha,78105.0,20792,1290.4,8461895.7,16402.05,0.301666667
+Horse-gram,2006,Kharif     ,Jammu and Kashmir,2306.0,676,1786.5,294499.26,507.32,0.33
+Horse-gram,2009,Kharif     ,Jammu and Kashmir,1773.0,514,751.7,276268.86,301.41,0.344285714
+Horse-gram,2011,Kharif     ,Jammu and Kashmir,957.0,282,887.6,160316.64,315.81,0.343333333
+Horse-gram,2012,Kharif     ,Jammu and Kashmir,1165.0,362,1116.7,175682.0,361.15,0.337142857
+Horse-gram,2015,Kharif     ,Jammu and Kashmir,192.0,67,1572.6,30318.72,63.36,0.371666667
+Horse-gram,2015,Rabi       ,Jammu and Kashmir,4.0,2,1572.6,631.64,1.32,0.4
+Horse-gram,2016,Kharif     ,Jammu and Kashmir,798.0,280,902.8,122293.5,279.3,0.363333333
+Horse-gram,2016,Rabi       ,Jammu and Kashmir,1.0,0,902.8,153.25,0.35,0.4
+Horse-gram,2017,Kharif     ,Jammu and Kashmir,1106.0,473,1279.1,174128.64,420.28,0.423333333
+Horse-gram,2017,Rabi       ,Jammu and Kashmir,45.0,18,1279.1,7084.8,17.1,0.4
+Horse-gram,2018,Kharif     ,Jammu and Kashmir,777.0,334,1016.3,126029.4,271.95,0.428333333
+Horse-gram,2018,Rabi       ,Jammu and Kashmir,8.0,10,1016.3,1297.6,2.8,1.3
+Horse-gram,2019,Kharif     ,Jammu and Kashmir,631.0,221,1324.1,108380.56,233.47,0.361666667
+Horse-gram,2019,Rabi       ,Jammu and Kashmir,20.0,8,1324.1,3435.2,7.4,0.4
+Horse-gram,1998,Summer     ,Odisha,528.0,81,1357.1,52166.4,153.12,0.105714286
+Horse-gram,1998,Winter     ,Odisha,96407.0,23838,1357.1,9525011.6,27958.03,0.250666667
+Horse-gram,2005,Summer     ,Odisha,439.0,83,1503.4,52644.88,92.19,0.217777778
+Horse-gram,2005,Winter     ,Odisha,75000.0,20905,1503.4,8994000.0,15750.0,0.287666667
+Horse-gram,2006,Summer     ,Odisha,197.0,25,1716.9,25158.87,43.34,0.242857143
+Horse-gram,2006,Winter     ,Odisha,73305.0,21142,1716.9,9361781.55,16127.1,0.300666667
+Horse-gram,2007,Summer     ,Odisha,152.0,42,1633.8,20276.8,24.32,0.226666667
+Horse-gram,2007,Winter     ,Odisha,71956.0,21084,1633.8,9598930.4,11512.96,0.306666667
+Horse-gram,2008,Summer     ,Odisha,94.0,25,1539.0,13445.76,8.46,0.242
+Horse-gram,2008,Winter     ,Odisha,58696.0,16093,1539.0,8395875.84,5282.64,0.304666667
+Horse-gram,2009,Summer     ,Odisha,276.0,74,1330.3,43006.32,46.92,0.2175
+Horse-gram,2009,Winter     ,Odisha,64317.0,19856,1330.3,10021874.94,10933.89,0.330333333
+Horse-gram,2010,Summer     ,Odisha,404.0,120,1291.9,67108.44,96.96,0.28
+Horse-gram,2010,Winter     ,Odisha,69005.0,22093,1291.9,11462420.55,16561.2,0.318965517
+Horse-gram,2011,Summer     ,Odisha,90.0,27,1346.2,15076.8,29.7,0.25
+Horse-gram,2011,Winter     ,Odisha,44164.0,10668,1346.2,7398353.28,14574.12,0.254137931
+Horse-gram,2012,Summer     ,Odisha,61.0,19,1430.2,9198.8,18.91,0.28
+Horse-gram,2012,Winter     ,Odisha,48249.0,17465,1430.2,7275949.2,14957.19,0.363448276
+Horse-gram,2013,Summer     ,Odisha,62.0,21,1632.4,8958.38,16.74,0.38
+Horse-gram,2013,Winter     ,Odisha,42038.0,15031,1632.4,6074070.62,11350.26,0.33137931
+Horse-gram,2014,Summer     ,Odisha,118.0,40,1536.9,17813.28,38.94,0.368
+Horse-gram,2014,Winter     ,Odisha,38245.0,13177,1536.9,5773465.2,12620.85,0.343103448
+Horse-gram,2015,Summer     ,Odisha,156.0,27,1210.1,24633.96,51.48,0.18
+Horse-gram,2015,Winter     ,Odisha,33206.0,9416,1210.1,5243559.46,10957.98,0.356551724
+Horse-gram,2016,Summer     ,Odisha,40.0,15,1460.5,6130.0,14.0,0.3375
+Horse-gram,2016,Winter     ,Odisha,34046.0,14838,1460.5,5217549.5,11916.1,0.396071429
+Horse-gram,2017,Summer     ,Odisha,373.0,142,1344.4,58725.12,141.74,0.45
+Horse-gram,2017,Winter     ,Odisha,25841.0,10641,1344.4,4068407.04,9819.58,0.383571429
+Horse-gram,2018,Summer     ,Odisha,38.0,14,1635.9,6163.6,13.3,0.35
+Horse-gram,2018,Winter     ,Odisha,23569.0,8680,1635.9,3822891.8,8249.15,0.379310345

@@ -1,0 +1,370 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Peas & beans (Pulses),1998,Kharif     ,Karnataka,1730.0,15872,1260.8,170924.0,501.7,9.265882353
+Peas & beans (Pulses),1998,Rabi       ,Karnataka,494.0,4882,1260.8,48807.2,143.26,8.948181818
+Peas & beans (Pulses),1998,Summer     ,Karnataka,1583.0,13707,1260.8,156400.4,459.07,7.827
+Peas & beans (Pulses),1998,Rabi       ,West Bengal,9230.0,6776,2152.5,911924.0,2676.7,0.70625
+Peas & beans (Pulses),1999,Rabi       ,West Bengal,7041.0,6027,2318.1,747261.33,1901.07,0.931333333
+Peas & beans (Pulses),2000,Rabi       ,West Bengal,7338.0,6111,1907.7,720371.46,1907.88,0.843333333
+Peas & beans (Pulses),2001,Rabi       ,Assam,24375.0,14305,1824.7,2489418.75,6337.5,0.587826087
+Peas & beans (Pulses),2001,Whole Year ,Karnataka,6974.0,42197,1002.9,712254.62,1813.24,6.209444444
+Peas & beans (Pulses),2001,Rabi       ,West Bengal,8836.0,5602,1556.6,902420.68,2297.36,0.596666667
+Peas & beans (Pulses),2002,Rabi       ,Assam,23077.0,13684,1973.6,2184699.59,5769.25,0.585217391
+Peas & beans (Pulses),2002,Rabi       ,West Bengal,10754.0,8635,1629.1,1018081.18,2688.5,0.807647059
+Peas & beans (Pulses),2003,Rabi       ,Assam,25133.0,14866,2213.7,2487664.34,6031.92,0.586956522
+Peas & beans (Pulses),2003,Rabi       ,West Bengal,14607.0,17206,1526.7,1445800.86,3505.68,1.140588235
+Peas & beans (Pulses),2005,Rabi       ,Assam,17875.0,11309,2184.6,2143570.0,3753.75,0.618518519
+Peas & beans (Pulses),2005,Kharif     ,Karnataka,4174.0,25514,1316.2,500546.08,876.54,5.612105263
+Peas & beans (Pulses),2005,Rabi       ,Karnataka,686.0,4824,1316.2,82265.12,144.06,7.193333333
+Peas & beans (Pulses),2005,Summer     ,Karnataka,525.0,2655,1316.2,62958.0,110.25,5.036875
+Peas & beans (Pulses),2005,Rabi       ,West Bengal,13131.0,11504,1650.1,1574669.52,2757.51,0.936470588
+Peas & beans (Pulses),2006,Rabi       ,Assam,19143.0,11716,1774.9,2444752.53,4211.46,0.616666667
+Peas & beans (Pulses),2006,Rabi       ,West Bengal,12495.0,8436,1631.4,1595736.45,2748.9,0.679411765
+Peas & beans (Pulses),2007,Rabi       ,Assam,22514.0,13800,2154.1,3003367.6,3602.24,0.624814815
+Peas & beans (Pulses),2007,Rabi       ,West Bengal,9851.0,7161,2007.5,1314123.4,1576.16,0.779375
+Peas & beans (Pulses),2008,Rabi       ,Assam,20943.0,12964,2109.9,2995686.72,1884.87,0.632222222
+Peas & beans (Pulses),2008,Rabi       ,West Bengal,8815.0,6731,1560.1,1260897.6,793.35,0.695333333
+Peas & beans (Pulses),2009,Rabi       ,Assam,22013.0,13412,1727.1,3430065.66,3742.21,0.623703704
+Peas & beans (Pulses),2009,Rabi       ,Meghalaya,1012.0,1384,2995.9,157689.84,172.04,1.202857143
+Peas & beans (Pulses),2010,Rabi       ,Assam,22401.0,13365,2578.5,3721030.11,5376.24,0.604814815
+Peas & beans (Pulses),2010,Kharif     ,Karnataka,4019.0,35992,1317.7,667596.09,964.56,8.276842105
+Peas & beans (Pulses),2010,Rabi       ,Karnataka,2140.0,15096,1317.7,355475.4,513.6,7.131764706
+Peas & beans (Pulses),2010,Summer     ,Karnataka,1470.0,12493,1317.7,244181.7,352.8,8.156875
+Peas & beans (Pulses),2010,Rabi       ,Meghalaya,1035.0,1420,3119.7,171923.85,248.4,1.274285714
+Peas & beans (Pulses),2011,Rabi       ,Assam,21151.0,13602,1743.4,3543215.52,6979.83,0.645925926
+Peas & beans (Pulses),2011,Kharif     ,Karnataka,3589.0,31982,1178.986364,601229.28,1184.37,8.606666667
+Peas & beans (Pulses),2011,Rabi       ,Karnataka,1321.0,9710,1178.986364,221293.92,435.93,7.387647059
+Peas & beans (Pulses),2011,Summer     ,Karnataka,1345.0,12183,1178.986364,225314.4,443.85,8.729333333
+Peas & beans (Pulses),2011,Rabi       ,Meghalaya,1053.0,1488,4083.104545,176398.56,347.49,1.315714286
+Peas & beans (Pulses),2012,Rabi       ,Assam,30952.0,19821,2167.5,4667561.6,9595.12,0.654814815
+Peas & beans (Pulses),2012,Rabi       ,Meghalaya,2190.0,4064,2945.3,330252.0,678.9,1.868571429
+Peas & beans (Pulses),2013,Rabi       ,Assam,31246.0,26509,1797.7,4514734.54,8436.42,0.819259259
+Peas & beans (Pulses),2013,Rabi       ,Meghalaya,2207.0,4154,2448.4,318889.43,595.89,1.666363636
+Peas & beans (Pulses),2014,Rabi       ,Assam,29952.0,27676,1899.0,4521553.92,9884.16,0.918888889
+Peas & beans (Pulses),2014,Rabi       ,Meghalaya,2235.0,4280,3484.4,337395.6,737.55,1.743636364
+Peas & beans (Pulses),2015,Rabi       ,Assam,28334.0,25441,2155.3,4474221.94,9350.22,0.902592593
+Peas & beans (Pulses),2015,Rabi       ,Meghalaya,2271.0,4432,3870.8,358613.61,749.43,1.810909091
+Peas & beans (Pulses),2016,Rabi       ,Assam,28680.0,26008,2296.8,4395210.0,10038.0,0.904814815
+Peas & beans (Pulses),2016,Rabi       ,Meghalaya,2314.0,4478,3837.1,354620.5,809.9,1.797272727
+Peas & beans (Pulses),2017,Rabi       ,Assam,30968.0,28869,2098.563636,4875601.92,11767.84,0.903703704
+Peas & beans (Pulses),2017,Rabi       ,Meghalaya,2321.0,4496,4472.3,365418.24,881.98,1.799090909
+Peas & beans (Pulses),2018,Rabi       ,Assam,29860.0,27965,2372.9,4843292.0,10451.0,0.92
+Peas & beans (Pulses),2018,Rabi       ,Meghalaya,2335.0,4525,5649.1,378737.0,817.25,1.800909091
+Peas & beans (Pulses),2019,Rabi       ,Assam,27891.0,26081,2084.7,4790558.16,10319.67,1.035185185
+Peas & beans (Pulses),2019,Rabi       ,Meghalaya,2340.0,4541,3844.4,401918.4,865.8,1.804545455
+Peas & beans (Pulses),1997,Kharif     ,Mizoram,231.0,271,2644.2,21984.27,71.61,1.4825
+Peas & beans (Pulses),1997,Rabi       ,Uttar Pradesh,427413.0,497369,473.9,40676895.21,132498.03,1.2715
+Peas & beans (Pulses),1998,Rabi       ,Haryana,1742.0,1800,687.6,172109.6,505.18,0.848571429
+Peas & beans (Pulses),1998,Rabi       ,Himachal Pradesh,4845.0,10919,1381.6,478686.0,1405.05,1.848333333
+Peas & beans (Pulses),1998,Rabi       ,Punjab,4300.0,4100,588.6,424840.0,1247.0,0.944444444
+Peas & beans (Pulses),1998,Rabi       ,Tripura,780.0,470,2472.9,77064.0,226.2,0.6025
+Peas & beans (Pulses),1998,Rabi       ,Uttar Pradesh,492128.0,504552,743.4,48622246.4,142717.12,1.115375
+Peas & beans (Pulses),1999,Rabi       ,Bihar,25402.0,18164,1402.7,2695914.26,6858.54,0.727837838
+Peas & beans (Pulses),1999,Rabi       ,Haryana,1358.0,1500,344.0,144124.54,366.66,0.564666667
+Peas & beans (Pulses),1999,Kharif     ,Himachal Pradesh,5046.0,11895,1144.9,535531.98,1362.42,1.59
+Peas & beans (Pulses),1999,Kharif     ,Nagaland,1250.0,940,1782.2,132662.5,337.5,1.495714286
+Peas & beans (Pulses),1999,Rabi       ,Punjab,4300.0,2800,364.4,456359.0,1161.0,0.628333333
+Peas & beans (Pulses),1999,Whole Year ,Uttar Pradesh,408085.0,564623,883.4,43310061.05,110182.95,1.459259259
+Peas & beans (Pulses),2000,Rabi       ,Bihar,25712.0,24810,1207.0,2524147.04,6685.12,0.95
+Peas & beans (Pulses),2000,Rabi       ,Chhattisgarh,8855.0,3208,896.4,869295.35,2302.3,0.328666667
+Peas & beans (Pulses),2000,Rabi       ,Haryana,1027.0,1100,383.7,100820.59,267.02,0.903
+Peas & beans (Pulses),2000,Kharif     ,Himachal Pradesh,5510.0,11886,1068.4,540916.7,1432.6,1.345555556
+Peas & beans (Pulses),2000,Kharif     ,Nagaland,1700.0,1120,1631.8,166889.0,442.0,0.66
+Peas & beans (Pulses),2000,Rabi       ,Nagaland,6000.0,6000,1631.8,589020.0,1560.0,1.0
+Peas & beans (Pulses),2000,Rabi       ,Uttar Pradesh,333480.0,344524,874.4,32737731.6,86704.8,1.249275362
+Peas & beans (Pulses),2000,Rabi       ,Uttarakhand,3402.0,2598,1413.4,333974.34,884.52,0.681538462
+Peas & beans (Pulses),2001,Rabi       ,Bihar,26086.0,25671,1247.0,2664163.18,6782.36,0.971176471
+Peas & beans (Pulses),2001,Rabi       ,Chhattisgarh,11851.0,4416,1550.0,1210342.63,3081.26,0.329375
+Peas & beans (Pulses),2001,Rabi       ,Haryana,1065.0,1200,483.8,108768.45,276.9,0.576428571
+Peas & beans (Pulses),2001,Kharif     ,Himachal Pradesh,5294.0,11949,918.1,540676.22,1376.44,1.548888889
+Peas & beans (Pulses),2001,Kharif     ,Mizoram,100.9,161,2406.4,10304.917,26.234,1.53
+Peas & beans (Pulses),2001,Rabi       ,Mizoram,138.5,97,2406.4,14145.005,36.01,0.85
+Peas & beans (Pulses),2001,Kharif     ,Nagaland,1900.0,1550,1532.0,194047.0,494.0,0.815
+Peas & beans (Pulses),2001,Rabi       ,Nagaland,8000.0,8000,1532.0,817040.0,2080.0,1.0
+Peas & beans (Pulses),2001,Rabi       ,Uttar Pradesh,327556.0,395889,849.9,33453294.28,85164.56,1.230144928
+Peas & beans (Pulses),2001,Rabi       ,Uttarakhand,3251.0,2370,1541.3,332024.63,845.26,0.655833333
+Peas & beans (Pulses),2002,Rabi       ,Bihar,23295.0,20805,1105.8,2205337.65,5823.75,0.896285714
+Peas & beans (Pulses),2002,Rabi       ,Chhattisgarh,12181.0,4180,1001.4,1153175.27,3045.25,0.30875
+Peas & beans (Pulses),2002,Rabi       ,Haryana,1113.0,1300,353.9,105367.71,278.25,0.721666667
+Peas & beans (Pulses),2002,Kharif     ,Himachal Pradesh,6285.0,12057,890.8,595000.95,1571.25,1.156363636
+Peas & beans (Pulses),2002,Kharif     ,Nagaland,1100.0,1250,1536.6,104137.0,275.0,1.1525
+Peas & beans (Pulses),2002,Rabi       ,Nagaland,6800.0,5260,1536.6,643756.0,1700.0,0.82
+Peas & beans (Pulses),2002,Rabi       ,Uttarakhand,3550.0,2636,1610.3,336078.5,887.5,0.627692308
+Peas & beans (Pulses),2003,Rabi       ,Bihar,23740.0,22172,1353.9,2349785.2,5697.6,0.931944444
+Peas & beans (Pulses),2003,Rabi       ,Chhattisgarh,17307.0,6497,1643.7,1713046.86,4153.68,0.34625
+Peas & beans (Pulses),2003,Rabi       ,Haryana,994.0,1100,592.3,98386.12,238.56,0.975833333
+Peas & beans (Pulses),2003,Rabi       ,Madhya Pradesh,5.0,2,1163.0,494.9,1.2,0.4
+Peas & beans (Pulses),2003,Kharif     ,Manipur,3980.0,2030,687.7,393940.4,955.2,0.52
+Peas & beans (Pulses),2003,Kharif     ,Mizoram,165.0,172,2499.5,16331.7,39.6,0.9025
+Peas & beans (Pulses),2003,Rabi       ,Mizoram,346.0,376,2499.5,34247.08,83.04,1.018333333
+Peas & beans (Pulses),2003,Kharif     ,Nagaland,1370.0,2000,1709.8,135602.6,328.8,1.5825
+Peas & beans (Pulses),2003,Rabi       ,Nagaland,6840.0,4930,1709.8,677023.2,1641.6,0.6825
+Peas & beans (Pulses),2003,Rabi       ,Uttar Pradesh,399208.0,547690,1075.6,39513607.84,95809.92,1.357
+Peas & beans (Pulses),2003,Rabi       ,Uttarakhand,4451.0,3386,1734.3,440559.98,1068.24,0.663333333
+Peas & beans (Pulses),2004,Rabi       ,Assam,22238.0,13339,2536.9,2409264.92,4669.98,0.596521739
+Peas & beans (Pulses),2004,Rabi       ,Bihar,22824.0,20085,1147.8,2472752.16,4793.04,0.891388889
+Peas & beans (Pulses),2004,Rabi       ,Chhattisgarh,16359.0,5316,1122.8,1772334.06,3435.39,0.28625
+Peas & beans (Pulses),2004,Rabi       ,Haryana,716.0,800,484.6,77571.44,150.36,0.614545455
+Peas & beans (Pulses),2004,Kharif     ,Nagaland,1270.0,1000,1711.5,137591.8,266.7,0.7775
+Peas & beans (Pulses),2004,Rabi       ,Nagaland,7070.0,5440,1711.5,765963.8,1484.7,0.74625
+Peas & beans (Pulses),2004,Rabi       ,Tripura,1033.0,720,2706.3,111915.22,216.93,0.6875
+Peas & beans (Pulses),2004,Rabi       ,Uttarakhand,3852.0,2987,1219.6,417325.68,808.92,0.683846154
+Peas & beans (Pulses),2004,Rabi       ,West Bengal,14347.0,9402,1612.9,1554353.98,3012.87,0.688125
+Peas & beans (Pulses),2005,Rabi       ,Bihar,24579.0,22618,907.8,2947513.68,5161.59,0.925526316
+Peas & beans (Pulses),2005,Rabi       ,Chhattisgarh,17158.0,6034,1292.7,2057587.36,3603.18,0.329333333
+Peas & beans (Pulses),2005,Rabi       ,Haryana,1048.0,1200,516.9,125676.16,220.08,0.72
+Peas & beans (Pulses),2005,Rabi       ,Himachal Pradesh,5050.0,10475,1248.1,605596.0,1060.5,1.34875
+Peas & beans (Pulses),2005,Rabi       ,Madhya Pradesh,218423.0,103563,1032.7,26193286.16,45868.83,0.446808511
+Peas & beans (Pulses),2005,Kharif     ,Mizoram,123.0,110,2075.4,14750.16,25.83,0.683333333
+Peas & beans (Pulses),2005,Rabi       ,Mizoram,621.0,590,2075.4,74470.32,130.41,0.881666667
+Peas & beans (Pulses),2005,Kharif     ,Nagaland,1300.0,1180,1568.6,155896.0,273.0,0.91125
+Peas & beans (Pulses),2005,Rabi       ,Nagaland,7150.0,10500,1568.6,857428.0,1501.5,1.4875
+Peas & beans (Pulses),2005,Rabi       ,Punjab,3500.0,4000,566.7,419720.0,735.0,0.987
+Peas & beans (Pulses),2005,Rabi       ,Tripura,1025.0,643,1765.9,122918.0,215.25,0.595
+Peas & beans (Pulses),2005,Rabi       ,Uttarakhand,3837.0,2628,1353.3,460133.04,805.77,0.650769231
+Peas & beans (Pulses),2006,Rabi       ,Bihar,23662.0,22002,1052.8,3021874.02,5205.64,0.93
+Peas & beans (Pulses),2006,Rabi       ,Chhattisgarh,16217.0,5789,1317.2,2071073.07,3567.74,0.324117647
+Peas & beans (Pulses),2006,Rabi       ,Haryana,969.0,1200,329.3,123750.99,213.18,0.849
+Peas & beans (Pulses),2006,Rabi       ,Himachal Pradesh,8170.0,16856,1207.0,1043390.7,1797.4,1.513
+Peas & beans (Pulses),2006,Rabi       ,Madhya Pradesh,189486.0,83842,1072.3,24199257.06,41686.92,0.455
+Peas & beans (Pulses),2006,Kharif     ,Nagaland,1700.0,2010,1362.5,217107.0,374.0,1.18625
+Peas & beans (Pulses),2006,Rabi       ,Nagaland,7300.0,8790,1362.5,932283.0,1606.0,1.20375
+Peas & beans (Pulses),2006,Rabi       ,Punjab,3100.0,3600,569.6,395901.0,682.0,1.059090909
+Peas & beans (Pulses),2006,Rabi       ,Tripura,828.0,622,1764.3,105743.88,182.16,0.74
+Peas & beans (Pulses),2006,Rabi       ,Uttarakhand,5003.0,4902,1178.9,638933.13,1100.66,0.772307692
+Peas & beans (Pulses),2007,Rabi       ,Bihar,23288.0,25083,1600.2,3106619.2,3726.08,1.094324324
+Peas & beans (Pulses),2007,Rabi       ,Chhattisgarh,16315.0,5887,1246.2,2176421.0,2610.4,0.3325
+Peas & beans (Pulses),2007,Rabi       ,Haryana,1040.0,1200,443.8,138736.0,166.4,0.663333333
+Peas & beans (Pulses),2007,Kharif     ,Himachal Pradesh,10051.0,22296,1095.4,1340803.4,1608.16,1.791818182
+Peas & beans (Pulses),2007,Rabi       ,Madhya Pradesh,169653.0,66664,740.4,22631710.2,27144.48,0.416595745
+Peas & beans (Pulses),2007,Rabi       ,Nagaland,6020.0,8060,1769.0,803068.0,963.2,1.39
+Peas & beans (Pulses),2007,Rabi       ,Tripura,644.0,454,2831.8,85909.6,103.04,0.6925
+Peas & beans (Pulses),2007,Rabi       ,Uttarakhand,3903.0,3518,1924.3,520660.2,624.48,0.713076923
+Peas & beans (Pulses),2008,Rabi       ,Bihar,23768.0,22865,1197.7,3399774.72,2139.12,0.957567568
+Peas & beans (Pulses),2008,Rabi       ,Chhattisgarh,16892.0,6089,1117.9,2416231.68,1520.28,0.34125
+Peas & beans (Pulses),2008,Rabi       ,Haryana,869.0,900,715.6,124301.76,78.21,0.553636364
+Peas & beans (Pulses),2008,Kharif     ,Himachal Pradesh,887.0,1116,1357.1,126876.48,79.83,1.17
+Peas & beans (Pulses),2008,Rabi       ,Himachal Pradesh,8395.0,11461,1357.1,1200820.8,755.55,1.122727273
+Peas & beans (Pulses),2008,Rabi       ,Madhya Pradesh,202535.0,99172,895.0,28970606.4,18228.15,0.4734
+Peas & beans (Pulses),2008,Rabi       ,Manipur,15492.0,12869,1134.8,2215975.68,1394.28,0.842222222
+Peas & beans (Pulses),2008,Kharif     ,Nagaland,2140.0,2990,1540.9,306105.6,192.6,1.39
+Peas & beans (Pulses),2008,Rabi       ,Nagaland,6420.0,8860,1540.9,918316.8,577.8,1.356363636
+Peas & beans (Pulses),2008,Rabi       ,Punjab,2000.0,2300,691.3,286080.0,180.0,0.964285714
+Peas & beans (Pulses),2008,Rabi       ,Tripura,599.0,494,1827.8,85680.96,53.91,0.8675
+Peas & beans (Pulses),2008,Rabi       ,Uttar Pradesh,351030.0,423753,891.6,50211331.2,31592.7,1.223043478
+Peas & beans (Pulses),2008,Rabi       ,Uttarakhand,3516.0,1504,1363.7,502928.64,316.44,0.373076923
+Peas & beans (Pulses),2008,Rabi       ,Jammu and Kashmir,1109.0,1116,1390.1,158631.36,99.81,0.893846154
+Peas & beans (Pulses),2009,Rabi       ,Bihar,19936.0,19953,889.3,3106427.52,3389.12,1.0
+Peas & beans (Pulses),2009,Rabi       ,Chhattisgarh,14765.0,5062,956.9,2300682.3,2510.05,0.311764706
+Peas & beans (Pulses),2009,Rabi       ,Haryana,1651.0,1600,393.0,257258.82,280.67,0.586875
+Peas & beans (Pulses),2009,Kharif     ,Himachal Pradesh,817.0,748,969.9,127304.94,138.89,0.97
+Peas & beans (Pulses),2009,Rabi       ,Himachal Pradesh,8250.0,10245,969.9,1285515.0,1402.5,1.333636364
+Peas & beans (Pulses),2009,Rabi       ,Manipur,36746.0,31587,992.5,5725761.72,6246.82,0.82
+Peas & beans (Pulses),2009,Kharif     ,Nagaland,2050.0,2250,1225.9,319431.0,348.5,1.096
+Peas & beans (Pulses),2009,Rabi       ,Nagaland,6800.0,6800,1225.9,1059576.0,1156.0,0.998181818
+Peas & beans (Pulses),2009,Rabi       ,Punjab,1600.0,1800,371.3,249312.0,272.0,1.071428571
+Peas & beans (Pulses),2009,Rabi       ,Tripura,724.0,538,2004.2,112813.68,123.08,0.74
+Peas & beans (Pulses),2009,Rabi       ,Uttar Pradesh,312009.0,400401,585.8,48617242.38,53041.53,1.235362319
+Peas & beans (Pulses),2009,Rabi       ,Uttarakhand,5504.0,5502,847.8,857633.28,935.68,0.650769231
+Peas & beans (Pulses),2009,Rabi       ,West Bengal,9391.0,11761,1317.2,1463305.62,1596.47,1.160666667
+Peas & beans (Pulses),2009,Whole Year ,Madhya Pradesh,194056.0,90793,904.1,30237805.92,32989.52,0.492708333
+Peas & beans (Pulses),2010,Rabi       ,Bihar,19150.0,19822,629.2,3181006.5,4596.0,1.032894737
+Peas & beans (Pulses),2010,Rabi       ,Chhattisgarh,14177.0,4795,1283.1,2354941.47,3402.48,0.344375
+Peas & beans (Pulses),2010,Rabi       ,Haryana,3007.0,2200,639.2,499492.77,721.68,0.58
+Peas & beans (Pulses),2010,Kharif     ,Himachal Pradesh,1250.0,1629,1319.8,207637.5,300.0,1.310909091
+Peas & beans (Pulses),2010,Rabi       ,Himachal Pradesh,11713.0,22866,1319.8,1945646.43,2811.12,2.026363636
+Peas & beans (Pulses),2010,Rabi       ,Madhya Pradesh,247181.0,66496,856.3,41059235.91,59323.44,0.312708333
+Peas & beans (Pulses),2010,Rabi       ,Manipur,16110.0,14118,2160.5,2676032.1,3866.4,0.876666667
+Peas & beans (Pulses),2010,Kharif     ,Nagaland,2150.0,2680,1771.8,357136.5,516.0,1.25
+Peas & beans (Pulses),2010,Rabi       ,Punjab,3200.0,4100,392.7,531552.0,768.0,1.226666667
+Peas & beans (Pulses),2010,Rabi       ,Tripura,918.0,694,2348.3,152488.98,220.32,0.765
+Peas & beans (Pulses),2010,Rabi       ,Uttar Pradesh,303341.0,353322,742.6,50387973.51,72801.84,1.29115942
+Peas & beans (Pulses),2010,Rabi       ,Uttarakhand,6636.0,6785,1419.0,1102305.96,1592.64,0.711538462
+Peas & beans (Pulses),2010,Kharif     ,Jammu and Kashmir,262.0,146,1352.0,43520.82,62.88,0.53
+Peas & beans (Pulses),2010,Rabi       ,Jammu and Kashmir,724.0,666,1352.0,120263.64,173.76,0.712
+Peas & beans (Pulses),2010,Rabi       ,West Bengal,11622.0,13594,1096.0,1930530.42,2789.28,0.91375
+Peas & beans (Pulses),2011,Rabi       ,Bihar,18655.0,19232,1097.1,3125085.6,6156.15,1.027631579
+Peas & beans (Pulses),2011,Rabi       ,Chhattisgarh,14463.0,5014,1302.7,2422841.76,4772.79,0.340833333
+Peas & beans (Pulses),2011,Rabi       ,Haryana,1153.0,1000,471.5409091,193150.56,380.49,0.326
+Peas & beans (Pulses),2011,Kharif     ,Himachal Pradesh,1295.0,1705,1108.3,216938.4,427.35,1.331666667
+Peas & beans (Pulses),2011,Rabi       ,Himachal Pradesh,1019.0,1685,1108.3,170702.88,336.27,1.396363636
+Peas & beans (Pulses),2011,Rabi       ,Madhya Pradesh,231468.0,81967,852.6,38775519.36,76384.44,0.366734694
+Peas & beans (Pulses),2011,Rabi       ,Manipur,17524.0,16368,1533.561905,2935620.48,5782.92,0.935555556
+Peas & beans (Pulses),2011,Kharif     ,Nagaland,2190.0,2730,1544.354545,366868.8,722.7,1.249
+Peas & beans (Pulses),2011,Rabi       ,Nagaland,6940.0,6310,1544.354545,1162588.8,2290.2,0.905454545
+Peas & beans (Pulses),2011,Rabi       ,Punjab,2800.0,3500,705.2,469056.0,924.0,1.16
+Peas & beans (Pulses),2011,Rabi       ,Tripura,890.0,690,2295.609091,149092.8,293.7,0.78
+Peas & beans (Pulses),2011,Rabi       ,Uttar Pradesh,323497.0,463374,777.4,54192217.44,106754.01,1.36915493
+Peas & beans (Pulses),2011,Rabi       ,Uttarakhand,6396.0,6576,1564.7,1071457.92,2110.68,0.71
+Peas & beans (Pulses),2011,Rabi       ,West Bengal,12089.0,10939,1686.5,2025149.28,3989.37,0.876153846
+Peas & beans (Pulses),2012,Rabi       ,Bihar,18496.0,19254,924.1,2789196.8,5733.76,1.037894737
+Peas & beans (Pulses),2012,Rabi       ,Chhattisgarh,13666.0,5131,1366.8,2060832.8,4236.46,0.3496
+Peas & beans (Pulses),2012,Rabi       ,Haryana,1114.0,1524,307.9,167991.2,345.34,1.235
+Peas & beans (Pulses),2012,Kharif     ,Himachal Pradesh,1381.0,1785,1035.0,208254.8,428.11,1.318333333
+Peas & beans (Pulses),2012,Rabi       ,Himachal Pradesh,2477.0,4783,1035.0,373531.6,767.87,1.574545455
+Peas & beans (Pulses),2012,Rabi       ,Madhya Pradesh,209413.0,129725,1049.5,31579480.4,64918.03,0.6125
+Peas & beans (Pulses),2012,Rabi       ,Manipur,18379.0,17313,1176.7,2771553.2,5697.49,0.937777778
+Peas & beans (Pulses),2012,Kharif     ,Nagaland,2270.0,2980,1296.6,342316.0,703.7,1.311
+Peas & beans (Pulses),2012,Rabi       ,Nagaland,7020.0,7340,1296.6,1058616.0,2176.2,1.044545455
+Peas & beans (Pulses),2012,Rabi       ,Punjab,900.0,1200,338.9,135720.0,279.0,1.25
+Peas & beans (Pulses),2012,Rabi       ,Tripura,995.0,758,1882.2,150046.0,308.45,0.75625
+Peas & beans (Pulses),2012,Rabi       ,Uttar Pradesh,307272.0,459077,746.3,46336617.6,95254.32,1.363098592
+Peas & beans (Pulses),2012,Rabi       ,Uttarakhand,6117.0,6017,1309.8,922443.6,1896.27,0.768461538
+Peas & beans (Pulses),2012,Rabi       ,West Bengal,12381.0,13966,1566.0,1867054.8,3838.11,1.005384615
+Peas & beans (Pulses),2013,Rabi       ,Bihar,17308.0,18347,1069.9,2500832.92,4673.16,1.061052632
+Peas & beans (Pulses),2013,Rabi       ,Chhattisgarh,13319.0,4821,1418.3,1924462.31,3596.13,0.33625
+Peas & beans (Pulses),2013,Kharif     ,Haryana,15400.0,108824,452.2,2225146.0,4158.0,7.160952381
+Peas & beans (Pulses),2013,Rabi       ,Haryana,1000.0,1300,452.2,144490.0,270.0,1.234
+Peas & beans (Pulses),2013,Kharif     ,Himachal Pradesh,1265.0,1677,1216.9,182779.85,341.55,1.350833333
+Peas & beans (Pulses),2013,Rabi       ,Himachal Pradesh,22.0,7,1216.9,3178.78,5.94,0.211666667
+Peas & beans (Pulses),2013,Rabi       ,Madhya Pradesh,215035.0,186787,1451.4,31070407.15,58059.45,0.798571429
+Peas & beans (Pulses),2013,Rabi       ,Manipur,18040.0,16546,1428.8,2606599.6,4870.8,0.914444444
+Peas & beans (Pulses),2013,Kharif     ,Nagaland,2320.0,3080,1350.9,335216.8,626.4,1.323
+Peas & beans (Pulses),2013,Rabi       ,Nagaland,7090.0,7640,1350.9,1024434.1,1914.3,1.077272727
+Peas & beans (Pulses),2013,Rabi       ,Punjab,900.0,1260,586.6,130041.0,243.0,1.45
+Peas & beans (Pulses),2013,Rabi       ,Tripura,1028.0,897,2043.5,148535.72,277.56,0.85625
+Peas & beans (Pulses),2013,Rabi       ,Uttar Pradesh,357133.0,354267,995.2,51602147.17,96425.91,1.069733333
+Peas & beans (Pulses),2013,Rabi       ,Uttarakhand,6244.0,6163,1735.4,902195.56,1685.88,0.742307692
+Peas & beans (Pulses),2013,Rabi       ,West Bengal,12661.0,15014,1939.9,1829387.89,3418.47,1.246666667
+Peas & beans (Pulses),2014,Rabi       ,Bihar,17142.0,17313,1061.0,2587756.32,5656.86,0.989459459
+Peas & beans (Pulses),2014,Rabi       ,Chhattisgarh,13343.0,5154,1274.7,2014259.28,4403.19,0.3672
+Peas & beans (Pulses),2014,Kharif     ,Haryana,14703.0,104300,301.3,2219564.88,4851.99,7.4015
+Peas & beans (Pulses),2014,Rabi       ,Haryana,1400.0,2000,301.3,211344.0,462.0,1.666666667
+Peas & beans (Pulses),2014,Kharif     ,Himachal Pradesh,1361.0,1693,1019.9,205456.56,449.13,1.296666667
+Peas & beans (Pulses),2014,Rabi       ,Himachal Pradesh,2040.0,597,1019.9,307958.4,673.2,0.3275
+Peas & beans (Pulses),2014,Rabi       ,Madhya Pradesh,216000.0,246000,891.2,32607360.0,71280.0,1.286410256
+Peas & beans (Pulses),2014,Rabi       ,Manipur,18101.0,17106,987.5,2732526.96,5973.33,0.938888889
+Peas & beans (Pulses),2014,Kharif     ,Nagaland,2330.0,3160,1333.3,351736.8,768.9,1.353
+Peas & beans (Pulses),2014,Rabi       ,Nagaland,7120.0,7800,1333.3,1074835.2,2349.6,1.097272727
+Peas & beans (Pulses),2014,Rabi       ,Punjab,2200.0,2560,382.7,332112.0,726.0,1.156
+Peas & beans (Pulses),2014,Rabi       ,Tripura,2057.0,1731,2015.7,310524.72,678.81,0.84125
+Peas & beans (Pulses),2014,Rabi       ,Uttar Pradesh,416056.0,314196,616.4,62807813.76,137298.48,0.801216216
+Peas & beans (Pulses),2014,Rabi       ,Uttarakhand,5572.0,5393,1287.4,841149.12,1838.76,0.733333333
+Peas & beans (Pulses),2014,Rabi       ,Jharkhand,5571.0,5325,1156.6,840998.16,1838.43,0.9
+Peas & beans (Pulses),2014,Rabi       ,West Bengal,14114.0,16778,1483.5,2130649.44,4657.62,1.175
+Peas & beans (Pulses),2015,Rabi       ,Bihar,17035.0,17941,874.0,2689996.85,5621.55,1.041388889
+Peas & beans (Pulses),2015,Rabi       ,Chhattisgarh,12843.0,4604,1136.0,2028038.13,4238.19,0.3472
+Peas & beans (Pulses),2015,Kharif     ,Haryana,14276.0,111011,426.8,2254323.16,4711.08,7.978571429
+Peas & beans (Pulses),2015,Rabi       ,Haryana,1600.0,2100,426.8,252656.0,528.0,1.38
+Peas & beans (Pulses),2015,Kharif     ,Himachal Pradesh,1377.0,1751,1223.2,217442.07,454.41,1.306666667
+Peas & beans (Pulses),2015,Rabi       ,Himachal Pradesh,2353.0,5176,1223.2,371562.23,776.49,2.08
+Peas & beans (Pulses),2015,Rabi       ,Madhya Pradesh,453000.0,417240,1000.7,71533230.0,149490.0,0.813488372
+Peas & beans (Pulses),2015,Rabi       ,Manipur,18290.0,17192,1329.1,2888173.9,6035.7,0.935555556
+Peas & beans (Pulses),2015,Kharif     ,Nagaland,2360.0,3210,1308.3,372667.6,778.8,1.357
+Peas & beans (Pulses),2015,Rabi       ,Nagaland,7160.0,7870,1308.3,1130635.6,2362.8,1.1
+Peas & beans (Pulses),2015,Rabi       ,Punjab,3500.0,5300,512.6,552685.0,1155.0,1.475
+Peas & beans (Pulses),2015,Rabi       ,Tripura,2947.0,2549,2334.4,465360.77,972.51,0.86125
+Peas & beans (Pulses),2015,Rabi       ,Uttar Pradesh,286340.0,284838,596.7,45215949.4,94492.2,1.0004
+Peas & beans (Pulses),2015,Rabi       ,Uttarakhand,4983.0,4666,1247.6,786865.53,1644.39,0.736923077
+Peas & beans (Pulses),2015,Rabi       ,Jharkhand,6334.0,5689,1085.6,1000201.94,2090.22,0.878823529
+Peas & beans (Pulses),2015,Rabi       ,West Bengal,15025.0,11320,1717.0,2372597.75,4958.25,0.724666667
+Peas & beans (Pulses),2016,Kharif     ,Arunachal Pradesh,646.0,618,2933.7,98999.5,226.1,0.923157895
+Peas & beans (Pulses),2016,Rabi       ,Arunachal Pradesh,3645.0,5189,2933.7,558596.25,1275.75,1.505263158
+Peas & beans (Pulses),2016,Rabi       ,Bihar,16401.0,16736,1205.6,2513453.25,5740.35,1.012368421
+Peas & beans (Pulses),2016,Rabi       ,Chhattisgarh,14149.0,5664,1298.9,2168334.25,4952.15,0.3864
+Peas & beans (Pulses),2016,Kharif     ,Haryana,14225.0,105318,554.7,2179981.25,4978.75,8.504761905
+Peas & beans (Pulses),2016,Rabi       ,Haryana,3800.0,4700,554.7,582350.0,1330.0,1.257142857
+Peas & beans (Pulses),2016,Kharif     ,Himachal Pradesh,612.0,914,1373.9,93789.0,214.2,1.316666667
+Peas & beans (Pulses),2016,Rabi       ,Himachal Pradesh,7156.0,10189,1373.9,1096657.0,2504.6,1.144545455
+Peas & beans (Pulses),2016,Rabi       ,Madhya Pradesh,507000.0,522000,1048.4,77697750.0,177450.0,0.9696
+Peas & beans (Pulses),2016,Rabi       ,Manipur,18320.0,17031,2039.8,2807540.0,6412.0,0.925555556
+Peas & beans (Pulses),2016,Kharif     ,Nagaland,2350.0,3190,1959.8,360137.5,822.5,1.354
+Peas & beans (Pulses),2016,Rabi       ,Nagaland,7200.0,7920,1959.8,1103400.0,2520.0,1.101818182
+Peas & beans (Pulses),2016,Rabi       ,Punjab,3100.0,4200,635.9,475075.0,1085.0,1.375
+Peas & beans (Pulses),2016,Rabi       ,Tripura,3200.0,2816,2475.3,490400.0,1120.0,0.86875
+Peas & beans (Pulses),2016,Rabi       ,Uttar Pradesh,384307.0,529170,965.3,58895047.75,134507.45,1.337671233
+Peas & beans (Pulses),2016,Rabi       ,Uttarakhand,4232.0,4149,1580.9,648554.0,1481.2,0.680833333
+Peas & beans (Pulses),2016,Rabi       ,West Bengal,13684.0,15338,1795.8,2097073.0,4789.4,1.132631579
+Peas & beans (Pulses),2017,Kharif     ,Arunachal Pradesh,662.0,640,2745.5,104225.28,251.56,0.952631579
+Peas & beans (Pulses),2017,Rabi       ,Arunachal Pradesh,3670.0,5239,2745.5,577804.8,1394.6,1.537894737
+Peas & beans (Pulses),2017,Rabi       ,Bihar,16437.0,16944,1112.0,2587841.28,6246.06,1.012777778
+Peas & beans (Pulses),2017,Rabi       ,Chhattisgarh,12016.0,4522,1124.5,1891799.04,4566.08,0.36
+Peas & beans (Pulses),2017,Kharif     ,Haryana,15559.0,135147,417.1,2449608.96,5912.42,9.862857143
+Peas & beans (Pulses),2017,Rabi       ,Haryana,1700.0,2130,417.1,267648.0,646.0,1.221111111
+Peas & beans (Pulses),2017,Rabi       ,Himachal Pradesh,2353.0,4853,1182.2,370456.32,894.14,2.057272727
+Peas & beans (Pulses),2017,Rabi       ,Jharkhand,59150.0,71052,1165.7,9312576.0,22477.0,1.19625
+Peas & beans (Pulses),2017,Rabi       ,Madhya Pradesh,311880.0,321870,800.0,49102387.2,118514.4,0.930263158
+Peas & beans (Pulses),2017,Rabi       ,Manipur,18339.0,17192,1780.0,2887292.16,6968.82,0.934444444
+Peas & beans (Pulses),2017,Kharif     ,Nagaland,2330.0,3190,1722.1,366835.2,885.4,1.366
+Peas & beans (Pulses),2017,Rabi       ,Nagaland,7240.0,7980,1722.1,1139865.6,2751.2,1.101818182
+Peas & beans (Pulses),2017,Rabi       ,Punjab,1900.0,1900,497.5,299136.0,722.0,1.24
+Peas & beans (Pulses),2017,Rabi       ,Tripura,3474.0,3057,3326.8,546946.56,1320.12,0.8725
+Peas & beans (Pulses),2017,Rabi       ,Uttar Pradesh,294414.0,432518,652.1,46352540.16,111877.32,1.446575342
+Peas & beans (Pulses),2017,Rabi       ,Uttarakhand,4348.0,4095,1475.8,684549.12,1652.24,0.766923077
+Peas & beans (Pulses),2017,Rabi       ,West Bengal,17964.0,20203,1830.0,2828252.16,6826.32,1.135454545
+Peas & beans (Pulses),2018,Kharif     ,Arunachal Pradesh,672.0,680,2992.9,108998.4,235.2,1.021904762
+Peas & beans (Pulses),2018,Rabi       ,Arunachal Pradesh,3690.0,5775,2992.9,598518.0,1291.5,1.735714286
+Peas & beans (Pulses),2018,Rabi       ,Bihar,16545.0,17147,1521.4,2683599.0,5790.75,1.0215625
+Peas & beans (Pulses),2018,Rabi       ,Chhattisgarh,10016.0,3892,1515.5,1624595.2,3505.6,0.3752
+Peas & beans (Pulses),2018,Kharif     ,Haryana,15586.0,144678,533.2,2528049.2,5455.1,10.43333333
+Peas & beans (Pulses),2018,Rabi       ,Haryana,4142.0,4493,533.2,671832.4,1449.7,1.075625
+Peas & beans (Pulses),2018,Rabi       ,Himachal Pradesh,2550.0,5253,1052.2,413610.0,892.5,2.054545455
+Peas & beans (Pulses),2018,Rabi       ,Jharkhand,49614.0,62188,1222.7,8047390.8,17364.9,1.227916667
+Peas & beans (Pulses),2018,Rabi       ,Madhya Pradesh,64696.0,50205,1102.2,10493691.2,22643.6,0.7708
+Peas & beans (Pulses),2018,Rabi       ,Manipur,18345.0,17191,1196.9,2975559.0,6420.75,0.93
+Peas & beans (Pulses),2018,Kharif     ,Nagaland,2310.0,3150,1372.7,374682.0,808.5,1.361
+Peas & beans (Pulses),2018,Rabi       ,Nagaland,7270.0,8010,1372.7,1179194.0,2544.5,1.101818182
+Peas & beans (Pulses),2018,Rabi       ,Punjab,3400.0,4400,585.5,551480.0,1190.0,1.257777778
+Peas & beans (Pulses),2018,Rabi       ,Tripura,3393.0,2850,2169.1,550344.6,1187.55,0.84
+Peas & beans (Pulses),2018,Rabi       ,Uttar Pradesh,333220.0,539012,792.8,54048284.0,116627.0,1.507702703
+Peas & beans (Pulses),2018,Rabi       ,Uttarakhand,5552.0,5551,1373.0,900534.4,1943.2,0.718461538
+Peas & beans (Pulses),2018,Rabi       ,West Bengal,17100.0,20010,2012.6,2773620.0,5985.0,1.205714286
+Peas & beans (Pulses),2019,Kharif     ,Arunachal Pradesh,674.0,688,2433.3,115766.24,249.38,1.056956522
+Peas & beans (Pulses),2019,Rabi       ,Arunachal Pradesh,3704.0,5432,2433.3,636199.04,1370.48,1.773333333
+Peas & beans (Pulses),2019,Rabi       ,Bihar,17378.0,18059,1194.7,2984845.28,6429.86,1.01625
+Peas & beans (Pulses),2019,Rabi       ,Chhattisgarh,11655.0,4479,1420.3,2001862.8,4312.35,0.362592593
+Peas & beans (Pulses),2019,Kharif     ,Haryana,13744.0,178280,351.8,2360669.44,5085.28,13.10181818
+Peas & beans (Pulses),2019,Rabi       ,Haryana,2968.0,3957,351.8,509783.68,1098.16,1.18
+Peas & beans (Pulses),2019,Rabi       ,Himachal Pradesh,2565.0,5167,1217.7,440564.4,949.05,2.062727273
+Peas & beans (Pulses),2019,Rabi       ,Jharkhand,59138.0,74697,1137.8,10157542.88,21881.06,1.232083333
+Peas & beans (Pulses),2019,Rabi       ,Madhya Pradesh,58110.0,48837,1446.7,9980973.6,21500.7,0.786862745
+Peas & beans (Pulses),2019,Kharif     ,Nagaland,2300.0,3140,1593.0,395048.0,851.0,1.362
+Peas & beans (Pulses),2019,Rabi       ,Nagaland,7290.0,8030,1593.0,1252130.4,2697.3,1.100909091
+Peas & beans (Pulses),2019,Rabi       ,Odisha,33400.0,25620,1593.9,5736784.0,12358.0,0.77
+Peas & beans (Pulses),2019,Rabi       ,Punjab,1800.0,1600,653.2,309168.0,666.0,1.008571429
+Peas & beans (Pulses),2019,Rabi       ,Tripura,3200.0,2831,2252.8,549632.0,1184.0,0.8575
+Peas & beans (Pulses),2019,Rabi       ,Uttar Pradesh,343563.0,565256,814.5,59010380.88,127118.31,1.443150685
+Peas & beans (Pulses),2019,Rabi       ,Uttarakhand,5903.0,5153,1378.9,1013899.28,2184.11,0.640769231
+Peas & beans (Pulses),2019,Rabi       ,West Bengal,20041.0,19031,1733.4,3442242.16,7415.17,0.986666667
+Peas & beans (Pulses),2020,Rabi       ,Uttarakhand,4919.0,4135,1313.947826,952367.59,1820.03,0.669230769
+Peas & beans (Pulses),2001,Rabi       ,Jammu and Kashmir,538.0,442,953.8,54945.94,139.88,0.81125
+Peas & beans (Pulses),2002,Rabi       ,Jammu and Kashmir,805.0,618,933.2,76209.35,201.25,0.911428571
+Peas & beans (Pulses),2002,Rabi       ,Uttar Pradesh,339606.0,417961,664.0,32150500.02,84901.5,1.170294118
+Peas & beans (Pulses),2003,Kharif     ,Jammu and Kashmir,184.0,110,1430.3,18212.32,44.16,0.6
+Peas & beans (Pulses),2003,Rabi       ,Jammu and Kashmir,1202.0,1084,1430.3,118973.96,288.48,0.971111111
+Peas & beans (Pulses),2004,Rabi       ,Jammu and Kashmir,932.0,704,1032.1,100972.88,195.72,0.83
+Peas & beans (Pulses),2005,Kharif     ,Jammu and Kashmir,81.0,37,1721.8,9713.52,17.01,0.46
+Peas & beans (Pulses),2006,Kharif     ,Jammu and Kashmir,288.0,157,1786.5,36780.48,63.36,0.53
+Peas & beans (Pulses),2006,Rabi       ,Jammu and Kashmir,821.0,763,1786.5,104849.91,180.62,0.846
+Peas & beans (Pulses),2007,Kharif     ,Jammu and Kashmir,278.0,158,1042.2,37085.2,44.48,0.565
+Peas & beans (Pulses),2007,Rabi       ,Jammu and Kashmir,821.0,764,1042.2,109521.4,131.36,0.797142857
+Peas & beans (Pulses),2009,Kharif     ,Jammu and Kashmir,251.0,141,751.7,39110.82,42.67,0.53
+Peas & beans (Pulses),2009,Rabi       ,Jammu and Kashmir,908.0,994,751.7,141484.56,154.36,0.928333333
+Peas & beans (Pulses),2011,Kharif     ,Jammu and Kashmir,183.0,988,887.6,30656.16,60.39,2.31
+Peas & beans (Pulses),2011,Rabi       ,Jammu and Kashmir,894.0,899,887.6,149762.88,295.02,0.713
+Peas & beans (Pulses),2012,Kharif     ,Jammu and Kashmir,165.0,991,1116.7,24882.0,51.15,6.005
+Peas & beans (Pulses),2012,Rabi       ,Jammu and Kashmir,863.0,856,1116.7,130140.4,267.53,0.69
+Peas & beans (Pulses),2014,Kharif     ,Jammu and Kashmir,48.0,21,1278.4,7246.08,15.84,0.46
+Peas & beans (Pulses),2015,Kharif     ,Jammu and Kashmir,253.0,1069,1572.6,39951.23,83.49,3.56
+Peas & beans (Pulses),2015,Rabi       ,Jammu and Kashmir,1942.0,1424,1572.6,306661.22,640.86,0.711333333
+Peas & beans (Pulses),2016,Kharif     ,Jammu and Kashmir,210.0,1010,902.8,32182.5,73.5,3.82
+Peas & beans (Pulses),2016,Rabi       ,Jammu and Kashmir,1579.0,1185,902.8,241981.75,552.65,0.705384615
+Peas & beans (Pulses),2017,Kharif     ,Jammu and Kashmir,240.0,1174,1279.1,37785.6,91.2,4.13
+Peas & beans (Pulses),2017,Rabi       ,Jammu and Kashmir,1683.0,1292,1279.1,264971.52,639.54,0.714166667
+Peas & beans (Pulses),2018,Kharif     ,Jammu and Kashmir,330.0,1417,1016.3,53526.0,115.5,3.848333333
+Peas & beans (Pulses),2018,Rabi       ,Jammu and Kashmir,1712.0,1348,1016.3,277686.4,599.2,0.7125
+Peas & beans (Pulses),2019,Kharif     ,Jammu and Kashmir,281.0,1383,1324.1,48264.56,103.97,4.504
+Peas & beans (Pulses),2019,Rabi       ,Jammu and Kashmir,716.0,577,1324.1,122980.16,264.92,0.699
+Peas & beans (Pulses),1997,Kharif     ,Manipur,2.0,1,2053.3,190.34,0.62,0.5
+Peas & beans (Pulses),1998,Autumn     ,Manipur,850.0,430,1855.0,83980.0,246.5,0.433333333
+Peas & beans (Pulses),1998,Rabi       ,Manipur,850.0,430,1855.0,83980.0,246.5,0.545
+Peas & beans (Pulses),1998,Summer     ,Manipur,710.0,360,1855.0,70148.0,205.9,0.5475
+Peas & beans (Pulses),1998,Winter     ,Manipur,630.0,320,1855.0,62244.0,182.7,0.52
+Peas & beans (Pulses),1999,Kharif     ,Manipur,2280.0,1160,2092.7,241976.4,615.6,0.565
+Peas & beans (Pulses),2000,Kharif     ,Manipur,4060.0,2130,1969.7,398570.2,1055.6,0.55375
+Peas & beans (Pulses),2001,Kharif     ,Manipur,4090.0,2080,2013.1,417711.7,1063.4,0.53
+Peas & beans (Pulses),2002,Kharif     ,Manipur,4110.0,2100,1743.7,389093.7,1027.5,0.518888889
+Peas & beans (Pulses),2004,Kharif     ,Manipur,5430.0,2770,1613.3,588286.2,1140.3,0.508888889
+Peas & beans (Pulses),2005,Kharif     ,Manipur,5490.0,2800,1585.4,658360.8,1152.9,0.524444444
+Peas & beans (Pulses),2006,Kharif     ,Manipur,6560.0,3350,1533.561905,837777.6,1443.2,0.512222222
+Peas & beans (Pulses),2007,Kharif     ,Manipur,6610.0,3370,1435.7,881774.0,1057.6,0.508888889
+Peas & beans (Pulses),2013,Rabi       ,Jammu and Kashmir,1512.0,1361,1193.8,218468.88,408.24,0.702857143

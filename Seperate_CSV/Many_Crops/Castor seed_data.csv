@@ -1,0 +1,301 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Castor seed,1997,Kharif     ,Assam,796.0,22,2051.4,75755.32,246.76,0.238333333
+Castor seed,1997,Rabi       ,Meghalaya,30.0,15,3818.2,2855.1,9.3,0.49
+Castor seed,1997,Whole Year ,West Bengal,660.0,46,1852.9,62812.2,204.6,0.07
+Castor seed,1998,Kharif     ,Assam,1728.0,708,2354.4,170726.4,501.12,0.411428571
+Castor seed,1998,Kharif     ,Karnataka,27246.0,23245,1260.8,2691904.8,7901.34,0.831818182
+Castor seed,1998,Rabi       ,West Bengal,54.0,38,2152.5,5335.2,15.66,0.7
+Castor seed,1999,Kharif     ,Assam,1726.0,704,2201.8,183180.38,466.02,0.423333333
+Castor seed,1999,Kharif     ,Meghalaya,27.0,14,6200.3,2865.51,7.29,0.515
+Castor seed,1999,Kharif     ,West Bengal,35.0,24,2318.1,3714.55,9.45,0.69
+Castor seed,2000,Kharif     ,Andhra Pradesh,398561.0,136860,935.6,39126733.37,103625.86,0.339047619
+Castor seed,2000,Kharif     ,Assam,1662.0,681,1965.5,163158.54,432.12,0.417619048
+Castor seed,2000,Kharif     ,Karnataka,30366.0,38871,1213.3,2981030.22,7895.16,1.31
+Castor seed,2000,Kharif     ,Meghalaya,23.0,12,6258.8,2257.91,5.98,0.515
+Castor seed,2000,Kharif     ,West Bengal,100.0,127,1907.7,9817.0,26.0,1.27
+Castor seed,2001,Kharif     ,Andhra Pradesh,283585.0,82983,928.4,28962536.05,73732.1,0.296842105
+Castor seed,2001,Kharif     ,Assam,1636.0,671,1824.7,167084.68,425.36,0.42952381
+Castor seed,2001,Kharif     ,Karnataka,21799.0,16137,1002.9,2226331.87,5667.74,0.704
+Castor seed,2001,Kharif     ,Meghalaya,25.0,13,4241.0,2553.25,6.5,0.5
+Castor seed,2001,Kharif     ,West Bengal,80.0,73,1556.6,8170.4,20.8,0.91
+Castor seed,2002,Kharif     ,Andhra Pradesh,231902.0,86818,648.1,21954162.34,57975.5,0.296315789
+Castor seed,2002,Kharif     ,Assam,1577.0,651,1973.6,149294.59,394.25,0.428571429
+Castor seed,2002,Kharif     ,Tamil Nadu,17749.0,5600,315.9,1680297.83,4437.25,0.376666667
+Castor seed,2002,Kharif     ,West Bengal,45.0,42,1629.1,4260.15,11.25,0.93
+Castor seed,2003,Kharif     ,Andhra Pradesh,290915.0,131870,826.0,28794766.7,69819.6,0.447894737
+Castor seed,2003,Kharif     ,Assam,1493.0,619,2213.7,147777.14,358.32,0.414285714
+Castor seed,2003,Kharif     ,Karnataka,17214.0,15439,867.6,1703841.72,4131.36,0.906190476
+Castor seed,2003,Kharif     ,Meghalaya,25.0,14,3321.3,2474.5,6.0,0.545
+Castor seed,2003,Kharif     ,Tamil Nadu,8720.0,2975,345.6,863105.6,2092.8,0.409545455
+Castor seed,2003,Kharif     ,West Bengal,40.0,48,1526.7,3959.2,9.6,1.2
+Castor seed,2004,Kharif     ,Karnataka,20161.0,17493,1117.7,2184242.74,4233.81,0.908
+Castor seed,2004,Kharif     ,Meghalaya,32.0,20,4767.9,3466.88,6.72,0.693333333
+Castor seed,2004,Kharif     ,Tamil Nadu,8269.0,2598,1034.0,895863.46,1736.49,0.3392
+Castor seed,2005,Kharif     ,Andhra Pradesh,344587.0,140019,1075.5,41322873.04,72363.27,0.462777778
+Castor seed,2005,Kharif     ,Assam,1364.0,577,2184.6,163570.88,286.44,0.422
+Castor seed,2005,Kharif     ,Karnataka,24981.0,25989,1316.2,2995721.52,5246.01,1.086666667
+Castor seed,2005,Kharif     ,Meghalaya,33.0,21,3374.4,3957.36,6.93,0.693333333
+Castor seed,2005,Kharif     ,Tamil Nadu,8391.0,2777,1364.1,1006248.72,1762.11,0.313333333
+Castor seed,2005,Rabi       ,West Bengal,45.0,37,1650.1,5396.4,9.45,0.82
+Castor seed,2006,Rabi       ,Meghalaya,33.0,21,2454.7,4214.43,7.26,0.693333333
+Castor seed,2006,Kharif     ,Andhra Pradesh,202199.0,86892,845.2,25822834.29,44483.78,0.444117647
+Castor seed,2006,Kharif     ,Assam,1303.0,552,1774.9,166406.13,286.66,0.4636
+Castor seed,2006,Kharif     ,Karnataka,20230.0,16163,1146.3,2583573.3,4450.6,0.827727273
+Castor seed,2006,Whole Year ,Tamil Nadu,5289.0,1674,927.9,675458.19,1163.58,0.35375
+Castor seed,2006,Rabi       ,West Bengal,58.0,49,1631.4,7407.18,12.76,0.84
+Castor seed,2007,Kharif     ,Assam,1193.0,509,2154.1,159146.2,190.88,0.4468
+Castor seed,2007,Kharif     ,Karnataka,23387.0,15682,1323.3,3119825.8,3741.92,0.6725
+Castor seed,2007,Whole Year ,Tamil Nadu,5184.0,1624,1067.2,691545.6,829.44,0.344782609
+Castor seed,2008,Kharif     ,Andhra Pradesh,158723.0,81365,944.6,22703737.92,14285.07,0.586666667
+Castor seed,2008,Kharif     ,Assam,1225.0,517,2109.9,175224.0,110.25,0.433333333
+Castor seed,2008,Kharif     ,Karnataka,19635.0,18618,1164.1,2808590.4,1767.15,0.96826087
+Castor seed,2008,Kharif     ,Meghalaya,29.0,17,3114.3,4148.16,2.61,0.686666667
+Castor seed,2008,Whole Year ,Tamil Nadu,5523.0,1702,1201.9,790009.92,497.07,0.322222222
+Castor seed,2008,Kharif     ,West Bengal,60.0,37,1560.1,8582.4,5.4,0.62
+Castor seed,2009,Kharif     ,Andhra Pradesh,147582.0,63733,711.0,22996227.24,25088.94,0.532352941
+Castor seed,2009,Kharif     ,Assam,1157.0,492,1727.1,180283.74,196.69,0.427916667
+Castor seed,2009,Kharif     ,Karnataka,17829.0,11525,1321.0,2778114.78,3030.93,0.645909091
+Castor seed,2009,Kharif     ,Meghalaya,29.0,15,2995.9,4518.78,4.93,0.5
+Castor seed,2009,Whole Year ,Tamil Nadu,4896.0,1521,928.5,762894.72,832.32,0.313703704
+Castor seed,2010,Kharif     ,Assam,978.0,419,2578.5,162455.58,234.72,0.428
+Castor seed,2010,Kharif     ,Andhra Pradesh,187721.0,121143,1297.0,31182335.31,45053.04,0.526875
+Castor seed,2010,Kharif     ,Karnataka,19100.0,15991,1317.7,3172701.0,4584.0,0.865652174
+Castor seed,2010,Kharif     ,Meghalaya,25.0,12,3119.7,4152.75,6.0,0.626666667
+Castor seed,2011,Kharif     ,Assam,1024.0,538,1743.4,171540.48,337.92,0.515833333
+Castor seed,2011,Kharif     ,Andhra Pradesh,253280.0,52509,861.9,42429465.6,83582.4,0.402777778
+Castor seed,2011,Kharif     ,Karnataka,16282.0,13651,1178.986364,2727560.64,5373.06,0.857916667
+Castor seed,2011,Kharif     ,Meghalaya,30.0,16,4083.104545,5025.6,9.9,0.66
+Castor seed,2011,Whole Year ,Tamil Nadu,6202.0,1861,926.5,1038959.04,2046.66,0.767407407
+Castor seed,2012,Kharif     ,Andhra Pradesh,208000.0,105000,968.7,31366400.0,64480.0,0.764
+Castor seed,2012,Kharif     ,Assam,902.0,492,2167.5,136021.6,279.62,0.5436
+Castor seed,2012,Kharif     ,Karnataka,11462.0,7142,956.2,1728469.6,3553.22,0.658095238
+Castor seed,2012,Kharif     ,Meghalaya,60.0,45,2945.3,9048.0,18.6,0.926666667
+Castor seed,2013,Kharif     ,Andhra Pradesh,47592.0,24827,1062.3,6876568.08,12849.84,0.737777778
+Castor seed,2013,Rabi       ,Andhra Pradesh,1291.0,956,1062.3,186536.59,348.57,0.74
+Castor seed,2013,Kharif     ,Assam,877.0,447,1797.7,126717.73,236.79,0.623913043
+Castor seed,2013,Kharif     ,Karnataka,12184.0,10900,1235.6,1760466.16,3289.68,0.906956522
+Castor seed,2013,Kharif     ,Meghalaya,63.0,50,2448.4,9102.87,17.01,0.9
+Castor seed,2013,Kharif     ,Tamil Nadu,6377.0,1990,740.9,921412.73,1721.79,0.35
+Castor seed,2014,Kharif     ,Andhra Pradesh,46122.0,26668,687.6,6962577.12,15220.26,0.72
+Castor seed,2014,Rabi       ,Andhra Pradesh,1715.0,838,687.6,258896.4,565.95,0.598333333
+Castor seed,2014,Kharif     ,Assam,941.0,556,1899.0,142053.36,310.53,0.64
+Castor seed,2014,Kharif     ,Karnataka,11913.0,7243,1238.5,1798386.48,3931.29,0.616363636
+Castor seed,2014,Kharif     ,Meghalaya,67.0,58,3484.4,10114.32,22.11,0.968
+Castor seed,2014,Kharif     ,Tamil Nadu,5132.0,1695,911.3,774726.72,1693.56,0.3575
+Castor seed,2015,Kharif     ,Andhra Pradesh,48940.0,27592,940.7,7728115.4,16150.2,0.81125
+Castor seed,2015,Rabi       ,Andhra Pradesh,1785.0,1226,940.7,281869.35,589.05,0.836
+Castor seed,2015,Kharif     ,Assam,881.0,407,2155.3,139118.71,290.73,0.591538462
+Castor seed,2015,Rabi       ,Meghalaya,72.0,65,3870.8,11369.52,23.76,1.004
+Castor seed,2015,Kharif     ,Karnataka,9347.0,4911,1024.9,1475984.77,3084.51,0.514
+Castor seed,2015,Kharif     ,Tamil Nadu,5495.0,1763,1201.9,867715.45,1813.35,0.325416667
+Castor seed,2016,Kharif     ,Andhra Pradesh,32292.0,15195,890.0,4948749.0,11302.2,0.511111111
+Castor seed,2016,Rabi       ,Andhra Pradesh,527.0,274,890.0,80762.75,184.45,0.52
+Castor seed,2016,Kharif     ,Assam,744.0,346,2296.8,114018.0,260.4,0.624347826
+Castor seed,2016,Rabi       ,Meghalaya,72.0,65,3837.1,11034.0,25.2,1.004
+Castor seed,2016,Kharif     ,Karnataka,9527.0,4722,1147.2,1460012.75,3334.45,0.506086957
+Castor seed,2016,Kharif     ,Tamil Nadu,4705.0,1470,912.4,721041.25,1646.75,0.29375
+Castor seed,2017,Kharif     ,Andhra Pradesh,30904.0,20126,868.2,4865525.76,11743.52,0.8425
+Castor seed,2017,Rabi       ,Andhra Pradesh,906.0,723,868.2,142640.64,344.28,0.856
+Castor seed,2017,Kharif     ,Assam,758.0,357,2098.563636,119339.52,288.04,0.6
+Castor seed,2017,Rabi       ,Meghalaya,72.0,65,4472.3,11335.68,27.36,1.004
+Castor seed,2017,Kharif     ,Karnataka,7125.0,4585,1111.7,1121760.0,2707.5,0.644761905
+Castor seed,2017,Kharif     ,Tamil Nadu,4374.0,1419,970.9,688642.56,1662.12,0.3748
+Castor seed,2018,Kharif     ,Andhra Pradesh,34682.0,14535,1220.5,5625420.4,12138.7,0.374285714
+Castor seed,2018,Rabi       ,Andhra Pradesh,1839.0,637,1220.5,298285.8,643.65,0.41
+Castor seed,2018,Kharif     ,Assam,724.0,336,2372.9,117432.8,253.4,0.62
+Castor seed,2018,Rabi       ,Meghalaya,72.0,65,5649.1,11678.4,25.2,1.004
+Castor seed,2018,Kharif     ,Karnataka,2650.0,1520,1419.1,429830.0,927.5,0.615
+Castor seed,2018,Kharif     ,Tamil Nadu,4756.0,1526,986.2,771423.2,1664.6,0.333636364
+Castor seed,2019,Kharif     ,Andhra Pradesh,36827.0,25270,899.2,6325405.52,13625.99,0.7625
+Castor seed,2019,Rabi       ,Andhra Pradesh,1056.0,637,899.2,181378.56,390.72,0.684
+Castor seed,2019,Kharif     ,Assam,748.0,345,2084.7,128476.48,276.76,0.632272727
+Castor seed,2019,Rabi       ,Meghalaya,72.0,65,3844.4,12366.72,26.64,1.004
+Castor seed,2019,Kharif     ,Karnataka,4144.0,3818,1422.3,711773.44,1533.28,0.904545455
+Castor seed,2019,Kharif     ,Tamil Nadu,5259.0,1646,910.1,903285.84,1945.83,0.306428571
+Castor seed,1997,Kharif     ,Andhra Pradesh,169600.0,42100,927.5,16140832.0,52576.0,0.241666667
+Castor seed,1997,Kharif     ,Bihar,967.0,761,1303.7,92029.39,299.77,0.781538462
+Castor seed,1997,Kharif     ,Gujarat,11200.0,26000,798.9,1065904.0,3472.0,2.32
+Castor seed,1997,Whole Year ,Gujarat,337000.0,660500,798.9,32072290.0,104470.0,2.29625
+Castor seed,1997,Kharif     ,Uttar Pradesh,23.0,15,473.9,2188.91,7.13,0.814285714
+Castor seed,1998,Kharif     ,Andhra Pradesh,203700.0,45500,1048.3,20125560.0,59073.0,0.266
+Castor seed,1998,Kharif     ,Bihar,975.0,810,1332.5,96330.0,282.75,0.835454545
+Castor seed,1998,Kharif     ,Gujarat,348300.0,694500,775.6,34412040.0,101007.0,2.431764706
+Castor seed,1998,Kharif     ,Maharashtra,10100.0,2900,1314.8,997880.0,2929.0,0.277
+Castor seed,1998,Whole Year ,Tamil Nadu,42634.0,14626,1077.1,4212239.2,12363.86,0.347647059
+Castor seed,1998,Rabi       ,Uttar Pradesh,36.0,24,743.4,3556.8,10.44,0.674615385
+Castor seed,1999,Kharif     ,Gujarat,346300.0,622400,458.9,36752819.0,93501.0,1.696470588
+Castor seed,1999,Kharif     ,Karnataka,25544.0,19710,1203.8,2710984.72,6896.88,0.768181818
+Castor seed,1999,Kharif     ,Madhya Pradesh,2708.0,845,1222.9,287400.04,731.16,0.385862069
+Castor seed,1999,Kharif     ,Maharashtra,11000.0,2900,1166.5,1167430.0,2970.0,0.263636364
+Castor seed,1999,Kharif     ,Nagaland,820.0,750,1782.2,87026.6,221.4,2.102
+Castor seed,1999,Kharif     ,Odisha,12160.0,6260,1484.3,1290540.8,3283.2,0.5032
+Castor seed,1999,Rabi       ,Odisha,9720.0,4800,1484.3,1031583.6,2624.4,0.649230769
+Castor seed,1999,Kharif     ,Tamil Nadu,36034.0,11843,922.8,3824288.42,9729.18,0.351666667
+Castor seed,1999,Kharif     ,Uttar Pradesh,76.0,49,883.4,8065.88,20.52,0.7675
+Castor seed,2000,Kharif     ,Chhattisgarh,133.0,36,896.4,13056.61,34.58,0.256666667
+Castor seed,2000,Kharif     ,Gujarat,458600.0,638800,379.7,45020762.0,119236.0,1.242352941
+Castor seed,2000,Kharif     ,Madhya Pradesh,3296.0,818,723.3,323568.32,856.96,0.365454545
+Castor seed,2000,Kharif     ,Maharashtra,18100.0,4350,1057.8,1776877.0,4706.0,0.285454545
+Castor seed,2000,Kharif     ,Nagaland,1000.0,750,1631.8,98170.0,260.0,0.768333333
+Castor seed,2000,Kharif     ,Odisha,9710.0,5050,1066.0,953230.7,2524.6,0.5196
+Castor seed,2000,Rabi       ,Odisha,8650.0,3940,1066.0,849170.5,2249.0,0.506923077
+Castor seed,2000,Kharif     ,Tamil Nadu,38930.0,12658,971.1,3821758.1,10121.8,0.334736842
+Castor seed,2000,Kharif     ,Uttar Pradesh,25.0,16,874.4,2454.25,6.5,0.601428571
+Castor seed,2001,Kharif     ,Chhattisgarh,113.0,31,1550.0,11540.69,29.38,0.232857143
+Castor seed,2001,Kharif     ,Gujarat,304700.0,465100,666.5,31119011.0,79222.0,1.58
+Castor seed,2001,Kharif     ,Madhya Pradesh,2496.0,807,955.0,254916.48,648.96,0.364444444
+Castor seed,2001,Kharif     ,Maharashtra,11900.0,3250,1035.8,1215347.0,3094.0,0.346818182
+Castor seed,2001,Kharif     ,Odisha,8670.0,4310,1672.5,885467.1,2254.2,0.520909091
+Castor seed,2001,Rabi       ,Odisha,9220.0,5020,1672.5,941638.6,2397.2,0.5328
+Castor seed,2002,Kharif     ,Bihar,316.0,312,1105.8,29915.72,79.0,0.992857143
+Castor seed,2002,Kharif     ,Chhattisgarh,74.0,21,1001.4,7005.58,18.5,0.23125
+Castor seed,2002,Kharif     ,Gujarat,242200.0,283100,458.4,22929074.0,60550.0,1.162941176
+Castor seed,2002,Kharif     ,Karnataka,16991.0,15693,860.8,1608537.97,4247.75,0.893333333
+Castor seed,2002,Kharif     ,Madhya Pradesh,1591.0,546,800.8,150619.97,397.75,0.338947368
+Castor seed,2002,Kharif     ,Maharashtra,29700.0,6590,967.4,2811699.0,7425.0,0.1815
+Castor seed,2002,Kharif     ,Meghalaya,23.0,12,4355.3,2177.41,5.75,0.495
+Castor seed,2002,Kharif     ,Odisha,7830.0,3610,1102.8,741266.1,1957.5,0.463913043
+Castor seed,2002,Rabi       ,Odisha,6400.0,2750,1102.8,605888.0,1600.0,0.489166667
+Castor seed,2003,Kharif     ,Bihar,155.0,154,1353.9,15341.9,37.2,0.99875
+Castor seed,2003,Kharif     ,Chhattisgarh,84.0,27,1643.7,8314.32,20.16,0.404444444
+Castor seed,2003,Kharif     ,Gujarat,290300.0,541100,902.5,28733894.0,69672.0,1.981818182
+Castor seed,2003,Kharif     ,Madhya Pradesh,1523.0,572,1163.0,150746.54,365.52,0.25
+Castor seed,2003,Kharif     ,Odisha,10900.0,5590,1648.2,1078882.0,2616.0,0.480769231
+Castor seed,2003,Rabi       ,Odisha,6830.0,3050,1648.2,676033.4,1639.2,0.486
+Castor seed,2004,Kharif     ,Andhra Pradesh,271600.0,105437,781.8,29425144.0,57036.0,0.484444444
+Castor seed,2004,Kharif     ,Assam,1349.0,572,2536.9,146150.66,283.29,0.428095238
+Castor seed,2004,Kharif     ,Bihar,173.0,163,1147.8,18742.82,36.33,0.962222222
+Castor seed,2004,Kharif     ,Chhattisgarh,137.0,50,1122.8,14842.58,28.77,0.34625
+Castor seed,2004,Kharif     ,Gujarat,330500.0,564800,719.8,35806370.0,69405.0,1.746956522
+Castor seed,2004,Kharif     ,Madhya Pradesh,1773.0,671,895.7,192086.82,372.33,0.3545
+Castor seed,2004,Kharif     ,Maharashtra,12300.0,3500,1052.0,1332582.0,2583.0,0.253181818
+Castor seed,2004,Rabi       ,West Bengal,45.0,43,1612.9,4875.3,9.45,0.96
+Castor seed,2005,Kharif     ,Bihar,164.0,154,907.8,19666.88,34.44,0.965
+Castor seed,2005,Kharif     ,Chhattisgarh,95.0,30,1292.7,11392.4,19.95,0.256666667
+Castor seed,2005,Kharif     ,Gujarat,341600.0,665000,942.4,40964672.0,71736.0,2.059545455
+Castor seed,2005,Kharif     ,Madhya Pradesh,1499.0,462,1032.7,179760.08,314.79,0.241904762
+Castor seed,2005,Kharif     ,Maharashtra,16100.0,6800,1387.2,1930712.0,3381.0,0.634
+Castor seed,2006,Kharif     ,Chhattisgarh,69.0,21,1317.2,8811.99,15.18,0.278571429
+Castor seed,2006,Kharif     ,Gujarat,327100.0,588800,1056.2,41773941.0,71962.0,1.845454545
+Castor seed,2006,Kharif     ,Haryana,5543.0,2400,329.3,707896.53,1219.46,0.5
+Castor seed,2006,Kharif     ,Madhya Pradesh,1508.0,569,1072.3,192586.68,331.76,0.320909091
+Castor seed,2006,Kharif     ,Maharashtra,11900.0,4000,1439.4,1519749.0,2618.0,0.34875
+Castor seed,2007,Kharif     ,Andhra Pradesh,199000.0,129000,1004.2,26546600.0,31840.0,0.563636364
+Castor seed,2007,Kharif     ,Bihar,203.0,194,1600.2,27080.2,32.48,0.9775
+Castor seed,2007,Kharif     ,Chhattisgarh,158.0,60,1246.2,21077.2,25.28,0.9025
+Castor seed,2007,Kharif     ,Gujarat,358100.0,708300,1021.6,47770540.0,57296.0,2.08
+Castor seed,2007,Kharif     ,Haryana,2098.0,1900,443.8,279873.2,335.68,0.762
+Castor seed,2007,Kharif     ,Madhya Pradesh,1626.0,682,740.4,216908.4,260.16,0.328125
+Castor seed,2007,Kharif     ,Maharashtra,11500.0,4400,1257.2,1534100.0,1840.0,0.3196
+Castor seed,2007,Kharif     ,Meghalaya,28.0,15,4702.0,3735.2,4.48,0.525
+Castor seed,2008,Kharif     ,Bihar,185.0,177,1197.7,26462.4,16.65,0.99
+Castor seed,2008,Kharif     ,Chhattisgarh,39.0,12,1117.9,5578.56,3.51,0.218333333
+Castor seed,2008,Kharif     ,Gujarat,433900.0,851700,746.1,62065056.0,39051.0,2.020434783
+Castor seed,2008,Kharif     ,Haryana,1823.0,2100,715.6,260761.92,164.07,0.8775
+Castor seed,2008,Kharif     ,Madhya Pradesh,1420.0,504,895.0,203116.8,127.8,0.293125
+Castor seed,2008,Kharif     ,Maharashtra,10800.0,2700,1052.8,1544832.0,972.0,0.254
+Castor seed,2009,Kharif     ,Chhattisgarh,64.0,18,956.9,9972.48,10.88,0.198571429
+Castor seed,2009,Kharif     ,Gujarat,421600.0,831400,618.0,65693712.0,71672.0,2.041304348
+Castor seed,2009,Kharif     ,Haryana,1012.0,1100,393.0,157689.84,172.04,0.965
+Castor seed,2009,Kharif     ,Maharashtra,6700.0,1500,1002.4,1043994.0,1139.0,0.195
+Castor seed,2009,Kharif     ,Nagaland,650.0,330,1225.9,101283.0,110.5,0.496363636
+Castor seed,2009,Kharif     ,West Bengal,60.0,35,1317.2,9349.2,10.2,0.58
+Castor seed,2009,Whole Year ,Madhya Pradesh,1361.0,481,904.1,212071.02,231.37,0.305714286
+Castor seed,2010,Kharif     ,Bihar,173.0,166,629.2,28737.03,41.52,0.98
+Castor seed,2010,Kharif     ,Chhattisgarh,223.0,77,1283.1,37042.53,53.52,0.32
+Castor seed,2010,Kharif     ,Gujarat,490600.0,986000,1107.5,81493566.0,117744.0,2.011363636
+Castor seed,2010,Kharif     ,Haryana,1654.0,700,639.2,274745.94,396.96,0.138333333
+Castor seed,2010,Kharif     ,Madhya Pradesh,5886.0,2730,856.3,977723.46,1412.64,0.318666667
+Castor seed,2010,Kharif     ,Maharashtra,9800.0,4190,1389.0,1627878.0,2352.0,0.527368421
+Castor seed,2010,Kharif     ,Nagaland,270.0,180,1771.8,44849.7,64.8,0.626666667
+Castor seed,2010,Kharif     ,Tamil Nadu,5972.0,1711,1095.2,992008.92,1433.28,0.5676
+Castor seed,2010,Kharif     ,West Bengal,85.0,51,1096.0,14119.35,20.4,0.6
+Castor seed,2011,Kharif     ,Bihar,102.0,98,1097.1,17087.04,33.66,0.986666667
+Castor seed,2011,Kharif     ,Chhattisgarh,49.0,16,1302.7,8208.48,16.17,0.34
+Castor seed,2011,Kharif     ,Gujarat,877700.0,1803400,890.5,147032304.0,289641.0,2.132608696
+Castor seed,2011,Kharif     ,Haryana,2932.0,1300,471.5409091,491168.64,967.56,0.445
+Castor seed,2011,Kharif     ,Madhya Pradesh,1778.0,511,852.6,297850.56,586.74,0.258571429
+Castor seed,2011,Kharif     ,Maharashtra,8100.0,3580,1174.095455,1356912.0,2673.0,0.445384615
+Castor seed,2011,Kharif     ,Nagaland,280.0,190,1544.354545,46905.6,92.4,0.632222222
+Castor seed,2011,Kharif     ,West Bengal,70.0,42,1686.5,11726.4,23.1,0.6
+Castor seed,2012,Kharif     ,Bihar,100.0,96,924.1,15080.0,31.0,0.986666667
+Castor seed,2012,Kharif     ,Chhattisgarh,90.0,30,1366.8,13572.0,27.9,0.376
+Castor seed,2012,Kharif     ,Gujarat,750700.0,1493000,460.6,113205560.0,232717.0,1.958695652
+Castor seed,2012,Kharif     ,Haryana,1262.0,606,307.9,190309.6,391.22,0.464
+Castor seed,2012,Kharif     ,Madhya Pradesh,3004.0,1064,1049.5,453003.2,931.24,0.321818182
+Castor seed,2012,Kharif     ,Maharashtra,18300.0,4960,1003.4,2759640.0,5673.0,0.277619048
+Castor seed,2012,Kharif     ,Nagaland,300.0,200,1296.6,45240.0,93.0,0.621111111
+Castor seed,2012,Kharif     ,Tamil Nadu,12174.0,1750,706.8,1835839.2,3773.94,0.153333333
+Castor seed,2012,Kharif     ,West Bengal,72.0,43,1566.0,10857.6,22.32,0.6
+Castor seed,2013,Kharif     ,Bihar,158.0,151,1069.9,22829.42,42.66,0.974
+Castor seed,2013,Rabi       ,Chhattisgarh,45.0,16,1418.3,6502.05,12.15,0.398
+Castor seed,2013,Kharif     ,Gujarat,630218.0,1367133,1006.5,91060198.82,170158.86,2.19173913
+Castor seed,2013,Kharif     ,Haryana,700.0,700,452.2,101143.0,189.0,0.733333333
+Castor seed,2013,Kharif     ,Madhya Pradesh,2458.0,1191,1451.4,355156.42,663.66,0.48
+Castor seed,2013,Kharif     ,Maharashtra,13800.0,5100,1409.8,1993962.0,3726.0,0.346521739
+Castor seed,2013,Kharif     ,Nagaland,300.0,200,1350.9,43347.0,81.0,0.621111111
+Castor seed,2013,Kharif     ,Telangana,78475.0,55516,1348.7,11338852.75,21188.25,0.60625
+Castor seed,2013,Rabi       ,Telangana,1358.0,964,1348.7,196217.42,366.66,0.713333333
+Castor seed,2013,Kharif     ,West Bengal,76.0,45,1939.9,10981.24,20.52,0.59
+Castor seed,2014,Kharif     ,Bihar,96.0,92,1061.0,14492.16,31.68,0.9875
+Castor seed,2014,Rabi       ,Chhattisgarh,48.0,14,1274.7,7246.08,15.84,0.234
+Castor seed,2014,Kharif     ,Gujarat,693527.0,1440526,605.6,104694835.9,228863.91,2.158
+Castor seed,2014,Kharif     ,Haryana,500.0,600,301.3,75480.0,165.0,0.89
+Castor seed,2014,Kharif     ,Maharashtra,17300.0,4000,1001.6,2611608.0,5709.0,0.188571429
+Castor seed,2014,Kharif     ,Nagaland,310.0,210,1333.3,46797.6,102.3,0.624444444
+Castor seed,2014,Kharif     ,Telangana,49717.0,28724,746.4,7505278.32,16406.61,0.474285714
+Castor seed,2014,Rabi       ,Telangana,1000.0,576,746.4,150960.0,330.0,0.5025
+Castor seed,2014,Kharif     ,West Bengal,81.0,48,1483.5,12227.76,26.73,0.59
+Castor seed,2015,Kharif     ,Bihar,43.0,41,874.0,6790.13,14.19,0.968
+Castor seed,2015,Rabi       ,Chhattisgarh,54.0,17,1136.0,8527.14,17.82,0.278571429
+Castor seed,2015,Kharif     ,Gujarat,713787.0,1410302,584.3,112714105.2,235549.71,1.929666667
+Castor seed,2015,Kharif     ,Haryana,500.0,400,426.8,78955.0,165.0,0.875
+Castor seed,2015,Kharif     ,Madhya Pradesh,4000.0,2000,1000.7,631640.0,1320.0,0.5
+Castor seed,2015,Kharif     ,Maharashtra,11426.0,2136,875.7,1804279.66,3770.58,0.239047619
+Castor seed,2015,Kharif     ,Nagaland,330.0,220,1308.3,52110.3,108.9,0.62
+Castor seed,2015,Kharif     ,Telangana,47373.0,16948,747.9,7480670.43,15633.09,0.34875
+Castor seed,2015,Rabi       ,Telangana,601.0,213,747.9,94903.91,198.33,0.338
+Castor seed,2015,Kharif     ,West Bengal,56.0,34,1717.0,8842.96,18.48,0.61
+Castor seed,2016,Kharif     ,Bihar,77.0,74,1205.6,11800.25,26.95,0.9875
+Castor seed,2016,Kharif     ,Chhattisgarh,114.0,31,1298.9,17470.5,39.9,0.22
+Castor seed,2016,Kharif     ,Gujarat,543697.0,1126810,710.5,83321565.25,190293.95,2.026206897
+Castor seed,2016,Kharif     ,Haryana,1800.0,2000,554.7,275850.0,630.0,1.073333333
+Castor seed,2016,Kharif     ,Maharashtra,7049.0,2074,1151.1,1080259.25,2467.15,0.379473684
+Castor seed,2016,Kharif     ,Nagaland,340.0,230,1959.8,52105.0,119.0,0.624444444
+Castor seed,2016,Kharif     ,Telangana,44442.0,26207,942.6,6810736.5,15554.7,0.538333333
+Castor seed,2016,Rabi       ,Telangana,466.0,272,942.6,71414.5,163.1,0.521666667
+Castor seed,2016,Kharif     ,West Bengal,62.0,39,1795.8,9501.5,21.7,0.63
+Castor seed,2017,Kharif     ,Bihar,19.0,19,1112.0,2991.36,7.22,1.0
+Castor seed,2017,Kharif     ,Chhattisgarh,6.0,2,1124.5,944.64,2.28,0.33
+Castor seed,2017,Kharif     ,Gujarat,585243.0,1487280,814.8,92140657.92,222392.34,2.466333333
+Castor seed,2017,Kharif     ,Haryana,900.0,900,417.1,141696.0,342.0,1.0
+Castor seed,2017,Kharif     ,Jharkhand,153.0,57,1165.7,24088.32,58.14,0.483333333
+Castor seed,2017,Kharif     ,Madhya Pradesh,8950.0,4970,800.0,1409088.0,3401.0,0.508
+Castor seed,2017,Kharif     ,Maharashtra,6152.0,1368,1129.5,968570.88,2337.76,0.257
+Castor seed,2017,Kharif     ,Nagaland,350.0,240,1722.1,55104.0,133.0,0.624444444
+Castor seed,2017,Kharif     ,Telangana,27876.0,26131,815.7,4388797.44,10592.88,0.93
+Castor seed,2017,Rabi       ,Telangana,294.0,281,815.7,46287.36,111.72,0.92375
+Castor seed,2018,Kharif     ,Bihar,85.0,82,1521.4,13787.0,29.75,0.992
+Castor seed,2018,Kharif     ,Chhattisgarh,49.0,20,1515.5,7947.8,17.15,0.286
+Castor seed,2018,Kharif     ,Gujarat,521877.0,944316,1125.4,84648449.4,182656.95,1.732333333
+Castor seed,2018,Kharif     ,Haryana,2232.0,1505,533.2,362030.4,781.2,0.694545455
+Castor seed,2018,Kharif     ,Jharkhand,41.0,26,1222.7,6650.2,14.35,0.49
+Castor seed,2018,Kharif     ,Madhya Pradesh,1403.0,524,1102.2,227566.6,491.05,0.237777778
+Castor seed,2018,Kharif     ,Maharashtra,12534.0,3649,1387.4,2033014.8,4386.9,0.2745
+Castor seed,2018,Kharif     ,Nagaland,360.0,240,1372.7,58392.0,126.0,0.605555556
+Castor seed,2018,Kharif     ,Telangana,19489.0,14853,1350.3,3161115.8,6821.15,0.724
+Castor seed,2018,Rabi       ,Telangana,463.0,304,1350.3,75098.6,162.05,0.785555556
+Castor seed,2018,Kharif     ,West Bengal,19.0,11,2012.6,3081.8,6.65,0.58
+Castor seed,2019,Kharif     ,Bihar,87.0,84,1194.7,14943.12,32.19,0.992
+Castor seed,2019,Kharif     ,Chhattisgarh,12.0,4,1420.3,2061.12,4.44,0.3575
+Castor seed,2019,Kharif     ,Gujarat,736591.0,1432107,1067.8,126516870.2,272538.67,1.908666667
+Castor seed,2019,Kharif     ,Haryana,6685.0,4454,351.8,1148215.6,2473.45,0.765
+Castor seed,2019,Kharif     ,Jharkhand,58.0,35,1137.8,9962.08,21.46,0.525
+Castor seed,2019,Kharif     ,Nagaland,360.0,240,1593.0,61833.6,133.2,0.605555556
+Castor seed,2019,Kharif     ,Odisha,4510.0,2910,1593.9,774637.6,1668.7,0.909
+Castor seed,2019,Rabi       ,Odisha,2280.0,1510,1593.9,391612.8,843.6,0.701538462
+Castor seed,2019,Kharif     ,Telangana,25921.0,33945,1031.7,4452190.96,9590.77,1.277222222
+Castor seed,2019,Rabi       ,Telangana,2046.0,3313,1031.7,351420.96,757.02,1.235714286
+Castor seed,1999,Kharif     ,Andhra Pradesh,264061.0,58353,650.4,28024793.93,71296.47,0.212631579
+Castor seed,2004,Kharif     ,Odisha,11117.0,5670,1290.4,1204415.78,2334.57,0.461071429
+Castor seed,2004,Rabi       ,Odisha,6956.0,3510,1290.4,753613.04,1460.76,0.446666667

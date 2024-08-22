@@ -1,0 +1,477 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Cotton(lint),1997,Kharif     ,Assam,1739.0,794,2051.4,165500.63,539.09,0.420909091
+Cotton(lint),1997,Kharif     ,Meghalaya,7544.0,5590,3818.2,717962.48,2338.64,0.796666667
+Cotton(lint),1997,Kharif     ,West Bengal,26000.0,52000,1852.9,2474420.0,8060.0,2.0
+Cotton(lint),1998,Summer     ,Puducherry,453.0,372,1434.5875,44756.4,131.37,0.84
+Cotton(lint),1998,Kharif     ,Assam,1652.0,751,2354.4,163217.6,479.08,0.399130435
+Cotton(lint),1998,Kharif     ,Karnataka,636495.0,976876,1260.8,62885706.0,184583.55,1.556521739
+Cotton(lint),1998,Kharif     ,Kerala,10999.0,17752,3151.5,1086701.2,3189.71,1.61
+Cotton(lint),1998,Kharif     ,Meghalaya,7549.0,5599,6552.7,745841.2,2189.21,0.796666667
+Cotton(lint),1998,Kharif     ,West Bengal,200.0,73,2152.5,19760.0,58.0,0.37
+Cotton(lint),1999,Kharif     ,Assam,1637.0,746,2201.8,173734.81,441.99,0.41173913
+Cotton(lint),1999,Kharif     ,Kerala,4772.0,7702,2914.6,506452.36,1288.44,1.61
+Cotton(lint),1999,Kharif     ,Meghalaya,7455.0,5549,6200.3,791199.15,2012.85,0.8
+Cotton(lint),1999,Kharif     ,Puducherry,357.0,1835,1434.5875,37888.41,96.39,5.14
+Cotton(lint),1999,Kharif     ,West Bengal,750.0,2040,2318.1,79597.5,202.5,2.72
+Cotton(lint),2000,Kharif     ,Andhra Pradesh,1021721.0,1662683,935.6,100302350.6,265647.46,1.687727273
+Cotton(lint),2000,Kharif     ,Assam,1673.0,760,1965.5,164238.41,434.98,0.426521739
+Cotton(lint),2000,Kharif     ,Karnataka,551763.0,855236,1213.3,54166573.71,143458.38,1.593333333
+Cotton(lint),2000,Kharif     ,Kerala,3847.0,6209,2412.6,377659.99,1000.22,1.61
+Cotton(lint),2000,Kharif     ,Meghalaya,7340.0,7684,6258.8,720567.8,1908.4,1.036666667
+Cotton(lint),2000,Kharif     ,Puducherry,452.0,2300,1434.5875,44372.84,117.52,5.11
+Cotton(lint),2000,Kharif     ,West Bengal,1188.0,2732,1907.7,116625.96,308.88,2.3
+Cotton(lint),2001,Kharif     ,Andhra Pradesh,1107852.0,1876698,928.4,113144924.8,288041.52,1.820454545
+Cotton(lint),2001,Kharif     ,Assam,1882.0,860,1824.7,192208.66,489.32,0.443913043
+Cotton(lint),2001,Kharif     ,Karnataka,608479.0,612415,1002.9,62143960.27,158204.54,1.221428571
+Cotton(lint),2001,Kharif     ,Kerala,3760.0,6069,2946.7,384008.8,977.6,1.61
+Cotton(lint),2001,Kharif     ,Meghalaya,7323.0,7873,4241.0,747897.99,1903.98,1.05
+Cotton(lint),2001,Kharif     ,Puducherry,575.0,2965,1434.5875,58724.75,149.5,5.23
+Cotton(lint),2001,Kharif     ,West Bengal,1795.0,4481,1556.6,183323.35,466.7,1.993333333
+Cotton(lint),2002,Kharif     ,Andhra Pradesh,803274.0,1085739,648.1,76045949.58,200818.5,1.455238095
+Cotton(lint),2002,Kharif     ,Assam,1556.0,716,1973.6,147306.52,389.0,0.422608696
+Cotton(lint),2002,Kharif     ,Kerala,3400.0,5488,2511.2,321878.0,850.0,1.61
+Cotton(lint),2002,Kharif     ,Tamil Nadu,75572.0,83542,315.9,7154401.24,18893.0,1.429230769
+Cotton(lint),2002,Kharif     ,West Bengal,823.0,1474,1629.1,77913.41,205.75,2.875
+Cotton(lint),2003,Kharif     ,Andhra Pradesh,836892.0,1890394,826.0,82835570.16,200854.08,2.137619048
+Cotton(lint),2003,Kharif     ,Assam,1438.0,664,2213.7,142333.24,345.12,0.443478261
+Cotton(lint),2003,Kharif     ,Karnataka,316674.0,264624,867.6,31344392.52,76001.76,1.192857143
+Cotton(lint),2003,Kharif     ,Kerala,2949.0,4748,2386.0,291892.02,707.76,1.61
+Cotton(lint),2003,Kharif     ,Meghalaya,7281.0,7792,3321.3,720673.38,1747.44,1.036666667
+Cotton(lint),2003,Kharif     ,Puducherry,453.0,1747,1434.5875,44837.94,108.72,4.095
+Cotton(lint),2003,Kharif     ,Tamil Nadu,97777.0,119687,345.6,9677967.46,23466.48,1.504615385
+Cotton(lint),2003,Kharif     ,West Bengal,1429.0,2772,1526.7,141442.42,342.96,2.55
+Cotton(lint),2004,Kharif     ,Karnataka,521860.0,624566,1117.7,56538312.4,109590.6,1.357142857
+Cotton(lint),2004,Kharif     ,Kerala,1472.0,2370,2880.2,159476.48,309.12,1.61
+Cotton(lint),2004,Kharif     ,Meghalaya,7231.0,7765,4767.9,783406.54,1518.51,1.046666667
+Cotton(lint),2004,Kharif     ,Tamil Nadu,129364.0,185960,1034.0,14015295.76,27166.44,1.571153846
+Cotton(lint),2005,Kharif     ,Andhra Pradesh,1032629.0,2107984,1075.5,123832869.7,216852.09,1.727272727
+Cotton(lint),2005,Kharif     ,Assam,1352.0,632,2184.6,162131.84,283.92,0.4172
+Cotton(lint),2005,Whole Year ,Karnataka,413310.0,585498,1316.2,49564135.2,86795.1,1.503333333
+Cotton(lint),2005,Kharif     ,Kerala,2655.0,3452,3030.9,318387.6,557.55,1.3
+Cotton(lint),2005,Kharif     ,Meghalaya,7231.0,7768,3374.4,867141.52,1518.51,1.046666667
+Cotton(lint),2005,Kharif     ,Tamil Nadu,109742.0,168154,1364.1,13160260.64,23045.82,1.643703704
+Cotton(lint),2005,Kharif     ,West Bengal,1506.0,3857,1650.1,180599.52,316.26,2.22
+Cotton(lint),2006,Summer     ,Puducherry,57.0,40,1434.5875,7279.47,12.54,0.75
+Cotton(lint),2006,Rabi       ,Meghalaya,7208.0,7738,2454.7,920533.68,1585.76,1.05
+Cotton(lint),2006,Kharif     ,Andhra Pradesh,971806.0,2181944,845.2,124109344.3,213797.32,2.080952381
+Cotton(lint),2006,Kharif     ,Assam,1374.0,648,1774.9,175473.54,302.28,0.518461538
+Cotton(lint),2006,Whole Year ,Karnataka,375982.0,536329,1146.3,48016661.22,82716.04,1.405
+Cotton(lint),2006,Kharif     ,Kerala,1300.0,1690,3429.7,166023.0,286.0,1.3
+Cotton(lint),2006,Whole Year ,Tamil Nadu,100339.0,220864,927.9,12814293.69,22074.58,2.281111111
+Cotton(lint),2006,Kharif     ,West Bengal,5650.0,14678,1631.4,721561.5,1243.0,3.898571429
+Cotton(lint),2007,Summer     ,Puducherry,66.0,38,1434.5875,8804.4,10.56,0.615
+Cotton(lint),2007,Kharif     ,Assam,1359.0,635,2154.1,181290.6,217.44,0.445217391
+Cotton(lint),2007,Whole Year ,Karnataka,403029.0,704871,1323.3,53764068.6,64484.64,1.809
+Cotton(lint),2007,Kharif     ,Kerala,1295.0,1680,3489.6,172753.0,207.2,0.65
+Cotton(lint),2007,Whole Year ,Tamil Nadu,99335.0,200673,1067.2,13251289.0,15893.6,2.013928571
+Cotton(lint),2007,Kharif     ,West Bengal,8230.0,13198,2007.5,1097882.0,1316.8,2.47
+Cotton(lint),2008,Summer     ,Puducherry,48.0,39,1434.5875,6865.92,4.32,0.81
+Cotton(lint),2008,Kharif     ,Andhra Pradesh,1398900.0,3568251,944.6,200098656.0,125901.0,2.456363636
+Cotton(lint),2008,Kharif     ,Assam,1340.0,631,2109.9,191673.6,120.6,0.5688
+Cotton(lint),2008,Whole Year ,Karnataka,409024.0,825071,1164.1,58506792.96,36812.16,1.9425
+Cotton(lint),2008,Kharif     ,Kerala,1152.0,1498,2524.8,164782.08,103.68,1.3
+Cotton(lint),2008,Kharif     ,Meghalaya,7106.0,5617,3114.3,1016442.24,639.54,0.823333333
+Cotton(lint),2008,Whole Year ,Tamil Nadu,114516.0,187673,1201.9,16380368.64,10306.44,1.797586207
+Cotton(lint),2008,Kharif     ,West Bengal,2780.0,6023,1560.1,397651.2,250.2,2.32875
+Cotton(lint),2009,Summer     ,Puducherry,10.0,8,1434.5875,1558.2,1.7,0.89
+Cotton(lint),2009,Kharif     ,Andhra Pradesh,1467025.0,3232025,711.0,228591835.5,249394.25,2.209090909
+Cotton(lint),2009,Kharif     ,Assam,1646.0,782,1727.1,256479.72,279.82,0.51625
+Cotton(lint),2009,Whole Year ,Karnataka,456802.0,705079,1321.0,71178887.64,77656.34,1.6005
+Cotton(lint),2009,Kharif     ,Kerala,1018.0,1324,2821.5,158624.76,173.06,1.3
+Cotton(lint),2009,Kharif     ,Meghalaya,6891.0,5491,2995.9,1073755.62,1171.47,0.82
+Cotton(lint),2009,Whole Year ,Tamil Nadu,104095.0,225448,928.5,16220082.9,17696.15,2.502333333
+Cotton(lint),2010,Summer     ,Puducherry,5.0,5,1434.5875,830.55,1.2,1.0
+Cotton(lint),2010,Kharif     ,Assam,1398.0,650,2578.5,232221.78,335.52,0.528333333
+Cotton(lint),2010,Kharif     ,Andhra Pradesh,1784237.0,3890277,1297.0,296379608.1,428216.88,1.980454545
+Cotton(lint),2010,Kharif     ,Karnataka,418360.0,994710,1317.7,69493779.6,100406.4,2.260909091
+Cotton(lint),2010,Rabi       ,Karnataka,129125.0,155407,1317.7,21448953.75,30990.0,1.758
+Cotton(lint),2010,Kharif     ,Meghalaya,6816.0,5571,3119.7,1132205.76,1635.84,0.823333333
+Cotton(lint),2011,Summer     ,Puducherry,8.0,8,1434.5875,1340.16,2.64,1.0
+Cotton(lint),2011,Kharif     ,Assam,1230.0,581,1743.4,206049.6,405.9,0.595652174
+Cotton(lint),2011,Kharif     ,Andhra Pradesh,2062999.0,3181907,861.9,345593592.5,680789.67,1.548181818
+Cotton(lint),2011,Kharif     ,Karnataka,498264.0,1151643,1178.986364,83469185.28,164427.12,2.251818182
+Cotton(lint),2011,Rabi       ,Karnataka,71476.0,50923,1178.986364,11973659.52,23587.08,1.402857143
+Cotton(lint),2011,Kharif     ,Meghalaya,6871.0,6389,4083.104545,1151029.92,2267.43,0.903333333
+Cotton(lint),2011,Kharif     ,Tamil Nadu,107036.0,302611,926.5,17930670.72,35321.88,3.036923077
+Cotton(lint),2011,Rabi       ,Tamil Nadu,28769.0,79158,926.5,4819382.88,9493.77,2.83
+Cotton(lint),2012,Kharif     ,Andhra Pradesh,2402000.0,5600000,968.7,362221600.0,744620.0,2.440454545
+Cotton(lint),2012,Kharif     ,Assam,1802.0,863,2167.5,271741.6,558.62,0.489583333
+Cotton(lint),2012,Kharif     ,Karnataka,446810.0,1026068,956.2,67378948.0,138511.1,2.051304348
+Cotton(lint),2012,Rabi       ,Karnataka,48405.0,59666,956.2,7299474.0,15005.55,1.118
+Cotton(lint),2012,Summer     ,Karnataka,1810.0,5017,956.2,272948.0,561.1,2.77375
+Cotton(lint),2012,Kharif     ,Meghalaya,7250.0,8359,2945.3,1093300.0,2247.5,1.126666667
+Cotton(lint),2013,Kharif     ,Andhra Pradesh,671459.0,2175683,1062.3,97019110.91,181293.93,2.623846154
+Cotton(lint),2013,Rabi       ,Andhra Pradesh,5155.0,12281,1062.3,744845.95,1391.85,2.531666667
+Cotton(lint),2013,Kharif     ,Assam,1140.0,537,1797.7,164718.6,307.8,0.469166667
+Cotton(lint),2013,Kharif     ,Karnataka,584977.0,1731624,1235.6,84523326.73,157943.79,2.737083333
+Cotton(lint),2013,Rabi       ,Karnataka,74978.0,138277,1235.6,10833571.22,20244.06,1.931818182
+Cotton(lint),2013,Summer     ,Karnataka,2022.0,7289,1235.6,292158.78,545.94,3.655714286
+Cotton(lint),2013,Kharif     ,Meghalaya,7275.0,8602,2448.4,1051164.75,1964.25,1.126
+Cotton(lint),2013,Kharif     ,Tamil Nadu,116495.0,333808,740.9,16832362.55,31453.65,2.815
+Cotton(lint),2013,Rabi       ,Tamil Nadu,34468.0,82752,740.9,4980281.32,9306.36,2.478888889
+Cotton(lint),2014,Kharif     ,Andhra Pradesh,814855.0,2735370,687.6,123010510.8,268902.15,3.026153846
+Cotton(lint),2014,Rabi       ,Andhra Pradesh,6222.0,15914,687.6,939273.12,2053.26,2.897142857
+Cotton(lint),2014,Kharif     ,Assam,912.0,428,1899.0,137675.52,300.96,0.5344
+Cotton(lint),2014,Kharif     ,Karnataka,808464.0,2205170,1238.5,122045725.4,266793.12,2.50375
+Cotton(lint),2014,Rabi       ,Karnataka,65287.0,104033,1238.5,9855725.52,21544.71,1.496363636
+Cotton(lint),2014,Summer     ,Karnataka,2183.0,4135,1238.5,329545.68,720.39,1.8925
+Cotton(lint),2014,Kharif     ,Meghalaya,7305.0,9024,3484.4,1102762.8,2410.65,1.186
+Cotton(lint),2014,Kharif     ,Tamil Nadu,138386.0,434108,911.3,20890750.56,45667.38,3.09962963
+Cotton(lint),2014,Rabi       ,Tamil Nadu,48307.0,164831,911.3,7292424.72,15941.31,3.393214286
+Cotton(lint),2015,Kharif     ,Andhra Pradesh,662671.0,1810621,940.7,104642377.6,218681.43,2.519230769
+Cotton(lint),2015,Rabi       ,Andhra Pradesh,3394.0,6662,940.7,535946.54,1120.02,2.23
+Cotton(lint),2015,Kharif     ,Puducherry,118.0,271,1980.6,18633.38,38.94,1.795
+Cotton(lint),2015,Kharif     ,Assam,921.0,439,2155.3,145435.11,303.93,0.536666667
+Cotton(lint),2015,Kharif     ,Meghalaya,7295.0,8928,3870.8,1151953.45,2407.35,1.176
+Cotton(lint),2015,Kharif     ,Karnataka,599083.0,1099880,1024.9,94601196.53,197697.39,1.961666667
+Cotton(lint),2015,Rabi       ,Karnataka,41696.0,49826,1024.9,6584215.36,13759.68,1.213636364
+Cotton(lint),2015,Summer     ,Karnataka,1105.0,2341,1024.9,174490.55,364.65,2.101428571
+Cotton(lint),2015,Kharif     ,Kerala,109.0,196,2602.9,17212.19,35.97,1.8
+Cotton(lint),2015,Kharif     ,Tamil Nadu,102251.0,190658,1201.9,16146455.41,33742.83,2.151851852
+Cotton(lint),2015,Rabi       ,Tamil Nadu,45836.0,136001,1201.9,7237962.76,15125.88,2.932857143
+Cotton(lint),2016,Kharif     ,Andhra Pradesh,463437.0,1544526,890.0,71021720.25,162202.95,2.633076923
+Cotton(lint),2016,Rabi       ,Andhra Pradesh,8092.0,19547,890.0,1240099.0,2832.2,2.201428571
+Cotton(lint),2016,Kharif     ,Puducherry,296.0,539,1391.3,45362.0,103.6,1.785
+Cotton(lint),2016,Kharif     ,Assam,882.0,427,2296.8,135166.5,308.7,0.567272727
+Cotton(lint),2016,Kharif     ,Meghalaya,7255.0,8707,3837.1,1111828.75,2539.25,1.156
+Cotton(lint),2016,Kharif     ,Karnataka,484953.0,1016054,1147.2,74319047.25,169733.55,2.371304348
+Cotton(lint),2016,Rabi       ,Karnataka,24614.0,7868,1147.2,3772095.5,8614.9,0.343
+Cotton(lint),2016,Whole Year ,Kerala,80.0,120,2924.3,12260.0,28.0,1.5
+Cotton(lint),2016,Kharif     ,Tamil Nadu,93679.0,121177,912.4,14356306.75,32787.65,1.335
+Cotton(lint),2016,Rabi       ,Tamil Nadu,54532.0,80339,912.4,8357029.0,19086.2,1.55037037
+Cotton(lint),2017,Kharif     ,Andhra Pradesh,643942.0,2083754,868.2,101382228.5,244697.96,2.660769231
+Cotton(lint),2017,Rabi       ,Andhra Pradesh,2097.0,4116,868.2,330151.68,796.86,2.116
+Cotton(lint),2017,Kharif     ,Puducherry,154.0,164,1582.4,24245.76,58.52,1.42
+Cotton(lint),2017,Kharif     ,Assam,771.0,378,2098.563636,121386.24,292.98,0.602777778
+Cotton(lint),2017,Kharif     ,Meghalaya,7255.0,8791,4472.3,1142227.2,2756.9,1.17
+Cotton(lint),2017,Kharif     ,Karnataka,521372.0,1824810,1111.7,82084807.68,198121.36,3.038636364
+Cotton(lint),2017,Rabi       ,Karnataka,25572.0,19276,1111.7,4026055.68,9717.36,0.75
+Cotton(lint),2017,Whole Year ,Kerala,84.0,132,2664.8,13224.96,31.92,1.57
+Cotton(lint),2017,Kharif     ,Tamil Nadu,138290.0,337,970.9,21772377.6,52550.2,0.0
+Cotton(lint),2017,Rabi       ,Tamil Nadu,43341.0,101,970.9,6823607.04,16469.58,0.0
+Cotton(lint),2018,Kharif     ,Andhra Pradesh,616870.0,1482941,1220.5,100056314.0,215904.5,2.386153846
+Cotton(lint),2018,Rabi       ,Andhra Pradesh,3404.0,8162,1220.5,552128.8,1191.4,2.251666667
+Cotton(lint),2018,Kharif     ,Puducherry,283.0,294,1693.9,45902.6,99.05,1.515
+Cotton(lint),2018,Kharif     ,Assam,843.0,431,2372.9,136734.6,295.05,0.626190476
+Cotton(lint),2018,Kharif     ,Meghalaya,7260.0,8840,5649.1,1177572.0,2541.0,1.174
+Cotton(lint),2018,Kharif     ,Karnataka,713879.0,1398294,1419.1,115791173.8,249857.65,1.862692308
+Cotton(lint),2018,Rabi       ,Karnataka,4507.0,2176,1419.1,731035.4,1577.45,0.845714286
+Cotton(lint),2018,Whole Year ,Kerala,59.4,90,2989.7,9634.68,20.79,1.51
+Cotton(lint),2018,Kharif     ,Tamil Nadu,70023.0,151758,986.2,11357730.6,24508.05,2.13
+Cotton(lint),2018,Rabi       ,Tamil Nadu,64899.0,168541,986.2,10526617.8,22714.65,2.738076923
+Cotton(lint),2019,Kharif     ,Andhra Pradesh,653953.0,424486,899.2,112322967.3,241962.61,0.543846154
+Cotton(lint),2019,Rabi       ,Andhra Pradesh,3474.0,11066,899.2,596694.24,1285.38,3.305
+Cotton(lint),2019,Kharif     ,Puducherry,500.0,1248,1317.0,85880.0,185.0,2.745
+Cotton(lint),2019,Kharif     ,Assam,789.0,417,2084.7,135518.64,291.93,0.674444444
+Cotton(lint),2019,Kharif     ,Meghalaya,7245.0,8697,3844.4,1244401.2,2680.65,1.158
+Cotton(lint),2019,Kharif     ,Karnataka,803067.0,2319158,1422.3,137934787.9,297134.79,2.51
+Cotton(lint),2019,Rabi       ,Karnataka,14393.0,10392,1422.3,2472141.68,5325.41,0.721363636
+Cotton(lint),2019,Whole Year ,Kerala,54.0,82,3119.2,9275.04,19.98,1.51
+Cotton(lint),2019,Kharif     ,Tamil Nadu,96681.0,235305,910.1,16605928.56,35771.97,2.533461538
+Cotton(lint),2019,Rabi       ,Tamil Nadu,72817.0,182776,910.1,12507047.92,26942.29,2.717307692
+Cotton(lint),1997,Kharif     ,Andhra Pradesh,906300.0,1320400,927.5,86252571.0,280953.0,1.643333333
+Cotton(lint),1997,Kharif     ,Bihar,200.0,400,1303.7,19034.0,62.0,2.0
+Cotton(lint),1997,Whole Year ,Gujarat,1518900.0,3180200,798.9,144553713.0,470859.0,2.254117647
+Cotton(lint),1997,Kharif     ,Madhya Pradesh,511500.0,862000,1189.1,48679455.0,158565.0,1.559
+Cotton(lint),1997,Whole Year ,Maharashtra,31292.0,1753100,1156.1,2978059.64,9700.52,95.99391304
+Cotton(lint),1997,Whole Year ,Punjab,724000.0,937000,690.1,68903080.0,224440.0,1.324
+Cotton(lint),1998,Kharif     ,Andhra Pradesh,1280900.0,1522100,1048.3,126552920.0,371461.0,1.093809524
+Cotton(lint),1998,Kharif     ,Bihar,43.0,88,1332.5,4248.4,12.47,2.05
+Cotton(lint),1998,Kharif     ,Gujarat,1658500.0,3903000,775.6,163859800.0,480965.0,2.73
+Cotton(lint),1998,Kharif     ,Haryana,583165.0,874000,687.6,57616702.0,169117.85,0.748421053
+Cotton(lint),1998,Whole Year ,Himachal Pradesh,57.0,30,1381.6,5631.6,16.53,0.548333333
+Cotton(lint),1998,Kharif     ,Madhya Pradesh,494200.0,72700,962.7,48826960.0,143318.0,0.138333333
+Cotton(lint),1998,Kharif     ,Maharashtra,3199100.0,2618900,1314.8,316071080.0,927739.0,1.040434783
+Cotton(lint),1998,Kharif     ,Punjab,562000.0,595000,588.6,55525600.0,162980.0,1.004
+Cotton(lint),1998,Kharif     ,Tamil Nadu,242830.0,429535,1077.1,23991604.0,70420.7,1.9364
+Cotton(lint),1998,Kharif     ,Tripura,750.0,850,2472.9,74100.0,217.5,1.155
+Cotton(lint),1998,Kharif     ,Uttar Pradesh,7454.0,813,743.4,736455.2,2161.66,0.088
+Cotton(lint),1999,Kharif     ,Gujarat,1539400.0,2085500,458.9,163376522.0,415638.0,1.608823529
+Cotton(lint),1999,Kharif     ,Haryana,543718.0,1304000,344.0,57704791.34,146803.86,1.136315789
+Cotton(lint),1999,Kharif     ,Karnataka,545675.0,664547,1203.8,57912487.75,147332.25,1.31
+Cotton(lint),1999,Kharif     ,Madhya Pradesh,484669.0,415594,1222.9,51437920.97,130860.63,0.659090909
+Cotton(lint),1999,Kharif     ,Maharashtra,3253900.0,3099300,1166.5,345336407.0,878553.0,1.213846154
+Cotton(lint),1999,Kharif     ,Nagaland,250.0,350,1782.2,26532.5,67.5,1.398571429
+Cotton(lint),1999,Kharif     ,Odisha,38120.0,61030,1484.3,4045675.6,10292.4,1.215714286
+Cotton(lint),1999,Kharif     ,Punjab,475000.0,950000,364.4,50411750.0,128250.0,1.794
+Cotton(lint),1999,Kharif     ,Tamil Nadu,184707.0,287965,922.8,19602953.91,49870.89,1.762222222
+Cotton(lint),1999,Kharif     ,Uttar Pradesh,6914.0,6077,883.4,733782.82,1866.78,1.016666667
+Cotton(lint),2000,Kharif     ,Chhattisgarh,69.0,10,896.4,6773.73,17.94,0.245
+Cotton(lint),2000,Kharif     ,Gujarat,1615400.0,1161400,379.7,158583818.0,420004.0,0.918823529
+Cotton(lint),2000,Kharif     ,Haryana,555385.0,1016700,383.7,54522145.45,144400.1,1.161052632
+Cotton(lint),2000,Kharif     ,Madhya Pradesh,490767.0,234423,723.3,48178596.39,127599.42,0.572941176
+Cotton(lint),2000,Kharif     ,Maharashtra,3076900.0,1802600,1057.8,302059273.0,799994.0,0.881153846
+Cotton(lint),2000,Kharif     ,Mizoram,483.0,1236,2834.3,47416.11,125.58,2.645
+Cotton(lint),2000,Kharif     ,Nagaland,251.0,350,1631.8,24640.67,65.26,1.43875
+Cotton(lint),2000,Kharif     ,Odisha,39160.0,65090,1066.0,3844337.2,10181.6,1.654
+Cotton(lint),2000,Kharif     ,Punjab,474000.0,1199000,405.3,46532580.0,123240.0,2.131
+Cotton(lint),2000,Kharif     ,Tamil Nadu,193850.0,325079,971.1,19030254.5,50401.0,1.807777778
+Cotton(lint),2000,Kharif     ,Uttar Pradesh,5328.0,4759,874.4,523049.76,1385.28,1.268235294
+Cotton(lint),2001,Kharif     ,Chhattisgarh,103.0,72,1550.0,10519.39,26.78,0.795
+Cotton(lint),2001,Kharif     ,Gujarat,1749800.0,1703200,666.5,178707074.0,454948.0,1.133529412
+Cotton(lint),2001,Kharif     ,Haryana,629468.0,722000,483.8,64287566.84,163661.68,0.804736842
+Cotton(lint),2001,Kharif     ,Himachal Pradesh,20.0,13,918.1,2042.6,5.2,0.8975
+Cotton(lint),2001,Kharif     ,Madhya Pradesh,534571.0,383607,955.0,54595736.23,138988.46,0.706315789
+Cotton(lint),2001,Kharif     ,Maharashtra,3104700.0,2689600,1035.8,317083011.0,807222.0,0.897307692
+Cotton(lint),2001,Kharif     ,Mizoram,618.0,1264,2406.4,63116.34,160.68,2.625
+Cotton(lint),2001,Kharif     ,Nagaland,400.0,400,1532.0,40852.0,104.0,0.99125
+Cotton(lint),2001,Kharif     ,Punjab,607000.0,1307000,479.3,61992910.0,157820.0,1.896363636
+Cotton(lint),2001,Kharif     ,Tamil Nadu,164169.0,229732,481.3,16766579.97,42683.94,1.450740741
+Cotton(lint),2001,Kharif     ,Uttar Pradesh,4512.0,4571,849.9,460810.56,1173.12,1.3275
+Cotton(lint),2002,Kharif     ,Chhattisgarh,90.0,75,1001.4,8520.3,22.5,1.276
+Cotton(lint),2002,Kharif     ,Gujarat,1634800.0,1684500,458.4,154766516.0,408700.0,1.349411765
+Cotton(lint),2002,Kharif     ,Haryana,518328.0,1038000,353.9,49070111.76,129582.0,1.038333333
+Cotton(lint),2002,Kharif     ,Himachal Pradesh,28.0,15,890.8,2650.76,7.0,0.4275
+Cotton(lint),2002,Kharif     ,Karnataka,392671.0,330913,860.8,37174163.57,98167.75,1.152857143
+Cotton(lint),2002,Kharif     ,Madhya Pradesh,552393.0,379455,800.8,52295045.31,138098.25,0.535789474
+Cotton(lint),2002,Kharif     ,Maharashtra,2799900.0,2596100,967.4,265066533.0,699975.0,0.99037037
+Cotton(lint),2002,Kharif     ,Meghalaya,7310.0,7829,4355.3,692037.7,1827.5,1.046666667
+Cotton(lint),2002,Kharif     ,Mizoram,388.0,1030,2627.0,36731.96,97.0,2.4125
+Cotton(lint),2002,Kharif     ,Nagaland,1000.0,5000,1536.6,94670.0,250.0,5.005
+Cotton(lint),2002,Kharif     ,Punjab,449000.0,1083000,301.8,42506830.0,112250.0,1.836
+Cotton(lint),2003,Kharif     ,Chhattisgarh,92.0,182,1643.7,9106.16,22.08,1.832
+Cotton(lint),2003,Kharif     ,Gujarat,1641000.0,4026900,902.5,162426180.0,393840.0,2.818181818
+Cotton(lint),2003,Kharif     ,Haryana,526038.0,1407000,592.3,52067241.24,126249.12,1.436315789
+Cotton(lint),2003,Kharif     ,Madhya Pradesh,557169.0,628304,1163.0,55148587.62,133720.56,0.972916667
+Cotton(lint),2003,Kharif     ,Maharashtra,2762400.0,3080100,1037.4,273422352.0,662976.0,1.181111111
+Cotton(lint),2003,Kharif     ,Mizoram,343.0,1336,2499.5,33950.14,82.32,3.501666667
+Cotton(lint),2003,Kharif     ,Nagaland,2000.0,150,1709.8,197960.0,480.0,0.08375
+Cotton(lint),2003,Kharif     ,Punjab,452000.0,1478000,451.7,44738960.0,108480.0,2.736
+Cotton(lint),2004,Kharif     ,Andhra Pradesh,1178419.0,2190549,781.8,127669914.5,247467.99,1.901428571
+Cotton(lint),2004,Kharif     ,Assam,1389.0,663,2536.9,150484.26,291.69,0.482608696
+Cotton(lint),2004,Kharif     ,Chhattisgarh,468.0,763,1122.8,50703.12,98.28,1.7775
+Cotton(lint),2004,Kharif     ,Gujarat,1906300.0,5443500,719.8,206528542.0,400323.0,3.209090909
+Cotton(lint),2004,Kharif     ,Haryana,621234.0,2075000,484.6,67304491.56,130459.14,1.804444444
+Cotton(lint),2004,Kharif     ,Madhya Pradesh,584347.0,644360,895.7,63308153.98,122712.87,0.947916667
+Cotton(lint),2004,Kharif     ,Maharashtra,2839500.0,2938500,1052.0,307631430.0,596295.0,1.088888889
+Cotton(lint),2004,Kharif     ,Nagaland,1500.0,150,1711.5,162510.0,315.0,0.096666667
+Cotton(lint),2004,Kharif     ,Punjab,509000.0,2087000,366.4,55145060.0,106890.0,3.638888889
+Cotton(lint),2004,Kharif     ,Tripura,1045.0,1555,2706.3,113215.3,219.45,1.4875
+Cotton(lint),2004,Kharif     ,West Bengal,959.0,4581,1612.9,103898.06,201.39,5.295
+Cotton(lint),2005,Kharif     ,Chhattisgarh,248.0,392,1292.7,29740.16,52.08,1.2775
+Cotton(lint),2005,Kharif     ,Gujarat,2010800.0,6871600,942.4,241135136.0,422268.0,3.511818182
+Cotton(lint),2005,Kharif     ,Haryana,583779.0,1502000,516.9,70006777.68,122593.59,1.185
+Cotton(lint),2005,Kharif     ,Himachal Pradesh,53.0,24,1248.1,6355.76,11.13,0.475
+Cotton(lint),2005,Kharif     ,Madhya Pradesh,596392.0,698720,1032.7,71519328.64,125242.32,1.019565217
+Cotton(lint),2005,Kharif     ,Maharashtra,2875000.0,3160100,1387.2,344770000.0,603750.0,1.218148148
+Cotton(lint),2005,Kharif     ,Mizoram,308.0,241,2075.4,36935.36,64.68,0.812
+Cotton(lint),2005,Kharif     ,Punjab,557000.0,2395000,566.7,66795440.0,116970.0,3.967
+Cotton(lint),2005,Kharif     ,Tripura,1143.0,1600,1765.9,137068.56,240.03,1.39
+Cotton(lint),2006,Kharif     ,Chhattisgarh,97.0,164,1317.2,12387.87,21.34,1.506666667
+Cotton(lint),2006,Kharif     ,Gujarat,2372100.0,7876400,1056.2,302940891.0,521862.0,3.100909091
+Cotton(lint),2006,Kharif     ,Haryana,527693.0,1805000,329.3,67391673.03,116092.46,1.556315789
+Cotton(lint),2006,Kharif     ,Himachal Pradesh,55.0,23,1207.0,7024.05,12.1,0.5325
+Cotton(lint),2006,Kharif     ,Madhya Pradesh,629739.0,820039,1072.3,80423967.69,138542.58,1.118181818
+Cotton(lint),2006,Kharif     ,Maharashtra,3106900.0,4617500,1439.4,396782199.0,683518.0,1.454444444
+Cotton(lint),2006,Kharif     ,Nagaland,200.0,40,1362.5,25542.0,44.0,0.335
+Cotton(lint),2006,Kharif     ,Punjab,604000.0,2678000,569.6,77136840.0,132880.0,4.236
+Cotton(lint),2006,Kharif     ,Tripura,1148.0,1598,1764.3,146611.08,252.56,1.375
+Cotton(lint),2006,Kharif     ,Uttar Pradesh,5174.0,1105,590.5,660771.54,1138.28,0.197857143
+Cotton(lint),2007,Kharif     ,Andhra Pradesh,1134000.0,3489000,1004.2,151275600.0,181440.0,2.668
+Cotton(lint),2007,Kharif     ,Chhattisgarh,50.0,68,1246.2,6670.0,8.0,1.15
+Cotton(lint),2007,Kharif     ,Gujarat,2422000.0,8275700,1021.6,323094800.0,387520.0,3.345909091
+Cotton(lint),2007,Kharif     ,Haryana,482474.0,1882000,443.8,64362031.6,77195.84,1.882777778
+Cotton(lint),2007,Kharif     ,Himachal Pradesh,63.0,29,1095.4,8404.2,10.08,0.506666667
+Cotton(lint),2007,Kharif     ,Madhya Pradesh,617943.0,145959,740.4,82433596.2,98870.88,0.448571429
+Cotton(lint),2007,Kharif     ,Maharashtra,3195400.0,7014900,1257.2,426266360.0,511264.0,2.172962963
+Cotton(lint),2007,Kharif     ,Meghalaya,7186.0,6531,4702.0,958612.4,1149.76,0.896666667
+Cotton(lint),2007,Kharif     ,Nagaland,150.0,40,1769.0,20010.0,24.0,0.365
+Cotton(lint),2007,Kharif     ,Punjab,604000.0,2355000,527.2,80573600.0,96640.0,4.037272727
+Cotton(lint),2007,Kharif     ,Tripura,1110.0,1504,2831.8,148074.0,177.6,1.3425
+Cotton(lint),2007,Kharif     ,Uttar Pradesh,4260.0,1162,672.9,568284.0,681.6,0.247272727
+Cotton(lint),2008,Kharif     ,Chhattisgarh,25.0,32,1117.9,3576.0,2.25,1.25
+Cotton(lint),2008,Kharif     ,Gujarat,2353600.0,7013800,746.1,336658944.0,211824.0,3.120434783
+Cotton(lint),2008,Kharif     ,Haryana,456086.0,1862000,715.6,65238541.44,41047.74,1.7835
+Cotton(lint),2008,Kharif     ,Himachal Pradesh,45.0,21,1357.1,6436.8,4.05,0.48
+Cotton(lint),2008,Kharif     ,Madhya Pradesh,612277.0,143451,895.0,87580102.08,55104.93,0.199047619
+Cotton(lint),2008,Kharif     ,Maharashtra,3146000.0,4752300,1052.8,450003840.0,283140.0,1.516296296
+Cotton(lint),2008,Kharif     ,Nagaland,110.0,60,1540.9,15734.4,9.9,0.53
+Cotton(lint),2008,Kharif     ,Punjab,527000.0,2285000,691.3,75382080.0,47430.0,4.371818182
+Cotton(lint),2008,Kharif     ,Tripura,969.0,1424,1827.8,138605.76,87.21,1.435
+Cotton(lint),2008,Kharif     ,Uttar Pradesh,3556.0,781,891.6,508650.24,320.04,0.231111111
+Cotton(lint),2009,Whole Year ,Chhattisgarh,18.0,0,956.9,2804.76,3.06,0.0
+Cotton(lint),2009,Kharif     ,Gujarat,2464400.0,7401000,618.0,384002808.0,418948.0,3.094782609
+Cotton(lint),2009,Kharif     ,Haryana,505082.0,1918000,393.0,78701877.24,85863.94,1.896111111
+Cotton(lint),2009,Kharif     ,Himachal Pradesh,8.0,2,969.9,1246.56,1.36,0.335
+Cotton(lint),2009,Kharif     ,Maharashtra,3391500.0,5111200,1002.4,528463530.0,576555.0,1.444230769
+Cotton(lint),2009,Kharif     ,Nagaland,90.0,40,1225.9,14023.8,15.3,0.465
+Cotton(lint),2009,Kharif     ,Punjab,511000.0,2006000,371.3,79624020.0,86870.0,4.052727273
+Cotton(lint),2009,Kharif     ,Tripura,965.0,1437,2004.2,150366.3,164.05,1.4625
+Cotton(lint),2009,Kharif     ,Uttar Pradesh,4971.0,838,585.8,774581.22,845.07,0.1875
+Cotton(lint),2009,Kharif     ,West Bengal,1289.0,3262,1317.2,200851.98,219.13,1.764
+Cotton(lint),2009,Whole Year ,Madhya Pradesh,623072.0,132478,904.1,97087079.04,105922.24,0.198421053
+Cotton(lint),2010,Kharif     ,Chhattisgarh,12.0,20,1283.1,1993.32,2.88,1.655
+Cotton(lint),2010,Kharif     ,Gujarat,2623200.0,9825300,1107.5,435739752.0,629568.0,3.313043478
+Cotton(lint),2010,Kharif     ,Haryana,493228.0,1747000,639.2,81930103.08,118374.72,2.095
+Cotton(lint),2010,Kharif     ,Himachal Pradesh,8.0,13,1319.8,1328.88,1.92,1.355
+Cotton(lint),2010,Kharif     ,Madhya Pradesh,586270.0,1006894,856.3,97385309.7,140704.8,1.465555556
+Cotton(lint),2010,Kharif     ,Maharashtra,3941900.0,7472500,1389.0,654789009.0,946056.0,1.861538462
+Cotton(lint),2010,Kharif     ,Mizoram,151.0,113,2738.7,25082.61,36.24,0.6425
+Cotton(lint),2010,Kharif     ,Nagaland,100.0,50,1771.8,16611.0,24.0,0.5
+Cotton(lint),2010,Kharif     ,Punjab,483000.0,1822000,392.7,80231130.0,115920.0,3.643636364
+Cotton(lint),2010,Kharif     ,Tamil Nadu,120765.0,247930,1095.2,20060274.15,28983.6,2.360344828
+Cotton(lint),2010,Kharif     ,Tripura,1063.0,1574,2348.3,176574.93,255.12,1.4775
+Cotton(lint),2010,Kharif     ,Uttar Pradesh,3734.0,673,742.6,620254.74,896.16,0.168461538
+Cotton(lint),2010,Kharif     ,Jammu and Kashmir,27.0,15,1352.0,4484.97,6.48,0.57
+Cotton(lint),2010,Kharif     ,West Bengal,631.0,1092,1096.0,104815.41,151.44,1.763333333
+Cotton(lint),2011,Kharif     ,Chhattisgarh,85.0,120,1302.7,14239.2,28.05,1.06
+Cotton(lint),2011,Kharif     ,Gujarat,3003100.0,10374600,890.5,503079312.0,991023.0,3.286521739
+Cotton(lint),2011,Kharif     ,Haryana,601756.0,2621000,471.5409091,100806165.1,198579.48,2.338888889
+Cotton(lint),2011,Kharif     ,Himachal Pradesh,19.0,43,1108.3,3182.88,6.27,2.21
+Cotton(lint),2011,Kharif     ,Madhya Pradesh,616858.0,1153463,852.6,103336052.2,203563.14,1.800952381
+Cotton(lint),2011,Kharif     ,Maharashtra,4166700.0,6820100,1174.095455,698005584.0,1375011.0,1.7416
+Cotton(lint),2011,Kharif     ,Mizoram,158.0,109,2439.340909,26468.16,52.14,0.63
+Cotton(lint),2011,Kharif     ,Nagaland,110.0,60,1544.354545,18427.2,36.3,0.53
+Cotton(lint),2011,Kharif     ,Punjab,515000.0,1621000,705.2,86272800.0,169950.0,3.010909091
+Cotton(lint),2011,Kharif     ,Tripura,949.0,1348,2295.609091,158976.48,313.17,1.4275
+Cotton(lint),2011,Kharif     ,Uttar Pradesh,3842.0,911,777.4,643611.84,1267.86,0.236
+Cotton(lint),2011,Kharif     ,West Bengal,143.0,431,1686.5,23955.36,47.19,2.93
+Cotton(lint),2012,Kharif     ,Chhattisgarh,131.0,138,1366.8,19754.8,40.61,1.154
+Cotton(lint),2012,Kharif     ,Gujarat,2457200.0,4950900,460.6,370545760.0,761732.0,2.389130435
+Cotton(lint),2012,Kharif     ,Haryana,592640.0,2378000,307.9,89370112.0,183718.4,2.352631579
+Cotton(lint),2012,Kharif     ,Himachal Pradesh,2.0,1,1035.0,301.6,0.62,0.25
+Cotton(lint),2012,Kharif     ,Madhya Pradesh,593642.0,1162620,1049.5,89521213.6,184029.02,1.714444444
+Cotton(lint),2012,Kharif     ,Maharashtra,4187000.0,6793000,1003.4,631399600.0,1297970.0,1.9308
+Cotton(lint),2012,Kharif     ,Mizoram,7.0,6,2050.2,1055.6,2.17,0.79
+Cotton(lint),2012,Kharif     ,Punjab,481000.0,1627000,338.9,72534800.0,149110.0,3.318181818
+Cotton(lint),2012,Kharif     ,Tamil Nadu,117417.0,208517,706.8,17706483.6,36399.27,2.005555556
+Cotton(lint),2012,Kharif     ,Tripura,922.0,1341,1882.2,139037.6,285.82,1.3525
+Cotton(lint),2012,Kharif     ,Uttar Pradesh,5074.0,1184,746.3,765159.2,1572.94,0.218333333
+Cotton(lint),2012,Kharif     ,West Bengal,418.0,1556,1566.0,63034.4,129.58,2.82
+Cotton(lint),2013,Whole Year ,Chhattisgarh,49.0,70,1418.3,7080.01,13.23,1.736666667
+Cotton(lint),2013,Kharif     ,Gujarat,2608410.0,10511576,1006.5,376889160.9,704270.7,3.703043478
+Cotton(lint),2013,Kharif     ,Haryana,567000.0,2027000,452.2,81925830.0,153090.0,3.331666667
+Cotton(lint),2013,Kharif     ,Himachal Pradesh,4.0,2,1216.9,577.96,1.08,0.415
+Cotton(lint),2013,Kharif     ,Madhya Pradesh,573812.0,1225443,1451.4,82910095.88,154929.24,1.891875
+Cotton(lint),2013,Kharif     ,Maharashtra,4159500.0,8834200,1409.8,601006155.0,1123065.0,2.0644
+Cotton(lint),2013,Kharif     ,Mizoram,107.0,81,1848.8,15460.43,28.89,0.71
+Cotton(lint),2013,Kharif     ,Nagaland,120.0,70,1350.9,17338.8,32.4,0.585
+Cotton(lint),2013,Kharif     ,Punjab,446000.0,1495000,586.6,64442540.0,120420.0,3.409090909
+Cotton(lint),2013,Kharif     ,Telangana,1712830.0,4265305,1348.7,247486806.7,462464.1,2.458888889
+Cotton(lint),2013,Kharif     ,Tripura,949.0,1395,2043.5,137121.01,256.23,1.45375
+Cotton(lint),2013,Kharif     ,Uttar Pradesh,3901.0,884,995.2,563655.49,1053.27,0.22125
+Cotton(lint),2013,Kharif     ,West Bengal,364.0,1318,1939.9,52594.36,98.28,3.43
+Cotton(lint),2014,Whole Year ,Chhattisgarh,59.0,75,1274.7,8906.64,19.47,0.976666667
+Cotton(lint),2014,Kharif     ,Gujarat,2883793.0,9233677,605.6,435337391.3,951651.69,3.495666667
+Cotton(lint),2014,Kharif     ,Haryana,647000.0,1939000,301.3,97671120.0,213510.0,2.907692308
+Cotton(lint),2014,Kharif     ,Himachal Pradesh,4.0,2,1019.9,603.84,1.32,0.39
+Cotton(lint),2014,Kharif     ,Madhya Pradesh,637000.0,738000,891.2,96161520.0,210210.0,0.912777778
+Cotton(lint),2014,Kharif     ,Maharashtra,4189900.0,3577100,1001.6,632507304.0,1382667.0,0.9664
+Cotton(lint),2014,Kharif     ,Mizoram,91.0,58,2029.9,13737.36,30.03,0.644
+Cotton(lint),2014,Kharif     ,Nagaland,120.0,70,1333.3,18115.2,39.6,0.585
+Cotton(lint),2014,Kharif     ,Punjab,420000.0,1342000,382.7,63403200.0,138600.0,3.324444444
+Cotton(lint),2014,Kharif     ,Telangana,1662925.0,3583327,746.4,251035158.0,548765.25,2.068888889
+Cotton(lint),2014,Kharif     ,Tripura,904.0,1347,2015.7,136467.84,298.32,1.4725
+Cotton(lint),2014,Kharif     ,Uttar Pradesh,6317.0,1886,616.4,953614.32,2084.61,0.294
+Cotton(lint),2014,Kharif     ,West Bengal,615.0,1574,1483.5,92840.4,202.95,2.56
+Cotton(lint),2015,Whole Year ,Chhattisgarh,49.0,94,1136.0,7737.59,16.17,2.0325
+Cotton(lint),2015,Kharif     ,Gujarat,2721598.0,7542431,584.3,429767540.2,898127.34,2.913333333
+Cotton(lint),2015,Kharif     ,Haryana,615000.0,995000,426.8,97114650.0,202950.0,1.739285714
+Cotton(lint),2015,Kharif     ,Madhya Pradesh,562000.0,714000,1000.7,88745420.0,185460.0,1.224545455
+Cotton(lint),2015,Kharif     ,Maharashtra,4207200.0,3913930,875.7,664358952.0,1388376.0,0.8904
+Cotton(lint),2015,Kharif     ,Mizoram,176.0,77,2310.8,27792.16,58.08,0.612
+Cotton(lint),2015,Kharif     ,Nagaland,130.0,80,1308.3,20528.3,42.9,0.615
+Cotton(lint),2015,Kharif     ,Punjab,339000.0,393000,512.6,53531490.0,111870.0,1.264444444
+Cotton(lint),2015,Kharif     ,Telangana,1773256.0,3733072,747.9,280014855.0,585174.48,1.973333333
+Cotton(lint),2015,Kharif     ,Tripura,904.0,1365,2334.4,142750.64,298.32,1.49125
+Cotton(lint),2015,Kharif     ,Uttar Pradesh,7688.0,2658,596.7,1214012.08,2537.04,0.307692308
+Cotton(lint),2015,Kharif     ,West Bengal,451.0,1326,1717.0,71217.41,148.83,2.94
+Cotton(lint),2016,Whole Year ,Chhattisgarh,79.0,147,1298.9,12106.75,27.65,2.162
+Cotton(lint),2016,Kharif     ,Gujarat,2390944.0,5155549,710.5,366412168.0,836830.4,2.946333333
+Cotton(lint),2016,Kharif     ,Haryana,571100.0,2046300,554.7,87521075.0,199885.0,3.212941176
+Cotton(lint),2016,Kharif     ,Himachal Pradesh,30.0,12,1373.9,4597.5,10.5,0.37
+Cotton(lint),2016,Kharif     ,Madhya Pradesh,600000.0,947000,1048.4,91950000.0,210000.0,1.417
+Cotton(lint),2016,Kharif     ,Maharashtra,4212480.0,10754986,1151.1,645562560.0,1474368.0,2.6268
+Cotton(lint),2016,Kharif     ,Mizoram,71.0,24,2626.8,10880.75,24.85,0.426666667
+Cotton(lint),2016,Kharif     ,Nagaland,130.0,80,1959.8,19922.5,45.5,0.615
+Cotton(lint),2016,Kharif     ,Punjab,285000.0,1267000,635.9,43676250.0,99750.0,4.2325
+Cotton(lint),2016,Kharif     ,Telangana,1408760.0,3444408,942.6,215892470.0,493066.0,2.445666667
+Cotton(lint),2016,Kharif     ,Tripura,870.0,1358,2475.3,133327.5,304.5,1.55125
+Cotton(lint),2016,Kharif     ,Uttar Pradesh,5635.0,2018,965.3,863563.75,1972.25,0.357272727
+Cotton(lint),2016,Kharif     ,West Bengal,275.0,872,1795.8,42143.75,96.25,3.17
+Cotton(lint),2017,Whole Year ,Chhattisgarh,478.0,802,1124.5,75256.32,181.64,1.9925
+Cotton(lint),2017,Kharif     ,Gujarat,2626487.0,10112737,814.8,413514113.3,998065.06,3.962
+Cotton(lint),2017,Kharif     ,Haryana,668500.0,1622500,417.1,105248640.0,254030.0,2.69375
+Cotton(lint),2017,Kharif     ,Madhya Pradesh,603190.0,953120,800.0,94966233.6,229212.2,1.484
+Cotton(lint),2017,Kharif     ,Maharashtra,4350818.0,6093512,1129.5,684992785.9,1653310.84,1.647407407
+Cotton(lint),2017,Kharif     ,Mizoram,92.3,34,3865.8,14531.712,35.074,0.3975
+Cotton(lint),2017,Kharif     ,Nagaland,130.0,80,1722.1,20467.2,49.4,0.615
+Cotton(lint),2017,Kharif     ,Punjab,291000.0,1283000,497.5,45815040.0,110580.0,4.1875
+Cotton(lint),2017,Kharif     ,Telangana,1896993.0,5195470,815.7,298662577.9,720857.34,2.856333333
+Cotton(lint),2017,Kharif     ,Tripura,805.0,1160,3326.8,126739.2,305.9,1.405
+Cotton(lint),2017,Kharif     ,Uttar Pradesh,4150.0,1534,652.1,653376.0,1577.0,0.355555556
+Cotton(lint),2017,Kharif     ,West Bengal,176.0,866,1830.0,27709.44,66.88,4.92
+Cotton(lint),2018,Whole Year ,Chhattisgarh,1433.0,2253,1515.5,232432.6,501.55,1.668
+Cotton(lint),2018,Kharif     ,Gujarat,2660056.0,6302745,1125.4,431461083.2,931019.6,3.031666667
+Cotton(lint),2018,Kharif     ,Haryana,708900.0,2016600,533.2,114983580.0,248115.0,2.7825
+Cotton(lint),2018,Kharif     ,Himachal Pradesh,25.0,9,1052.2,4055.0,8.75,0.36
+Cotton(lint),2018,Kharif     ,Madhya Pradesh,454869.0,879215,1102.2,73779751.8,159204.15,1.405
+Cotton(lint),2018,Kharif     ,Maharashtra,4218738.0,6593117,1387.4,684279303.6,1476558.3,1.536923077
+Cotton(lint),2018,Kharif     ,Mizoram,43.0,24,1665.2,6974.6,15.05,0.573333333
+Cotton(lint),2018,Kharif     ,Nagaland,130.0,80,1372.7,21086.0,45.5,0.615
+Cotton(lint),2018,Kharif     ,Punjab,267900.0,1222800,585.5,43453380.0,93765.0,4.273333333
+Cotton(lint),2018,Kharif     ,Telangana,1839735.0,3847336,1350.3,298405017.0,643907.25,2.184375
+Cotton(lint),2018,Kharif     ,Tripura,812.0,1216,2169.1,131706.4,284.2,1.4175
+Cotton(lint),2018,Kharif     ,Uttar Pradesh,5699.0,1953,792.8,924377.8,1994.65,0.393333333
+Cotton(lint),2018,Kharif     ,West Bengal,360.0,1753,2012.6,58392.0,126.0,4.87
+Cotton(lint),2019,Whole Year ,Chhattisgarh,2692.0,4921,1420.3,462377.92,996.04,2.145714286
+Cotton(lint),2019,Kharif     ,Gujarat,2654636.0,8624334,1067.8,455960279.4,982215.32,3.182
+Cotton(lint),2019,Kharif     ,Haryana,723000.0,2463000,351.8,124182480.0,267510.0,3.106875
+Cotton(lint),2019,Kharif     ,Himachal Pradesh,15.0,7,1217.7,2576.4,5.55,0.47
+Cotton(lint),2019,Kharif     ,Madhya Pradesh,650305.0,838905,1446.7,111696386.8,240612.85,0.826666667
+Cotton(lint),2019,Kharif     ,Maharashtra,4491331.0,6639185,1555.8,771431012.6,1661792.47,2.831428571
+Cotton(lint),2019,Kharif     ,Mizoram,23.0,13,2178.5,3950.48,8.51,0.58
+Cotton(lint),2019,Kharif     ,Nagaland,5.7,4,1593.0,979.032,2.109,0.615
+Cotton(lint),2019,Kharif     ,Odisha,169560.0,578500,1593.9,29123625.6,62737.2,3.399166667
+Cotton(lint),2019,Kharif     ,Punjab,248000.0,1206400,653.2,42596480.0,91760.0,4.764444444
+Cotton(lint),2019,Kharif     ,Telangana,2126621.0,6833175,1031.7,365268423.0,786849.77,3.2490625
+Cotton(lint),2019,Kharif     ,Tripura,760.0,1138,2252.8,130537.6,281.2,1.3975
+Cotton(lint),2019,Kharif     ,Uttar Pradesh,3185.0,7429,814.5,547055.6,1178.45,2.305555556
+Cotton(lint),2019,Kharif     ,West Bengal,305.0,590,1733.4,52386.8,112.85,1.18
+Cotton(lint),1997,Whole Year ,Haryana,631000.0,1107000,661.2,60052270.0,195610.0,1.552727273
+Cotton(lint),1998,Kharif     ,Delhi,1.0,1,784.5,98.8,0.29,1.0
+Cotton(lint),1999,Kharif     ,Andhra Pradesh,1045704.0,1579408,650.4,110980565.5,282340.08,1.458181818
+Cotton(lint),1999,Kharif     ,Delhi,1.0,1,365.9,106.13,0.27,1.0
+Cotton(lint),2000,Kharif     ,Delhi,1.0,1,544.3,98.17,0.26,1.0
+Cotton(lint),2001,Kharif     ,Delhi,1.0,1,611.9,102.13,0.26,1.0
+Cotton(lint),2001,Kharif     ,Jammu and Kashmir,69.0,34,953.8,7046.97,17.94,0.49
+Cotton(lint),2002,Kharif     ,Delhi,1.0,1,593.6,94.67,0.25,1.0
+Cotton(lint),2002,Kharif     ,Jammu and Kashmir,44.0,22,933.2,4165.48,11.0,0.405
+Cotton(lint),2002,Kharif     ,Puducherry,314.0,1635,1434.5875,29726.38,78.5,5.225
+Cotton(lint),2002,Kharif     ,Uttar Pradesh,4987.0,3418,664.0,472119.29,1246.75,0.967857143
+Cotton(lint),2003,Kharif     ,Jammu and Kashmir,10.0,4,1430.3,989.8,2.4,0.41
+Cotton(lint),2004,Kharif     ,Uttar Pradesh,5612.0,945,704.0,608004.08,1178.52,0.162777778
+Cotton(lint),2005,Kharif     ,Jammu and Kashmir,35.0,18,1721.8,4197.2,7.35,0.5
+Cotton(lint),2005,Kharif     ,Uttar Pradesh,4366.0,889,751.9,523570.72,916.86,0.185833333
+Cotton(lint),2006,Kharif     ,Jammu and Kashmir,42.0,22,1786.5,5363.82,9.24,0.5
+Cotton(lint),2007,Kharif     ,Jammu and Kashmir,64.0,33,1042.2,8537.6,10.24,0.5
+Cotton(lint),2009,Kharif     ,Jammu and Kashmir,17.0,9,751.7,2648.94,2.89,0.555
+Cotton(lint),2011,Kharif     ,Jammu and Kashmir,13.0,7,887.6,2177.76,4.29,0.57
+Cotton(lint),2012,Summer     ,Puducherry,12.0,9,1098.3,1809.6,3.72,0.75
+Cotton(lint),2013,Summer     ,Puducherry,67.0,50,1083.2,9680.83,18.09,0.87
+Cotton(lint),2014,Summer     ,Puducherry,94.0,180,1330.0,14190.24,31.02,1.725
+Cotton(lint),2015,Kharif     ,Jammu and Kashmir,2.0,1,1572.6,315.82,0.66,0.5
+Cotton(lint),2016,Kharif     ,Jammu and Kashmir,4.0,2,902.8,613.0,1.4,0.5
+Cotton(lint),2017,Kharif     ,Jammu and Kashmir,5.0,3,1279.1,787.2,1.9,0.52
+Cotton(lint),1998,Autumn     ,Manipur,30.0,20,1855.0,2964.0,8.7,0.67
+Cotton(lint),1998,Rabi       ,Manipur,10.0,10,1855.0,988.0,2.9,1.0
+Cotton(lint),1998,Winter     ,Manipur,30.0,10,1855.0,2964.0,8.7,0.33
+Cotton(lint),1999,Kharif     ,Manipur,50.0,30,2092.7,5306.5,13.5,0.6
+Cotton(lint),2000,Kharif     ,Manipur,60.0,20,1969.7,5890.2,15.6,0.33
+Cotton(lint),2001,Kharif     ,Manipur,90.0,30,2013.1,9191.7,23.4,0.33
+Cotton(lint),2004,Kharif     ,Puducherry,731.0,526,1434.5875,79196.54,153.51,0.725
+Cotton(lint),2005,Kharif     ,Puducherry,183.0,133,1434.5875,21945.36,38.43,0.755
+Cotton(lint),2006,Kharif     ,Manipur,210.0,70,1533.561905,26819.1,46.2,0.33
+Cotton(lint),2007,Kharif     ,Manipur,210.0,70,1435.7,28014.0,33.6,0.33
+Cotton(lint),1998,Kharif     ,Mizoram,555.0,429,2640.7,54834.0,160.95,0.7425
+Cotton(lint),1999,Kharif     ,Mizoram,552.0,1964,2535.9,58583.76,149.04,3.726666667
+Cotton(lint),1999,Kharif     ,Tripura,864.0,1023,2147.4,91696.32,233.28,1.18
+Cotton(lint),2000,Kharif     ,Tripura,910.0,1340,2437.5,89334.7,236.6,1.44
+Cotton(lint),2001,Kharif     ,Tripura,1288.0,1900,2284.4,131543.44,334.88,1.465
+Cotton(lint),2002,Kharif     ,Tripura,1370.0,1584,2579.8,129697.9,342.5,1.06
+Cotton(lint),2003,Kharif     ,Tripura,1217.0,305,2487.9,120458.66,292.08,0.2475
+Cotton(lint),2004,Kharif     ,Mizoram,289.0,975,2640.8,31310.26,60.69,3.43
+Cotton(lint),2006,Kharif     ,Mizoram,241.0,151,2353.0,30778.11,53.02,0.79
+Cotton(lint),2007,Kharif     ,Mizoram,87.0,11,3095.2,11605.8,13.92,0.135
+Cotton(lint),2008,Kharif     ,Mizoram,207.0,102,1912.1,29609.28,18.63,0.468333333
+Cotton(lint),2009,Kharif     ,Mizoram,201.0,129,2086.3,31319.82,34.17,0.653333333

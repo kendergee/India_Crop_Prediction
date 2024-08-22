@@ -1,0 +1,135 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Cowpea(Lobia),2010,Kharif     ,Karnataka,70151.0,36233,1317.7,11652782.61,16836.24,0.527692308
+Cowpea(Lobia),2010,Rabi       ,Karnataka,27130.0,7166,1317.7,4506564.3,6511.2,0.264285714
+Cowpea(Lobia),2011,Kharif     ,Andhra Pradesh,4718.0,1119,861.9,790359.36,1556.94,0.225
+Cowpea(Lobia),2011,Rabi       ,Andhra Pradesh,15567.0,12408,861.9,2607783.84,5137.11,0.801764706
+Cowpea(Lobia),2011,Kharif     ,Karnataka,68089.0,35959,1178.986364,11406269.28,22469.37,0.55
+Cowpea(Lobia),2011,Rabi       ,Karnataka,20294.0,7158,1178.986364,3399650.88,6697.02,0.353571429
+Cowpea(Lobia),2012,Kharif     ,Andhra Pradesh,5000.0,2000,968.7,754000.0,1550.0,0.4
+Cowpea(Lobia),2012,Rabi       ,Andhra Pradesh,18000.0,17000,968.7,2714400.0,5580.0,1.0425
+Cowpea(Lobia),2012,Kharif     ,Karnataka,64825.0,17765,956.2,9775610.0,20095.75,0.36962963
+Cowpea(Lobia),2012,Rabi       ,Karnataka,7192.0,2396,956.2,1084553.6,2229.52,0.332272727
+Cowpea(Lobia),2012,Summer     ,Karnataka,6937.0,2498,956.2,1046099.6,2150.47,0.366956522
+Cowpea(Lobia),2012,Whole Year ,Kerala,1085.0,0,2187.6,163618.0,336.35,0.0
+Cowpea(Lobia),2013,Kharif     ,Andhra Pradesh,3720.0,1617,1062.3,537502.8,1004.4,0.45625
+Cowpea(Lobia),2013,Rabi       ,Andhra Pradesh,8403.0,7244,1062.3,1214149.47,2268.81,0.787777778
+Cowpea(Lobia),2013,Kharif     ,Karnataka,63704.0,23789,1235.6,9204590.96,17200.08,0.383333333
+Cowpea(Lobia),2013,Rabi       ,Karnataka,9301.0,3930,1235.6,1343901.49,2511.27,0.416818182
+Cowpea(Lobia),2013,Summer     ,Karnataka,8000.0,3145,1235.6,1155920.0,2160.0,0.395238095
+Cowpea(Lobia),2013,Whole Year ,Kerala,775.0,0,3255.4,111979.75,209.25,0.0
+Cowpea(Lobia),2013,Rabi       ,Meghalaya,1608.0,2296,2448.4,232339.92,434.16,1.472727273
+Cowpea(Lobia),2014,Kharif     ,Andhra Pradesh,4459.0,1865,687.6,673130.64,1471.47,0.4125
+Cowpea(Lobia),2014,Rabi       ,Andhra Pradesh,9576.0,10735,687.6,1445592.96,3160.08,0.874444444
+Cowpea(Lobia),2014,Kharif     ,Karnataka,54977.0,24145,1238.5,8299327.92,18142.41,0.530740741
+Cowpea(Lobia),2014,Rabi       ,Karnataka,9632.0,3533,1238.5,1454046.72,3178.56,0.37
+Cowpea(Lobia),2014,Summer     ,Karnataka,7241.0,2646,1238.5,1093101.36,2389.53,0.342272727
+Cowpea(Lobia),2014,Whole Year ,Kerala,1004.0,0,3046.4,151563.84,331.32,0.0
+Cowpea(Lobia),2014,Rabi       ,Meghalaya,1622.0,2372,3484.4,244857.12,535.26,1.549090909
+Cowpea(Lobia),2015,Kharif     ,Andhra Pradesh,11043.0,9696,940.7,1743800.13,3644.19,0.77125
+Cowpea(Lobia),2015,Rabi       ,Andhra Pradesh,8003.0,6569,940.7,1263753.73,2640.99,0.513
+Cowpea(Lobia),2015,Rabi       ,Meghalaya,1637.0,2490,3870.8,258498.67,540.21,1.674545455
+Cowpea(Lobia),2015,Kharif     ,Karnataka,67727.0,28064,1024.9,10694770.57,22349.91,0.431923077
+Cowpea(Lobia),2015,Rabi       ,Karnataka,10778.0,4779,1024.9,1701953.98,3556.74,0.448571429
+Cowpea(Lobia),2015,Summer     ,Karnataka,8036.0,2412,1024.9,1268964.76,2651.88,0.299166667
+Cowpea(Lobia),2016,Kharif     ,Andhra Pradesh,3780.0,1966,890.0,579285.0,1323.0,0.491428571
+Cowpea(Lobia),2016,Rabi       ,Andhra Pradesh,5039.0,3379,890.0,772226.75,1763.65,0.585
+Cowpea(Lobia),2016,Rabi       ,Meghalaya,1661.0,2512,3837.1,254548.25,581.35,1.630909091
+Cowpea(Lobia),2016,Kharif     ,Karnataka,56875.0,43550,1147.2,8716093.75,19906.25,0.768518519
+Cowpea(Lobia),2016,Rabi       ,Karnataka,4191.0,100,1147.2,642270.75,1466.85,0.017647059
+Cowpea(Lobia),2016,Summer     ,Karnataka,5158.0,949,1147.2,790463.5,1805.3,0.182105263
+Cowpea(Lobia),2017,Kharif     ,Andhra Pradesh,4302.0,3081,868.2,677306.88,1634.76,0.691428571
+Cowpea(Lobia),2017,Rabi       ,Andhra Pradesh,9470.0,7053,868.2,1490956.8,3598.6,0.574285714
+Cowpea(Lobia),2017,Rabi       ,Meghalaya,1669.0,2526,4472.3,262767.36,634.22,1.630909091
+Cowpea(Lobia),2017,Kharif     ,Karnataka,86555.0,19627,1111.7,13627219.2,32890.9,0.2388
+Cowpea(Lobia),2017,Rabi       ,Karnataka,8570.0,3516,1111.7,1349260.8,3256.6,0.413809524
+Cowpea(Lobia),2017,Summer     ,Karnataka,4471.0,1333,1111.7,703914.24,1698.98,0.272857143
+Cowpea(Lobia),2017,Kharif     ,Tamil Nadu,47378.0,34028,970.9,7459192.32,18003.64,0.7148
+Cowpea(Lobia),2017,Rabi       ,Tamil Nadu,14233.0,9260,970.9,2240843.52,5408.54,0.6084
+Cowpea(Lobia),2018,Kharif     ,Andhra Pradesh,13385.0,1381,1220.5,2171047.0,4684.75,0.176666667
+Cowpea(Lobia),2018,Rabi       ,Andhra Pradesh,13621.0,6960,1220.5,2209326.2,4767.35,0.53
+Cowpea(Lobia),2018,Rabi       ,Meghalaya,1676.0,2537,5649.1,271847.2,586.6,1.631818182
+Cowpea(Lobia),2018,Kharif     ,Karnataka,46257.0,17487,1419.1,7502885.4,16189.95,0.356
+Cowpea(Lobia),2018,Rabi       ,Karnataka,11756.0,3304,1419.1,1906823.2,4114.6,0.267368421
+Cowpea(Lobia),2018,Summer     ,Karnataka,3996.0,520,1419.1,648151.2,1398.6,0.126666667
+Cowpea(Lobia),2018,Kharif     ,Tamil Nadu,44897.0,35418,986.2,7282293.4,15713.95,0.806
+Cowpea(Lobia),2018,Rabi       ,Tamil Nadu,19985.0,17010,986.2,3241567.0,6994.75,0.8475
+Cowpea(Lobia),2019,Kharif     ,Andhra Pradesh,5816.0,2612,899.2,998956.16,2151.92,0.503333333
+Cowpea(Lobia),2019,Rabi       ,Andhra Pradesh,6792.0,3532,899.2,1166593.92,2513.04,0.630909091
+Cowpea(Lobia),2019,Rabi       ,Meghalaya,1681.0,2549,3844.4,288728.56,621.97,1.633636364
+Cowpea(Lobia),2019,Kharif     ,Karnataka,30586.0,8678,1422.3,5253451.36,11316.82,0.299333333
+Cowpea(Lobia),2019,Rabi       ,Karnataka,11051.0,5396,1422.3,1898119.76,4088.87,0.458928571
+Cowpea(Lobia),2019,Summer     ,Karnataka,4103.0,983,1422.3,704731.28,1518.11,0.197407407
+Cowpea(Lobia),2019,Kharif     ,Tamil Nadu,47877.0,37536,910.1,8223353.52,17714.49,0.775833333
+Cowpea(Lobia),2019,Rabi       ,Tamil Nadu,17959.0,12609,910.1,3084637.84,6644.83,0.6812
+Cowpea(Lobia),2008,Kharif     ,Manipur,948.0,1019,1134.8,135601.92,85.32,1.128888889
+Cowpea(Lobia),2009,Kharif     ,Manipur,185.0,157,992.5,28826.7,31.45,0.7625
+Cowpea(Lobia),2009,Kharif     ,Madhya Pradesh,2992.0,1071,904.1,466213.44,508.64,0.331785714
+Cowpea(Lobia),2009,Rabi       ,Madhya Pradesh,680.0,231,904.1,105957.6,115.6,0.349545455
+Cowpea(Lobia),2010,Kharif     ,Madhya Pradesh,2872.0,662,856.3,477067.92,689.28,0.2088
+Cowpea(Lobia),2010,Rabi       ,Madhya Pradesh,616.0,146,856.3,102323.76,147.84,0.232857143
+Cowpea(Lobia),2010,Kharif     ,Manipur,890.0,970,2160.5,147837.9,213.6,1.156666667
+Cowpea(Lobia),2010,Kharif     ,Mizoram,1381.0,1786,2738.7,229397.91,331.44,1.145
+Cowpea(Lobia),2010,Rabi       ,Mizoram,222.0,310,2738.7,36876.42,53.28,1.47
+Cowpea(Lobia),2010,Kharif     ,Jammu and Kashmir,762.0,382,1352.0,126575.82,182.88,0.5
+Cowpea(Lobia),2010,Rabi       ,Jammu and Kashmir,45.0,90,1352.0,7474.95,10.8,2.01
+Cowpea(Lobia),2011,Kharif     ,Manipur,899.0,980,1533.561905,150600.48,296.67,1.101111111
+Cowpea(Lobia),2011,Kharif     ,Mizoram,1387.0,1458,2439.340909,232350.24,457.71,0.96625
+Cowpea(Lobia),2011,Rabi       ,Mizoram,227.0,283,2439.340909,38027.04,74.91,1.13
+Cowpea(Lobia),2012,Kharif     ,Manipur,840.0,831,1176.7,126672.0,260.4,0.997777778
+Cowpea(Lobia),2012,Kharif     ,Mizoram,938.0,906,2050.2,141450.4,290.78,0.8
+Cowpea(Lobia),2012,Rabi       ,Mizoram,130.0,149,2050.2,19604.0,40.3,1.11
+Cowpea(Lobia),2013,Kharif     ,Manipur,940.0,970,1428.8,135820.6,253.8,1.038888889
+Cowpea(Lobia),2013,Kharif     ,Mizoram,1322.0,1296,1848.8,191015.78,356.94,0.9425
+Cowpea(Lobia),2013,Rabi       ,Mizoram,188.0,204,1848.8,27164.12,50.76,1.0175
+Cowpea(Lobia),2013,Kharif     ,Nagaland,480.0,700,1350.9,69355.2,129.6,1.463333333
+Cowpea(Lobia),2013,Kharif     ,Telangana,2162.0,1209,1348.7,312387.38,583.74,0.515
+Cowpea(Lobia),2013,Rabi       ,Telangana,8572.0,6669,1348.7,1238568.28,2314.44,0.75
+Cowpea(Lobia),2014,Kharif     ,Manipur,966.0,1019,987.5,145827.36,318.78,1.075555556
+Cowpea(Lobia),2014,Kharif     ,Mizoram,1200.0,1493,2029.9,181152.0,396.0,1.0375
+Cowpea(Lobia),2014,Rabi       ,Mizoram,185.0,214,2029.9,27927.6,61.05,0.868
+Cowpea(Lobia),2014,Kharif     ,Nagaland,490.0,720,1333.3,73970.4,161.7,1.473333333
+Cowpea(Lobia),2014,Kharif     ,Telangana,1642.0,1511,746.4,247876.32,541.86,0.94
+Cowpea(Lobia),2014,Rabi       ,Telangana,8538.0,8385,746.4,1288896.48,2817.54,0.97
+Cowpea(Lobia),2015,Kharif     ,Manipur,962.0,1051,1329.1,151909.42,317.46,1.107777778
+Cowpea(Lobia),2015,Kharif     ,Mizoram,1195.0,1363,2310.8,188702.45,394.35,1.12125
+Cowpea(Lobia),2015,Rabi       ,Mizoram,107.0,117,2310.8,16896.37,35.31,0.996666667
+Cowpea(Lobia),2015,Kharif     ,Nagaland,520.0,770,1308.3,82113.2,171.6,1.476666667
+Cowpea(Lobia),2015,Kharif     ,Telangana,2167.0,1135,747.9,342190.97,715.11,0.511666667
+Cowpea(Lobia),2015,Rabi       ,Telangana,6021.0,16132,747.9,950776.11,1986.93,2.523333333
+Cowpea(Lobia),2015,Kharif     ,Tripura,4315.0,3356,2334.4,681381.65,1423.95,0.77625
+Cowpea(Lobia),2016,Kharif     ,Manipur,962.0,1090,2039.8,147426.5,336.7,1.15
+Cowpea(Lobia),2016,Kharif     ,Mizoram,1096.0,1233,2626.8,167962.0,383.6,1.1375
+Cowpea(Lobia),2016,Rabi       ,Mizoram,115.0,126,2626.8,17623.75,40.25,1.1525
+Cowpea(Lobia),2016,Kharif     ,Nagaland,530.0,770,1959.8,81222.5,185.5,1.453333333
+Cowpea(Lobia),2016,Kharif     ,Telangana,1058.0,647,942.6,162138.5,370.3,0.55
+Cowpea(Lobia),2016,Rabi       ,Telangana,4900.0,5230,942.6,750925.0,1715.0,1.1
+Cowpea(Lobia),2016,Kharif     ,Tripura,3886.0,2476,2475.3,595529.5,1360.1,0.6375
+Cowpea(Lobia),2017,Kharif     ,Manipur,958.0,1096,1780.0,150827.52,364.04,1.151111111
+Cowpea(Lobia),2017,Kharif     ,Mizoram,1024.7,1887,3865.8,161328.768,389.386,1.50125
+Cowpea(Lobia),2017,Rabi       ,Mizoram,152.0,359,3865.8,23930.88,57.76,2.0075
+Cowpea(Lobia),2017,Kharif     ,Nagaland,540.0,790,1722.1,85017.6,205.2,1.46
+Cowpea(Lobia),2017,Kharif     ,Telangana,1524.0,1545,815.7,239938.56,579.12,0.985625
+Cowpea(Lobia),2017,Rabi       ,Telangana,3985.0,5192,815.7,627398.4,1514.3,1.31173913
+Cowpea(Lobia),2017,Kharif     ,Tripura,4419.0,3188,3326.8,695727.36,1679.22,0.72375
+Cowpea(Lobia),2018,Kharif     ,Manipur,964.0,981,1196.9,156360.8,337.4,1.052222222
+Cowpea(Lobia),2018,Kharif     ,Mizoram,1053.0,2118,1665.2,170796.6,368.55,1.53125
+Cowpea(Lobia),2018,Rabi       ,Mizoram,96.0,176,1665.2,15571.2,33.6,2.1025
+Cowpea(Lobia),2018,Kharif     ,Nagaland,550.0,810,1372.7,89210.0,192.5,1.473333333
+Cowpea(Lobia),2018,Kharif     ,Telangana,1310.0,1045,1350.3,212482.0,458.5,0.81
+Cowpea(Lobia),2018,Rabi       ,Telangana,3925.0,4411,1350.3,636635.0,1373.75,1.134090909
+Cowpea(Lobia),2018,Kharif     ,Tripura,4145.0,3215,2169.1,672319.0,1450.75,0.765
+Cowpea(Lobia),2019,Kharif     ,Mizoram,1033.0,1469,2178.5,177428.08,382.21,1.32625
+Cowpea(Lobia),2019,Rabi       ,Mizoram,113.0,153,2178.5,19408.88,41.81,1.532
+Cowpea(Lobia),2019,Kharif     ,Nagaland,560.0,830,1593.0,96185.6,207.2,1.483333333
+Cowpea(Lobia),2019,Kharif     ,Odisha,40330.0,30010,1593.9,6927080.8,14922.1,0.730666667
+Cowpea(Lobia),2019,Rabi       ,Odisha,27980.0,20670,1593.9,4805844.8,10352.6,0.7432
+Cowpea(Lobia),2019,Kharif     ,Telangana,781.0,552,1031.7,134144.56,288.97,0.7692
+Cowpea(Lobia),2019,Rabi       ,Telangana,2378.0,2311,1031.7,408445.28,879.86,0.965172414
+Cowpea(Lobia),2019,Kharif     ,Tripura,4032.0,3178,2252.8,692536.32,1491.84,0.77625
+Cowpea(Lobia),2006,Kharif     ,Jammu and Kashmir,1432.0,442,1786.5,182880.72,315.04,0.4
+Cowpea(Lobia),2006,Rabi       ,Jammu and Kashmir,137.0,93,1786.5,17496.27,30.14,0.68
+Cowpea(Lobia),2011,Kharif     ,Jammu and Kashmir,32.0,16,887.6,5360.64,10.56,0.5
+Cowpea(Lobia),2015,Kharif     ,Jammu and Kashmir,254.0,51,1572.6,40109.14,83.82,0.2
+Cowpea(Lobia),2015,Rabi       ,Jammu and Kashmir,193.0,106,1572.6,30476.63,63.69,0.6375
+Cowpea(Lobia),2016,Kharif     ,Jammu and Kashmir,256.0,51,902.8,39232.0,89.6,0.2
+Cowpea(Lobia),2016,Rabi       ,Jammu and Kashmir,162.0,90,902.8,24826.5,56.7,0.725

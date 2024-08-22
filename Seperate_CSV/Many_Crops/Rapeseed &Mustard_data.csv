@@ -1,0 +1,529 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Rapeseed &Mustard,1997,Rabi       ,Assam,279292.0,154772,2051.4,26580219.64,86580.52,0.554782609
+Rapeseed &Mustard,1997,Rabi       ,Meghalaya,6914.0,4467,3818.2,658005.38,2143.34,0.608571429
+Rapeseed &Mustard,1997,Whole Year ,West Bengal,327123.0,250950,1852.9,31132295.91,101408.13,0.718333333
+Rapeseed &Mustard,1998,Rabi       ,Assam,288829.0,135631,2354.4,28536305.2,83760.41,0.473478261
+Rapeseed &Mustard,1998,Kharif     ,Karnataka,6673.0,1790,1260.8,659292.4,1935.17,0.210625
+Rapeseed &Mustard,1998,Rabi       ,Meghalaya,6916.0,4576,6552.7,683300.8,2005.64,0.635714286
+Rapeseed &Mustard,1998,Rabi       ,West Bengal,344358.0,251740,2152.5,34022570.4,99863.82,0.667222222
+Rapeseed &Mustard,1999,Rabi       ,Assam,286241.0,129425,2201.8,30378757.33,77285.07,0.479565217
+Rapeseed &Mustard,1999,Rabi       ,Meghalaya,7042.0,4648,6200.3,747367.46,1901.34,0.654285714
+Rapeseed &Mustard,1999,Rabi       ,Puducherry,64.0,483,1434.5875,6792.32,17.28,6.023333333
+Rapeseed &Mustard,1999,Rabi       ,West Bengal,345961.0,278540,2318.1,36716840.93,93409.47,0.766111111
+Rapeseed &Mustard,2000,Rabi       ,Andhra Pradesh,4482.0,1048,935.6,439997.94,1165.32,0.151538462
+Rapeseed &Mustard,2000,Rabi       ,Assam,274459.0,141231,1965.5,26943640.03,71359.34,0.499565217
+Rapeseed &Mustard,2000,Rabi       ,Karnataka,7637.0,2012,1213.3,749724.29,1985.62,0.208888889
+Rapeseed &Mustard,2000,Rabi       ,Meghalaya,7126.0,4730,6258.8,699559.42,1852.76,0.664285714
+Rapeseed &Mustard,2000,Rabi       ,Puducherry,63.0,452,1434.5875,6184.71,16.38,6.265
+Rapeseed &Mustard,2000,Rabi       ,West Bengal,435998.0,417020,1907.7,42801923.66,113359.48,0.841666667
+Rapeseed &Mustard,2001,Rabi       ,Andhra Pradesh,2452.0,790,928.4,250422.76,637.52,0.3275
+Rapeseed &Mustard,2001,Rabi       ,Assam,272323.0,137056,1824.7,27812347.99,70803.98,0.479130435
+Rapeseed &Mustard,2001,Rabi       ,Karnataka,7063.0,1905,1002.9,721344.19,1836.38,0.221764706
+Rapeseed &Mustard,2001,Rabi       ,Meghalaya,7156.0,4782,4241.0,730842.28,1860.56,0.581428571
+Rapeseed &Mustard,2001,Rabi       ,Puducherry,71.0,530,1434.5875,7251.23,18.46,6.345
+Rapeseed &Mustard,2001,Rabi       ,West Bengal,439578.0,336547,1556.6,44894101.14,114290.28,0.688333333
+Rapeseed &Mustard,2002,Rabi       ,Andhra Pradesh,3369.0,742,648.1,318943.23,842.25,0.302857143
+Rapeseed &Mustard,2002,Rabi       ,Assam,261309.0,129784,1973.6,24738123.03,65327.25,0.472173913
+Rapeseed &Mustard,2002,Rabi       ,Tamil Nadu,585.0,142,315.9,55381.95,146.25,0.206
+Rapeseed &Mustard,2002,Rabi       ,West Bengal,408270.0,328117,1629.1,38650920.9,102067.5,0.692777778
+Rapeseed &Mustard,2003,Rabi       ,Andhra Pradesh,1695.0,432,826.0,167771.1,406.8,0.285714286
+Rapeseed &Mustard,2003,Rabi       ,Assam,264103.0,138296,2213.7,26140914.94,63384.72,0.519130435
+Rapeseed &Mustard,2003,Rabi       ,Karnataka,6048.0,1706,867.6,598631.04,1451.52,0.223529412
+Rapeseed &Mustard,2003,Rabi       ,Meghalaya,7218.0,4645,3321.3,714437.64,1732.32,0.608571429
+Rapeseed &Mustard,2003,Rabi       ,Tamil Nadu,376.0,93,345.6,37216.48,90.24,0.386666667
+Rapeseed &Mustard,2003,Rabi       ,West Bengal,452002.0,419436,1526.7,44739157.96,108480.48,0.845555556
+Rapeseed &Mustard,2004,Rabi       ,Karnataka,5855.0,1627,1117.7,634330.7,1229.55,0.216315789
+Rapeseed &Mustard,2004,Rabi       ,Meghalaya,7222.0,4797,4767.9,782431.48,1516.62,0.64
+Rapeseed &Mustard,2004,Rabi       ,Tamil Nadu,452.0,109,1034.0,48969.68,94.92,0.25
+Rapeseed &Mustard,2005,Rabi       ,Andhra Pradesh,5660.0,2568,1075.5,678747.2,1188.6,0.2825
+Rapeseed &Mustard,2005,Rabi       ,Assam,212471.0,96992,2184.6,25479522.32,44618.91,0.469259259
+Rapeseed &Mustard,2005,Rabi       ,Karnataka,6739.0,1800,1316.2,808140.88,1415.19,0.227142857
+Rapeseed &Mustard,2005,Rabi       ,Meghalaya,7196.0,4759,3374.4,862944.32,1511.16,0.62
+Rapeseed &Mustard,2005,Rabi       ,Tamil Nadu,528.0,130,1364.1,63317.76,110.88,0.25
+Rapeseed &Mustard,2005,Rabi       ,West Bengal,421483.0,383002,1650.1,50544241.36,88511.43,0.796666667
+Rapeseed &Mustard,2006,Rabi       ,Meghalaya,7261.0,4815,2454.7,927302.31,1597.42,0.657142857
+Rapeseed &Mustard,2006,Rabi       ,Andhra Pradesh,5387.0,2780,845.2,687973.77,1185.14,0.285
+Rapeseed &Mustard,2006,Rabi       ,Assam,238426.0,115874,1774.9,30449384.46,52453.72,0.495185185
+Rapeseed &Mustard,2006,Kharif     ,Karnataka,3691.0,974,1146.3,471377.61,812.02,0.218235294
+Rapeseed &Mustard,2006,Whole Year ,Tamil Nadu,344.0,80,927.9,43932.24,75.68,0.150769231
+Rapeseed &Mustard,2006,Rabi       ,West Bengal,421522.0,338581,1631.4,53832574.62,92734.84,0.688333333
+Rapeseed &Mustard,2007,Rabi       ,Assam,234804.0,122897,2154.1,31322853.6,37568.64,0.503703704
+Rapeseed &Mustard,2007,Kharif     ,Karnataka,3957.0,1438,1323.3,527863.8,633.12,0.341875
+Rapeseed &Mustard,2007,Whole Year ,Tamil Nadu,275.0,67,1067.2,36685.0,44.0,0.204545455
+Rapeseed &Mustard,2007,Rabi       ,West Bengal,407498.0,361697,2007.5,54360233.2,65199.68,0.771666667
+Rapeseed &Mustard,2008,Rabi       ,Andhra Pradesh,5885.0,3764,944.6,841790.4,529.65,0.646
+Rapeseed &Mustard,2008,Rabi       ,Assam,226385.0,124688,2109.9,32382110.4,20374.65,0.521111111
+Rapeseed &Mustard,2008,Rabi       ,Karnataka,4573.0,1836,1164.1,654121.92,411.57,0.3875
+Rapeseed &Mustard,2008,Rabi       ,Meghalaya,7197.0,4906,3114.3,1029458.88,647.73,0.651428571
+Rapeseed &Mustard,2008,Whole Year ,Tamil Nadu,257.0,63,1201.9,36761.28,23.13,0.282222222
+Rapeseed &Mustard,2008,Rabi       ,West Bengal,412488.0,315330,1560.1,59002283.52,37123.92,0.677777778
+Rapeseed &Mustard,2009,Rabi       ,Andhra Pradesh,4309.0,2576,711.0,671428.38,732.53,0.3125
+Rapeseed &Mustard,2009,Rabi       ,Assam,248700.0,131493,1727.1,38752434.0,42279.0,0.512962963
+Rapeseed &Mustard,2009,Rabi       ,Karnataka,5116.0,1493,1321.0,797175.12,869.72,0.29
+Rapeseed &Mustard,2009,Rabi       ,Meghalaya,7160.0,4872,2995.9,1115671.2,1217.2,0.595714286
+Rapeseed &Mustard,2009,Whole Year ,Tamil Nadu,262.0,62,928.5,40824.84,44.54,0.167777778
+Rapeseed &Mustard,2010,Rabi       ,Assam,243815.0,142661,2578.5,40500109.65,58515.6,0.528888889
+Rapeseed &Mustard,2010,Rabi       ,Andhra Pradesh,6922.0,16777,1297.0,1149813.42,1661.28,2.31
+Rapeseed &Mustard,2010,Rabi       ,Karnataka,3838.0,1284,1317.7,637530.18,921.12,0.323888889
+Rapeseed &Mustard,2010,Rabi       ,Meghalaya,7152.0,4859,3119.7,1188018.72,1716.48,0.592857143
+Rapeseed &Mustard,2011,Rabi       ,Assam,247949.0,138647,1743.4,41536416.48,81823.17,0.538888889
+Rapeseed &Mustard,2011,Rabi       ,Andhra Pradesh,6617.0,16183,861.9,1108479.84,2183.61,2.444285714
+Rapeseed &Mustard,2011,Rabi       ,Karnataka,4209.0,1204,1178.986364,705091.68,1388.97,0.295
+Rapeseed &Mustard,2011,Rabi       ,Meghalaya,7193.0,4902,4083.104545,1204971.36,2373.69,0.6
+Rapeseed &Mustard,2011,Rabi       ,Tamil Nadu,344.0,84,926.5,57626.88,113.52,0.226666667
+Rapeseed &Mustard,2012,Rabi       ,Andhra Pradesh,3522.0,1530,968.7,531117.6,1091.82,0.4525
+Rapeseed &Mustard,2012,Rabi       ,Assam,279496.0,170382,2167.5,42147996.8,86643.76,0.564814815
+Rapeseed &Mustard,2012,Kharif     ,Karnataka,2201.0,650,956.2,331910.8,682.31,0.271538462
+Rapeseed &Mustard,2012,Rabi       ,Meghalaya,9750.0,9116,2945.3,1470300.0,3022.5,0.862857143
+Rapeseed &Mustard,2013,Rabi       ,Andhra Pradesh,3295.0,2121,1062.3,476094.55,889.65,0.57
+Rapeseed &Mustard,2013,Rabi       ,Assam,279186.0,168977,1797.7,40339585.14,75380.22,0.576296296
+Rapeseed &Mustard,2013,Kharif     ,Karnataka,2700.0,769,1235.6,390123.0,729.0,0.270555556
+Rapeseed &Mustard,2013,Rabi       ,Meghalaya,9760.0,9270,2448.4,1410222.4,2635.2,0.902727273
+Rapeseed &Mustard,2013,Rabi       ,Tamil Nadu,576.0,140,740.9,83226.24,155.52,0.18
+Rapeseed &Mustard,2014,Rabi       ,Andhra Pradesh,5711.0,3203,687.6,862132.56,1884.63,0.418
+Rapeseed &Mustard,2014,Rabi       ,Assam,281006.0,187522,1899.0,42420665.76,92731.98,0.634074074
+Rapeseed &Mustard,2014,Kharif     ,Karnataka,2034.0,445,1238.5,307052.64,671.22,0.204375
+Rapeseed &Mustard,2014,Rabi       ,Meghalaya,9775.0,9346,3484.4,1475634.0,3225.75,0.899090909
+Rapeseed &Mustard,2014,Rabi       ,Tamil Nadu,302.0,72,911.3,45589.92,99.66,0.161428571
+Rapeseed &Mustard,2015,Kharif     ,Andhra Pradesh,10.0,7,940.7,1579.1,3.3,0.7
+Rapeseed &Mustard,2015,Rabi       ,Andhra Pradesh,1426.0,764,940.7,225179.66,470.58,0.3975
+Rapeseed &Mustard,2015,Rabi       ,Assam,285677.0,199501,2155.3,45111255.07,94273.41,0.647777778
+Rapeseed &Mustard,2015,Rabi       ,Meghalaya,9786.0,9466,3870.8,1545307.26,3229.38,0.953636364
+Rapeseed &Mustard,2015,Kharif     ,Karnataka,1605.0,350,1024.9,253445.55,529.65,0.18875
+Rapeseed &Mustard,2015,Rabi       ,Tamil Nadu,351.0,83,1201.9,55426.41,115.83,0.186
+Rapeseed &Mustard,2016,Kharif     ,Andhra Pradesh,6.0,3,890.0,919.5,2.1,0.5
+Rapeseed &Mustard,2016,Rabi       ,Andhra Pradesh,5060.0,2086,890.0,775445.0,1771.0,0.348333333
+Rapeseed &Mustard,2016,Rabi       ,Assam,294018.0,189233,2296.8,45058258.5,102906.3,0.623703704
+Rapeseed &Mustard,2016,Rabi       ,Meghalaya,9852.0,9197,3837.1,1509819.0,3448.2,0.889090909
+Rapeseed &Mustard,2016,Kharif     ,Karnataka,4573.0,840,1147.2,700812.25,1600.55,0.196
+Rapeseed &Mustard,2016,Rabi       ,Tamil Nadu,199.0,46,912.4,30496.75,69.65,0.186
+Rapeseed &Mustard,2017,Rabi       ,Andhra Pradesh,3000.0,1373,868.2,472320.0,1140.0,0.414
+Rapeseed &Mustard,2017,Rabi       ,Assam,290285.0,185564,2098.563636,45702470.4,110308.3,0.636666667
+Rapeseed &Mustard,2017,Rabi       ,Meghalaya,9869.0,9226,4472.3,1553775.36,3750.22,0.89
+Rapeseed &Mustard,2017,Kharif     ,Karnataka,2340.0,390,1111.7,368409.6,889.2,0.152941176
+Rapeseed &Mustard,2017,Rabi       ,Tamil Nadu,292.0,67,970.9,45972.48,110.96,0.08
+Rapeseed &Mustard,2018,Rabi       ,Andhra Pradesh,4485.0,1545,1220.5,727467.0,1569.75,0.25
+Rapeseed &Mustard,2018,Rabi       ,Assam,285736.0,183665,2372.9,46346379.2,100007.6,0.64
+Rapeseed &Mustard,2018,Rabi       ,Meghalaya,9879.0,9242,5649.1,1602373.8,3457.65,0.890909091
+Rapeseed &Mustard,2018,Kharif     ,Karnataka,3172.0,628,1419.1,514498.4,1110.2,0.13
+Rapeseed &Mustard,2018,Rabi       ,Tamil Nadu,305.0,71,986.2,49471.0,106.75,0.08
+Rapeseed &Mustard,2019,Rabi       ,Andhra Pradesh,1882.0,912,899.2,323252.32,696.34,0.375
+Rapeseed &Mustard,2019,Rabi       ,Assam,287447.0,177226,2084.7,49371896.72,106355.39,0.583703704
+Rapeseed &Mustard,2019,Rabi       ,Meghalaya,9879.0,9242,3844.4,1696817.04,3655.23,0.890909091
+Rapeseed &Mustard,2019,Kharif     ,Karnataka,230.0,54,1422.3,39504.8,85.1,0.166842105
+Rapeseed &Mustard,2019,Rabi       ,Tamil Nadu,137.0,33,910.1,23531.12,50.69,0.19
+Rapeseed &Mustard,1997,Rabi       ,Bihar,101428.0,82367,1303.7,9652902.76,31442.68,0.718909091
+Rapeseed &Mustard,1997,Rabi       ,Gujarat,345600.0,350000,798.9,32890752.0,107136.0,1.064375
+Rapeseed &Mustard,1997,Rabi       ,Madhya Pradesh,700700.0,416300,1189.1,66685619.0,217217.0,0.54025
+Rapeseed &Mustard,1997,Kharif     ,Mizoram,374.0,440,2644.2,35593.58,115.94,1.853333333
+Rapeseed &Mustard,1997,Rabi       ,Mizoram,2095.0,1340,2644.2,199381.15,649.45,0.81
+Rapeseed &Mustard,1997,Rabi       ,Punjab,72000.0,63000,690.1,6852240.0,22320.0,0.925882353
+Rapeseed &Mustard,1997,Rabi       ,Uttar Pradesh,759048.0,445133,473.9,72238598.16,235304.88,0.61375
+Rapeseed &Mustard,1998,Rabi       ,Bihar,107250.0,88517,1332.5,10596300.0,31102.5,0.809259259
+Rapeseed &Mustard,1998,Rabi       ,Gujarat,337000.0,466000,775.6,33295600.0,97730.0,1.378125
+Rapeseed &Mustard,1998,Rabi       ,Haryana,497788.0,615000,687.6,49181454.4,144358.52,1.094210526
+Rapeseed &Mustard,1998,Rabi       ,Himachal Pradesh,10551.0,5733,1381.6,1042438.8,3059.79,0.745833333
+Rapeseed &Mustard,1998,Rabi       ,Madhya Pradesh,640800.0,574100,962.7,63311040.0,185832.0,0.688703704
+Rapeseed &Mustard,1998,Rabi       ,Maharashtra,12400.0,2400,1314.8,1225120.0,3596.0,0.178076923
+Rapeseed &Mustard,1998,Rabi       ,Punjab,73000.0,69000,588.6,7212400.0,21170.0,1.067058824
+Rapeseed &Mustard,1998,Whole Year ,Tamil Nadu,555.0,136,1077.1,54834.0,160.95,0.26
+Rapeseed &Mustard,1998,Rabi       ,Tripura,3630.0,2900,2472.9,358644.0,1052.7,0.8025
+Rapeseed &Mustard,1998,Rabi       ,Uttar Pradesh,675105.0,557633,743.4,66700374.0,195780.45,0.7535
+Rapeseed &Mustard,1999,Rabi       ,Bihar,88908.0,70456,1402.7,9435806.04,24005.16,0.792162162
+Rapeseed &Mustard,1999,Rabi       ,Gujarat,320000.0,301000,458.9,33961600.0,86400.0,0.94125
+Rapeseed &Mustard,1999,Rabi       ,Haryana,449818.0,595000,344.0,47739184.34,121450.86,1.112105263
+Rapeseed &Mustard,1999,Rabi       ,Himachal Pradesh,11079.0,5739,1144.9,1175814.27,2991.33,0.659090909
+Rapeseed &Mustard,1999,Rabi       ,Karnataka,6409.0,1756,1203.8,680187.17,1730.43,0.262941176
+Rapeseed &Mustard,1999,Rabi       ,Madhya Pradesh,671983.0,673759,1222.9,71317555.79,181435.41,0.72559322
+Rapeseed &Mustard,1999,Rabi       ,Maharashtra,10100.0,2900,1166.5,1071913.0,2727.0,0.318181818
+Rapeseed &Mustard,1999,Rabi       ,Nagaland,1400.0,1400,1782.2,148582.0,378.0,0.982857143
+Rapeseed &Mustard,1999,Rabi       ,Odisha,125200.0,41040,1484.3,13287476.0,33804.0,0.338333333
+Rapeseed &Mustard,1999,Rabi       ,Punjab,56000.0,63000,364.4,5943280.0,15120.0,1.083529412
+Rapeseed &Mustard,1999,Rabi       ,Tamil Nadu,631.0,152,922.8,66968.03,170.37,0.206666667
+Rapeseed &Mustard,1999,Rabi       ,Uttar Pradesh,655386.0,668346,883.4,69556116.18,176954.22,0.874390244
+Rapeseed &Mustard,2000,Rabi       ,Bihar,97011.0,84355,1207.0,9523569.87,25222.86,0.877567568
+Rapeseed &Mustard,2000,Rabi       ,Chhattisgarh,48187.0,15950,896.4,4730517.79,12528.62,0.311875
+Rapeseed &Mustard,2000,Rabi       ,Gujarat,186600.0,230500,379.7,18318522.0,48516.0,1.163076923
+Rapeseed &Mustard,2000,Rabi       ,Haryana,408772.0,559000,383.7,40129147.24,106280.72,1.202105263
+Rapeseed &Mustard,2000,Rabi       ,Himachal Pradesh,9686.0,3637,1068.4,950874.62,2518.36,0.500909091
+Rapeseed &Mustard,2000,Rabi       ,Madhya Pradesh,417539.0,323175,723.3,40989803.63,108560.14,0.468222222
+Rapeseed &Mustard,2000,Rabi       ,Maharashtra,8200.0,1900,1057.8,804994.0,2132.0,0.217083333
+Rapeseed &Mustard,2000,Rabi       ,Mizoram,2328.0,1984,2834.3,228539.76,605.28,0.8475
+Rapeseed &Mustard,2000,Rabi       ,Nagaland,15000.0,12000,1631.8,1472550.0,3900.0,0.8025
+Rapeseed &Mustard,2000,Rabi       ,Odisha,12395.0,1649,1066.0,1216817.15,3222.7,0.132758621
+Rapeseed &Mustard,2000,Rabi       ,Tamil Nadu,753.0,185,971.1,73922.01,195.78,0.228
+Rapeseed &Mustard,2000,Rabi       ,Uttar Pradesh,556142.0,556379,874.4,54596460.14,144596.92,0.874347826
+Rapeseed &Mustard,2000,Rabi       ,Uttarakhand,13406.0,8127,1413.4,1316067.02,3485.56,0.51
+Rapeseed &Mustard,2001,Rabi       ,Bihar,95895.0,78242,1247.0,9793756.35,24932.7,0.862972973
+Rapeseed &Mustard,2001,Rabi       ,Chhattisgarh,50335.0,18684,1550.0,5140713.55,13087.1,0.346875
+Rapeseed &Mustard,2001,Rabi       ,Gujarat,247100.0,292100,666.5,25236323.0,64246.0,1.121875
+Rapeseed &Mustard,2001,Rabi       ,Haryana,536475.0,800000,483.8,54790191.75,139483.5,1.315789474
+Rapeseed &Mustard,2001,Rabi       ,Himachal Pradesh,10387.0,5482,918.1,1060824.31,2700.62,0.638333333
+Rapeseed &Mustard,2001,Rabi       ,Madhya Pradesh,504749.0,458817,955.0,51550015.37,131234.74,0.607111111
+Rapeseed &Mustard,2001,Rabi       ,Maharashtra,12200.0,3080,1035.8,1245986.0,3172.0,0.304615385
+Rapeseed &Mustard,2001,Rabi       ,Mizoram,2494.0,2173,2406.4,254712.22,648.44,0.8475
+Rapeseed &Mustard,2001,Rabi       ,Nagaland,16000.0,15390,1532.0,1634080.0,4160.0,0.95125
+Rapeseed &Mustard,2001,Rabi       ,Odisha,14159.0,2224,1672.5,1446058.67,3681.34,0.139310345
+Rapeseed &Mustard,2001,Rabi       ,Punjab,5000.0,6500,479.3,510650.0,1300.0,1.262941176
+Rapeseed &Mustard,2001,Rabi       ,Uttar Pradesh,566445.0,573614,849.9,57851027.85,147275.7,0.916956522
+Rapeseed &Mustard,2001,Rabi       ,Uttarakhand,11795.0,7557,1541.3,1204623.35,3066.7,0.521538462
+Rapeseed &Mustard,2002,Rabi       ,Bihar,90072.0,62026,1105.8,8527116.24,22518.0,0.699189189
+Rapeseed &Mustard,2002,Rabi       ,Chhattisgarh,47494.0,15626,1001.4,4496256.98,11873.5,0.289375
+Rapeseed &Mustard,2002,Rabi       ,Gujarat,160800.0,172200,458.4,15222936.0,40200.0,1.103125
+Rapeseed &Mustard,2002,Rabi       ,Haryana,606983.0,697000,353.9,57463080.61,151745.75,1.095789474
+Rapeseed &Mustard,2002,Rabi       ,Himachal Pradesh,9830.0,4599,890.8,930606.1,2457.5,0.39
+Rapeseed &Mustard,2002,Rabi       ,Karnataka,4270.0,1134,860.8,404240.9,1067.5,0.215789474
+Rapeseed &Mustard,2002,Rabi       ,Madhya Pradesh,368327.0,239413,800.8,34869517.09,92081.75,0.517272727
+Rapeseed &Mustard,2002,Rabi       ,Maharashtra,8100.0,2270,967.4,766827.0,2025.0,0.317777778
+Rapeseed &Mustard,2002,Rabi       ,Meghalaya,7202.0,4670,4355.3,681813.34,1800.5,0.648571429
+Rapeseed &Mustard,2002,Rabi       ,Mizoram,2043.0,1471,2627.0,193410.81,510.75,0.6575
+Rapeseed &Mustard,2002,Rabi       ,Nagaland,15694.0,17451,1536.6,1485750.98,3923.5,1.13
+Rapeseed &Mustard,2002,Rabi       ,Odisha,12193.0,1604,1102.8,1154311.31,3048.25,0.118333333
+Rapeseed &Mustard,2002,Rabi       ,Punjab,66000.0,60000,301.8,6248220.0,16500.0,0.941764706
+Rapeseed &Mustard,2002,Rabi       ,Uttarakhand,11423.0,6497,1610.3,1081415.41,2855.75,0.480769231
+Rapeseed &Mustard,2002,Rabi       ,Jharkhand,4704.34,3602,1041.2,445359.8678,1176.085,0.781111111
+Rapeseed &Mustard,2003,Rabi       ,Bihar,83666.0,68975,1353.9,8281260.68,20079.84,0.812105263
+Rapeseed &Mustard,2003,Rabi       ,Chhattisgarh,55314.0,22789,1643.7,5474979.72,13275.36,0.395625
+Rapeseed &Mustard,2003,Rabi       ,Gujarat,269300.0,395500,902.5,26655314.0,64632.0,1.439
+Rapeseed &Mustard,2003,Rabi       ,Haryana,619257.0,965000,592.3,61294057.86,148621.68,1.351052632
+Rapeseed &Mustard,2003,Rabi       ,Jharkhand,6119.0,4851,1258.3,605658.62,1468.56,0.803636364
+Rapeseed &Mustard,2003,Rabi       ,Madhya Pradesh,535540.0,579990,1163.0,53007749.2,128529.6,0.743404255
+Rapeseed &Mustard,2003,Rabi       ,Maharashtra,10300.0,2600,1037.4,1019494.0,2472.0,0.222962963
+Rapeseed &Mustard,2003,Rabi       ,Manipur,20.0,10,687.7,1979.6,4.8,0.5
+Rapeseed &Mustard,2003,Rabi       ,Nagaland,16000.0,12800,1709.8,1583680.0,3840.0,0.77625
+Rapeseed &Mustard,2003,Rabi       ,Odisha,15907.0,3065,1648.2,1574474.86,3817.68,0.169310345
+Rapeseed &Mustard,2003,Rabi       ,Punjab,52000.0,62000,451.7,5146960.0,12480.0,1.137647059
+Rapeseed &Mustard,2003,Rabi       ,Uttar Pradesh,536115.0,533534,1075.6,53064662.7,128667.6,0.845571429
+Rapeseed &Mustard,2003,Rabi       ,Uttarakhand,12545.0,10025,1734.3,1241704.1,3010.8,0.694615385
+Rapeseed &Mustard,2004,Rabi       ,Andhra Pradesh,3623.0,904,781.8,392515.82,760.83,0.201666667
+Rapeseed &Mustard,2004,Rabi       ,Assam,244948.0,129395,2536.9,26537666.32,51439.08,0.514782609
+Rapeseed &Mustard,2004,Rabi       ,Bihar,83112.0,66877,1147.8,9004354.08,17453.52,0.866578947
+Rapeseed &Mustard,2004,Rabi       ,Chhattisgarh,54501.0,20601,1122.8,5904638.34,11445.21,0.363125
+Rapeseed &Mustard,2004,Rabi       ,Gujarat,291200.0,404900,719.8,31548608.0,61152.0,1.452380952
+Rapeseed &Mustard,2004,Rabi       ,Haryana,699824.0,824000,484.6,75818932.16,146963.04,1.196842105
+Rapeseed &Mustard,2004,Rabi       ,Madhya Pradesh,760363.0,755801,895.7,82377727.42,159676.23,0.737916667
+Rapeseed &Mustard,2004,Rabi       ,Maharashtra,8600.0,2500,1052.0,931724.0,1806.0,0.332592593
+Rapeseed &Mustard,2004,Rabi       ,Nagaland,26330.0,20490,1711.5,2852592.2,5529.3,0.755
+Rapeseed &Mustard,2004,Rabi       ,Punjab,60000.0,62000,366.4,6500400.0,12600.0,1.081176471
+Rapeseed &Mustard,2004,Rabi       ,Tripura,1720.0,1315,2706.3,186344.8,361.2,0.765
+Rapeseed &Mustard,2004,Rabi       ,Uttarakhand,14790.0,9600,1219.6,1602348.6,3105.9,0.59
+Rapeseed &Mustard,2004,Rabi       ,Jharkhand,6412.26,6335,1149.2,694704.2484,1346.5746,0.904761905
+Rapeseed &Mustard,2004,Rabi       ,West Bengal,457495.0,342698,1612.9,49565008.3,96073.95,0.707222222
+Rapeseed &Mustard,2005,Rabi       ,Bihar,83622.0,77365,907.8,10027950.24,17560.62,0.894473684
+Rapeseed &Mustard,2005,Rabi       ,Chhattisgarh,57193.0,18185,1292.7,6858584.56,12010.53,0.305625
+Rapeseed &Mustard,2005,Rabi       ,Gujarat,314400.0,491800,942.4,37702848.0,66024.0,1.431363636
+Rapeseed &Mustard,2005,Rabi       ,Haryana,707712.0,792800,516.9,84868823.04,148619.52,1.174
+Rapeseed &Mustard,2005,Rabi       ,Himachal Pradesh,9630.0,2800,1248.1,1154829.6,2022.3,0.338181818
+Rapeseed &Mustard,2005,Rabi       ,Madhya Pradesh,829550.0,856096,1032.7,99479636.0,174205.5,0.754893617
+Rapeseed &Mustard,2005,Rabi       ,Maharashtra,12600.0,4430,1387.2,1510992.0,2646.0,0.414230769
+Rapeseed &Mustard,2005,Kharif     ,Mizoram,166.0,122,2075.4,19906.72,34.86,0.68
+Rapeseed &Mustard,2005,Rabi       ,Mizoram,1634.0,1078,2075.4,195949.28,343.14,0.701666667
+Rapeseed &Mustard,2005,Rabi       ,Nagaland,26470.0,21180,1568.6,3174282.4,5558.7,0.6525
+Rapeseed &Mustard,2005,Rabi       ,Punjab,49000.0,54000,566.7,5876080.0,10290.0,1.184705882
+Rapeseed &Mustard,2005,Rabi       ,Tripura,1753.0,1276,1765.9,210219.76,368.13,0.7375
+Rapeseed &Mustard,2005,Rabi       ,Uttarakhand,15639.0,10070,1353.3,1875428.88,3284.19,0.562307692
+Rapeseed &Mustard,2005,Rabi       ,Jharkhand,5989.03,4058,965.2,718204.4776,1257.6963,0.665555556
+Rapeseed &Mustard,2006,Rabi       ,Bihar,86941.0,89405,1052.8,11103235.11,19127.02,0.982432432
+Rapeseed &Mustard,2006,Rabi       ,Chhattisgarh,54471.0,21764,1317.2,6956491.41,11983.62,0.341666667
+Rapeseed &Mustard,2006,Rabi       ,Gujarat,347800.0,476100,1056.2,44417538.0,76516.0,1.238636364
+Rapeseed &Mustard,2006,Rabi       ,Haryana,598245.0,804100,329.3,76401868.95,131613.9,1.276
+Rapeseed &Mustard,2006,Rabi       ,Himachal Pradesh,8887.0,4506,1207.0,1134958.77,1955.14,0.523
+Rapeseed &Mustard,2006,Rabi       ,Madhya Pradesh,751836.0,705974,1072.3,96016975.56,165403.92,0.745957447
+Rapeseed &Mustard,2006,Rabi       ,Maharashtra,13900.0,4900,1439.4,1775169.0,3058.0,0.342413793
+Rapeseed &Mustard,2006,Rabi       ,Nagaland,27500.0,20650,1362.5,3512025.0,6050.0,0.71375
+Rapeseed &Mustard,2006,Rabi       ,Punjab,41000.0,46000,569.6,5236110.0,9020.0,1.067222222
+Rapeseed &Mustard,2006,Rabi       ,Tripura,1744.0,1361,1764.3,222726.24,383.68,0.78
+Rapeseed &Mustard,2006,Rabi       ,Uttar Pradesh,599187.0,612604,590.5,76522171.77,131821.14,0.904857143
+Rapeseed &Mustard,2006,Rabi       ,Uttarakhand,13480.0,7582,1178.9,1721530.8,2965.6,0.453846154
+Rapeseed &Mustard,2006,Rabi       ,Jharkhand,17701.5,11787,1465.1,2260658.565,3894.33,0.655714286
+Rapeseed &Mustard,2007,Rabi       ,Bihar,88126.0,87464,1600.2,11756008.4,14100.16,0.932631579
+Rapeseed &Mustard,2007,Rabi       ,Chhattisgarh,51397.0,20637,1246.2,6856359.8,8223.52,0.388888889
+Rapeseed &Mustard,2007,Rabi       ,Gujarat,337000.0,551100,1021.6,44955800.0,53920.0,1.615909091
+Rapeseed &Mustard,2007,Rabi       ,Haryana,496483.0,597000,443.8,66230832.2,79437.28,1.2295
+Rapeseed &Mustard,2007,Rabi       ,Himachal Pradesh,8758.0,3580,1095.4,1168317.2,1401.28,0.479
+Rapeseed &Mustard,2007,Rabi       ,Madhya Pradesh,635178.0,593891,740.4,84732745.2,101628.48,0.675531915
+Rapeseed &Mustard,2007,Rabi       ,Maharashtra,9200.0,4300,1257.2,1227280.0,1472.0,0.482758621
+Rapeseed &Mustard,2007,Rabi       ,Meghalaya,7252.0,4795,4702.0,967416.8,1160.32,0.62
+Rapeseed &Mustard,2007,Rabi       ,Nagaland,27550.0,19980,1769.0,3675170.0,4408.0,0.725
+Rapeseed &Mustard,2007,Rabi       ,Punjab,28000.0,33000,527.2,3735200.0,4480.0,1.181176471
+Rapeseed &Mustard,2007,Rabi       ,Tripura,1451.0,1062,2831.8,193563.4,232.16,0.725
+Rapeseed &Mustard,2007,Rabi       ,Uttar Pradesh,627431.0,726256,672.9,83699295.4,100388.96,1.005142857
+Rapeseed &Mustard,2007,Rabi       ,Uttarakhand,12026.0,7704,1924.3,1604268.4,1924.16,0.548461538
+Rapeseed &Mustard,2007,Rabi       ,Jharkhand,7190.9,6083,1444.7,959266.06,1150.544,0.843
+Rapeseed &Mustard,2008,Rabi       ,Bihar,85265.0,81831,1197.7,12196305.6,7673.85,0.99
+Rapeseed &Mustard,2008,Rabi       ,Chhattisgarh,51992.0,19720,1117.9,7436935.68,4679.28,0.354444444
+Rapeseed &Mustard,2008,Rabi       ,Gujarat,293900.0,334300,746.1,42039456.0,26451.0,1.115
+Rapeseed &Mustard,2008,Rabi       ,Haryana,513982.0,894900,715.6,73519985.28,46258.38,1.947619048
+Rapeseed &Mustard,2008,Rabi       ,Himachal Pradesh,8883.0,2373,1357.1,1270624.32,799.47,0.32
+Rapeseed &Mustard,2008,Rabi       ,Madhya Pradesh,756292.0,798644,895.0,108180007.7,68066.28,0.796458333
+Rapeseed &Mustard,2008,Rabi       ,Maharashtra,6200.0,2100,1052.8,886848.0,558.0,0.426190476
+Rapeseed &Mustard,2008,Rabi       ,Manipur,26000.0,20000,1134.8,3719040.0,2340.0,0.78
+Rapeseed &Mustard,2008,Rabi       ,Nagaland,26620.0,26620,1540.9,3807724.8,2395.8,0.995454545
+Rapeseed &Mustard,2008,Rabi       ,Punjab,27000.0,33000,691.3,3862080.0,2430.0,1.16125
+Rapeseed &Mustard,2008,Rabi       ,Tripura,1588.0,1190,1827.8,227147.52,142.92,0.735
+Rapeseed &Mustard,2008,Rabi       ,Uttar Pradesh,656347.0,736849,891.6,93883874.88,59071.23,0.983857143
+Rapeseed &Mustard,2008,Rabi       ,Uttarakhand,12051.0,7906,1363.7,1723775.04,1084.59,0.44
+Rapeseed &Mustard,2008,Rabi       ,Jammu and Kashmir,56623.0,50525,1390.1,8099353.92,5096.07,1.023684211
+Rapeseed &Mustard,2008,Rabi       ,Jharkhand,10308.78,6530,1295.2,1474567.891,927.7902,0.76625
+Rapeseed &Mustard,2009,Rabi       ,Bihar,89672.0,91415,889.3,13972691.04,15244.24,1.084210526
+Rapeseed &Mustard,2009,Rabi       ,Chhattisgarh,52390.0,21675,956.9,8163409.8,8906.3,0.420555556
+Rapeseed &Mustard,2009,Rabi       ,Gujarat,216000.0,341400,618.0,33657120.0,36720.0,1.492105263
+Rapeseed &Mustard,2009,Rabi       ,Himachal Pradesh,8586.0,2329,969.9,1337870.52,1459.62,0.340909091
+Rapeseed &Mustard,2009,Rabi       ,Maharashtra,5800.0,2240,1002.4,903756.0,986.0,0.493
+Rapeseed &Mustard,2009,Rabi       ,Manipur,56000.0,43640,992.5,8725920.0,9520.0,0.734444444
+Rapeseed &Mustard,2009,Rabi       ,Nagaland,58590.0,46870,1225.9,9129493.8,9960.3,0.791818182
+Rapeseed &Mustard,2009,Rabi       ,Punjab,30000.0,39000,371.3,4674600.0,5100.0,1.266666667
+Rapeseed &Mustard,2009,Rabi       ,Tripura,1495.0,1147,2004.2,232950.9,254.15,0.75
+Rapeseed &Mustard,2009,Rabi       ,Uttar Pradesh,613276.0,682489,585.8,95560666.32,104256.92,1.01028169
+Rapeseed &Mustard,2009,Rabi       ,Uttarakhand,13160.0,11013,847.8,2050591.2,2237.2,0.624615385
+Rapeseed &Mustard,2009,Rabi       ,Jharkhand,10364.0,7644,996.1,1614918.48,1761.88,0.892083333
+Rapeseed &Mustard,2009,Rabi       ,West Bengal,410318.0,442950,1317.2,63935750.76,69754.06,0.937777778
+Rapeseed &Mustard,2009,Whole Year ,Madhya Pradesh,768719.0,804849,904.1,119781794.6,130682.23,0.827959184
+Rapeseed &Mustard,2010,Rabi       ,Bihar,86378.0,95817,629.2,14348249.58,20730.72,1.101842105
+Rapeseed &Mustard,2010,Rabi       ,Chhattisgarh,50248.0,20765,1283.1,8346695.28,12059.52,0.393333333
+Rapeseed &Mustard,2010,Rabi       ,Gujarat,222700.0,349200,1107.5,36992697.0,53448.0,1.562
+Rapeseed &Mustard,2010,Rabi       ,Haryana,509709.0,953000,639.2,84667761.99,122330.16,2.010952381
+Rapeseed &Mustard,2010,Rabi       ,Himachal Pradesh,8564.0,4260,1319.8,1422566.04,2055.36,0.559090909
+Rapeseed &Mustard,2010,Rabi       ,Madhya Pradesh,725721.0,818613,856.3,120549515.3,174173.04,0.772916667
+Rapeseed &Mustard,2010,Rabi       ,Maharashtra,7700.0,2860,1389.0,1279047.0,1848.0,0.414347826
+Rapeseed &Mustard,2010,Rabi       ,Manipur,26750.0,20850,2160.5,4443442.5,6420.0,0.79
+Rapeseed &Mustard,2010,Rabi       ,Mizoram,378.0,303,2738.7,62789.58,90.72,0.9525
+Rapeseed &Mustard,2010,Rabi       ,Nagaland,27050.0,27080,1771.8,4493275.5,6492.0,1.0
+Rapeseed &Mustard,2010,Rabi       ,Punjab,31000.0,41000,392.7,5149410.0,7440.0,1.242941176
+Rapeseed &Mustard,2010,Rabi       ,Tripura,1972.0,1516,2348.3,327568.92,473.28,0.77
+Rapeseed &Mustard,2010,Rabi       ,Uttar Pradesh,603593.0,716960,742.6,100262833.2,144862.32,1.056944444
+Rapeseed &Mustard,2010,Rabi       ,Uttarakhand,12663.0,10288,1419.0,2103450.93,3039.12,0.660769231
+Rapeseed &Mustard,2010,Rabi       ,Jammu and Kashmir,59519.0,50582,1352.0,9886701.09,14284.56,0.757368421
+Rapeseed &Mustard,2010,Rabi       ,Jharkhand,10475.0,7812,694.6,1740002.25,2514.0,0.74125
+Rapeseed &Mustard,2010,Rabi       ,West Bengal,410793.0,419580,1096.0,68236825.23,98590.32,0.974444444
+Rapeseed &Mustard,2011,Rabi       ,Bihar,90326.0,127926,1097.1,15131411.52,29807.58,1.254736842
+Rapeseed &Mustard,2011,Rabi       ,Chhattisgarh,49166.0,21830,1302.7,8236288.32,16224.78,0.471111111
+Rapeseed &Mustard,2011,Rabi       ,Gujarat,207600.0,327300,890.5,34777152.0,68508.0,1.5275
+Rapeseed &Mustard,2011,Rabi       ,Haryana,535850.0,747700,471.5409091,89765592.0,176830.5,1.538095238
+Rapeseed &Mustard,2011,Rabi       ,Himachal Pradesh,9106.0,5110,1108.3,1525437.12,3004.98,0.970909091
+Rapeseed &Mustard,2011,Rabi       ,Madhya Pradesh,662435.0,789623,852.6,110971111.2,218603.55,1.011041667
+Rapeseed &Mustard,2011,Rabi       ,Maharashtra,13100.0,4570,1174.095455,2194512.0,4323.0,0.384782609
+Rapeseed &Mustard,2011,Rabi       ,Manipur,27500.0,21040,1533.561905,4606800.0,9075.0,0.774444444
+Rapeseed &Mustard,2011,Kharif     ,Mizoram,10.0,4,2439.340909,1675.2,3.3,0.4
+Rapeseed &Mustard,2011,Rabi       ,Mizoram,365.0,340,2439.340909,61144.8,120.45,1.57
+Rapeseed &Mustard,2011,Rabi       ,Nagaland,27120.0,27250,1544.354545,4543142.4,8949.6,1.005454545
+Rapeseed &Mustard,2011,Rabi       ,Punjab,29000.0,37000,705.2,4858080.0,9570.0,1.280714286
+Rapeseed &Mustard,2011,Rabi       ,Tripura,2131.0,1683,2295.609091,356985.12,703.23,0.785
+Rapeseed &Mustard,2011,Rabi       ,Uttar Pradesh,639211.0,725893,777.4,107080626.7,210939.63,1.016388889
+Rapeseed &Mustard,2011,Rabi       ,Uttarakhand,12391.0,9733,1564.7,2075740.32,4089.03,0.653076923
+Rapeseed &Mustard,2011,Rabi       ,Jharkhand,7486.0,6484,1374.7,1254054.72,2470.38,0.851666667
+Rapeseed &Mustard,2011,Rabi       ,West Bengal,419473.0,380914,1686.5,70270116.96,138426.09,0.775555556
+Rapeseed &Mustard,2012,Rabi       ,Bihar,86823.0,138518,924.1,13092908.4,26915.13,1.306486486
+Rapeseed &Mustard,2012,Rabi       ,Chhattisgarh,47043.0,23851,1366.8,7094084.4,14583.33,0.495555556
+Rapeseed &Mustard,2012,Rabi       ,Gujarat,212800.0,360600,460.6,32090240.0,65968.0,1.65875
+Rapeseed &Mustard,2012,Rabi       ,Haryana,558290.0,959300,307.9,84190132.0,173069.9,1.751904762
+Rapeseed &Mustard,2012,Rabi       ,Himachal Pradesh,8945.0,3969,1035.0,1348906.0,2772.95,0.46
+Rapeseed &Mustard,2012,Rabi       ,Madhya Pradesh,703261.0,962061,1049.5,106051758.8,218010.91,0.975625
+Rapeseed &Mustard,2012,Rabi       ,Maharashtra,8700.0,2460,1003.4,1311960.0,2697.0,0.312105263
+Rapeseed &Mustard,2012,Rabi       ,Manipur,36000.0,30210,1176.7,5428800.0,11160.0,0.836666667
+Rapeseed &Mustard,2012,Rabi       ,Mizoram,290.0,201,2050.2,43732.0,89.9,0.67
+Rapeseed &Mustard,2012,Rabi       ,Nagaland,27170.0,27420,1296.6,4097236.0,8422.7,1.008181818
+Rapeseed &Mustard,2012,Rabi       ,Punjab,32000.0,41700,338.9,4825600.0,9920.0,1.301111111
+Rapeseed &Mustard,2012,Rabi       ,Tripura,2132.0,1701,1882.2,321505.6,660.92,0.79125
+Rapeseed &Mustard,2012,Rabi       ,Uttar Pradesh,662326.0,835700,746.3,99878760.8,205321.06,1.114933333
+Rapeseed &Mustard,2012,Rabi       ,Uttarakhand,13238.0,12093,1309.8,1996290.4,4103.78,0.65
+Rapeseed &Mustard,2012,Rabi       ,Jharkhand,21277.0,18928,1102.0,3208571.6,6595.87,0.96875
+Rapeseed &Mustard,2012,Rabi       ,West Bengal,446918.0,474832,1566.0,67395234.4,138544.58,0.965
+Rapeseed &Mustard,2013,Rabi       ,Bihar,85246.0,117142,1069.9,12317194.54,23016.42,1.293421053
+Rapeseed &Mustard,2013,Rabi       ,Chhattisgarh,47542.0,26999,1418.3,6869343.58,12836.34,0.546296296
+Rapeseed &Mustard,2013,Rabi       ,Gujarat,276999.0,488431,1006.5,40023585.51,74789.73,1.745217391
+Rapeseed &Mustard,2013,Rabi       ,Haryana,535000.0,878000,452.2,77302150.0,144450.0,1.752380952
+Rapeseed &Mustard,2013,Rabi       ,Himachal Pradesh,8459.0,4205,1216.9,1222240.91,2283.93,0.460909091
+Rapeseed &Mustard,2013,Rabi       ,Madhya Pradesh,702055.0,651507,1451.4,101439927.0,189554.85,0.81
+Rapeseed &Mustard,2013,Rabi       ,Manipur,28270.0,23670,1428.8,4084732.3,7632.9,0.838888889
+Rapeseed &Mustard,2013,Rabi       ,Mizoram,306.0,338,1848.8,44213.94,82.62,1.558333333
+Rapeseed &Mustard,2013,Rabi       ,Nagaland,27180.0,27460,1350.9,3927238.2,7338.6,1.01
+Rapeseed &Mustard,2013,Rabi       ,Punjab,32000.0,41800,586.6,4623680.0,8640.0,1.293529412
+Rapeseed &Mustard,2013,Rabi       ,Telangana,843.0,644,1348.7,121805.07,227.61,0.834
+Rapeseed &Mustard,2013,Rabi       ,Tripura,2617.0,2159,2043.5,378130.33,706.59,0.81125
+Rapeseed &Mustard,2013,Rabi       ,Uttar Pradesh,662625.0,671716,995.2,95742686.25,178908.75,0.939466667
+Rapeseed &Mustard,2013,Rabi       ,Uttarakhand,12061.0,9167,1735.4,1742693.89,3256.47,0.698461538
+Rapeseed &Mustard,2013,Rabi       ,Jharkhand,31770.0,32147,1253.6,4590447.3,8577.9,0.986521739
+Rapeseed &Mustard,2013,Rabi       ,West Bengal,448591.0,478084,1939.9,64816913.59,121119.57,0.993888889
+Rapeseed &Mustard,2014,Rabi       ,Bihar,84445.0,92891,1061.0,12747817.2,27866.85,1.041891892
+Rapeseed &Mustard,2014,Rabi       ,Chhattisgarh,46564.0,24586,1274.7,7029301.44,15366.12,0.51037037
+Rapeseed &Mustard,2014,Rabi       ,Gujarat,185008.0,336641,605.6,27928807.68,61052.64,1.730357143
+Rapeseed &Mustard,2014,Rabi       ,Haryana,480000.0,689000,301.3,72460800.0,158400.0,1.211052632
+Rapeseed &Mustard,2014,Rabi       ,Himachal Pradesh,8626.0,4723,1019.9,1302180.96,2846.58,0.491818182
+Rapeseed &Mustard,2014,Rabi       ,Madhya Pradesh,614000.0,630000,891.2,92689440.0,202620.0,0.93
+Rapeseed &Mustard,2014,Rabi       ,Manipur,28270.0,24520,987.5,4267639.2,9329.1,0.87
+Rapeseed &Mustard,2014,Rabi       ,Mizoram,310.0,317,2029.9,46797.6,102.3,1.203333333
+Rapeseed &Mustard,2014,Rabi       ,Nagaland,27280.0,27600,1333.3,4118188.8,9002.4,1.010909091
+Rapeseed &Mustard,2014,Rabi       ,Punjab,31000.0,38700,382.7,4679760.0,10230.0,1.261052632
+Rapeseed &Mustard,2014,Rabi       ,Telangana,2254.0,3962,746.4,340263.84,743.82,1.62
+Rapeseed &Mustard,2014,Rabi       ,Tripura,5934.0,4925,2015.7,895796.64,1958.22,0.8225
+Rapeseed &Mustard,2014,Rabi       ,Uttar Pradesh,626031.0,486228,616.4,94505639.76,206590.23,0.708666667
+Rapeseed &Mustard,2014,Rabi       ,Uttarakhand,14052.0,9963,1287.4,2121289.92,4637.16,0.68
+Rapeseed &Mustard,2014,Rabi       ,Jharkhand,27096.0,24208,1156.6,4090412.16,8941.68,0.9625
+Rapeseed &Mustard,2014,Rabi       ,West Bengal,448602.0,479647,1483.5,67720957.92,148038.66,0.932777778
+Rapeseed &Mustard,2015,Rabi       ,Bihar,89657.0,94392,874.0,14157736.87,29586.81,1.002894737
+Rapeseed &Mustard,2015,Rabi       ,Chhattisgarh,46280.0,25962,1136.0,7308074.8,15272.4,0.541111111
+Rapeseed &Mustard,2015,Rabi       ,Gujarat,190152.0,276213,584.3,30026902.32,62750.16,1.463333333
+Rapeseed &Mustard,2015,Rabi       ,Haryana,509000.0,820000,426.8,80376190.0,167970.0,1.64
+Rapeseed &Mustard,2015,Rabi       ,Himachal Pradesh,8326.0,4405,1223.2,1314758.66,2747.58,0.455454545
+Rapeseed &Mustard,2015,Rabi       ,Madhya Pradesh,621000.0,667000,1000.7,98062110.0,204930.0,0.935238095
+Rapeseed &Mustard,2015,Rabi       ,Manipur,29000.0,24520,1329.1,4579390.0,9570.0,0.846666667
+Rapeseed &Mustard,2015,Rabi       ,Mizoram,743.0,694,2310.8,117327.13,245.19,0.86625
+Rapeseed &Mustard,2015,Rabi       ,Nagaland,27540.0,27840,1308.3,4348841.4,9088.2,1.01
+Rapeseed &Mustard,2015,Rabi       ,Punjab,31000.0,41800,512.6,4895210.0,10230.0,1.329411765
+Rapeseed &Mustard,2015,Rabi       ,Telangana,1365.0,1665,747.9,215547.15,450.45,1.023333333
+Rapeseed &Mustard,2015,Rabi       ,Tripura,6418.0,5166,2334.4,1013466.38,2117.94,0.8
+Rapeseed &Mustard,2015,Rabi       ,Uttar Pradesh,593351.0,602616,596.7,93696056.41,195805.83,0.8876
+Rapeseed &Mustard,2015,Rabi       ,Uttarakhand,12275.0,11611,1247.6,1938345.25,4050.75,0.71
+Rapeseed &Mustard,2015,Rabi       ,Jharkhand,37130.0,31636,1085.6,5863198.3,12252.9,0.920454545
+Rapeseed &Mustard,2015,Rabi       ,West Bengal,457832.0,490219,1717.0,72296251.12,151084.56,0.887222222
+Rapeseed &Mustard,2016,Rabi       ,Arunachal Pradesh,27986.0,28514,2933.7,4288854.5,9795.1,1.233157895
+Rapeseed &Mustard,2016,Rabi       ,Bihar,82770.0,97684,1205.6,12684502.5,28969.5,1.115263158
+Rapeseed &Mustard,2016,Rabi       ,Chhattisgarh,42918.0,18433,1298.9,6577183.5,15021.3,0.458148148
+Rapeseed &Mustard,2016,Rabi       ,Gujarat,200062.0,354388,710.5,30659501.5,70021.7,1.72375
+Rapeseed &Mustard,2016,Rabi       ,Haryana,504000.0,933100,554.7,77238000.0,176400.0,1.702857143
+Rapeseed &Mustard,2016,Rabi       ,Himachal Pradesh,7129.0,1692,1373.9,1092519.25,2495.15,0.3
+Rapeseed &Mustard,2016,Rabi       ,Madhya Pradesh,711000.0,920987,1048.4,108960750.0,248850.0,1.045294118
+Rapeseed &Mustard,2016,Rabi       ,Maharashtra,9233.0,3317,1151.1,1414957.25,3231.55,0.369615385
+Rapeseed &Mustard,2016,Rabi       ,Manipur,29130.0,24900,2039.8,4464172.5,10195.5,0.853333333
+Rapeseed &Mustard,2016,Rabi       ,Mizoram,326.0,327,2626.8,49959.5,114.1,0.91
+Rapeseed &Mustard,2016,Rabi       ,Nagaland,27400.0,27760,1959.8,4199050.0,9590.0,1.012727273
+Rapeseed &Mustard,2016,Rabi       ,Punjab,31700.0,44800,635.9,4858025.0,11095.0,1.461818182
+Rapeseed &Mustard,2016,Rabi       ,Tripura,7500.0,6188,2475.3,1149375.0,2625.0,0.8175
+Rapeseed &Mustard,2016,Rabi       ,Uttar Pradesh,689174.0,857813,965.3,105615915.5,241210.9,1.165866667
+Rapeseed &Mustard,2016,Rabi       ,Uttarakhand,13503.0,11534,1580.9,2069334.75,4726.05,0.738461538
+Rapeseed &Mustard,2016,Rabi       ,Jharkhand,64371.0,60199,1296.3,9864855.75,22529.85,0.967826087
+Rapeseed &Mustard,2016,Rabi       ,West Bengal,459105.0,494671,1795.8,70357841.25,160686.75,0.867727273
+Rapeseed &Mustard,2017,Rabi       ,Arunachal Pradesh,28186.0,28714,2745.5,4437603.84,10710.68,1.221578947
+Rapeseed &Mustard,2017,Rabi       ,Bihar,79126.0,98493,1112.0,12457597.44,30067.88,1.191052632
+Rapeseed &Mustard,2017,Rabi       ,Chhattisgarh,41422.0,18348,1124.5,6521479.68,15740.36,0.424444444
+Rapeseed &Mustard,2017,Rabi       ,Gujarat,221289.0,400072,814.8,34839740.16,84089.82,1.76
+Rapeseed &Mustard,2017,Rabi       ,Haryana,547700.0,1105400,417.1,86229888.0,208126.0,2.027727273
+Rapeseed &Mustard,2017,Rabi       ,Himachal Pradesh,8326.0,4542,1182.2,1310845.44,3163.88,0.51
+Rapeseed &Mustard,2017,Rabi       ,Jharkhand,305045.0,218148,1165.7,48026284.8,115917.1,0.734583333
+Rapeseed &Mustard,2017,Rabi       ,Madhya Pradesh,747900.0,975790,800.0,117749376.0,284202.0,0.95673913
+Rapeseed &Mustard,2017,Rabi       ,Maharashtra,6675.0,2289,1129.5,1050912.0,2536.5,0.412692308
+Rapeseed &Mustard,2017,Rabi       ,Manipur,29260.0,25040,1780.0,4606694.4,11118.8,0.855555556
+Rapeseed &Mustard,2017,Kharif     ,Mizoram,23.0,8,3865.8,3621.12,8.74,0.49
+Rapeseed &Mustard,2017,Rabi       ,Mizoram,394.0,410,3865.8,62031.36,149.72,1.563333333
+Rapeseed &Mustard,2017,Rabi       ,Nagaland,27450.0,27790,1722.1,4321728.0,10431.0,1.012727273
+Rapeseed &Mustard,2017,Rabi       ,Punjab,30500.0,45700,497.5,4801920.0,11590.0,1.469090909
+Rapeseed &Mustard,2017,Rabi       ,Tripura,7795.0,6467,3326.8,1227244.8,2962.1,0.82625
+Rapeseed &Mustard,2017,Rabi       ,Uttar Pradesh,678853.0,944759,652.1,106878616.3,257964.14,1.2172
+Rapeseed &Mustard,2017,Rabi       ,Uttarakhand,13592.0,11126,1475.8,2139924.48,5164.96,0.75
+Rapeseed &Mustard,2017,Rabi       ,West Bengal,616798.0,738372,1830.0,97108677.12,234383.24,0.965909091
+Rapeseed &Mustard,2018,Rabi       ,Arunachal Pradesh,28206.0,28735,2992.9,4575013.2,9872.1,1.245714286
+Rapeseed &Mustard,2018,Rabi       ,Bihar,80586.0,103954,1521.4,13071049.2,28205.1,1.206842105
+Rapeseed &Mustard,2018,Rabi       ,Chhattisgarh,38828.0,18958,1515.5,6297901.6,13589.8,0.468888889
+Rapeseed &Mustard,2018,Rabi       ,Gujarat,195356.0,348435,1125.4,31686743.2,68374.6,1.731578947
+Rapeseed &Mustard,2018,Rabi       ,Haryana,606500.0,1251400,533.2,98374300.0,212275.0,1.961818182
+Rapeseed &Mustard,2018,Rabi       ,Himachal Pradesh,8533.0,4693,1052.2,1384052.6,2986.55,0.501818182
+Rapeseed &Mustard,2018,Rabi       ,Jharkhand,236853.0,164643,1222.7,38417556.6,82898.55,0.710833333
+Rapeseed &Mustard,2018,Rabi       ,Madhya Pradesh,707437.0,1040754,1102.2,114746281.4,247602.95,0.7016
+Rapeseed &Mustard,2018,Rabi       ,Maharashtra,5738.0,1979,1387.4,930703.6,2008.3,0.383636364
+Rapeseed &Mustard,2018,Rabi       ,Manipur,29530.0,24800,1196.9,4789766.0,10335.5,0.845555556
+Rapeseed &Mustard,2018,Kharif     ,Mizoram,25.0,15,1665.2,4055.0,8.75,0.68
+Rapeseed &Mustard,2018,Rabi       ,Mizoram,504.0,396,1665.2,81748.8,176.4,0.74
+Rapeseed &Mustard,2018,Rabi       ,Nagaland,27470.0,27800,1372.7,4455634.0,9614.5,1.011818182
+Rapeseed &Mustard,2018,Rabi       ,Punjab,30500.0,46500,585.5,4947100.0,10675.0,1.476818182
+Rapeseed &Mustard,2018,Rabi       ,Tripura,7729.0,6424,2169.1,1253643.8,2705.15,0.83125
+Rapeseed &Mustard,2018,Rabi       ,Uttar Pradesh,753181.0,1117198,792.8,122165958.2,263613.35,1.237733333
+Rapeseed &Mustard,2018,Rabi       ,Uttarakhand,13144.0,12258,1373.0,2131956.8,4600.4,0.863076923
+Rapeseed &Mustard,2018,Rabi       ,West Bengal,605933.0,734557,2012.6,98282332.6,212076.55,0.98
+Rapeseed &Mustard,2019,Rabi       ,Arunachal Pradesh,28261.0,28791,2433.3,4854109.36,10456.57,1.221666667
+Rapeseed &Mustard,2019,Rabi       ,Bihar,75240.0,89345,1194.7,12923222.4,27838.8,1.111351351
+Rapeseed &Mustard,2019,Rabi       ,Chhattisgarh,35026.0,15692,1420.3,6016065.76,12959.62,0.431428571
+Rapeseed &Mustard,2019,Rabi       ,Gujarat,172618.0,333540,1067.8,29648867.68,63868.66,1.873636364
+Rapeseed &Mustard,2019,Rabi       ,Haryana,636400.0,1142200,351.8,109308064.0,235468.0,1.796818182
+Rapeseed &Mustard,2019,Rabi       ,Himachal Pradesh,8605.0,4911,1217.7,1477994.8,3183.85,0.535454545
+Rapeseed &Mustard,2019,Rabi       ,Jharkhand,291431.0,231354,1137.8,50056188.56,107829.47,0.800833333
+Rapeseed &Mustard,2019,Rabi       ,Madhya Pradesh,675079.0,1038355,1446.7,115951569.0,249779.23,1.3
+Rapeseed &Mustard,2019,Rabi       ,Maharashtra,10517.0,3204,1555.8,1806399.92,3891.29,0.323333333
+Rapeseed &Mustard,2019,Kharif     ,Mizoram,23.0,17,2178.5,3950.48,8.51,0.84
+Rapeseed &Mustard,2019,Rabi       ,Mizoram,551.0,411,2178.5,94639.76,203.87,0.775
+Rapeseed &Mustard,2019,Rabi       ,Nagaland,27490.0,27820,1593.0,4721682.4,10171.3,1.011818182
+Rapeseed &Mustard,2019,Winter     ,Odisha,6952.0,2039,1593.9,1194075.52,2572.24,0.263333333
+Rapeseed &Mustard,2019,Rabi       ,Punjab,28400.0,42600,653.2,4877984.0,10508.0,1.51
+Rapeseed &Mustard,2019,Rabi       ,Tripura,7895.0,6668,2252.8,1356045.2,2921.15,0.84875
+Rapeseed &Mustard,2019,Rabi       ,Uttar Pradesh,702889.0,885907,814.5,120728214.6,260068.93,1.101066667
+Rapeseed &Mustard,2019,Rabi       ,Uttarakhand,12639.0,12472,1378.9,2170874.64,4676.43,0.860769231
+Rapeseed &Mustard,2019,Rabi       ,West Bengal,610402.0,712371,1733.4,104842647.5,225848.74,1.017272727
+Rapeseed &Mustard,2020,Rabi       ,Uttarakhand,13150.0,11853,1313.947826,2545971.5,4865.5,0.693846154
+Rapeseed &Mustard,1999,Rabi       ,Andhra Pradesh,2942.0,646,650.4,312234.46,794.34,0.214
+Rapeseed &Mustard,1999,Rabi       ,Jammu and Kashmir,68751.0,50410,667.1,7296543.63,18562.77,0.561818182
+Rapeseed &Mustard,2000,Rabi       ,Jammu and Kashmir,66135.0,24973,989.5,6492472.95,17195.1,0.381666667
+Rapeseed &Mustard,2001,Rabi       ,Jammu and Kashmir,71494.0,39219,953.8,7301682.22,18588.44,0.586666667
+Rapeseed &Mustard,2002,Rabi       ,Jammu and Kashmir,59296.0,23590,933.2,5613552.32,14824.0,0.519166667
+Rapeseed &Mustard,2002,Rabi       ,Uttar Pradesh,558989.0,500988,664.0,52919488.63,139747.25,0.788823529
+Rapeseed &Mustard,2003,Rabi       ,Jammu and Kashmir,56424.0,39224,1430.3,5584847.52,13541.76,0.469166667
+Rapeseed &Mustard,2004,Winter     ,Odisha,15863.0,3029,1290.4,1718597.42,3331.23,0.159
+Rapeseed &Mustard,2004,Rabi       ,Uttar Pradesh,618640.0,613991,704.0,67023457.6,129914.4,0.902857143
+Rapeseed &Mustard,2005,Kharif     ,Jammu and Kashmir,3223.0,1289,1721.8,386502.16,676.83,0.4
+Rapeseed &Mustard,2005,Rabi       ,Uttar Pradesh,562270.0,645985,751.9,67427418.4,118076.7,0.997142857
+Rapeseed &Mustard,2006,Rabi       ,Jammu and Kashmir,58490.0,38789,1786.5,7469757.9,12867.8,0.537272727
+Rapeseed &Mustard,2007,Rabi       ,Jammu and Kashmir,58490.0,38791,1042.2,7802566.0,9358.4,0.547368421
+Rapeseed &Mustard,2009,Rabi       ,Jammu and Kashmir,60262.0,47464,751.7,9390024.84,10244.54,0.620526316
+Rapeseed &Mustard,2011,Rabi       ,Jammu and Kashmir,59421.0,50537,887.6,9954205.92,19608.93,0.8
+Rapeseed &Mustard,2012,Rabi       ,Jammu and Kashmir,59861.0,48934,1116.7,9027038.8,18556.91,0.896315789
+Rapeseed &Mustard,2014,Kharif     ,Jammu and Kashmir,21.0,37,1278.4,3170.16,6.93,1.74
+Rapeseed &Mustard,2015,Rabi       ,Jammu and Kashmir,50594.0,31026,1572.6,7989298.54,16696.02,0.583
+Rapeseed &Mustard,2016,Rabi       ,Jammu and Kashmir,47611.0,25025,902.8,7296385.75,16663.85,0.605263158
+Rapeseed &Mustard,2017,Rabi       ,Jammu and Kashmir,47401.0,37589,1279.1,7462813.44,18012.38,0.815
+Rapeseed &Mustard,2018,Rabi       ,Jammu and Kashmir,47245.0,54389,1016.3,7663139.0,16535.75,0.9585
+Rapeseed &Mustard,2019,Rabi       ,Delhi,3250.0,8125,546.9,558220.0,1202.5,2.5
+Rapeseed &Mustard,2019,Kharif     ,Jammu and Kashmir,93.0,47,1324.1,15973.68,34.41,0.5
+Rapeseed &Mustard,2019,Rabi       ,Jammu and Kashmir,45218.0,37098,1324.1,7766643.68,16730.66,0.880526316
+Rapeseed &Mustard,1998,Rabi       ,Manipur,440.0,200,1855.0,43472.0,127.6,0.45
+Rapeseed &Mustard,1998,Winter     ,Manipur,990.0,440,1855.0,97812.0,287.1,0.44
+Rapeseed &Mustard,1999,Rabi       ,Manipur,1410.0,630,2092.7,149643.3,380.7,0.463333333
+Rapeseed &Mustard,2000,Rabi       ,Manipur,1470.0,660,1969.7,144309.9,382.2,0.4525
+Rapeseed &Mustard,2001,Rabi       ,Manipur,590.0,260,2013.1,60256.7,153.4,0.44
+Rapeseed &Mustard,2002,Rabi       ,Manipur,2310.0,1030,1743.7,218687.7,577.5,0.45
+Rapeseed &Mustard,2004,Rabi       ,Manipur,200.0,90,1613.3,21668.0,42.0,0.445
+Rapeseed &Mustard,2005,Rabi       ,Manipur,250.0,120,1585.4,29980.0,52.5,0.595
+Rapeseed &Mustard,2006,Rabi       ,Manipur,40.0,20,1533.561905,5108.4,8.8,0.5
+Rapeseed &Mustard,2007,Rabi       ,Manipur,1170.0,520,1435.7,156078.0,187.2,0.426666667
+Rapeseed &Mustard,1997,Rabi       ,Sikkim,5560.0,4270,2804.1,529145.2,1723.6,0.76
+Rapeseed &Mustard,1998,Rabi       ,Sikkim,5680.0,2412,3183.8,561184.0,1647.2,0.425
+Rapeseed &Mustard,1999,Rabi       ,Sikkim,5760.0,4164,2678.5,611308.8,1555.2,0.6975
+Rapeseed &Mustard,2000,Rabi       ,Sikkim,5760.0,3938,2504.8,565459.2,1497.6,0.6525
+Rapeseed &Mustard,2001,Rabi       ,Sikkim,5800.0,3791,2372.5,592354.0,1508.0,0.6075
+Rapeseed &Mustard,2002,Rabi       ,Sikkim,4800.0,3360,2496.2,454416.0,1200.0,0.6575
+Rapeseed &Mustard,2003,Rabi       ,Sikkim,6000.0,4200,2838.1,593880.0,1440.0,0.74
+Rapeseed &Mustard,2004,Rabi       ,Sikkim,4290.0,4280,1650.5,464778.6,900.9,2.29
+Rapeseed &Mustard,2005,Rabi       ,Sikkim,6000.0,4500,2041.6,719520.0,1260.0,0.745
+Rapeseed &Mustard,2006,Rabi       ,Sikkim,5280.0,4060,2270.2,674308.8,1161.6,0.765
+Rapeseed &Mustard,2007,Rabi       ,Sikkim,3270.0,2280,2003.4,436218.0,523.2,0.65
+Rapeseed &Mustard,2008,Rabi       ,Sikkim,5300.0,4450,2247.5,758112.0,477.0,0.85
+Rapeseed &Mustard,2009,Rabi       ,Sikkim,5440.0,4550,2176.6,847660.8,924.8,2.1625
+Rapeseed &Mustard,2010,Rabi       ,Sikkim,5260.0,4164,2527.0,873738.6,1262.4,0.7625
+Rapeseed &Mustard,2011,Rabi       ,Sikkim,5420.0,4340,2585.486364,907958.4,1788.6,0.7825
+Rapeseed &Mustard,2012,Rabi       ,Sikkim,4380.0,3500,3006.9,660504.0,1357.8,0.7775
+Rapeseed &Mustard,2013,Rabi       ,Jammu and Kashmir,59947.0,46031,1193.8,8661742.03,16185.69,0.8835
+Rapeseed &Mustard,2013,Rabi       ,Sikkim,4070.0,3384,2567.6,588074.3,1098.9,0.805
+Rapeseed &Mustard,2014,Rabi       ,Sikkim,3860.0,3212,2627.0,582705.6,1273.8,0.8025
+Rapeseed &Mustard,2015,Rabi       ,Sikkim,3658.0,3120,2949.1,577634.78,1207.14,0.8275
+Rapeseed &Mustard,2016,Rabi       ,Sikkim,3553.0,3111,2971.6,544497.25,1243.55,0.8475
+Rapeseed &Mustard,2017,Rabi       ,Sikkim,3211.0,2811,2873.6,505539.84,1220.18,0.845
+Rapeseed &Mustard,2018,Rabi       ,Sikkim,3105.0,2719,3350.1,503631.0,1086.75,0.8475
+Rapeseed &Mustard,2019,Rabi       ,Sikkim,3133.0,2745,2740.0,538124.08,1159.21,0.85
+Rapeseed &Mustard,1999,Rabi       ,Mizoram,2256.0,1540,2535.9,239429.28,609.12,1.015
+Rapeseed &Mustard,2004,Kharif     ,Mizoram,135.0,112,2640.8,14625.9,28.35,0.725
+Rapeseed &Mustard,2004,Rabi       ,Mizoram,1606.0,927,2640.8,173994.04,337.26,0.7
+Rapeseed &Mustard,1998,Rabi       ,Arunachal Pradesh,20631.0,19630,3616.7,2038342.8,5982.99,0.979230769
+Rapeseed &Mustard,1997,Rabi       ,Arunachal Pradesh,20500.0,19100,2274.9,1950985.0,6355.0,0.95
+Rapeseed &Mustard,1998,Winter     ,Odisha,19021.0,2376,1357.1,1879274.8,5516.09,0.113
+Rapeseed &Mustard,2005,Winter     ,Odisha,17401.0,3330,1503.4,2086727.92,3654.21,0.172333333
+Rapeseed &Mustard,2006,Winter     ,Odisha,15161.0,2578,1716.9,1936211.31,3335.42,0.154
+Rapeseed &Mustard,2007,Winter     ,Odisha,15884.0,3232,1633.8,2118925.6,2541.44,0.190689655
+Rapeseed &Mustard,2008,Winter     ,Odisha,13736.0,2527,1539.0,1964797.44,1236.24,0.166206897
+Rapeseed &Mustard,2009,Winter     ,Odisha,12841.0,2736,1330.3,2000884.62,2182.97,0.197241379
+Rapeseed &Mustard,2010,Winter     ,Odisha,15925.0,3345,1291.9,2645301.75,3822.0,0.18137931
+Rapeseed &Mustard,2011,Winter     ,Odisha,10335.0,2194,1346.2,1731319.2,3410.55,0.191428571
+Rapeseed &Mustard,2012,Winter     ,Odisha,14631.0,4031,1430.2,2206354.8,4535.61,0.238275862
+Rapeseed &Mustard,2013,Winter     ,Odisha,13442.0,3617,1632.4,1942234.58,3629.34,0.231071429
+Rapeseed &Mustard,2014,Winter     ,Odisha,10119.0,2473,1536.9,1527564.24,3339.27,0.244137931
+Rapeseed &Mustard,2015,Winter     ,Odisha,7308.0,1497,1210.1,1154006.28,2411.64,0.206785714
+Rapeseed &Mustard,2016,Winter     ,Odisha,9698.0,3354,1460.5,1486218.5,3394.3,0.293214286
+Rapeseed &Mustard,2017,Winter     ,Odisha,8650.0,2819,1344.4,1361856.0,3287.0,0.327916667
+Rapeseed &Mustard,2018,Winter     ,Odisha,6019.0,1657,1635.9,976281.8,2106.65,0.271428571

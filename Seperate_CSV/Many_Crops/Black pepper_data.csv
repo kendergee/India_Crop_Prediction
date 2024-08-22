@@ -1,0 +1,127 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Black pepper,1997,Kharif     ,Karnataka,3825.0,924,1266.7,364025.25,1185.75,0.4375
+Black pepper,1997,Whole Year ,Kerala,173855.0,55520,3252.4,16545780.35,53895.05,0.240714286
+Black pepper,1998,Kharif     ,Puducherry,12.0,7,1434.5875,1185.6,3.48,0.58
+Black pepper,1998,Whole Year ,Goa,250.0,70,2964.9,24700.0,72.5,0.28
+Black pepper,1998,Whole Year ,Karnataka,4387.0,10342,1260.8,433435.6,1272.23,2.238
+Black pepper,1998,Whole Year ,Kerala,182384.0,68510,3151.5,18019539.2,52891.36,0.261428571
+Black pepper,1999,Whole Year ,Goa,275.0,120,3879.3,29185.75,74.25,0.44
+Black pepper,1999,Whole Year ,Kerala,198406.0,47543,2914.6,21056828.78,53569.62,0.193571429
+Black pepper,1999,Whole Year ,Puducherry,12.0,7,1434.5875,1273.56,3.24,0.58
+Black pepper,2000,Whole Year ,Goa,480.0,100,3886.9,47121.6,124.8,0.21
+Black pepper,2000,Whole Year ,Karnataka,7249.0,17586,1213.3,711634.33,1884.74,2.263636364
+Black pepper,2000,Whole Year ,Kerala,202133.0,60929,2412.6,19843396.61,52554.58,0.22
+Black pepper,2000,Whole Year ,Puducherry,12.0,7,1434.5875,1178.04,3.12,0.58
+Black pepper,2001,Whole Year ,Goa,573.0,100,2530.6,58520.49,148.98,0.17
+Black pepper,2001,Whole Year ,Karnataka,9699.0,22185,1002.9,990558.87,2521.74,2.213846154
+Black pepper,2001,Whole Year ,Kerala,203956.0,58240,2946.7,20830026.28,53028.56,0.214285714
+Black pepper,2001,Whole Year ,Puducherry,12.0,11,1434.5875,1225.56,3.12,0.92
+Black pepper,2002,Whole Year ,Goa,583.0,103,2516.3,55192.61,145.75,0.18
+Black pepper,2002,Whole Year ,Kerala,208607.0,67358,2511.2,19748824.69,52151.75,0.222142857
+Black pepper,2003,Whole Year ,Goa,589.0,103,3011.6,58299.22,141.36,0.17
+Black pepper,2003,Whole Year ,Karnataka,10694.0,23561,867.6,1058492.12,2566.56,2.220833333
+Black pepper,2003,Whole Year ,Kerala,216440.0,69015,2386.0,21423231.2,51945.6,0.222857143
+Black pepper,2003,Whole Year ,Puducherry,12.0,8,1434.5875,1187.76,2.88,0.67
+Black pepper,2003,Whole Year ,Tamil Nadu,4179.0,933,345.6,413637.42,1002.96,0.141666667
+Black pepper,2004,Whole Year ,Karnataka,12344.0,27517,1117.7,1337348.96,2592.24,2.26
+Black pepper,2004,Whole Year ,Kerala,237669.0,74980,2880.2,25749059.46,49910.49,0.222857143
+Black pepper,2004,Whole Year ,Meghalaya,895.0,578,4767.9,96964.3,187.95,0.8
+Black pepper,2005,Whole Year ,Karnataka,14797.0,32414,1316.2,1774456.24,3107.37,2.199230769
+Black pepper,2005,Whole Year ,Kerala,237998.0,87605,3030.9,28540720.16,49979.58,0.239285714
+Black pepper,2005,Whole Year ,Tamil Nadu,3745.0,851,1364.1,449100.4,786.45,0.173076923
+Black pepper,2006,Kharif     ,Puducherry,12.0,7,1434.5875,1532.52,2.64,0.58
+Black pepper,2006,Whole Year ,Karnataka,13726.0,29025,1146.3,1752947.46,3019.72,2.216
+Black pepper,2006,Whole Year ,Kerala,216709.0,64264,3429.7,27675906.39,47675.98,0.217857143
+Black pepper,2006,Whole Year ,Tamil Nadu,3703.0,843,927.9,472910.13,814.66,0.186923077
+Black pepper,2007,Kharif     ,Puducherry,12.0,7,1434.5875,1600.8,1.92,0.58
+Black pepper,2007,Whole Year ,Assam,2823.0,4212,2154.1,376588.2,451.68,1.528518519
+Black pepper,2007,Whole Year ,Karnataka,16319.0,50867,1323.3,2176954.6,2611.04,3.124166667
+Black pepper,2007,Whole Year ,Kerala,175679.0,41952,3489.6,23435578.6,28108.64,0.19
+Black pepper,2007,Whole Year ,Tamil Nadu,3130.0,719,1067.2,417542.0,500.8,0.145333333
+Black pepper,2008,Kharif     ,Puducherry,12.0,8,1434.5875,1716.48,1.08,0.67
+Black pepper,2008,Whole Year ,Assam,3393.0,5144,2109.9,485334.72,305.37,1.680384615
+Black pepper,2008,Whole Year ,Karnataka,17451.0,73956,1164.1,2496191.04,1570.59,4.133571429
+Black pepper,2008,Whole Year ,Kerala,153711.0,33991,2524.8,21986821.44,13833.99,0.182857143
+Black pepper,2008,Rabi       ,Meghalaya,884.0,462,3114.3,126447.36,79.56,0.514285714
+Black pepper,2008,Whole Year ,Tamil Nadu,3122.0,716,1201.9,446570.88,280.98,0.155
+Black pepper,2009,Kharif     ,Puducherry,12.0,8,1434.5875,1869.84,2.04,0.67
+Black pepper,2009,Whole Year ,Assam,2967.0,4398,1727.1,462317.94,504.39,1.577777778
+Black pepper,2009,Whole Year ,Karnataka,19706.0,73143,1321.0,3070588.92,3350.02,3.701538462
+Black pepper,2009,Whole Year ,Kerala,171489.0,42460,2821.5,26721415.98,29153.13,0.190714286
+Black pepper,2009,Whole Year ,Meghalaya,890.0,461,2995.9,138679.8,151.3,0.505714286
+Black pepper,2009,Whole Year ,Tamil Nadu,2790.0,643,928.5,434737.8,474.3,0.153846154
+Black pepper,2010,Kharif     ,Puducherry,11.0,6,1434.5875,1827.21,2.64,0.55
+Black pepper,2010,Whole Year ,Assam,3041.0,4589,2578.5,505140.51,729.84,1.612222222
+Black pepper,2010,Whole Year ,Karnataka,21061.0,12717,1317.7,3498442.71,5054.64,0.580769231
+Black pepper,2010,Whole Year ,Kerala,172181.55,45267,3131.8,28601077.27,41323.572,0.180714286
+Black pepper,2010,Whole Year ,Meghalaya,889.0,465,3119.7,147671.79,213.36,0.52
+Black pepper,2011,Kharif     ,Puducherry,11.0,5,1434.5875,1842.72,3.63,0.45
+Black pepper,2011,Whole Year ,Assam,3647.0,5198,1743.4,610945.44,1203.51,1.597777778
+Black pepper,2011,Whole Year ,Karnataka,21701.0,6148,1178.986364,3635351.52,7161.33,0.296923077
+Black pepper,2011,Whole Year ,Kerala,85335.38,37501,3035.1,14295382.86,28160.6754,0.369285714
+Black pepper,2011,Whole Year ,Meghalaya,911.0,493,4083.104545,152610.72,300.63,0.537142857
+Black pepper,2011,Whole Year ,Tamil Nadu,3767.0,856,926.5,631047.84,1243.11,0.174285714
+Black pepper,2012,Whole Year ,Assam,3531.0,5541,2167.5,532474.8,1094.61,1.682962963
+Black pepper,2012,Whole Year ,Karnataka,26837.0,76040,956.2,4047019.6,8319.47,2.986
+Black pepper,2012,Whole Year ,Kerala,84707.0,46298,2187.6,12773815.6,26259.17,0.391428571
+Black pepper,2012,Whole Year ,Meghalaya,950.0,665,2945.3,143260.0,294.5,0.697142857
+Black pepper,2013,Kharif     ,Andhra Pradesh,4.0,3,1062.3,577.96,1.08,0.75
+Black pepper,2013,Whole Year ,Assam,3520.0,6083,1797.7,508604.8,950.4,1.721851852
+Black pepper,2013,Whole Year ,Goa,737.0,234,3642.6,106489.13,198.99,0.315
+Black pepper,2013,Whole Year ,Karnataka,27958.0,69460,1235.6,4039651.42,7548.66,2.561176471
+Black pepper,2013,Whole Year ,Kerala,84065.0,29408,3255.4,12146551.85,22697.55,0.352142857
+Black pepper,2013,Whole Year ,Meghalaya,967.0,681,2448.4,139721.83,261.09,0.681818182
+Black pepper,2013,Whole Year ,Tamil Nadu,3918.0,860,740.9,566111.82,1057.86,0.184166667
+Black pepper,2014,Whole Year ,Assam,3528.0,5898,1899.0,532586.88,1164.24,1.728148148
+Black pepper,2014,Whole Year ,Goa,764.0,244,3491.2,115333.44,252.12,0.32
+Black pepper,2014,Whole Year ,Karnataka,32665.0,19188,1238.5,4931108.4,10779.45,0.58375
+Black pepper,2014,Whole Year ,Kerala,85431.0,40690,3046.4,12896663.76,28192.23,0.382857143
+Black pepper,2014,Whole Year ,Meghalaya,980.0,705,3484.4,147940.8,323.4,0.710909091
+Black pepper,2014,Whole Year ,Tamil Nadu,3997.0,898,911.3,603387.12,1319.01,0.186666667
+Black pepper,2015,Whole Year ,Assam,3302.0,6025,2155.3,521418.82,1089.66,1.785925926
+Black pepper,2015,Rabi       ,Meghalaya,999.0,737,3870.8,157752.09,329.67,0.748181818
+Black pepper,2015,Whole Year ,Goa,783.0,258,2587.1,123643.53,258.39,0.325
+Black pepper,2015,Whole Year ,Karnataka,34990.0,26773,1024.9,5525270.9,11546.7,0.796
+Black pepper,2015,Whole Year ,Kerala,85947.77,42132,2602.9,13572012.36,28362.7641,0.354285714
+Black pepper,2015,Whole Year ,Tamil Nadu,4349.0,974,1201.9,686750.59,1435.17,0.173076923
+Black pepper,2016,Kharif     ,Puducherry,10.0,18,1391.3,1532.5,3.5,1.8
+Black pepper,2016,Whole Year ,Assam,3376.0,7069,2296.8,517372.0,1181.6,1.996296296
+Black pepper,2016,Rabi       ,Meghalaya,1013.0,757,3837.1,155242.25,354.55,0.755454545
+Black pepper,2016,Whole Year ,Goa,777.0,282,3266.9,119075.25,271.95,0.365
+Black pepper,2016,Whole Year ,Karnataka,37746.0,22879,1147.2,5784574.5,13211.1,0.618823529
+Black pepper,2016,Whole Year ,Kerala,85207.0,34065,2924.3,13057972.75,29822.45,0.35
+Black pepper,2016,Whole Year ,Tamil Nadu,4908.0,1075,912.4,752151.0,1717.8,0.150625
+Black pepper,2017,Kharif     ,Puducherry,10.0,18,1582.4,1574.4,3.8,1.8
+Black pepper,2017,Whole Year ,Assam,3458.0,7622,2098.563636,544427.52,1314.04,2.112592593
+Black pepper,2017,Rabi       ,Meghalaya,1025.0,770,4472.3,161376.0,389.5,0.76
+Black pepper,2017,Whole Year ,Goa,794.0,324,2772.5,125007.36,301.72,0.41
+Black pepper,2017,Whole Year ,Karnataka,41381.0,27177,1111.7,6515024.64,15724.78,0.684
+Black pepper,2017,Whole Year ,Kerala,85141.0,37955,2664.8,13404599.04,32353.58,0.335
+Black pepper,2017,Whole Year ,Tamil Nadu,5265.0,1149,970.9,828921.6,2000.7,0.163125
+Black pepper,2018,Kharif     ,Puducherry,11.0,15,1693.9,1784.2,3.85,1.36
+Black pepper,2018,Whole Year ,Assam,3388.0,7476,2372.9,549533.6,1185.8,2.131111111
+Black pepper,2018,Rabi       ,Meghalaya,1036.0,781,5649.1,168039.2,362.6,0.760909091
+Black pepper,2018,Whole Year ,Goa,849.0,346,4406.0,137707.8,297.15,0.405
+Black pepper,2018,Whole Year ,Karnataka,148379.0,94144,1419.1,24067073.8,51932.65,0.5975
+Black pepper,2018,Whole Year ,Kerala,82761.41,36777,2989.7,13423900.7,28966.4935,0.328571429
+Black pepper,2018,Whole Year ,Tamil Nadu,5571.0,1176,986.2,903616.2,1949.85,0.16
+Black pepper,2019,Whole Year ,Andhra Pradesh,17645.0,17645,899.2,3030705.2,6528.65,1.0
+Black pepper,2019,Kharif     ,Puducherry,11.0,15,1317.0,1889.36,4.07,1.36
+Black pepper,2019,Whole Year ,Assam,3410.0,7664,2084.7,585701.6,1261.7,2.28962963
+Black pepper,2019,Rabi       ,Meghalaya,1046.0,791,3844.4,179660.96,387.02,0.764545455
+Black pepper,2019,Whole Year ,Goa,843.0,315,4489.5,144793.68,311.91,0.37
+Black pepper,2019,Whole Year ,Karnataka,160774.0,63026,1422.3,27614542.24,59486.38,0.394705882
+Black pepper,2019,Whole Year ,Kerala,83765.0,34545,3119.2,14387476.4,30993.05,0.327142857
+Black pepper,2019,Whole Year ,Tamil Nadu,6080.0,1306,910.1,1044300.8,2249.6,0.175555556
+Black pepper,1998,Whole Year ,Tamil Nadu,2633.0,520,1077.1,260140.4,763.57,0.212222222
+Black pepper,1999,Whole Year ,Karnataka,6633.0,16012,1203.8,703960.29,1790.91,2.285833333
+Black pepper,1999,Whole Year ,Tamil Nadu,563.0,122,922.8,59751.19,152.01,0.167142857
+Black pepper,2000,Whole Year ,Tamil Nadu,1640.0,449,971.1,160998.8,426.4,0.184285714
+Black pepper,2002,Whole Year ,Karnataka,10414.0,23178,860.8,985893.38,2603.5,2.213076923
+Black pepper,2002,Whole Year ,Puducherry,12.0,8,1434.5875,1136.04,3.0,0.67
+Black pepper,2004,Whole Year ,Puducherry,12.0,7,1434.5875,1300.08,2.52,0.58
+Black pepper,2005,Whole Year ,Puducherry,12.0,7,1434.5875,1439.04,2.52,0.58
+Black pepper,2004,Whole Year ,Goa,589.0,98,2518.0,63812.26,123.69,0.165
+Black pepper,2005,Whole Year ,Goa,626.0,137,3392.8,75069.92,131.46,0.22
+Black pepper,2006,Whole Year ,Goa,648.0,169,2928.8,82756.08,142.56,0.26
+Black pepper,2007,Whole Year ,Goa,666.0,208,3674.7,88844.4,106.56,0.31

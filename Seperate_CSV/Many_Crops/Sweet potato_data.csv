@@ -1,0 +1,274 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Sweet potato,1997,Whole Year ,Assam,9380.0,32618,2051.4,892694.6,2907.8,3.440434783
+Sweet potato,1997,Whole Year ,Meghalaya,5212.0,16978,3818.2,496026.04,1615.72,3.221428571
+Sweet potato,1998,Whole Year ,Assam,9433.0,32437,2354.4,931980.4,2735.57,3.435652174
+Sweet potato,1998,Whole Year ,Kerala,1099.0,11924,3151.5,108581.2,318.71,11.718
+Sweet potato,1998,Whole Year ,Meghalaya,5181.0,17291,6552.7,511882.8,1502.49,3.302857143
+Sweet potato,1999,Whole Year ,Assam,8955.0,30979,2201.8,950394.15,2417.85,3.409130435
+Sweet potato,1999,Whole Year ,Kerala,989.0,10698,2914.6,104962.57,267.03,11.79636364
+Sweet potato,1999,Whole Year ,Meghalaya,5220.0,17591,6200.3,553998.6,1409.4,3.415714286
+Sweet potato,2000,Whole Year ,Andhra Pradesh,1938.0,25467,935.6,190253.46,503.88,13.93277778
+Sweet potato,2000,Whole Year ,Assam,8757.0,30351,1965.5,859674.69,2276.82,3.435217391
+Sweet potato,2000,Whole Year ,Karnataka,3501.0,25771,1213.3,343693.17,910.26,6.222142857
+Sweet potato,2000,Whole Year ,Kerala,816.0,8963,2412.6,80106.72,212.16,11.46615385
+Sweet potato,2000,Whole Year ,Meghalaya,5143.0,17363,6258.8,504888.31,1337.18,3.431428571
+Sweet potato,2001,Whole Year ,Andhra Pradesh,1945.0,25810,928.4,198642.85,505.7,14.05764706
+Sweet potato,2001,Whole Year ,Assam,8343.0,28665,1824.7,852070.59,2169.18,3.326956522
+Sweet potato,2001,Whole Year ,Kerala,747.0,8672,2946.7,76291.11,194.22,11.49153846
+Sweet potato,2001,Whole Year ,Meghalaya,4942.0,16627,4241.0,504726.46,1284.92,3.447142857
+Sweet potato,2002,Whole Year ,Andhra Pradesh,1286.0,13380,648.1,121745.62,321.5,11.29588235
+Sweet potato,2002,Whole Year ,Assam,8243.0,28460,1973.6,780364.81,2060.75,3.405652174
+Sweet potato,2002,Whole Year ,Kerala,850.0,10463,2511.2,80469.5,212.5,11.46928571
+Sweet potato,2002,Whole Year ,Tamil Nadu,814.0,11121,315.9,77061.38,203.5,13.8292
+Sweet potato,2003,Whole Year ,Andhra Pradesh,1263.0,9130,826.0,125011.74,303.12,7.32
+Sweet potato,2003,Whole Year ,Assam,8194.0,28384,2213.7,811042.12,1966.56,3.412173913
+Sweet potato,2003,Whole Year ,Karnataka,3580.0,28718,867.6,354348.4,859.2,6.229333333
+Sweet potato,2003,Whole Year ,Kerala,1002.0,11981,2386.0,99177.96,240.48,11.52307692
+Sweet potato,2003,Whole Year ,Meghalaya,4853.0,16016,3321.3,480349.94,1164.72,3.395714286
+Sweet potato,2003,Whole Year ,Tamil Nadu,1039.0,15049,345.6,102840.22,249.36,14.55
+Sweet potato,2004,Whole Year ,Karnataka,3583.0,29199,1117.7,388182.22,752.43,6.102142857
+Sweet potato,2004,Whole Year ,Kerala,836.0,10013,2880.2,90572.24,175.56,11.52769231
+Sweet potato,2004,Kharif     ,Meghalaya,4974.0,16172,4767.9,538883.16,1044.54,3.352857143
+Sweet potato,2004,Whole Year ,Meghalaya,4974.0,16172,4767.9,538883.16,1044.54,3.352857143
+Sweet potato,2004,Whole Year ,Tamil Nadu,1397.0,21118,1034.0,151350.98,293.37,14.9992
+Sweet potato,2005,Whole Year ,Andhra Pradesh,1085.0,8726,1075.5,130113.2,227.85,8.547777778
+Sweet potato,2005,Whole Year ,Assam,7269.0,25858,2184.6,871698.48,1526.49,3.405555556
+Sweet potato,2005,Whole Year ,Karnataka,3356.0,27360,1316.2,402451.52,704.76,6.076153846
+Sweet potato,2005,Whole Year ,Kerala,711.0,9013,3030.9,85263.12,149.31,11.48692308
+Sweet potato,2005,Whole Year ,Meghalaya,4975.0,16270,3374.4,596602.0,1044.75,3.391428571
+Sweet potato,2005,Whole Year ,Tamil Nadu,1417.0,29555,1364.1,169926.64,297.57,20.8868
+Sweet potato,2006,Rabi       ,Meghalaya,4947.0,16406,2454.7,631781.37,1088.34,3.238571429
+Sweet potato,2006,Whole Year ,Andhra Pradesh,997.0,8608,845.2,127326.87,219.34,8.821764706
+Sweet potato,2006,Whole Year ,Assam,8112.0,28443,1774.9,1035983.52,1784.64,3.406666667
+Sweet potato,2006,Whole Year ,Karnataka,3014.0,25028,1146.3,384917.94,663.08,6.240714286
+Sweet potato,2006,Whole Year ,Kerala,505.0,6405,3429.7,64493.55,111.1,11.50071429
+Sweet potato,2006,Whole Year ,Tamil Nadu,1127.0,18933,927.9,143929.17,247.94,17.74740741
+Sweet potato,2007,Rabi       ,Puducherry,1.0,1,1434.5875,133.4,0.16,1.0
+Sweet potato,2007,Whole Year ,Assam,6918.0,24301,2154.1,922861.2,1106.88,3.395925926
+Sweet potato,2007,Whole Year ,Karnataka,2887.0,24141,1323.3,385125.8,461.92,6.37625
+Sweet potato,2007,Whole Year ,Kerala,499.0,6343,3489.6,66566.6,79.84,11.49785714
+Sweet potato,2007,Whole Year ,Tamil Nadu,1088.0,14780,1067.2,145139.2,174.08,13.7055
+Sweet potato,2008,Rabi       ,Puducherry,1.0,1,1434.5875,143.04,0.09,1.0
+Sweet potato,2008,Whole Year ,Andhra Pradesh,903.0,9863,944.6,129165.12,81.27,8.952142857
+Sweet potato,2008,Whole Year ,Assam,6338.0,22341,2109.9,906587.52,570.42,3.421481481
+Sweet potato,2008,Whole Year ,Karnataka,2592.0,26230,1164.1,370759.68,233.28,10.14066667
+Sweet potato,2008,Whole Year ,Kerala,386.0,4827,2524.8,55213.44,34.74,11.5
+Sweet potato,2008,Whole Year ,Meghalaya,4895.0,15909,3114.3,700180.8,440.55,3.648571429
+Sweet potato,2008,Whole Year ,Tamil Nadu,658.0,8743,1201.9,94120.32,59.22,13.52565217
+Sweet potato,2009,Kharif     ,Puducherry,1.0,0,1434.5875,155.82,0.17,0.0
+Sweet potato,2009,Whole Year ,Andhra Pradesh,886.0,6781,711.0,138056.52,150.62,7.28625
+Sweet potato,2009,Whole Year ,Assam,6806.0,23969,1727.1,1060510.92,1157.02,3.410740741
+Sweet potato,2009,Whole Year ,Karnataka,2397.0,15751,1321.0,373500.54,407.49,6.936666667
+Sweet potato,2009,Whole Year ,Kerala,399.0,4575,2821.5,62172.18,67.83,11.49857143
+Sweet potato,2009,Kharif     ,Meghalaya,4398.0,14053,2995.9,685296.36,747.66,3.611428571
+Sweet potato,2009,Whole Year ,Tamil Nadu,778.0,11381,928.5,121227.96,132.26,14.6992
+Sweet potato,2010,Kharif     ,Puducherry,1.0,8,1434.5875,166.11,0.24,8.0
+Sweet potato,2010,Whole Year ,Assam,6186.0,21378,2578.5,1027556.46,1484.64,3.412592593
+Sweet potato,2010,Whole Year ,Andhra Pradesh,850.0,10887,1297.0,141193.5,204.0,12.70642857
+Sweet potato,2010,Whole Year ,Karnataka,2060.0,16977,1317.7,342186.6,494.4,8.400666667
+Sweet potato,2010,Kharif     ,Meghalaya,4133.0,13241,3119.7,686532.63,991.92,3.584285714
+Sweet potato,2011,Whole Year ,Assam,6558.0,25769,1743.4,1098596.16,2164.14,4.177777778
+Sweet potato,2011,Whole Year ,Andhra Pradesh,980.0,12599,861.9,164169.6,323.4,12.91733333
+Sweet potato,2011,Whole Year ,Karnataka,1836.0,26754,1178.986364,307566.72,605.88,14.10642857
+Sweet potato,2011,Kharif     ,Meghalaya,4164.0,13701,4083.104545,697553.28,1374.12,3.63
+Sweet potato,2011,Whole Year ,Tamil Nadu,390.0,7991,926.5,65332.8,128.7,20.57238095
+Sweet potato,2012,Kharif     ,Andhra Pradesh,131.0,1341,968.7,19754.8,40.61,10.002
+Sweet potato,2012,Rabi       ,Andhra Pradesh,650.0,6257,968.7,98020.0,201.5,9.615454545
+Sweet potato,2012,Whole Year ,Assam,6277.0,25955,2167.5,946571.6,1945.87,4.54037037
+Sweet potato,2012,Whole Year ,Karnataka,3450.0,53516,956.2,520260.0,1069.5,14.994375
+Sweet potato,2012,Whole Year ,Kerala,282.0,4780,2187.6,42525.6,87.42,13.72230769
+Sweet potato,2012,Kharif     ,Meghalaya,4438.0,15063,2945.3,669250.4,1375.78,3.745714286
+Sweet potato,2013,Kharif     ,Andhra Pradesh,170.0,1660,1062.3,24563.3,45.9,9.261666667
+Sweet potato,2013,Rabi       ,Andhra Pradesh,616.0,6049,1062.3,89005.84,166.32,9.127777778
+Sweet potato,2013,Whole Year ,Assam,6046.0,30513,1797.7,873586.54,1632.42,5.091481481
+Sweet potato,2013,Whole Year ,Karnataka,3125.0,45861,1235.6,451531.25,843.75,13.866
+Sweet potato,2013,Whole Year ,Kerala,330.0,5451,3255.4,47681.7,89.1,14.14285714
+Sweet potato,2013,Kharif     ,Meghalaya,4480.0,15644,2448.4,647315.2,1209.6,3.626363636
+Sweet potato,2013,Whole Year ,Tamil Nadu,592.0,12496,740.9,85538.08,159.84,22.102
+Sweet potato,2014,Kharif     ,Andhra Pradesh,103.0,1146,687.6,15548.88,33.99,10.885
+Sweet potato,2014,Rabi       ,Andhra Pradesh,674.0,7428,687.6,101747.04,222.42,10.783
+Sweet potato,2014,Whole Year ,Assam,6213.0,32858,1899.0,937914.48,2050.29,5.173333333
+Sweet potato,2014,Whole Year ,Karnataka,3385.0,57413,1238.5,510999.6,1117.05,16.24142857
+Sweet potato,2014,Whole Year ,Kerala,361.0,5123,3046.4,54496.56,119.13,13.18642857
+Sweet potato,2014,Kharif     ,Meghalaya,4526.0,16133,3484.4,683244.96,1493.58,3.670909091
+Sweet potato,2014,Whole Year ,Tamil Nadu,631.0,11094,911.3,95255.76,208.23,17.51894737
+Sweet potato,2015,Kharif     ,Andhra Pradesh,135.0,1310,940.7,21317.85,44.55,11.0375
+Sweet potato,2015,Rabi       ,Andhra Pradesh,457.0,5575,940.7,72164.87,150.81,11.82090909
+Sweet potato,2015,Kharif     ,Puducherry,5.0,73,1980.6,789.55,1.65,14.6
+Sweet potato,2015,Rabi       ,Puducherry,3.0,34,1980.6,473.73,0.99,11.33
+Sweet potato,2015,Whole Year ,Assam,5436.0,29339,2155.3,858398.76,1793.88,5.399259259
+Sweet potato,2015,Kharif     ,Meghalaya,4549.0,16421,3870.8,718332.59,1501.17,3.741818182
+Sweet potato,2015,Whole Year ,Karnataka,3207.0,50994,1024.9,506417.37,1058.31,14.82866667
+Sweet potato,2015,Whole Year ,Kerala,279.0,3922,2602.9,44056.89,92.07,13.18642857
+Sweet potato,2015,Whole Year ,Tamil Nadu,586.0,9536,1201.9,92535.26,193.38,17.21473684
+Sweet potato,2016,Kharif     ,Andhra Pradesh,149.0,2262,890.0,22834.25,52.15,14.88166667
+Sweet potato,2016,Rabi       ,Andhra Pradesh,484.0,7431,890.0,74173.0,169.4,15.741
+Sweet potato,2016,Kharif     ,Puducherry,6.0,60,1391.3,919.5,2.1,10.0
+Sweet potato,2016,Whole Year ,Assam,5254.0,28584,2296.8,805175.5,1838.9,5.516296296
+Sweet potato,2016,Kharif     ,Meghalaya,4667.0,15534,3837.1,715217.75,1633.45,3.69
+Sweet potato,2016,Whole Year ,Goa,52.0,164,3266.9,7969.0,18.2,3.2
+Sweet potato,2016,Whole Year ,Karnataka,3079.0,36908,1147.2,471856.75,1077.65,11.27153846
+Sweet potato,2016,Whole Year ,Kerala,220.0,3086,2924.3,33715.0,77.0,13.35923077
+Sweet potato,2016,Whole Year ,Tamil Nadu,283.0,2623,912.4,43369.75,99.05,9.951052632
+Sweet potato,2017,Kharif     ,Andhra Pradesh,188.0,2360,868.2,29598.72,71.44,12.68571429
+Sweet potato,2017,Rabi       ,Andhra Pradesh,513.0,6015,868.2,80766.72,194.94,11.86
+Sweet potato,2017,Kharif     ,Puducherry,7.0,35,1582.4,1102.08,2.66,5.0
+Sweet potato,2017,Rabi       ,Puducherry,1.0,8,1582.4,157.44,0.38,8.0
+Sweet potato,2017,Whole Year ,Assam,5303.0,29199,2098.563636,834904.32,2015.14,5.514814815
+Sweet potato,2017,Kharif     ,Meghalaya,4712.0,15751,4472.3,741857.28,1790.56,3.694545455
+Sweet potato,2017,Whole Year ,Goa,55.0,116,2772.5,8659.2,20.9,2.41
+Sweet potato,2017,Whole Year ,Karnataka,2766.0,35891,1111.7,435479.04,1051.08,12.25
+Sweet potato,2017,Whole Year ,Kerala,295.0,4277,2664.8,46444.8,112.1,13.17785714
+Sweet potato,2017,Whole Year ,Tamil Nadu,302.0,7946,970.9,47546.88,114.76,26.33944444
+Sweet potato,2018,Kharif     ,Andhra Pradesh,91.0,1476,1220.5,14760.2,31.85,17.15
+Sweet potato,2018,Rabi       ,Andhra Pradesh,418.0,8479,1220.5,67799.6,146.3,18.64777778
+Sweet potato,2018,Kharif     ,Puducherry,3.0,24,1693.9,486.6,1.05,8.0
+Sweet potato,2018,Whole Year ,Assam,5020.0,26342,2372.9,814244.0,1757.0,5.694814815
+Sweet potato,2018,Kharif     ,Meghalaya,4723.0,15796,5649.1,766070.6,1653.05,3.697272727
+Sweet potato,2018,Whole Year ,Goa,55.0,116,4406.0,8921.0,19.25,2.285
+Sweet potato,2018,Whole Year ,Karnataka,5032.0,73050,1419.1,816190.4,1761.2,14.20703704
+Sweet potato,2018,Whole Year ,Kerala,210.41,3059,2989.7,34128.502,73.6435,13.17714286
+Sweet potato,2018,Whole Year ,Tamil Nadu,328.0,8848,986.2,53201.6,114.8,25.31238095
+Sweet potato,2019,Kharif     ,Andhra Pradesh,54.0,895,899.2,9275.04,19.98,18.038
+Sweet potato,2019,Rabi       ,Andhra Pradesh,360.0,6271,899.2,61833.6,133.2,16.747
+Sweet potato,2019,Kharif     ,Puducherry,5.0,45,1317.0,858.8,1.85,9.0
+Sweet potato,2019,Rabi       ,Puducherry,1.0,9,1317.0,171.76,0.37,9.0
+Sweet potato,2019,Whole Year ,Assam,4926.0,25640,2084.7,846089.76,1822.62,5.578518519
+Sweet potato,2019,Kharif     ,Meghalaya,4734.0,15842,3844.4,813111.84,1751.58,3.699090909
+Sweet potato,2019,Whole Year ,Goa,66.0,164,4489.5,11336.16,24.42,2.53
+Sweet potato,2019,Whole Year ,Karnataka,5105.0,98495,1422.3,876834.8,1888.85,18.80518519
+Sweet potato,2019,Whole Year ,Kerala,194.0,2782,3119.2,33321.44,71.78,13.1125
+Sweet potato,2019,Whole Year ,Tamil Nadu,585.0,14383,910.1,100479.6,216.45,23.39619048
+Sweet potato,1997,Whole Year ,Bihar,14114.0,186123,1303.7,1343229.38,4375.34,13.03461538
+Sweet potato,1998,Whole Year ,Bihar,17925.0,193770,1332.5,1770990.0,5198.25,11.04475
+Sweet potato,1998,Whole Year ,Haryana,88.0,1500,687.6,8694.4,25.52,14.696
+Sweet potato,1998,Whole Year ,Tamil Nadu,718.0,12462,1077.1,70938.4,208.22,17.78736842
+Sweet potato,1999,Whole Year ,Bihar,5804.0,79132,1402.7,615978.52,1567.08,13.63172414
+Sweet potato,1999,Whole Year ,Karnataka,2833.0,21648,1203.8,300666.29,764.91,6.267857143
+Sweet potato,1999,Whole Year ,Madhya Pradesh,6591.0,40325,1222.9,699502.83,1779.57,6.262241379
+Sweet potato,1999,Kharif     ,Odisha,34100.0,292450,1484.3,3619033.0,9207.0,8.429642857
+Sweet potato,1999,Rabi       ,Odisha,9780.0,68770,1484.3,1037951.4,2640.6,7.766153846
+Sweet potato,1999,Whole Year ,Tamil Nadu,1860.0,22519,922.8,197401.8,502.2,12.04052632
+Sweet potato,2000,Whole Year ,Bihar,5009.0,60707,1207.0,491733.53,1302.34,12.08833333
+Sweet potato,2000,Whole Year ,Chhattisgarh,2870.0,16869,896.4,281747.9,746.2,5.77875
+Sweet potato,2000,Whole Year ,Haryana,120.0,2500,383.7,11780.4,31.2,19.48
+Sweet potato,2000,Whole Year ,Odisha,37670.0,272050,1066.0,3698063.9,9794.2,7.797666667
+Sweet potato,2000,Whole Year ,Tamil Nadu,916.0,10581,971.1,89923.72,238.16,11.92647059
+Sweet potato,2001,Whole Year ,Bihar,4981.0,56979,1247.0,508709.53,1295.06,11.255
+Sweet potato,2001,Whole Year ,Chhattisgarh,2402.0,14001,1550.0,245316.26,624.52,5.834375
+Sweet potato,2001,Whole Year ,Haryana,89.0,0,483.8,9089.57,23.14,0.0
+Sweet potato,2001,Whole Year ,Himachal Pradesh,102.0,0,918.1,10417.26,26.52,0.0
+Sweet potato,2001,Whole Year ,Madhya Pradesh,3707.0,21068,955.0,378595.91,963.82,5.656818182
+Sweet potato,2001,Whole Year ,Odisha,38480.0,312850,1672.5,3929962.4,10004.8,8.193666667
+Sweet potato,2002,Whole Year ,Bihar,5000.0,66772,1105.8,473350.0,1250.0,12.524
+Sweet potato,2002,Whole Year ,Chhattisgarh,2585.0,14824,1001.4,244721.95,646.25,5.37
+Sweet potato,2002,Whole Year ,Haryana,47.0,900,353.9,4449.49,11.75,13.98166667
+Sweet potato,2002,Whole Year ,Karnataka,3390.0,26917,860.8,320931.3,847.5,6.286
+Sweet potato,2002,Whole Year ,Madhya Pradesh,3757.0,21287,800.8,355675.19,939.25,5.559555556
+Sweet potato,2002,Whole Year ,Meghalaya,4953.0,16412,4355.3,468900.51,1238.25,3.42
+Sweet potato,2002,Whole Year ,Odisha,46890.0,384260,1102.8,4439076.3,11722.5,8.228666667
+Sweet potato,2003,Whole Year ,Bihar,4551.0,63938,1353.9,450457.98,1092.24,12.97965517
+Sweet potato,2003,Whole Year ,Chhattisgarh,2665.0,15235,1643.7,263781.7,639.6,5.71625
+Sweet potato,2003,Whole Year ,Haryana,77.0,1600,592.3,7621.46,18.48,16.482
+Sweet potato,2003,Whole Year ,Madhya Pradesh,3821.0,21742,1163.0,378202.58,917.04,5.932173913
+Sweet potato,2003,Whole Year ,Manipur,102.0,673,687.7,10095.96,24.48,6.59
+Sweet potato,2003,Whole Year ,Odisha,47030.0,393560,1648.2,4655029.4,11287.2,8.454333333
+Sweet potato,2004,Whole Year ,Andhra Pradesh,1193.0,7829,781.8,129249.62,250.53,6.883157895
+Sweet potato,2004,Whole Year ,Assam,8026.0,28030,2536.9,869536.84,1685.46,3.406956522
+Sweet potato,2004,Whole Year ,Bihar,4279.0,64343,1147.8,463586.86,898.59,13.32516129
+Sweet potato,2004,Whole Year ,Chhattisgarh,2707.0,14673,1122.8,293276.38,568.47,5.37875
+Sweet potato,2004,Whole Year ,Haryana,75.0,1500,484.6,8125.5,15.75,18.602
+Sweet potato,2004,Whole Year ,Madhya Pradesh,4172.0,24117,895.7,451994.48,876.12,5.938913043
+Sweet potato,2005,Whole Year ,Bihar,4397.0,68398,907.8,527288.24,923.37,15.47413793
+Sweet potato,2005,Whole Year ,Chhattisgarh,2700.0,15487,1292.7,323784.0,567.0,5.54375
+Sweet potato,2005,Whole Year ,Haryana,127.0,2400,516.9,15229.84,26.67,15.14333333
+Sweet potato,2005,Whole Year ,Madhya Pradesh,4171.0,22869,1032.7,500186.32,875.91,5.701086957
+Sweet potato,2006,Whole Year ,Chhattisgarh,2683.0,15607,1317.2,342645.93,590.26,5.116666667
+Sweet potato,2006,Whole Year ,Haryana,19.0,400,329.3,2426.49,4.18,12.6975
+Sweet potato,2006,Whole Year ,Madhya Pradesh,4070.0,22633,1072.3,519779.7,895.4,5.947173913
+Sweet potato,2006,Kharif     ,Uttar Pradesh,18853.0,257323,590.5,2407716.63,4147.66,13.64421875
+Sweet potato,2007,Whole Year ,Bihar,3741.0,49649,1600.2,499049.4,598.56,13.45586207
+Sweet potato,2007,Whole Year ,Chhattisgarh,2671.0,15681,1246.2,356311.4,427.36,5.865
+Sweet potato,2007,Whole Year ,Haryana,65.0,1200,443.8,8671.0,10.4,12.7775
+Sweet potato,2007,Whole Year ,Madhya Pradesh,3752.0,20560,740.4,500516.8,600.32,5.65173913
+Sweet potato,2007,Kharif     ,Uttar Pradesh,18424.0,248042,672.9,2457761.6,2947.84,13.46731343
+Sweet potato,2008,Kharif     ,Bihar,2437.0,33058,1197.7,348588.48,219.33,13.83166667
+Sweet potato,2008,Rabi       ,Bihar,1324.0,19474,1197.7,189384.96,119.16,13.97842105
+Sweet potato,2008,Whole Year ,Chhattisgarh,2683.0,14161,1117.9,383776.32,241.47,5.593888889
+Sweet potato,2008,Whole Year ,Haryana,83.0,1500,715.6,11872.32,7.47,12.0625
+Sweet potato,2008,Whole Year ,Madhya Pradesh,3584.0,20770,895.0,512655.36,322.56,5.977446809
+Sweet potato,2008,Kharif     ,Uttar Pradesh,18376.0,225694,891.6,2628503.04,1653.84,12.27537313
+Sweet potato,2009,Whole Year ,Chhattisgarh,2793.0,15042,956.9,435205.26,474.81,5.366470588
+Sweet potato,2009,Whole Year ,Haryana,59.0,1100,393.0,9193.38,10.03,13.7
+Sweet potato,2009,Kharif     ,Uttar Pradesh,16758.0,227909,585.8,2611231.56,2848.86,13.61098592
+Sweet potato,2009,Whole Year ,Madhya Pradesh,3497.0,20803,904.1,544902.54,594.49,6.02
+Sweet potato,2010,Whole Year ,Chhattisgarh,2784.0,14038,1283.1,462450.24,668.16,5.319411765
+Sweet potato,2010,Whole Year ,Haryana,64.0,0,639.2,10631.04,15.36,0.0
+Sweet potato,2010,Whole Year ,Madhya Pradesh,4278.0,17770,856.3,710618.58,1026.72,4.420208333
+Sweet potato,2010,Kharif     ,Uttar Pradesh,16779.0,206633,742.6,2787159.69,4026.96,12.29888889
+Sweet potato,2011,Whole Year ,Chhattisgarh,2933.0,14958,1302.7,491336.16,967.89,5.196666667
+Sweet potato,2011,Whole Year ,Haryana,37.0,0,471.5409091,6198.24,12.21,0.0
+Sweet potato,2011,Whole Year ,Madhya Pradesh,4924.0,22878,852.6,824868.48,1624.92,5.097111111
+Sweet potato,2011,Kharif     ,Nagaland,1150.0,9710,1544.354545,192648.0,379.5,8.441818182
+Sweet potato,2011,Kharif     ,Uttar Pradesh,17395.0,226031,777.4,2914010.4,5740.35,12.99478261
+Sweet potato,2012,Whole Year ,Chhattisgarh,2661.0,14888,1366.8,401278.8,824.91,5.426296296
+Sweet potato,2012,Whole Year ,Haryana,179.0,2300,307.9,26993.2,55.49,16.78333333
+Sweet potato,2012,Whole Year ,Madhya Pradesh,4647.0,26213,1049.5,700767.6,1440.57,5.939777778
+Sweet potato,2012,Kharif     ,Nagaland,1320.0,11230,1296.6,199056.0,409.2,8.500909091
+Sweet potato,2012,Kharif     ,Uttar Pradesh,16800.0,217506,746.3,2533440.0,5208.0,12.95046875
+Sweet potato,2013,Whole Year ,Chhattisgarh,3643.0,19396,1418.3,526377.07,983.61,5.608461538
+Sweet potato,2013,Whole Year ,Madhya Pradesh,4776.0,30914,1451.4,690084.24,1289.52,6.665744681
+Sweet potato,2013,Kharif     ,Nagaland,1490.0,12680,1350.9,215290.1,402.3,8.509090909
+Sweet potato,2013,Whole Year ,Telangana,109.0,742,1348.7,15749.41,29.43,7.57
+Sweet potato,2013,Kharif     ,Uttar Pradesh,16170.0,213687,995.2,2336403.3,4365.9,13.21790323
+Sweet potato,2014,Whole Year ,Chhattisgarh,2553.0,13977,1274.7,385400.88,842.49,5.429230769
+Sweet potato,2014,Kharif     ,Nagaland,1570.0,13370,1333.3,237007.2,518.1,8.514545455
+Sweet potato,2014,Kharif     ,Telangana,7.0,55,746.4,1056.72,2.31,7.9
+Sweet potato,2014,Rabi       ,Telangana,96.0,744,746.4,14492.16,31.68,7.745
+Sweet potato,2014,Kharif     ,Uttar Pradesh,16833.0,208515,616.4,2541109.68,5554.89,12.38789474
+Sweet potato,2015,Whole Year ,Chhattisgarh,2652.0,15570,1136.0,418777.32,875.16,5.950740741
+Sweet potato,2015,Whole Year ,Madhya Pradesh,3376.0,47063,1000.7,533104.16,1114.08,15.48923077
+Sweet potato,2015,Kharif     ,Nagaland,1640.0,13950,1308.3,258972.4,541.2,8.504545455
+Sweet potato,2015,Rabi       ,Telangana,87.0,1230,747.9,13738.17,28.71,13.3925
+Sweet potato,2015,Kharif     ,Uttar Pradesh,14069.0,169588,596.7,2221635.79,4642.77,12.04796296
+Sweet potato,2016,Whole Year ,Chhattisgarh,2443.0,13498,1298.9,374389.75,855.05,5.757083333
+Sweet potato,2016,Whole Year ,Madhya Pradesh,4432.2,63449,1048.4,679234.65,1551.27,17.19387097
+Sweet potato,2016,Kharif     ,Nagaland,1770.0,15070,1959.8,271252.5,619.5,8.512727273
+Sweet potato,2016,Rabi       ,Telangana,199.0,1672,942.6,30496.75,69.65,9.564
+Sweet potato,2016,Kharif     ,Uttar Pradesh,15682.0,175102,965.3,2403266.5,5488.7,11.15094595
+Sweet potato,2017,Whole Year ,Chhattisgarh,2511.0,14438,1124.5,395331.84,954.18,5.702083333
+Sweet potato,2017,Whole Year ,Madhya Pradesh,5196.15,78914,800.0,818081.856,1974.537,17.36147059
+Sweet potato,2017,Kharif     ,Nagaland,1800.0,15320,1722.1,283392.0,684.0,8.51
+Sweet potato,2017,Rabi       ,Telangana,199.0,1542,815.7,31330.56,75.62,7.776666667
+Sweet potato,2017,Kharif     ,Uttar Pradesh,16318.0,182201,652.1,2569105.92,6200.84,11.14457143
+Sweet potato,2018,Whole Year ,Chhattisgarh,2561.0,14514,1515.5,415394.2,896.35,4.819166667
+Sweet potato,2018,Whole Year ,Madhya Pradesh,5297.72,80333,1102.2,859290.184,1854.202,17.05294118
+Sweet potato,2018,Kharif     ,Nagaland,1840.0,15660,1372.7,298448.0,644.0,8.510909091
+Sweet potato,2018,Kharif     ,Telangana,6.0,38,1350.3,973.2,2.1,6.33
+Sweet potato,2018,Rabi       ,Telangana,83.0,527,1350.3,13462.6,29.05,6.35
+Sweet potato,2018,Kharif     ,Uttar Pradesh,15693.0,180243,792.8,2545404.6,5492.55,11.44955882
+Sweet potato,2019,Whole Year ,Chhattisgarh,1666.0,10107,1420.3,286152.16,616.42,6.238695652
+Sweet potato,2019,Whole Year ,Madhya Pradesh,5814.2,89432,1446.7,998646.992,2151.254,17.34657143
+Sweet potato,2019,Kharif     ,Nagaland,1880.0,16010,1593.0,322908.8,695.6,8.515454545
+Sweet potato,2019,Kharif     ,Odisha,36270.0,350740,1593.9,6229735.2,13419.9,9.507666667
+Sweet potato,2019,Rabi       ,Odisha,6610.0,59200,1593.9,1135333.6,2445.7,8.970909091
+Sweet potato,2019,Kharif     ,Telangana,15.0,235,1031.7,2576.4,5.55,15.76666667
+Sweet potato,2019,Rabi       ,Telangana,108.0,1693,1031.7,18550.08,39.96,15.6875
+Sweet potato,2019,Kharif     ,Uttar Pradesh,15852.0,186148,814.5,2722739.52,5865.24,11.75044118
+Sweet potato,2004,Whole Year ,Odisha,47112.0,394287,1290.4,5104114.08,9893.52,8.469666667
+Sweet potato,2004,Whole Year ,Uttar Pradesh,23096.0,257051,704.0,2502220.64,4850.16,11.46550725
+Sweet potato,2005,Whole Year ,Uttar Pradesh,20476.0,267901,751.9,2455481.92,4299.96,13.18318841
+Sweet potato,2012,Kharif     ,Puducherry,2.0,24,1098.3,301.6,0.62,12.0
+Sweet potato,2012,Rabi       ,Puducherry,2.0,18,1098.3,301.6,0.62,9.0
+Sweet potato,2013,Kharif     ,Puducherry,1.0,9,1083.2,144.49,0.27,9.0
+Sweet potato,2013,Rabi       ,Puducherry,1.0,10,1083.2,144.49,0.27,10.0
+Sweet potato,2014,Kharif     ,Puducherry,4.0,60,1330.0,603.84,1.32,15.0
+Sweet potato,2014,Rabi       ,Puducherry,2.0,23,1330.0,301.92,0.66,11.5
+Sweet potato,1998,Autumn     ,Manipur,50.0,180,1855.0,4940.0,14.5,3.6
+Sweet potato,1998,Rabi       ,Manipur,20.0,70,1855.0,1976.0,5.8,3.5
+Sweet potato,1998,Winter     ,Manipur,10.0,30,1855.0,988.0,2.9,3.0
+Sweet potato,2000,Whole Year ,Manipur,50.0,180,1969.7,4908.5,13.0,3.6
+Sweet potato,2001,Whole Year ,Manipur,10.0,40,2013.1,1021.3,2.6,4.0
+Sweet potato,2002,Whole Year ,Manipur,122.0,787,1743.7,11549.74,30.5,4.9025
+Sweet potato,2004,Whole Year ,Manipur,130.0,460,1613.3,14084.2,27.3,3.54
+Sweet potato,2007,Whole Year ,Manipur,450.0,1580,1435.7,60030.0,72.0,3.51

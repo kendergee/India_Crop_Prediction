@@ -1,0 +1,632 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Arhar/Tur,2008,Rabi       ,Jammu and Kashmir,22.0,12,1390.1,3146.88,1.98,0.55
+Barley,2008,Rabi       ,Jammu and Kashmir,9747.0,4724,1390.1,1394210.88,877.23,0.585
+Garlic,2008,Rabi       ,Jammu and Kashmir,604.0,516,1390.1,86396.16,54.36,0.825555556
+Gram,2008,Rabi       ,Jammu and Kashmir,284.0,155,1390.1,40623.36,25.56,0.545
+Linseed,2008,Rabi       ,Jammu and Kashmir,126.0,97,1390.1,18023.04,11.34,0.782
+Masoor,2008,Rabi       ,Jammu and Kashmir,81.0,38,1390.1,11586.24,7.29,0.496666667
+Onion,2008,Rabi       ,Jammu and Kashmir,383.0,932,1390.1,54784.32,34.47,2.4475
+Other  Rabi pulses,2008,Rabi       ,Jammu and Kashmir,351.0,147,1390.1,50207.04,31.59,0.456666667
+Peas & beans (Pulses),2008,Rabi       ,Jammu and Kashmir,1109.0,1116,1390.1,158631.36,99.81,0.893846154
+Potato,2008,Rabi       ,Jammu and Kashmir,934.0,9338,1390.1,133599.36,84.06,16.446
+Rapeseed &Mustard,2008,Rabi       ,Jammu and Kashmir,56623.0,50525,1390.1,8099353.92,5096.07,1.023684211
+Urad,2008,Rabi       ,Jammu and Kashmir,11.0,5,1390.1,1573.44,0.99,0.44
+Wheat,2008,Rabi       ,Jammu and Kashmir,274022.0,492140,1390.1,39196106.88,24661.98,1.435714286
+other oilseeds,2008,Rabi       ,Jammu and Kashmir,18.0,10,1390.1,2574.72,1.62,0.545
+Arhar/Tur,2010,Rabi       ,Jammu and Kashmir,2.0,1,1352.0,332.22,0.48,0.55
+Bajra,2010,Kharif     ,Jammu and Kashmir,16544.0,9881,1352.0,2748123.84,3970.56,0.605
+Barley,2010,Kharif     ,Jammu and Kashmir,102.0,30,1352.0,16943.22,24.48,0.31
+Barley,2010,Rabi       ,Jammu and Kashmir,8936.0,4917,1352.0,1484358.96,2144.64,0.7075
+Cotton(lint),2010,Kharif     ,Jammu and Kashmir,27.0,15,1352.0,4484.97,6.48,0.57
+Cowpea(Lobia),2010,Kharif     ,Jammu and Kashmir,762.0,382,1352.0,126575.82,182.88,0.5
+Cowpea(Lobia),2010,Rabi       ,Jammu and Kashmir,45.0,90,1352.0,7474.95,10.8,2.01
+Dry chillies,2010,Kharif     ,Jammu and Kashmir,551.0,540,1352.0,91526.61,132.24,0.992
+Garlic,2010,Kharif     ,Jammu and Kashmir,41.0,31,1352.0,6810.51,9.84,0.755
+Garlic,2010,Rabi       ,Jammu and Kashmir,562.0,490,1352.0,93353.82,134.88,0.854444444
+Ginger,2010,Kharif     ,Jammu and Kashmir,25.0,32,1352.0,4152.75,6.0,1.346666667
+Ginger,2010,Rabi       ,Jammu and Kashmir,2.0,2,1352.0,332.22,0.48,0.9
+Gram,2010,Rabi       ,Jammu and Kashmir,165.0,91,1352.0,27408.15,39.6,0.55
+Groundnut,2010,Kharif     ,Jammu and Kashmir,2.0,1,1352.0,332.22,0.48,0.65
+Horse-gram,2010,Kharif     ,Jammu and Kashmir,1006.0,312,1352.0,167106.66,241.44,0.345714286
+Jowar,2010,Kharif     ,Jammu and Kashmir,57.0,34,1352.0,9468.27,13.68,0.6
+Linseed,2010,Rabi       ,Jammu and Kashmir,170.0,192,1352.0,28238.7,40.8,0.98
+Maize,2010,Kharif     ,Jammu and Kashmir,308215.0,527690,1352.0,51197593.65,73971.6,1.5675
+Masoor,2010,Kharif     ,Jammu and Kashmir,561.0,316,1352.0,93187.71,134.64,0.65
+Masoor,2010,Rabi       ,Jammu and Kashmir,53.0,29,1352.0,8803.83,12.72,0.555
+Moong(Green Gram),2010,Kharif     ,Jammu and Kashmir,946.0,402,1352.0,157140.06,227.04,0.4975
+Moong(Green Gram),2010,Rabi       ,Jammu and Kashmir,17.0,20,1352.0,2823.87,4.08,1.2
+Moth,2010,Kharif     ,Jammu and Kashmir,3693.0,2082,1352.0,613444.23,886.32,0.655833333
+Onion,2010,Kharif     ,Jammu and Kashmir,187.0,166,1352.0,31062.57,44.88,0.984285714
+Onion,2010,Rabi       ,Jammu and Kashmir,462.0,1110,1352.0,76742.82,110.88,2.207142857
+Other  Rabi pulses,2010,Rabi       ,Jammu and Kashmir,141.0,146,1352.0,23421.51,33.84,0.608333333
+Other Cereals,2010,Kharif     ,Jammu and Kashmir,381.0,193,1352.0,63287.91,91.44,0.503333333
+Other Cereals,2010,Rabi       ,Jammu and Kashmir,112.0,78,1352.0,18604.32,26.88,0.7
+Other Kharif pulses,2010,Kharif     ,Jammu and Kashmir,5035.0,6525,1352.0,836363.85,1208.4,1.126
+Peas & beans (Pulses),2010,Kharif     ,Jammu and Kashmir,262.0,146,1352.0,43520.82,62.88,0.53
+Peas & beans (Pulses),2010,Rabi       ,Jammu and Kashmir,724.0,666,1352.0,120263.64,173.76,0.712
+Potato,2010,Kharif     ,Jammu and Kashmir,1180.0,6495,1352.0,196009.8,283.2,6.053333333
+Potato,2010,Rabi       ,Jammu and Kashmir,1233.0,16702,1352.0,204813.63,295.92,17.04
+Rapeseed &Mustard,2010,Rabi       ,Jammu and Kashmir,59519.0,50582,1352.0,9886701.09,14284.56,0.757368421
+Rice,2010,Kharif     ,Jammu and Kashmir,261347.0,507404,1352.0,43412350.17,62723.28,1.874
+Sannhamp,2010,Kharif     ,Jammu and Kashmir,156.0,88,1352.0,25913.16,37.44,0.645
+Sesamum,2010,Kharif     ,Jammu and Kashmir,4626.0,2039,1352.0,768424.86,1110.24,0.443333333
+Small millets,2010,Kharif     ,Jammu and Kashmir,3427.0,1332,1352.0,569258.97,822.48,0.455714286
+Sugarcane,2010,Kharif     ,Jammu and Kashmir,18.0,27,1352.0,2989.98,4.32,1.5
+Tobacco,2010,Kharif     ,Jammu and Kashmir,3.0,1,1352.0,498.33,0.72,0.37
+Turmeric,2010,Kharif     ,Jammu and Kashmir,9.0,9,1352.0,1494.99,2.16,1.036666667
+Turmeric,2010,Rabi       ,Jammu and Kashmir,4.0,4,1352.0,664.44,0.96,0.93
+Urad,2010,Kharif     ,Jammu and Kashmir,14367.0,4844,1352.0,2386502.37,3448.08,0.47
+Wheat,2010,Rabi       ,Jammu and Kashmir,286777.0,442706,1352.0,47636527.47,68826.48,1.468
+other oilseeds,2010,Kharif     ,Jammu and Kashmir,156.0,70,1352.0,25913.16,37.44,0.455
+Bajra,1999,Kharif     ,Jammu and Kashmir,13357.0,6397,667.1,1417578.41,3606.39,0.5575
+Barley,1999,Kharif     ,Jammu and Kashmir,34.0,10,667.1,3608.42,9.18,0.29
+Barley,1999,Rabi       ,Jammu and Kashmir,10958.0,5051,667.1,1162972.54,2958.66,0.591666667
+Gram,1999,Rabi       ,Jammu and Kashmir,443.0,120,667.1,47015.59,119.61,0.35
+Groundnut,1999,Kharif     ,Jammu and Kashmir,8.0,4,667.1,849.04,2.16,0.51
+Jowar,1999,Kharif     ,Jammu and Kashmir,6.0,1,667.1,636.78,1.62,0.2
+Linseed,1999,Rabi       ,Jammu and Kashmir,700.0,302,667.1,74291.0,189.0,0.43875
+Maize,1999,Kharif     ,Jammu and Kashmir,317324.0,471210,667.1,33677596.12,85677.48,1.288333333
+Rapeseed &Mustard,1999,Rabi       ,Jammu and Kashmir,68751.0,50410,667.1,7296543.63,18562.77,0.561818182
+Rice,1999,Kharif     ,Jammu and Kashmir,250625.0,391529,667.1,26598831.25,67668.75,1.489166667
+Sesamum,1999,Kharif     ,Jammu and Kashmir,6418.0,2741,667.1,681142.34,1732.86,0.4625
+Sugarcane,1999,Whole Year ,Jammu and Kashmir,143.0,143,667.1,15176.59,38.61,1.1125
+Bajra,2000,Kharif     ,Jammu and Kashmir,13340.0,6188,989.5,1309587.8,3468.4,0.536
+Barley,2000,Kharif     ,Jammu and Kashmir,34.0,9,989.5,3337.78,8.84,0.26
+Barley,2000,Rabi       ,Jammu and Kashmir,8730.0,4284,989.5,857024.1,2269.8,0.655
+Dry chillies,2000,Whole Year ,Jammu and Kashmir,1000.0,1020,989.5,98170.0,260.0,0.92
+Garlic,2000,Whole Year ,Jammu and Kashmir,201.0,165,989.5,19732.17,52.26,0.88
+Ginger,2000,Kharif     ,Jammu and Kashmir,40.0,48,989.5,3926.8,10.4,1.415
+Gram,2000,Rabi       ,Jammu and Kashmir,398.0,107,989.5,39071.66,103.48,0.335
+Groundnut,2000,Kharif     ,Jammu and Kashmir,12.0,6,989.5,1178.04,3.12,0.5
+Linseed,2000,Rabi       ,Jammu and Kashmir,361.0,94,989.5,35439.37,93.86,0.358
+Maize,2000,Kharif     ,Jammu and Kashmir,330208.0,525800,989.5,32416519.36,85854.08,1.490833333
+Onion,2000,Whole Year ,Jammu and Kashmir,365.0,805,989.5,35832.05,94.9,2.285
+Rapeseed &Mustard,2000,Rabi       ,Jammu and Kashmir,66135.0,24973,989.5,6492472.95,17195.1,0.381666667
+Rice,2000,Kharif     ,Jammu and Kashmir,244051.0,415342,989.5,23958486.67,63453.26,1.6
+Sannhamp,2000,Whole Year ,Jammu and Kashmir,275.0,136,989.5,26996.75,71.5,0.494
+Sesamum,2000,Kharif     ,Jammu and Kashmir,6591.0,2773,989.5,647038.47,1713.66,0.414
+Sugarcane,2000,Whole Year ,Jammu and Kashmir,126.0,417,989.5,12369.42,32.76,2.6275
+Tobacco,2000,Whole Year ,Jammu and Kashmir,99.0,12,989.5,9718.83,25.74,0.12
+Turmeric,2000,Whole Year ,Jammu and Kashmir,11.0,11,989.5,1079.87,2.86,1.0
+Wheat,2000,Rabi       ,Jammu and Kashmir,276815.0,145060,989.5,27174928.55,71971.9,0.820833333
+other oilseeds,2000,Kharif     ,Jammu and Kashmir,8.0,4,989.5,785.36,2.08,0.5
+other oilseeds,2000,Rabi       ,Jammu and Kashmir,729.0,255,989.5,71565.93,189.54,0.34
+Bajra,2001,Kharif     ,Jammu and Kashmir,13571.0,8056,953.8,1386006.23,3528.46,0.586
+Barley,2001,Kharif     ,Jammu and Kashmir,27.0,7,953.8,2757.51,7.02,0.26
+Barley,2001,Rabi       ,Jammu and Kashmir,9837.0,4783,953.8,1004652.81,2557.62,0.6525
+Cotton(lint),2001,Kharif     ,Jammu and Kashmir,69.0,34,953.8,7046.97,17.94,0.49
+Gram,2001,Rabi       ,Jammu and Kashmir,178.0,102,953.8,18179.14,46.28,0.57
+Groundnut,2001,Kharif     ,Jammu and Kashmir,12.0,6,953.8,1225.56,3.12,0.5
+Horse-gram,2001,Kharif     ,Jammu and Kashmir,1944.0,600,953.8,198540.72,505.44,0.37
+Jowar,2001,Kharif     ,Jammu and Kashmir,7.0,4,953.8,714.91,1.82,0.55
+Linseed,2001,Rabi       ,Jammu and Kashmir,436.0,272,953.8,44528.68,113.36,0.68625
+Maize,2001,Kharif     ,Jammu and Kashmir,326476.0,538070,953.8,33342993.88,84883.76,1.493333333
+Masoor,2001,Rabi       ,Jammu and Kashmir,51.0,24,953.8,5208.63,13.26,0.45
+Moong(Green Gram),2001,Kharif     ,Jammu and Kashmir,2406.0,1070,953.8,245724.78,625.56,0.49125
+Onion,2001,Whole Year ,Jammu and Kashmir,518.0,1159,953.8,52903.34,134.68,1.86
+Peas & beans (Pulses),2001,Rabi       ,Jammu and Kashmir,538.0,442,953.8,54945.94,139.88,0.81125
+Potato,2001,Whole Year ,Jammu and Kashmir,1835.0,19616,953.8,187408.55,477.1,10.07090909
+Rapeseed &Mustard,2001,Rabi       ,Jammu and Kashmir,71494.0,39219,953.8,7301682.22,18588.44,0.586666667
+Rice,2001,Kharif     ,Jammu and Kashmir,249830.0,422298,953.8,25515137.9,64955.8,1.634166667
+Sannhamp,2001,Whole Year ,Jammu and Kashmir,271.0,134,953.8,27677.23,70.46,0.49
+Sesamum,2001,Kharif     ,Jammu and Kashmir,6249.0,2944,953.8,638210.37,1624.74,0.57
+Sugarcane,2001,Whole Year ,Jammu and Kashmir,132.0,436,953.8,13481.16,34.32,2.5825
+Tobacco,2001,Whole Year ,Jammu and Kashmir,37.0,13,953.8,3778.81,9.62,0.416666667
+Urad,2001,Kharif     ,Jammu and Kashmir,12936.0,5368,953.8,1321153.68,3363.36,0.492
+Wheat,2001,Rabi       ,Jammu and Kashmir,255514.0,339390,953.8,26095644.82,66433.64,1.418333333
+Bajra,2002,Kharif     ,Jammu and Kashmir,13400.0,7980,933.2,1268578.0,3350.0,0.605
+Barley,2002,Rabi       ,Jammu and Kashmir,10353.0,5225,933.2,980118.51,2588.25,0.544
+Cotton(lint),2002,Kharif     ,Jammu and Kashmir,44.0,22,933.2,4165.48,11.0,0.405
+Gram,2002,Rabi       ,Jammu and Kashmir,228.0,134,933.2,21584.76,57.0,0.603333333
+Groundnut,2002,Kharif     ,Jammu and Kashmir,49.0,26,933.2,4638.83,12.25,0.53
+Jowar,2002,Kharif     ,Jammu and Kashmir,129.0,32,933.2,12212.43,32.25,0.25
+Linseed,2002,Rabi       ,Jammu and Kashmir,250.0,160,933.2,23667.5,62.5,0.527142857
+Maize,2002,Kharif     ,Jammu and Kashmir,329465.0,465090,933.2,31190451.55,82366.25,1.3475
+Masoor,2002,Rabi       ,Jammu and Kashmir,193.0,92,933.2,18271.31,48.25,0.482
+Moong(Green Gram),2002,Kharif     ,Jammu and Kashmir,2650.0,1236,933.2,250875.5,662.5,0.5075
+Moth,2002,Kharif     ,Jammu and Kashmir,3481.0,2069,933.2,329546.27,870.25,0.625714286
+Onion,2002,Whole Year ,Jammu and Kashmir,495.0,1107,933.2,46861.65,123.75,1.975714286
+Other  Rabi pulses,2002,Rabi       ,Jammu and Kashmir,63.0,143,933.2,5964.21,15.75,1.994
+Other Kharif pulses,2002,Kharif     ,Jammu and Kashmir,6335.0,3436,933.2,599734.45,1583.75,0.516666667
+Peas & beans (Pulses),2002,Rabi       ,Jammu and Kashmir,805.0,618,933.2,76209.35,201.25,0.911428571
+Potato,2002,Whole Year ,Jammu and Kashmir,1737.0,18011,933.2,164441.79,434.25,9.146666667
+Rapeseed &Mustard,2002,Rabi       ,Jammu and Kashmir,59296.0,23590,933.2,5613552.32,14824.0,0.519166667
+Rice,2002,Kharif     ,Jammu and Kashmir,236199.0,421457,933.2,22360959.33,59049.75,1.708333333
+Sesamum,2002,Kharif     ,Jammu and Kashmir,6416.0,2719,933.2,607402.72,1604.0,0.4275
+Small millets,2002,Kharif     ,Jammu and Kashmir,470.0,90,933.2,44494.9,117.5,0.19
+Sugarcane,2002,Whole Year ,Jammu and Kashmir,117.0,475,933.2,11076.39,29.25,2.65
+Tobacco,2002,Whole Year ,Jammu and Kashmir,18.0,5,933.2,1704.06,4.5,0.21
+Urad,2002,Kharif     ,Jammu and Kashmir,14232.0,5961,933.2,1347343.44,3558.0,0.485555556
+Wheat,2002,Rabi       ,Jammu and Kashmir,244157.0,401900,933.2,23114343.19,61039.25,1.465
+other oilseeds,2002,Whole Year ,Jammu and Kashmir,36.0,16,933.2,3408.12,9.0,0.465
+Bajra,2003,Kharif     ,Jammu and Kashmir,16696.0,9978,1430.3,1652570.08,4007.04,0.616
+Barley,2003,Rabi       ,Jammu and Kashmir,9639.0,4729,1430.3,954068.22,2313.36,0.978333333
+Cotton(lint),2003,Kharif     ,Jammu and Kashmir,10.0,4,1430.3,989.8,2.4,0.41
+Gram,2003,Rabi       ,Jammu and Kashmir,286.0,173,1430.3,28308.28,68.64,0.7
+Linseed,2003,Rabi       ,Jammu and Kashmir,200.0,112,1430.3,19796.0,48.0,0.5575
+Maize,2003,Kharif     ,Jammu and Kashmir,321189.0,532620,1430.3,31791287.22,77085.36,1.561666667
+Masoor,2003,Rabi       ,Jammu and Kashmir,174.0,81,1430.3,17222.52,41.76,0.465
+Moong(Green Gram),2003,Kharif     ,Jammu and Kashmir,1810.0,884,1430.3,179153.8,434.4,0.502857143
+Onion,2003,Whole Year ,Jammu and Kashmir,631.0,1136,1430.3,62456.38,151.44,1.967142857
+Other  Rabi pulses,2003,Rabi       ,Jammu and Kashmir,145.0,69,1430.3,14352.1,34.8,0.5
+Other Kharif pulses,2003,Kharif     ,Jammu and Kashmir,1370.0,716,1430.3,135602.6,328.8,0.517
+Peas & beans (Pulses),2003,Kharif     ,Jammu and Kashmir,184.0,110,1430.3,18212.32,44.16,0.6
+Peas & beans (Pulses),2003,Rabi       ,Jammu and Kashmir,1202.0,1084,1430.3,118973.96,288.48,0.971111111
+Potato,2003,Whole Year ,Jammu and Kashmir,1614.0,17886,1430.3,159753.72,387.36,10.385
+Rapeseed &Mustard,2003,Rabi       ,Jammu and Kashmir,56424.0,39224,1430.3,5584847.52,13541.76,0.469166667
+Rice,2003,Kharif     ,Jammu and Kashmir,259815.0,504797,1430.3,25716488.7,62355.6,1.870833333
+Sannhamp,2003,Whole Year ,Jammu and Kashmir,123.0,59,1430.3,12174.54,29.52,0.404
+Sesamum,2003,Kharif     ,Jammu and Kashmir,5744.0,2699,1430.3,568541.12,1378.56,0.438
+Small millets,2003,Kharif     ,Jammu and Kashmir,3831.0,1391,1430.3,379192.38,919.44,1.462
+Sugarcane,2003,Whole Year ,Jammu and Kashmir,154.0,567,1430.3,15242.92,36.96,3.023333333
+Tobacco,2003,Whole Year ,Jammu and Kashmir,7.0,1,1430.3,692.86,1.68,0.133333333
+Urad,2003,Kharif     ,Jammu and Kashmir,14609.0,6090,1430.3,1445998.82,3506.16,0.484444444
+Wheat,2003,Rabi       ,Jammu and Kashmir,250282.0,455540,1430.3,24772912.36,60067.68,1.513333333
+other oilseeds,2003,Kharif     ,Jammu and Kashmir,28.0,12,1430.3,2771.44,6.72,0.43
+other oilseeds,2003,Rabi       ,Jammu and Kashmir,10.0,3,1430.3,989.8,2.4,0.263333333
+Bajra,2004,Kharif     ,Jammu and Kashmir,16045.0,9560,1032.1,1738315.3,3369.45,0.605
+Barley,2004,Rabi       ,Jammu and Kashmir,9860.0,4924,1032.1,1068232.4,2070.6,0.584
+Gram,2004,Rabi       ,Jammu and Kashmir,270.0,162,1032.1,29251.8,56.7,0.615
+Jowar,2004,Kharif     ,Jammu and Kashmir,5977.0,3586,1032.1,647548.18,1255.17,0.6
+Maize,2004,Kharif     ,Jammu and Kashmir,322699.0,492270,1032.1,34961209.66,67766.79,1.44
+Moong(Green Gram),2004,Kharif     ,Jammu and Kashmir,1944.0,945,1032.1,210612.96,408.24,0.462222222
+Other  Rabi pulses,2004,Rabi       ,Jammu and Kashmir,589.0,305,1032.1,63812.26,123.69,0.5
+Other Kharif pulses,2004,Kharif     ,Jammu and Kashmir,2989.0,1466,1032.1,323828.26,627.69,0.508888889
+Peas & beans (Pulses),2004,Rabi       ,Jammu and Kashmir,932.0,704,1032.1,100972.88,195.72,0.83
+Rice,2004,Kharif     ,Jammu and Kashmir,250044.0,492732,1032.1,27089766.96,52509.24,1.838333333
+Urad,2004,Kharif     ,Jammu and Kashmir,14354.0,5921,1032.1,1555112.36,3014.34,0.484444444
+Wheat,2004,Rabi       ,Jammu and Kashmir,248613.0,474415,1032.1,26934732.42,52208.73,1.814545455
+Bajra,2005,Kharif     ,Jammu and Kashmir,13008.0,7778,1721.8,1559919.36,2731.68,0.5675
+Barley,2005,Kharif     ,Jammu and Kashmir,37.0,10,1721.8,4437.04,7.77,0.26
+Cotton(lint),2005,Kharif     ,Jammu and Kashmir,35.0,18,1721.8,4197.2,7.35,0.5
+Dry chillies,2005,Kharif     ,Jammu and Kashmir,996.0,1006,1721.8,119440.32,209.16,0.94875
+Ginger,2005,Kharif     ,Jammu and Kashmir,38.0,45,1721.8,4556.96,7.98,1.325
+Gram,2005,Rabi       ,Jammu and Kashmir,514.0,269,1721.8,61638.88,107.94,0.533333333
+Groundnut,2005,Kharif     ,Jammu and Kashmir,34.0,17,1721.8,4077.28,7.14,0.5
+Jowar,2005,Kharif     ,Jammu and Kashmir,1419.0,440,1721.8,170166.48,297.99,0.483333333
+Maize,2005,Kharif     ,Jammu and Kashmir,320924.0,453450,1721.8,38485206.08,67394.04,1.325833333
+Moong(Green Gram),2005,Kharif     ,Jammu and Kashmir,1782.0,850,1721.8,213697.44,374.22,0.503333333
+Onion,2005,Kharif     ,Jammu and Kashmir,94.0,82,1721.8,11272.48,19.74,0.966666667
+Other Cereals,2005,Kharif     ,Jammu and Kashmir,262.0,52,1721.8,31419.04,55.02,0.1825
+Other Kharif pulses,2005,Kharif     ,Jammu and Kashmir,1157.0,605,1721.8,138747.44,242.97,0.52125
+Peas & beans (Pulses),2005,Kharif     ,Jammu and Kashmir,81.0,37,1721.8,9713.52,17.01,0.46
+Potato,2005,Kharif     ,Jammu and Kashmir,786.0,5762,1721.8,94257.12,165.06,5.429
+Rapeseed &Mustard,2005,Kharif     ,Jammu and Kashmir,3223.0,1289,1721.8,386502.16,676.83,0.4
+Rice,2005,Kharif     ,Jammu and Kashmir,259014.0,556774,1721.8,31060958.88,54392.94,2.040833333
+Sannhamp,2005,Kharif     ,Jammu and Kashmir,225.0,128,1721.8,26982.0,47.25,0.6375
+Sesamum,2005,Kharif     ,Jammu and Kashmir,2623.0,1179,1721.8,314550.16,550.83,0.436666667
+Sugarcane,2005,Kharif     ,Jammu and Kashmir,191.0,753,1721.8,22904.72,40.11,3.053333333
+Tobacco,2005,Kharif     ,Jammu and Kashmir,4.0,2,1721.8,479.68,0.84,0.325
+Turmeric,2005,Kharif     ,Jammu and Kashmir,12.0,12,1721.8,1439.04,2.52,1.005
+Urad,2005,Kharif     ,Jammu and Kashmir,15490.0,6511,1721.8,1857560.8,3252.9,0.487777778
+Wheat,2005,Kharif     ,Jammu and Kashmir,436.0,60,1721.8,52285.12,91.56,0.14
+Wheat,2005,Rabi       ,Jammu and Kashmir,436.0,60,1721.8,52285.12,91.56,0.14
+other oilseeds,2005,Kharif     ,Jammu and Kashmir,20.0,9,1721.8,2398.4,4.2,0.415
+Bajra,2006,Kharif     ,Jammu and Kashmir,20775.0,12280,1786.5,2653175.25,4570.5,0.605
+Barley,2006,Kharif     ,Jammu and Kashmir,19.0,11,1786.5,2426.49,4.18,0.6
+Barley,2006,Rabi       ,Jammu and Kashmir,9856.0,4852,1786.5,1258709.76,2168.32,0.584
+Cotton(lint),2006,Kharif     ,Jammu and Kashmir,42.0,22,1786.5,5363.82,9.24,0.5
+Cowpea(Lobia),2006,Kharif     ,Jammu and Kashmir,1432.0,442,1786.5,182880.72,315.04,0.4
+Cowpea(Lobia),2006,Rabi       ,Jammu and Kashmir,137.0,93,1786.5,17496.27,30.14,0.68
+Dry chillies,2006,Kharif     ,Jammu and Kashmir,560.0,577,1786.5,71517.6,123.2,0.972857143
+Garlic,2006,Kharif     ,Jammu and Kashmir,31.0,36,1786.5,3959.01,6.82,1.15
+Garlic,2006,Rabi       ,Jammu and Kashmir,524.0,452,1786.5,66920.04,115.28,0.80125
+Ginger,2006,Kharif     ,Jammu and Kashmir,4.0,7,1786.5,510.84,0.88,1.7
+Groundnut,2006,Kharif     ,Jammu and Kashmir,39.0,20,1786.5,4980.69,8.58,0.5
+Horse-gram,2006,Kharif     ,Jammu and Kashmir,2306.0,676,1786.5,294499.26,507.32,0.33
+Linseed,2006,Rabi       ,Jammu and Kashmir,241.0,137,1786.5,30778.11,53.02,0.641666667
+Maize,2006,Kharif     ,Jammu and Kashmir,323598.0,486900,1786.5,41326700.58,71191.56,1.449166667
+Masoor,2006,Rabi       ,Jammu and Kashmir,129.0,56,1786.5,16474.59,28.38,0.4775
+Moong(Green Gram),2006,Kharif     ,Jammu and Kashmir,1559.0,760,1786.5,199099.89,342.98,0.503333333
+Moth,2006,Kharif     ,Jammu and Kashmir,2396.0,1478,1786.5,305993.16,527.12,0.655
+Moth,2006,Rabi       ,Jammu and Kashmir,779.0,430,1786.5,99486.09,171.38,0.633333333
+Onion,2006,Rabi       ,Jammu and Kashmir,372.0,907,1786.5,47508.12,81.84,2.424
+Other  Rabi pulses,2006,Rabi       ,Jammu and Kashmir,52.0,24,1786.5,6640.92,11.44,0.47
+Other Cereals,2006,Kharif     ,Jammu and Kashmir,4176.0,1491,1786.5,533316.96,918.72,0.508333333
+Other Cereals,2006,Rabi       ,Jammu and Kashmir,72.0,38,1786.5,9195.12,15.84,0.69
+Other Kharif pulses,2006,Kharif     ,Jammu and Kashmir,4280.0,2975,1786.5,546598.8,941.6,0.591818182
+Peas & beans (Pulses),2006,Kharif     ,Jammu and Kashmir,288.0,157,1786.5,36780.48,63.36,0.53
+Peas & beans (Pulses),2006,Rabi       ,Jammu and Kashmir,821.0,763,1786.5,104849.91,180.62,0.846
+Potato,2006,Kharif     ,Jammu and Kashmir,889.0,5962,1786.5,113534.19,195.58,6.66
+Potato,2006,Rabi       ,Jammu and Kashmir,857.0,12436,1786.5,109447.47,188.54,14.57375
+Rapeseed &Mustard,2006,Rabi       ,Jammu and Kashmir,58490.0,38789,1786.5,7469757.9,12867.8,0.537272727
+Rice,2006,Kharif     ,Jammu and Kashmir,252516.0,554258,1786.5,32248818.36,55553.52,2.060833333
+Sannhamp,2006,Kharif     ,Jammu and Kashmir,335.0,168,1786.5,42782.85,73.7,0.5
+Sesamum,2006,Kharif     ,Jammu and Kashmir,5412.0,2298,1786.5,691166.52,1190.64,0.4275
+Sugarcane,2006,Kharif     ,Jammu and Kashmir,159.0,777,1786.5,20305.89,34.98,3.053333333
+Tobacco,2006,Kharif     ,Jammu and Kashmir,20.0,7,1786.5,2554.2,4.4,0.35
+Turmeric,2006,Kharif     ,Jammu and Kashmir,6.0,6,1786.5,766.26,1.32,1.02
+Urad,2006,Kharif     ,Jammu and Kashmir,13836.0,5689,1786.5,1766995.56,3043.92,0.46125
+Wheat,2006,Rabi       ,Jammu and Kashmir,261584.0,494300,1786.5,33406892.64,57548.48,1.821818182
+other oilseeds,2006,Kharif     ,Jammu and Kashmir,33.0,14,1786.5,4214.43,7.26,0.415
+other oilseeds,2006,Rabi       ,Jammu and Kashmir,8.0,4,1786.5,1021.68,1.76,0.55
+Bajra,2007,Kharif     ,Jammu and Kashmir,16816.0,9984,1042.2,2243254.4,2690.56,0.603333333
+Barley,2007,Kharif     ,Jammu and Kashmir,560.0,147,1042.2,74704.0,89.6,0.26
+Barley,2007,Rabi       ,Jammu and Kashmir,9856.0,4851,1042.2,1314790.4,1576.96,0.553333333
+Coriander,2007,Rabi       ,Jammu and Kashmir,9.0,1,1042.2,1200.6,1.44,0.125
+Cotton(lint),2007,Kharif     ,Jammu and Kashmir,64.0,33,1042.2,8537.6,10.24,0.5
+Dry chillies,2007,Kharif     ,Jammu and Kashmir,674.0,674,1042.2,89911.6,107.84,0.956363636
+Garlic,2007,Kharif     ,Jammu and Kashmir,103.0,78,1042.2,13740.2,16.48,0.75
+Garlic,2007,Rabi       ,Jammu and Kashmir,524.0,452,1042.2,69901.6,83.84,0.807777778
+Ginger,2007,Kharif     ,Jammu and Kashmir,75.0,89,1042.2,10005.0,12.0,1.3
+Groundnut,2007,Kharif     ,Jammu and Kashmir,3.0,2,1042.2,400.2,0.48,0.5
+Linseed,2007,Rabi       ,Jammu and Kashmir,241.0,137,1042.2,32149.4,38.56,0.641666667
+Maize,2007,Kharif     ,Jammu and Kashmir,302441.0,474484,1042.2,40345629.4,48390.56,1.377
+Masoor,2007,Rabi       ,Jammu and Kashmir,129.0,56,1042.2,17208.6,20.64,0.49
+Moong(Green Gram),2007,Kharif     ,Jammu and Kashmir,864.0,421,1042.2,115257.6,138.24,0.504285714
+Onion,2007,Kharif     ,Jammu and Kashmir,131.0,114,1042.2,17475.4,20.96,0.92
+Onion,2007,Rabi       ,Jammu and Kashmir,372.0,906,1042.2,49624.8,59.52,2.42125
+Other  Rabi pulses,2007,Rabi       ,Jammu and Kashmir,52.0,24,1042.2,6936.8,8.32,0.47
+Other Cereals,2007,Kharif     ,Jammu and Kashmir,122.0,35,1042.2,16274.8,19.52,0.4
+Other Cereals,2007,Rabi       ,Jammu and Kashmir,4.0,4,1042.2,533.6,0.64,0.88
+Other Kharif pulses,2007,Kharif     ,Jammu and Kashmir,1635.0,879,1042.2,218109.0,261.6,0.772307692
+Peas & beans (Pulses),2007,Kharif     ,Jammu and Kashmir,278.0,158,1042.2,37085.2,44.48,0.565
+Peas & beans (Pulses),2007,Rabi       ,Jammu and Kashmir,821.0,764,1042.2,109521.4,131.36,0.797142857
+Potato,2007,Kharif     ,Jammu and Kashmir,1380.0,7727,1042.2,184092.0,220.8,4.94875
+Potato,2007,Rabi       ,Jammu and Kashmir,857.0,12435,1042.2,114323.8,137.12,13.078
+Rapeseed &Mustard,2007,Rabi       ,Jammu and Kashmir,58490.0,38791,1042.2,7802566.0,9358.4,0.547368421
+Rice,2007,Kharif     ,Jammu and Kashmir,263246.0,561355,1042.2,35117016.4,42119.36,1.9745
+Sannhamp,2007,Kharif     ,Jammu and Kashmir,391.0,210,1042.2,52159.4,62.56,0.72
+Sesamum,2007,Kharif     ,Jammu and Kashmir,6199.0,2649,1042.2,826946.6,991.84,0.443333333
+Sugarcane,2007,Kharif     ,Jammu and Kashmir,69.0,221,1042.2,9204.6,11.04,3.65
+Tobacco,2007,Kharif     ,Jammu and Kashmir,6.0,2,1042.2,800.4,0.96,0.325
+Turmeric,2007,Kharif     ,Jammu and Kashmir,22.0,22,1042.2,2934.8,3.52,1.015
+Urad,2007,Kharif     ,Jammu and Kashmir,15687.0,6578,1042.2,2092645.8,2509.92,0.497142857
+Wheat,2007,Kharif     ,Jammu and Kashmir,20.0,2,1042.2,2668.0,3.2,0.12
+Wheat,2007,Rabi       ,Jammu and Kashmir,261584.0,494300,1042.2,34895305.6,41853.44,1.762666667
+other oilseeds,2007,Kharif     ,Jammu and Kashmir,232.0,100,1042.2,30948.8,37.12,0.43
+other oilseeds,2007,Rabi       ,Jammu and Kashmir,8.0,4,1042.2,1067.2,1.28,0.55
+Bajra,2009,Kharif     ,Jammu and Kashmir,17402.0,10388,751.7,2711579.64,2958.34,0.603333333
+Barley,2009,Kharif     ,Jammu and Kashmir,153.0,40,751.7,23840.46,26.01,0.26
+Barley,2009,Rabi       ,Jammu and Kashmir,11030.0,5167,751.7,1718694.6,1875.1,0.585
+Cotton(lint),2009,Kharif     ,Jammu and Kashmir,17.0,9,751.7,2648.94,2.89,0.555
+Dry chillies,2009,Kharif     ,Jammu and Kashmir,603.0,614,751.7,93959.46,102.51,0.973636364
+Garlic,2009,Kharif     ,Jammu and Kashmir,114.0,86,751.7,17763.48,19.38,0.755
+Garlic,2009,Rabi       ,Jammu and Kashmir,488.0,411,751.7,76040.16,82.96,0.845555556
+Ginger,2009,Kharif     ,Jammu and Kashmir,37.0,50,751.7,5765.34,6.29,1.346666667
+Groundnut,2009,Kharif     ,Jammu and Kashmir,3.0,2,751.7,467.46,0.51,0.625
+Horse-gram,2009,Kharif     ,Jammu and Kashmir,1773.0,514,751.7,276268.86,301.41,0.344285714
+Linseed,2009,Rabi       ,Jammu and Kashmir,135.0,78,751.7,21035.7,22.95,0.471666667
+Maize,2009,Kharif     ,Jammu and Kashmir,311022.0,486988,751.7,48463448.04,52873.74,1.507
+Masoor,2009,Kharif     ,Jammu and Kashmir,1001.0,554,751.7,155975.82,170.17,0.6
+Masoor,2009,Rabi       ,Jammu and Kashmir,144.0,80,751.7,22438.08,24.48,0.553333333
+Moong(Green Gram),2009,Kharif     ,Jammu and Kashmir,890.0,410,751.7,138679.8,151.3,0.512222222
+Moth,2009,Kharif     ,Jammu and Kashmir,2806.0,1607,751.7,437230.92,477.02,0.650909091
+Onion,2009,Kharif     ,Jammu and Kashmir,249.0,214,751.7,38799.18,42.33,1.027142857
+Onion,2009,Rabi       ,Jammu and Kashmir,470.0,1145,751.7,73235.4,79.9,2.413333333
+Other  Rabi pulses,2009,Rabi       ,Jammu and Kashmir,269.0,137,751.7,41915.58,45.73,0.505
+Other Cereals,2009,Kharif     ,Jammu and Kashmir,3329.0,1237,751.7,518724.78,565.93,0.40625
+Other Cereals,2009,Rabi       ,Jammu and Kashmir,112.0,78,751.7,17451.84,19.04,0.7
+Other Kharif pulses,2009,Kharif     ,Jammu and Kashmir,5595.0,6616,751.7,871812.9,951.15,0.807777778
+Peas & beans (Pulses),2009,Kharif     ,Jammu and Kashmir,251.0,141,751.7,39110.82,42.67,0.53
+Peas & beans (Pulses),2009,Rabi       ,Jammu and Kashmir,908.0,994,751.7,141484.56,154.36,0.928333333
+Potato,2009,Kharif     ,Jammu and Kashmir,1098.0,7684,751.7,171090.36,186.66,6.574615385
+Potato,2009,Rabi       ,Jammu and Kashmir,1184.0,15664,751.7,184490.88,201.28,12.63666667
+Rapeseed &Mustard,2009,Rabi       ,Jammu and Kashmir,60262.0,47464,751.7,9390024.84,10244.54,0.620526316
+Rice,2009,Kharif     ,Jammu and Kashmir,259892.0,500880,751.7,40496371.44,44181.64,1.859
+Sannhamp,2009,Kharif     ,Jammu and Kashmir,148.0,81,751.7,23061.36,25.16,0.65
+Sesamum,2009,Kharif     ,Jammu and Kashmir,4624.0,2031,751.7,720511.68,786.08,0.443333333
+Sugarcane,2009,Kharif     ,Jammu and Kashmir,1.0,2,751.7,155.82,0.17,1.5
+Tobacco,2009,Kharif     ,Jammu and Kashmir,11.0,4,751.7,1714.02,1.87,0.37
+Turmeric,2009,Kharif     ,Jammu and Kashmir,11.0,11,751.7,1714.02,1.87,1.055
+Urad,2009,Kharif     ,Jammu and Kashmir,15747.0,5676,751.7,2453697.54,2676.99,0.453846154
+Wheat,2009,Rabi       ,Jammu and Kashmir,284644.0,286143,751.7,44353228.08,48389.48,1.167142857
+other oilseeds,2009,Kharif     ,Jammu and Kashmir,147.0,66,751.7,22905.54,24.99,0.45
+Bajra,2011,Kharif     ,Jammu and Kashmir,18926.0,11192,887.6,3170483.52,6245.58,0.568571429
+Barley,2011,Kharif     ,Jammu and Kashmir,29.0,11,887.6,4858.08,9.57,0.34
+Barley,2011,Rabi       ,Jammu and Kashmir,7162.0,4110,887.6,1199778.24,2363.46,0.7075
+Cotton(lint),2011,Kharif     ,Jammu and Kashmir,13.0,7,887.6,2177.76,4.29,0.57
+Cowpea(Lobia),2011,Kharif     ,Jammu and Kashmir,32.0,16,887.6,5360.64,10.56,0.5
+Dry chillies,2011,Kharif     ,Jammu and Kashmir,564.0,545,887.6,94481.28,186.12,0.95
+Garlic,2011,Kharif     ,Jammu and Kashmir,18.0,14,887.6,3015.36,5.94,0.76
+Garlic,2011,Rabi       ,Jammu and Kashmir,693.0,591,887.6,116091.36,228.69,0.854444444
+Ginger,2011,Kharif     ,Jammu and Kashmir,32.0,43,887.6,5360.64,10.56,1.353333333
+Ginger,2011,Rabi       ,Jammu and Kashmir,3.0,3,887.6,502.56,0.99,0.9
+Gram,2011,Rabi       ,Jammu and Kashmir,103.0,57,887.6,17254.56,33.99,0.55
+Groundnut,2011,Kharif     ,Jammu and Kashmir,5.0,3,887.6,837.6,1.65,0.66
+Horse-gram,2011,Kharif     ,Jammu and Kashmir,957.0,282,887.6,160316.64,315.81,0.343333333
+Linseed,2011,Kharif     ,Jammu and Kashmir,8.0,5,887.6,1340.16,2.64,0.56
+Linseed,2011,Rabi       ,Jammu and Kashmir,196.0,127,887.6,32833.92,64.68,0.77
+Maize,2011,Kharif     ,Jammu and Kashmir,314034.0,504995,887.6,52606975.68,103631.22,1.4925
+Masoor,2011,Kharif     ,Jammu and Kashmir,686.0,379,887.6,114918.72,226.38,0.65
+Masoor,2011,Rabi       ,Jammu and Kashmir,234.0,130,887.6,39199.68,77.22,0.5525
+Moong(Green Gram),2011,Kharif     ,Jammu and Kashmir,1498.0,874,887.6,250944.96,494.34,0.646363636
+Moth,2011,Kharif     ,Jammu and Kashmir,2795.0,1616,887.6,468218.4,922.35,0.663846154
+Onion,2011,Kharif     ,Jammu and Kashmir,144.0,128,887.6,24122.88,47.52,0.9325
+Onion,2011,Rabi       ,Jammu and Kashmir,430.0,1036,887.6,72033.6,141.9,2.205714286
+Other  Rabi pulses,2011,Rabi       ,Jammu and Kashmir,353.0,251,887.6,59134.56,116.49,0.568571429
+Other Cereals,2011,Kharif     ,Jammu and Kashmir,390.0,199,887.6,65332.8,128.7,0.536666667
+Other Cereals,2011,Rabi       ,Jammu and Kashmir,78.0,56,887.6,13066.56,25.74,0.6875
+Other Kharif pulses,2011,Kharif     ,Jammu and Kashmir,3990.0,2849,887.6,668404.8,1316.7,0.945294118
+Peas & beans (Pulses),2011,Kharif     ,Jammu and Kashmir,183.0,988,887.6,30656.16,60.39,2.31
+Peas & beans (Pulses),2011,Rabi       ,Jammu and Kashmir,894.0,899,887.6,149762.88,295.02,0.713
+Potato,2011,Kharif     ,Jammu and Kashmir,1015.0,7416,887.6,170032.8,334.95,7.66125
+Potato,2011,Rabi       ,Jammu and Kashmir,1045.0,10739,887.6,175058.4,344.85,11.048
+Rapeseed &Mustard,2011,Rabi       ,Jammu and Kashmir,59421.0,50537,887.6,9954205.92,19608.93,0.8
+Rice,2011,Kharif     ,Jammu and Kashmir,262169.0,544396,887.6,43918550.88,86515.77,2.0225
+Sannhamp,2011,Kharif     ,Jammu and Kashmir,86.0,61,887.6,14406.72,28.38,0.742
+Sesamum,2011,Kharif     ,Jammu and Kashmir,4346.0,1915,887.6,728041.92,1434.18,0.445
+Small millets,2011,Kharif     ,Jammu and Kashmir,3929.0,1747,887.6,658186.08,1296.57,0.43875
+Sugarcane,2011,Kharif     ,Jammu and Kashmir,19.0,29,887.6,3182.88,6.27,1.5
+Tobacco,2011,Kharif     ,Jammu and Kashmir,2.0,1,887.6,335.04,0.66,0.4
+Turmeric,2011,Kharif     ,Jammu and Kashmir,13.0,13,887.6,2177.76,4.29,1.036666667
+Turmeric,2011,Rabi       ,Jammu and Kashmir,3.0,3,887.6,502.56,0.99,0.93
+Urad,2011,Kharif     ,Jammu and Kashmir,15022.0,5175,887.6,2516485.44,4957.26,0.448333333
+Wheat,2011,Rabi       ,Jammu and Kashmir,291994.0,496542,887.6,48914834.88,96358.02,1.423571429
+other oilseeds,2011,Rabi       ,Jammu and Kashmir,460.0,637,887.6,77059.2,151.8,1.39
+Bajra,2012,Kharif     ,Jammu and Kashmir,19538.0,11693,1116.7,2946330.4,6056.78,0.604285714
+Barley,2012,Kharif     ,Jammu and Kashmir,36.0,12,1116.7,5428.8,11.16,0.32
+Barley,2012,Rabi       ,Jammu and Kashmir,11889.0,6937,1116.7,1792861.2,3685.59,0.728888889
+Dry chillies,2012,Kharif     ,Jammu and Kashmir,706.0,683,1116.7,106464.8,218.86,0.931
+Garlic,2012,Kharif     ,Jammu and Kashmir,2.0,2,1116.7,301.6,0.62,0.75
+Garlic,2012,Rabi       ,Jammu and Kashmir,653.0,567,1116.7,98472.4,202.43,0.854444444
+Ginger,2012,Kharif     ,Jammu and Kashmir,26.0,35,1116.7,3920.8,8.06,1.315
+Ginger,2012,Rabi       ,Jammu and Kashmir,3.0,3,1116.7,452.4,0.93,0.9
+Gram,2012,Rabi       ,Jammu and Kashmir,166.0,92,1116.7,25032.8,51.46,0.55
+Groundnut,2012,Kharif     ,Jammu and Kashmir,4.0,3,1116.7,603.2,1.24,0.65
+Horse-gram,2012,Kharif     ,Jammu and Kashmir,1165.0,362,1116.7,175682.0,361.15,0.337142857
+Linseed,2012,Rabi       ,Jammu and Kashmir,165.0,96,1116.7,24882.0,51.15,0.518333333
+Maize,2012,Kharif     ,Jammu and Kashmir,310909.0,512296,1116.7,46885077.2,96381.79,1.407
+Masoor,2012,Kharif     ,Jammu and Kashmir,344.0,207,1116.7,51875.2,106.64,0.6
+Masoor,2012,Rabi       ,Jammu and Kashmir,141.0,79,1116.7,21262.8,43.71,0.5525
+Moong(Green Gram),2012,Kharif     ,Jammu and Kashmir,1561.0,836,1116.7,235398.8,483.91,0.639230769
+Moong(Green Gram),2012,Rabi       ,Jammu and Kashmir,72.0,86,1116.7,10857.6,22.32,1.2
+Moth,2012,Kharif     ,Jammu and Kashmir,2823.0,1615,1116.7,425708.4,875.13,0.66
+Onion,2012,Kharif     ,Jammu and Kashmir,86.0,76,1116.7,12968.8,26.66,0.94
+Onion,2012,Rabi       ,Jammu and Kashmir,432.0,1046,1116.7,65145.6,133.92,2.391428571
+Other  Rabi pulses,2012,Rabi       ,Jammu and Kashmir,212.0,180,1116.7,31969.6,65.72,0.6125
+Other Cereals,2012,Kharif     ,Jammu and Kashmir,375.0,181,1116.7,56550.0,116.25,0.425
+Other Cereals,2012,Rabi       ,Jammu and Kashmir,29.0,21,1116.7,4373.2,8.99,0.72
+Other Kharif pulses,2012,Kharif     ,Jammu and Kashmir,4539.0,3075,1116.7,684481.2,1407.09,0.884705882
+Peas & beans (Pulses),2012,Kharif     ,Jammu and Kashmir,165.0,991,1116.7,24882.0,51.15,6.005
+Peas & beans (Pulses),2012,Rabi       ,Jammu and Kashmir,863.0,856,1116.7,130140.4,267.53,0.69
+Potato,2012,Kharif     ,Jammu and Kashmir,1225.0,10346,1116.7,184730.0,379.75,10.75
+Potato,2012,Rabi       ,Jammu and Kashmir,1161.0,13930,1116.7,175078.8,359.91,12.59
+Rapeseed &Mustard,2012,Rabi       ,Jammu and Kashmir,59861.0,48934,1116.7,9027038.8,18556.91,0.896315789
+Rice,2012,Kharif     ,Jammu and Kashmir,261663.0,545186,1116.7,39458780.4,81115.53,1.8875
+Sannhamp,2012,Kharif     ,Jammu and Kashmir,55.0,40,1116.7,8294.0,17.05,0.744
+Sesamum,2012,Kharif     ,Jammu and Kashmir,4788.0,2090,1116.7,722030.4,1484.28,0.445
+Small millets,2012,Kharif     ,Jammu and Kashmir,3928.0,1832,1116.7,592342.4,1217.68,0.50125
+Small millets,2012,Rabi       ,Jammu and Kashmir,4.0,3,1116.7,603.2,1.24,0.765
+Sugarcane,2012,Kharif     ,Jammu and Kashmir,22.0,33,1116.7,3317.6,6.82,1.495
+Tobacco,2012,Kharif     ,Jammu and Kashmir,1.0,0,1116.7,150.8,0.31,0.4
+Turmeric,2012,Kharif     ,Jammu and Kashmir,11.0,11,1116.7,1658.8,3.41,1.0575
+Turmeric,2012,Rabi       ,Jammu and Kashmir,4.0,4,1116.7,603.2,1.24,0.93
+Urad,2012,Kharif     ,Jammu and Kashmir,14010.0,5423,1116.7,2112708.0,4343.1,0.447692308
+Wheat,2012,Rabi       ,Jammu and Kashmir,289964.0,462422,1116.7,43726571.2,89888.84,1.328461538
+other oilseeds,2012,Kharif     ,Jammu and Kashmir,9.0,5,1116.7,1357.2,2.79,0.57
+Bajra,2014,Kharif     ,Jammu and Kashmir,15797.0,9395,1278.4,2384715.12,5213.01,0.558571429
+Barley,2014,Kharif     ,Jammu and Kashmir,27.0,10,1278.4,4075.92,8.91,0.35
+Dry chillies,2014,Kharif     ,Jammu and Kashmir,623.0,347,1278.4,94048.08,205.59,0.67125
+Ginger,2014,Kharif     ,Jammu and Kashmir,21.0,30,1278.4,3170.16,6.93,1.353333333
+Maize,2014,Kharif     ,Jammu and Kashmir,297496.0,359960,1278.4,44909996.16,98173.68,1.048421053
+Masoor,2014,Kharif     ,Jammu and Kashmir,16.0,8,1278.4,2415.36,5.28,0.51
+Moong(Green Gram),2014,Kharif     ,Jammu and Kashmir,1583.0,285,1278.4,238969.68,522.39,0.585714286
+Onion,2014,Kharif     ,Jammu and Kashmir,110.0,99,1278.4,16605.6,36.3,0.84
+Other Cereals,2014,Kharif     ,Jammu and Kashmir,519.0,213,1278.4,78348.24,171.27,0.517142857
+Other Kharif pulses,2014,Kharif     ,Jammu and Kashmir,546.0,433,1278.4,82424.16,180.18,1.648333333
+Peas & beans (Pulses),2014,Kharif     ,Jammu and Kashmir,48.0,21,1278.4,7246.08,15.84,0.46
+Potato,2014,Kharif     ,Jammu and Kashmir,1792.0,17412,1278.4,270520.32,591.36,8.44625
+Rapeseed &Mustard,2014,Kharif     ,Jammu and Kashmir,21.0,37,1278.4,3170.16,6.93,1.74
+Rice,2014,Kharif     ,Jammu and Kashmir,275861.0,344823,1278.4,41643976.56,91034.13,1.098947368
+Sannhamp,2014,Kharif     ,Jammu and Kashmir,30.0,19,1278.4,4528.8,9.9,0.6
+Sesamum,2014,Kharif     ,Jammu and Kashmir,3804.0,1566,1278.4,574251.84,1255.32,0.414
+Sugarcane,2014,Kharif     ,Jammu and Kashmir,1305.0,1958,1278.4,197002.8,430.65,1.5
+Tobacco,2014,Kharif     ,Jammu and Kashmir,1.0,0,1278.4,150.96,0.33,0.4
+Turmeric,2014,Kharif     ,Jammu and Kashmir,12.0,12,1278.4,1811.52,3.96,1.04
+Urad,2014,Kharif     ,Jammu and Kashmir,13063.0,4321,1278.4,1971990.48,4310.79,0.304
+Bajra,2015,Kharif     ,Jammu and Kashmir,8897.0,5305,1572.6,1404925.27,2936.01,0.604
+Bajra,2015,Rabi       ,Jammu and Kashmir,187.0,56,1572.6,29529.17,61.71,0.416666667
+Barley,2015,Kharif     ,Jammu and Kashmir,127.0,45,1572.6,20054.57,41.91,0.35
+Barley,2015,Rabi       ,Jammu and Kashmir,6533.0,4099,1572.6,1031626.03,2155.89,0.716
+Cotton(lint),2015,Kharif     ,Jammu and Kashmir,2.0,1,1572.6,315.82,0.66,0.5
+Cowpea(Lobia),2015,Kharif     ,Jammu and Kashmir,254.0,51,1572.6,40109.14,83.82,0.2
+Cowpea(Lobia),2015,Rabi       ,Jammu and Kashmir,193.0,106,1572.6,30476.63,63.69,0.6375
+Dry chillies,2015,Kharif     ,Jammu and Kashmir,567.0,485,1572.6,89534.97,187.11,0.905555556
+Garlic,2015,Rabi       ,Jammu and Kashmir,859.0,713,1572.6,135644.69,283.47,0.83375
+Ginger,2015,Kharif     ,Jammu and Kashmir,9.0,20,1572.6,1421.19,2.97,2.175
+Horse-gram,2015,Kharif     ,Jammu and Kashmir,192.0,67,1572.6,30318.72,63.36,0.371666667
+Horse-gram,2015,Rabi       ,Jammu and Kashmir,4.0,2,1572.6,631.64,1.32,0.4
+Linseed,2015,Rabi       ,Jammu and Kashmir,168.0,40,1572.6,26528.88,55.44,0.506
+Maize,2015,Kharif     ,Jammu and Kashmir,293858.0,523609,1572.6,46403116.78,96973.14,1.5905
+Masoor,2015,Rabi       ,Jammu and Kashmir,5.0,3,1572.6,789.55,1.65,0.56
+Moong(Green Gram),2015,Kharif     ,Jammu and Kashmir,345.0,148,1572.6,54478.95,113.85,0.50625
+Moong(Green Gram),2015,Rabi       ,Jammu and Kashmir,3.0,1,1572.6,473.73,0.99,0.3
+Moth,2015,Kharif     ,Jammu and Kashmir,1071.0,786,1572.6,169121.61,353.43,0.774285714
+Onion,2015,Kharif     ,Jammu and Kashmir,42.0,22,1572.6,6632.22,13.86,0.6
+Onion,2015,Rabi       ,Jammu and Kashmir,405.0,961,1572.6,63953.55,133.65,2.405
+Other  Rabi pulses,2015,Rabi       ,Jammu and Kashmir,123.0,115,1572.6,19422.93,40.59,0.871666667
+Other Cereals,2015,Kharif     ,Jammu and Kashmir,392.0,197,1572.6,61900.72,129.36,0.535714286
+Other Cereals,2015,Rabi       ,Jammu and Kashmir,11416.0,4904,1572.6,1802700.56,3767.28,0.3625
+Other Kharif pulses,2015,Kharif     ,Jammu and Kashmir,4154.0,3333,1572.6,655958.14,1370.82,0.820833333
+Peas & beans (Pulses),2015,Kharif     ,Jammu and Kashmir,253.0,1069,1572.6,39951.23,83.49,3.56
+Peas & beans (Pulses),2015,Rabi       ,Jammu and Kashmir,1942.0,1424,1572.6,306661.22,640.86,0.711333333
+Potato,2015,Kharif     ,Jammu and Kashmir,1710.0,12150,1572.6,270026.1,564.3,5.697333333
+Potato,2015,Rabi       ,Jammu and Kashmir,1532.0,14418,1572.6,241918.12,505.56,10.39166667
+Rapeseed &Mustard,2015,Rabi       ,Jammu and Kashmir,50594.0,31026,1572.6,7989298.54,16696.02,0.583
+Rice,2015,Kharif     ,Jammu and Kashmir,304503.0,646362,1572.6,48084068.73,100485.99,2.05
+Sannhamp,2015,Kharif     ,Jammu and Kashmir,6.0,5,1572.6,947.46,1.98,0.775
+Sesamum,2015,Kharif     ,Jammu and Kashmir,3739.0,1534,1572.6,590425.49,1233.87,0.436666667
+Small millets,2015,Kharif     ,Jammu and Kashmir,3315.0,1604,1572.6,523471.65,1093.95,0.454444444
+Small millets,2015,Rabi       ,Jammu and Kashmir,107.0,80,1572.6,16896.37,35.31,0.75
+Sugarcane,2015,Kharif     ,Jammu and Kashmir,193.0,290,1572.6,30476.63,63.69,1.5
+Turmeric,2015,Kharif     ,Jammu and Kashmir,9.0,9,1572.6,1421.19,2.97,1.0
+Urad,2015,Kharif     ,Jammu and Kashmir,6457.0,2180,1572.6,1019624.87,2130.81,0.403333333
+Urad,2015,Rabi       ,Jammu and Kashmir,18.0,9,1572.6,2842.38,5.94,0.465
+Wheat,2015,Rabi       ,Jammu and Kashmir,281870.0,544889,1572.6,44510091.7,93017.1,1.332857143
+other oilseeds,2015,Rabi       ,Jammu and Kashmir,21.0,16,1572.6,3316.11,6.93,0.78
+Bajra,2016,Kharif     ,Jammu and Kashmir,13730.0,8164,902.8,2104122.5,4805.5,0.602857143
+Bajra,2016,Rabi       ,Jammu and Kashmir,139.0,46,902.8,21301.75,48.65,0.475
+Barley,2016,Kharif     ,Jammu and Kashmir,189.0,67,902.8,28964.25,66.15,0.35
+Barley,2016,Rabi       ,Jammu and Kashmir,6571.0,4205,902.8,1007005.75,2299.85,0.77875
+Cotton(lint),2016,Kharif     ,Jammu and Kashmir,4.0,2,902.8,613.0,1.4,0.5
+Cowpea(Lobia),2016,Kharif     ,Jammu and Kashmir,256.0,51,902.8,39232.0,89.6,0.2
+Cowpea(Lobia),2016,Rabi       ,Jammu and Kashmir,162.0,90,902.8,24826.5,56.7,0.725
+Dry chillies,2016,Kharif     ,Jammu and Kashmir,646.0,531,902.8,98999.5,226.1,0.839166667
+Garlic,2016,Rabi       ,Jammu and Kashmir,745.0,610,902.8,114171.25,260.75,0.829090909
+Ginger,2016,Kharif     ,Jammu and Kashmir,23.0,47,902.8,3524.75,8.05,1.976666667
+Horse-gram,2016,Kharif     ,Jammu and Kashmir,798.0,280,902.8,122293.5,279.3,0.363333333
+Horse-gram,2016,Rabi       ,Jammu and Kashmir,1.0,0,902.8,153.25,0.35,0.4
+Linseed,2016,Rabi       ,Jammu and Kashmir,122.0,46,902.8,18696.5,42.7,0.523333333
+Maize,2016,Kharif     ,Jammu and Kashmir,295174.0,541120,902.8,45235415.5,103310.9,1.6325
+Masoor,2016,Rabi       ,Jammu and Kashmir,6.0,3,902.8,919.5,2.1,0.57
+Moong(Green Gram),2016,Kharif     ,Jammu and Kashmir,806.0,461,902.8,123519.5,282.1,0.502727273
+Moth,2016,Kharif     ,Jammu and Kashmir,1111.0,807,902.8,170260.75,388.85,0.692
+Onion,2016,Kharif     ,Jammu and Kashmir,16.0,8,902.8,2452.0,5.6,0.5
+Onion,2016,Rabi       ,Jammu and Kashmir,612.0,1458,902.8,93789.0,214.2,2.425555556
+Other  Rabi pulses,2016,Rabi       ,Jammu and Kashmir,548.0,297,902.8,83981.0,191.8,0.796666667
+Other Cereals,2016,Kharif     ,Jammu and Kashmir,2762.0,1381,902.8,423276.5,966.7,0.513333333
+Other Cereals,2016,Rabi       ,Jammu and Kashmir,11566.0,5537,902.8,1772489.5,4048.1,0.348571429
+Other Kharif pulses,2016,Kharif     ,Jammu and Kashmir,3780.0,2698,902.8,579285.0,1323.0,0.666428571
+Peas & beans (Pulses),2016,Kharif     ,Jammu and Kashmir,210.0,1010,902.8,32182.5,73.5,3.82
+Peas & beans (Pulses),2016,Rabi       ,Jammu and Kashmir,1579.0,1185,902.8,241981.75,552.65,0.705384615
+Potato,2016,Kharif     ,Jammu and Kashmir,1692.0,12399,902.8,259299.0,592.2,7.245
+Potato,2016,Rabi       ,Jammu and Kashmir,1387.0,17243,902.8,212557.75,485.45,11.46928571
+Rapeseed &Mustard,2016,Rabi       ,Jammu and Kashmir,47611.0,25025,902.8,7296385.75,16663.85,0.605263158
+Rice,2016,Kharif     ,Jammu and Kashmir,283443.0,572213,902.8,43437639.75,99205.05,2.0255
+Sannhamp,2016,Kharif     ,Jammu and Kashmir,25.0,22,902.8,3831.25,8.75,0.806666667
+Sesamum,2016,Kharif     ,Jammu and Kashmir,5747.0,2497,902.8,880727.75,2011.45,0.432857143
+Small millets,2016,Kharif     ,Jammu and Kashmir,3382.0,1650,902.8,518291.5,1183.7,0.503
+Small millets,2016,Rabi       ,Jammu and Kashmir,74.0,51,902.8,11340.5,25.9,0.63
+Sugarcane,2016,Kharif     ,Jammu and Kashmir,45.0,68,902.8,6896.25,15.75,1.5
+Turmeric,2016,Kharif     ,Jammu and Kashmir,14.0,14,902.8,2145.5,4.9,1.0
+Urad,2016,Kharif     ,Jammu and Kashmir,9636.0,3288,902.8,1476717.0,3372.6,0.375
+Wheat,2016,Rabi       ,Jammu and Kashmir,290301.0,548542,902.8,44488628.25,101605.35,1.416428571
+other oilseeds,2016,Rabi       ,Jammu and Kashmir,1234.0,958,902.8,189110.5,431.9,0.786666667
+Bajra,2017,Kharif     ,Jammu and Kashmir,12448.0,7403,1279.1,1959813.12,4730.24,0.602857143
+Bajra,2017,Rabi       ,Jammu and Kashmir,167.0,42,1279.1,26292.48,63.46,0.25
+Barley,2017,Kharif     ,Jammu and Kashmir,93.0,33,1279.1,14641.92,35.34,0.354
+Barley,2017,Rabi       ,Jammu and Kashmir,5664.0,3303,1279.1,891740.16,2152.32,0.749
+Cotton(lint),2017,Kharif     ,Jammu and Kashmir,5.0,3,1279.1,787.2,1.9,0.52
+Dry chillies,2017,Kharif     ,Jammu and Kashmir,664.0,557,1279.1,104540.16,252.32,0.862727273
+Dry chillies,2017,Rabi       ,Jammu and Kashmir,12.0,10,1279.1,1889.28,4.56,0.8
+Garlic,2017,Rabi       ,Jammu and Kashmir,679.0,553,1279.1,106901.76,258.02,0.79
+Ginger,2017,Kharif     ,Jammu and Kashmir,25.0,51,1279.1,3936.0,9.5,2.0225
+Gram,2017,Kharif     ,Jammu and Kashmir,23.0,5,1279.1,3621.12,8.74,0.21
+Horse-gram,2017,Kharif     ,Jammu and Kashmir,1106.0,473,1279.1,174128.64,420.28,0.423333333
+Horse-gram,2017,Rabi       ,Jammu and Kashmir,45.0,18,1279.1,7084.8,17.1,0.4
+Jowar,2017,Kharif     ,Jammu and Kashmir,63.0,38,1279.1,9918.72,23.94,0.6
+Linseed,2017,Rabi       ,Jammu and Kashmir,62.0,32,1279.1,9761.28,23.56,0.47
+Maize,2017,Kharif     ,Jammu and Kashmir,302516.0,546169,1279.1,47628119.04,114956.08,1.534
+Masoor,2017,Kharif     ,Jammu and Kashmir,210.0,116,1279.1,33062.4,79.8,1.125
+Masoor,2017,Rabi       ,Jammu and Kashmir,15.0,10,1279.1,2361.6,5.7,0.735
+Moong(Green Gram),2017,Kharif     ,Jammu and Kashmir,614.0,237,1279.1,96668.16,233.32,0.478571429
+Moth,2017,Kharif     ,Jammu and Kashmir,1119.0,833,1279.1,176175.36,425.22,0.7375
+Onion,2017,Kharif     ,Jammu and Kashmir,57.0,29,1279.1,8974.08,21.66,0.5
+Onion,2017,Rabi       ,Jammu and Kashmir,552.0,1320,1279.1,86906.88,209.76,2.4
+Other  Rabi pulses,2017,Rabi       ,Jammu and Kashmir,284.0,99,1279.1,44712.96,107.92,0.496
+Other Cereals,2017,Kharif     ,Jammu and Kashmir,2395.0,1253,1279.1,377068.8,910.1,2.171666667
+Other Cereals,2017,Rabi       ,Jammu and Kashmir,42.0,11,1279.1,6612.48,15.96,0.283333333
+Other Kharif pulses,2017,Kharif     ,Jammu and Kashmir,3711.0,2884,1279.1,584259.84,1410.18,0.596428571
+Peas & beans (Pulses),2017,Kharif     ,Jammu and Kashmir,240.0,1174,1279.1,37785.6,91.2,4.13
+Peas & beans (Pulses),2017,Rabi       ,Jammu and Kashmir,1683.0,1292,1279.1,264971.52,639.54,0.714166667
+Potato,2017,Kharif     ,Jammu and Kashmir,1897.0,20476,1279.1,298663.68,720.86,11.97529412
+Potato,2017,Rabi       ,Jammu and Kashmir,1165.0,14298,1279.1,183417.6,442.7,12.108
+Ragi,2017,Kharif     ,Jammu and Kashmir,238.0,126,1279.1,37470.72,90.44,0.566666667
+Ragi,2017,Rabi       ,Jammu and Kashmir,8486.0,4725,1279.1,1336035.84,3224.68,0.57
+Rapeseed &Mustard,2017,Rabi       ,Jammu and Kashmir,47401.0,37589,1279.1,7462813.44,18012.38,0.815
+Rice,2017,Kharif     ,Jammu and Kashmir,273582.0,663755,1279.1,43072750.08,103961.16,2.31
+Sannhamp,2017,Kharif     ,Jammu and Kashmir,35.0,32,1279.1,5510.4,13.3,0.82
+Sesamum,2017,Kharif     ,Jammu and Kashmir,4326.0,1762,1279.1,681085.44,1643.88,0.421666667
+Small millets,2017,Kharif     ,Jammu and Kashmir,3681.0,1801,1279.1,579536.64,1398.78,0.441
+Tobacco,2017,Kharif     ,Jammu and Kashmir,2.0,1,1279.1,314.88,0.76,0.4
+Turmeric,2017,Kharif     ,Jammu and Kashmir,9.0,9,1279.1,1416.96,3.42,1.006666667
+Turmeric,2017,Rabi       ,Jammu and Kashmir,1.0,1,1279.1,157.44,0.38,0.9
+Urad,2017,Kharif     ,Jammu and Kashmir,10256.0,3468,1279.1,1614704.64,3897.28,0.371818182
+Urad,2017,Rabi       ,Jammu and Kashmir,64.0,38,1279.1,10076.16,24.32,0.6
+Wheat,2017,Rabi       ,Jammu and Kashmir,299336.0,640196,1279.1,47127459.84,113747.68,1.645
+other oilseeds,2017,Kharif     ,Jammu and Kashmir,6.0,3,1279.1,944.64,2.28,0.5
+other oilseeds,2017,Rabi       ,Jammu and Kashmir,15.0,10,1279.1,2361.6,5.7,0.505
+Bajra,2018,Kharif     ,Jammu and Kashmir,19792.0,11769,1016.3,3210262.4,6927.2,0.603333333
+Bajra,2018,Rabi       ,Jammu and Kashmir,4566.0,1814,1016.3,740605.2,1598.1,0.355
+Barley,2018,Kharif     ,Jammu and Kashmir,441.0,155,1016.3,71530.2,154.35,0.35
+Barley,2018,Rabi       ,Jammu and Kashmir,6598.0,4412,1016.3,1070195.6,2309.3,0.728888889
+Dry chillies,2018,Kharif     ,Jammu and Kashmir,672.0,539,1016.3,108998.4,235.2,0.863636364
+Garlic,2018,Rabi       ,Jammu and Kashmir,675.0,546,1016.3,109485.0,236.25,0.8125
+Ginger,2018,Kharif     ,Jammu and Kashmir,27.0,54,1016.3,4379.4,9.45,1.983333333
+Horse-gram,2018,Kharif     ,Jammu and Kashmir,777.0,334,1016.3,126029.4,271.95,0.428333333
+Horse-gram,2018,Rabi       ,Jammu and Kashmir,8.0,10,1016.3,1297.6,2.8,1.3
+Linseed,2018,Rabi       ,Jammu and Kashmir,151.0,169,1016.3,24492.2,52.85,1.12
+Maize,2018,Kharif     ,Jammu and Kashmir,262353.0,574380,1016.3,42553656.6,91823.55,1.949
+Masoor,2018,Kharif     ,Jammu and Kashmir,210.0,116,1016.3,34062.0,73.5,1.125
+Masoor,2018,Rabi       ,Jammu and Kashmir,194.0,175,1016.3,31466.8,67.9,0.9
+Moong(Green Gram),2018,Kharif     ,Jammu and Kashmir,381.0,166,1016.3,61798.2,133.35,0.48
+Moth,2018,Kharif     ,Jammu and Kashmir,1124.0,822,1016.3,182312.8,393.4,0.73875
+Onion,2018,Kharif     ,Jammu and Kashmir,17.0,9,1016.3,2757.4,5.95,0.5
+Onion,2018,Rabi       ,Jammu and Kashmir,550.0,1311,1016.3,89210.0,192.5,1.9925
+Other  Rabi pulses,2018,Rabi       ,Jammu and Kashmir,304.0,170,1016.3,49308.8,106.4,0.722
+Other Cereals,2018,Kharif     ,Jammu and Kashmir,92.0,103,1016.3,14922.4,32.2,2.506
+Other Cereals,2018,Rabi       ,Jammu and Kashmir,2703.0,521,1016.3,438426.6,946.05,0.338
+Other Kharif pulses,2018,Kharif     ,Jammu and Kashmir,3848.0,2967,1016.3,624145.6,1346.8,1.170714286
+Peas & beans (Pulses),2018,Kharif     ,Jammu and Kashmir,330.0,1417,1016.3,53526.0,115.5,3.848333333
+Peas & beans (Pulses),2018,Rabi       ,Jammu and Kashmir,1712.0,1348,1016.3,277686.4,599.2,0.7125
+Potato,2018,Kharif     ,Jammu and Kashmir,1555.0,18663,1016.3,252221.0,544.25,13.186875
+Potato,2018,Rabi       ,Jammu and Kashmir,1741.0,18907,1016.3,282390.2,609.35,12.05
+Ragi,2018,Kharif     ,Jammu and Kashmir,159.0,84,1016.3,25789.8,55.65,0.55
+Ragi,2018,Rabi       ,Jammu and Kashmir,4056.0,2987,1016.3,657883.2,1419.6,0.57
+Rapeseed &Mustard,2018,Rabi       ,Jammu and Kashmir,47245.0,54389,1016.3,7663139.0,16535.75,0.9585
+Rice,2018,Kharif     ,Jammu and Kashmir,262012.0,615799,1016.3,42498346.4,91704.2,2.35
+Sesamum,2018,Kharif     ,Jammu and Kashmir,4422.0,1808,1016.3,717248.4,1547.7,0.421666667
+Small millets,2018,Kharif     ,Jammu and Kashmir,1474.0,680,1016.3,239082.8,515.9,0.455
+Small millets,2018,Rabi       ,Jammu and Kashmir,30.0,22,1016.3,4866.0,10.5,0.75
+Turmeric,2018,Kharif     ,Jammu and Kashmir,11.0,11,1016.3,1784.2,3.85,1.003333333
+Urad,2018,Kharif     ,Jammu and Kashmir,10962.0,3704,1016.3,1778036.4,3836.7,0.368333333
+Wheat,2018,Rabi       ,Jammu and Kashmir,288387.0,671799,1016.3,46776371.4,100935.45,1.687142857
+other oilseeds,2018,Kharif     ,Jammu and Kashmir,1.0,1,1016.3,162.2,0.35,0.5
+other oilseeds,2018,Rabi       ,Jammu and Kashmir,49.0,30,1016.3,7947.8,17.15,0.606666667
+Bajra,2019,Kharif     ,Jammu and Kashmir,9656.0,5781,1324.1,1658514.56,3572.72,0.603333333
+Bajra,2019,Rabi       ,Jammu and Kashmir,123.0,36,1324.1,21126.48,45.51,0.58
+Barley,2019,Kharif     ,Jammu and Kashmir,933.0,330,1324.1,160252.08,345.21,0.35
+Barley,2019,Rabi       ,Jammu and Kashmir,6495.0,4154,1324.1,1115581.2,2403.15,0.7075
+Dry chillies,2019,Kharif     ,Jammu and Kashmir,678.0,548,1324.1,116453.28,250.86,0.862727273
+Dry chillies,2019,Rabi       ,Jammu and Kashmir,12.0,9,1324.1,2061.12,4.44,0.74
+Garlic,2019,Rabi       ,Jammu and Kashmir,662.0,535,1324.1,113705.12,244.94,0.805555556
+Ginger,2019,Kharif     ,Jammu and Kashmir,19.0,37,1324.1,3263.44,7.03,1.925
+Gram,2019,Kharif     ,Jammu and Kashmir,9.0,3,1324.1,1545.84,3.33,0.3
+Horse-gram,2019,Kharif     ,Jammu and Kashmir,631.0,221,1324.1,108380.56,233.47,0.361666667
+Horse-gram,2019,Rabi       ,Jammu and Kashmir,20.0,8,1324.1,3435.2,7.4,0.4
+Linseed,2019,Rabi       ,Jammu and Kashmir,125.0,151,1324.1,21470.0,46.25,1.213333333
+Maize,2019,Kharif     ,Jammu and Kashmir,268669.0,541451,1324.1,46146587.44,99407.53,1.8985
+Masoor,2019,Kharif     ,Jammu and Kashmir,213.0,122,1324.1,36584.88,78.81,1.44
+Masoor,2019,Rabi       ,Jammu and Kashmir,166.0,150,1324.1,28512.16,61.42,0.9
+Moong(Green Gram),2019,Kharif     ,Jammu and Kashmir,308.0,133,1324.1,52902.08,113.96,0.485714286
+Moth,2019,Kharif     ,Jammu and Kashmir,1169.0,856,1324.1,200787.44,432.53,0.691
+Onion,2019,Kharif     ,Jammu and Kashmir,26.0,13,1324.1,4465.76,9.62,0.335
+Onion,2019,Rabi       ,Jammu and Kashmir,561.0,1342,1324.1,96357.36,207.57,2.426666667
+Other  Rabi pulses,2019,Rabi       ,Jammu and Kashmir,369.0,192,1324.1,63379.44,136.53,0.8625
+Other Cereals,2019,Kharif     ,Jammu and Kashmir,126.0,319,1324.1,21641.76,46.62,4.394
+Other Cereals,2019,Rabi       ,Jammu and Kashmir,5834.0,1093,1324.1,1002047.84,2158.58,0.22
+Other Kharif pulses,2019,Kharif     ,Jammu and Kashmir,4237.0,3582,1324.1,727747.12,1567.69,1.08
+Peas & beans (Pulses),2019,Kharif     ,Jammu and Kashmir,281.0,1383,1324.1,48264.56,103.97,4.504
+Peas & beans (Pulses),2019,Rabi       ,Jammu and Kashmir,716.0,577,1324.1,122980.16,264.92,0.699
+Potato,2019,Kharif     ,Jammu and Kashmir,1362.0,14417,1324.1,233937.12,503.94,11.211875
+Potato,2019,Rabi       ,Jammu and Kashmir,1451.0,13726,1324.1,249223.76,536.87,8.391666667
+Ragi,2019,Kharif     ,Jammu and Kashmir,205.0,107,1324.1,35210.8,75.85,0.55
+Rapeseed &Mustard,2019,Kharif     ,Jammu and Kashmir,93.0,47,1324.1,15973.68,34.41,0.5
+Rapeseed &Mustard,2019,Rabi       ,Jammu and Kashmir,45218.0,37098,1324.1,7766643.68,16730.66,0.880526316
+Rice,2019,Kharif     ,Jammu and Kashmir,280513.0,587099,1324.1,48180912.88,103789.81,2.0755
+Sesamum,2019,Kharif     ,Jammu and Kashmir,3825.0,1565,1324.1,656982.0,1415.25,0.405
+Small millets,2019,Kharif     ,Jammu and Kashmir,1683.0,637,1324.1,289072.08,622.71,0.39125
+Small millets,2019,Rabi       ,Jammu and Kashmir,7.0,5,1324.1,1202.32,2.59,0.7
+Sugarcane,2019,Whole Year ,Jammu and Kashmir,37.0,83,1324.1,6355.12,13.69,1.915
+Turmeric,2019,Kharif     ,Jammu and Kashmir,4.0,4,1324.1,687.04,1.48,1.0
+Urad,2019,Kharif     ,Jammu and Kashmir,8315.0,2802,1324.1,1428184.4,3076.55,0.370909091
+Urad,2019,Rabi       ,Jammu and Kashmir,6.0,3,1324.1,1030.56,2.22,0.48
+Wheat,2019,Rabi       ,Jammu and Kashmir,243929.0,488297,1324.1,41897245.04,90253.73,1.6575
+other oilseeds,2019,Kharif     ,Jammu and Kashmir,2.0,1,1324.1,343.52,0.74,0.5
+Barley,2013,Rabi       ,Jammu and Kashmir,11893.0,6941,1193.8,1718419.57,3211.11,0.746
+Garlic,2013,Rabi       ,Jammu and Kashmir,653.0,567,1193.8,94351.97,176.31,0.854444444
+Ginger,2013,Rabi       ,Jammu and Kashmir,3.0,3,1193.8,433.47,0.81,0.9
+Gram,2013,Rabi       ,Jammu and Kashmir,166.0,92,1193.8,23985.34,44.82,0.55
+Linseed,2013,Rabi       ,Jammu and Kashmir,165.0,96,1193.8,23840.85,44.55,0.518333333
+Moong(Green Gram),2013,Rabi       ,Jammu and Kashmir,72.0,86,1193.8,10403.28,19.44,1.2
+Onion,2013,Rabi       ,Jammu and Kashmir,432.0,1046,1193.8,62419.68,116.64,2.391428571
+Other  Rabi pulses,2013,Rabi       ,Jammu and Kashmir,174.0,141,1193.8,25141.26,46.98,0.773333333
+Peas & beans (Pulses),2013,Rabi       ,Jammu and Kashmir,1512.0,1361,1193.8,218468.88,408.24,0.702857143
+Potato,2013,Rabi       ,Jammu and Kashmir,1312.0,15339,1193.8,189570.88,354.24,12.0475
+Rapeseed &Mustard,2013,Rabi       ,Jammu and Kashmir,59947.0,46031,1193.8,8661742.03,16185.69,0.8835
+Turmeric,2013,Rabi       ,Jammu and Kashmir,4.0,4,1193.8,577.96,1.08,0.93
+Wheat,2013,Rabi       ,Jammu and Kashmir,292380.0,464577,1193.8,42245986.2,78942.6,1.27
+Maize,1997,Kharif     ,Jammu and Kashmir,310883.0,440900,1356.2,29586735.11,96373.73,1.285
+Rice,1997,Kharif     ,Jammu and Kashmir,275746.0,5488,1356.2,26242746.82,85481.26,0.016666667
+Wheat,1997,Rabi       ,Jammu and Kashmir,239344.0,392160,1356.2,22778368.48,74196.64,1.261818182

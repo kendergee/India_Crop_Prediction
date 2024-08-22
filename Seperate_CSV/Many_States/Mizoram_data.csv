@@ -1,0 +1,417 @@
+Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
+Arhar/Tur,1997,Kharif     ,Mizoram,83.0,143,2644.2,7899.11,25.73,2.013333333
+Coconut ,1997,Kharif     ,Mizoram,15.0,40,2644.2,1427.55,4.65,2.595
+Groundnut,1997,Kharif     ,Mizoram,119.0,178,2644.2,11325.23,36.89,1.483333333
+Maize,1997,Kharif     ,Mizoram,8140.0,16256,2644.2,774683.8,2523.4,2.0875
+Maize,1997,Rabi       ,Mizoram,120.0,243,2644.2,11420.4,37.2,2.15
+Peas & beans (Pulses),1997,Kharif     ,Mizoram,231.0,271,2644.2,21984.27,71.61,1.4825
+Rapeseed &Mustard,1997,Kharif     ,Mizoram,374.0,440,2644.2,35593.58,115.94,1.853333333
+Rapeseed &Mustard,1997,Rabi       ,Mizoram,2095.0,1340,2644.2,199381.15,649.45,0.81
+Rice,1997,Whole Year ,Mizoram,68114.0,110573,2644.2,6482409.38,21115.34,1.6
+Sesamum,1997,Kharif     ,Mizoram,4592.0,4443,2644.2,437020.64,1423.52,0.9
+Soyabean,1997,Kharif     ,Mizoram,1039.0,1614,2644.2,98881.63,322.09,1.4925
+Sugarcane,1997,Whole Year ,Mizoram,1252.0,7488,2644.2,119152.84,388.12,5.8
+Sunflower,1997,Kharif     ,Mizoram,6.0,7,2644.2,571.02,1.86,1.25
+Tapioca,1997,Whole Year ,Mizoram,478.0,6956,2644.2,45491.26,148.18,9.34
+Tobacco,1997,Rabi       ,Mizoram,377.0,415,2644.2,35879.09,116.87,1.225
+Wheat,1997,Rabi       ,Mizoram,22.0,11,2644.2,2093.74,6.82,0.5
+Arhar/Tur,2000,Kharif     ,Mizoram,77.0,95,2834.3,7559.09,20.02,1.025
+Cotton(lint),2000,Kharif     ,Mizoram,483.0,1236,2834.3,47416.11,125.58,2.645
+Maize,2000,Kharif     ,Mizoram,6410.0,16112,2834.3,629269.7,1666.6,2.1825
+Maize,2000,Rabi       ,Mizoram,233.0,324,2834.3,22873.61,60.58,1.516666667
+Masoor,2000,Rabi       ,Mizoram,10.0,8,2834.3,981.7,2.6,0.8
+Other  Rabi pulses,2000,Rabi       ,Mizoram,344.0,747,2834.3,33770.48,89.44,2.106666667
+Other Kharif pulses,2000,Kharif     ,Mizoram,1610.0,2554,2834.3,158053.7,418.6,1.4075
+Potato,2000,Whole Year ,Mizoram,310.0,2429,2834.3,30432.7,80.6,5.805
+Rapeseed &Mustard,2000,Rabi       ,Mizoram,2328.0,1984,2834.3,228539.76,605.28,0.8475
+Rice,2000,Kharif     ,Mizoram,51839.0,103673,2834.3,5089034.63,13478.14,1.8875
+Sesamum,2000,Kharif     ,Mizoram,3791.0,2047,2834.3,372162.47,985.66,0.735
+Soyabean,2000,Kharif     ,Mizoram,1194.0,1591,2834.3,117214.98,310.44,1.45
+Sugarcane,2000,Whole Year ,Mizoram,952.0,6361,2834.3,93457.84,247.52,8.705
+Tobacco,2000,Whole Year ,Mizoram,373.0,246,2834.3,36617.41,96.98,0.56
+Arhar/Tur,2001,Kharif     ,Mizoram,53.0,49,2406.4,5412.89,13.78,0.92
+Cotton(lint),2001,Kharif     ,Mizoram,618.0,1264,2406.4,63116.34,160.68,2.625
+Maize,2001,Kharif     ,Mizoram,5493.0,13758,2406.4,561000.09,1428.18,2.076666667
+Maize,2001,Rabi       ,Mizoram,1884.0,2887,2406.4,192412.92,489.84,1.6025
+Masoor,2001,Rabi       ,Mizoram,45.0,57,2406.4,4595.85,11.7,1.023333333
+Moong(Green Gram),2001,Kharif     ,Mizoram,5.5,4,2406.4,561.715,1.43,0.69
+Moong(Green Gram),2001,Rabi       ,Mizoram,82.77,72,2406.4,8453.3001,21.5202,1.05
+Peas & beans (Pulses),2001,Kharif     ,Mizoram,100.9,161,2406.4,10304.917,26.234,1.53
+Peas & beans (Pulses),2001,Rabi       ,Mizoram,138.5,97,2406.4,14145.005,36.01,0.85
+Potato,2001,Whole Year ,Mizoram,376.0,1471,2406.4,38400.88,97.76,4.8975
+Rapeseed &Mustard,2001,Rabi       ,Mizoram,2494.0,2173,2406.4,254712.22,648.44,0.8475
+Rice,2001,Kharif     ,Mizoram,55880.0,105713,2406.4,5707024.4,14528.8,1.825
+Sesamum,2001,Kharif     ,Mizoram,3985.0,1741,2406.4,406988.05,1036.1,0.5025
+Soyabean,2001,Kharif     ,Mizoram,1266.0,1212,2406.4,129296.58,329.16,0.98
+Sugarcane,2001,Whole Year ,Mizoram,1379.0,9359,2406.4,140837.27,358.54,8.115
+Tapioca,2001,Whole Year ,Mizoram,307.0,1479,2406.4,31353.91,79.82,5.7375
+Tobacco,2001,Whole Year ,Mizoram,292.0,224,2406.4,29821.96,75.92,0.76
+Urad,2001,Kharif     ,Mizoram,28.0,29,2406.4,2859.64,7.28,1.02
+Urad,2001,Rabi       ,Mizoram,36.0,23,2406.4,3676.68,9.36,0.643333333
+Arhar/Tur,2002,Kharif     ,Mizoram,101.0,75,2627.0,9561.67,25.25,0.653333333
+Arhar/Tur,2002,Rabi       ,Mizoram,336.0,170,2627.0,31809.12,84.0,0.505
+Cotton(lint),2002,Kharif     ,Mizoram,388.0,1030,2627.0,36731.96,97.0,2.4125
+Maize,2002,Kharif     ,Mizoram,6889.0,13820,2627.0,652181.63,1722.25,1.89
+Maize,2002,Rabi       ,Mizoram,600.0,1059,2627.0,56802.0,150.0,1.695
+Masoor,2002,Kharif     ,Mizoram,26.0,28,2627.0,2461.42,6.5,1.08
+Masoor,2002,Rabi       ,Mizoram,56.0,65,2627.0,5301.52,14.0,0.873333333
+Moong(Green Gram),2002,Kharif     ,Mizoram,13.0,9,2627.0,1230.71,3.25,0.69
+Moong(Green Gram),2002,Rabi       ,Mizoram,37.0,38,2627.0,3502.79,9.25,0.866666667
+Other  Rabi pulses,2002,Rabi       ,Mizoram,2078.0,2259,2627.0,196724.26,519.5,1.245
+Other Kharif pulses,2002,Kharif     ,Mizoram,2030.0,2384,2627.0,192180.1,507.5,0.945
+Potato,2002,Whole Year ,Mizoram,369.0,726,2627.0,34933.23,92.25,1.976666667
+Rapeseed &Mustard,2002,Rabi       ,Mizoram,2043.0,1471,2627.0,193410.81,510.75,0.6575
+Rice,2002,Kharif     ,Mizoram,57067.0,109205,2627.0,5402532.89,14266.75,1.89
+Sesamum,2002,Kharif     ,Mizoram,2945.0,1806,2627.0,278803.15,736.25,0.6
+Soyabean,2002,Kharif     ,Mizoram,1950.0,1846,2627.0,184606.5,487.5,0.955
+Sugarcane,2002,Whole Year ,Mizoram,1370.0,7443,2627.0,129697.9,342.5,6.4075
+Tapioca,2002,Whole Year ,Mizoram,232.0,1330,2627.0,21963.44,58.0,7.0675
+Tobacco,2002,Whole Year ,Mizoram,300.0,252,2627.0,28401.0,75.0,0.7975
+Urad,2002,Kharif     ,Mizoram,6.0,4,2627.0,568.02,1.5,0.67
+Urad,2002,Rabi       ,Mizoram,33.0,20,2627.0,3124.11,8.25,0.606666667
+Arhar/Tur,2003,Kharif     ,Mizoram,61.0,67,2499.5,6037.78,14.64,0.93
+Arhar/Tur,2003,Rabi       ,Mizoram,211.0,110,2499.5,20884.78,50.64,0.9125
+Cotton(lint),2003,Kharif     ,Mizoram,343.0,1336,2499.5,33950.14,82.32,3.501666667
+Gram,2003,Kharif     ,Mizoram,23.0,25,2499.5,2276.54,5.52,0.916666667
+Gram,2003,Rabi       ,Mizoram,23.0,18,2499.5,2276.54,5.52,1.176666667
+Maize,2003,Kharif     ,Mizoram,9765.0,19005,2499.5,966539.7,2343.6,1.981666667
+Maize,2003,Rabi       ,Mizoram,716.0,1277,2499.5,70869.68,171.84,1.802
+Masoor,2003,Rabi       ,Mizoram,11.0,8,2499.5,1088.78,2.64,0.723333333
+Moong(Green Gram),2003,Kharif     ,Mizoram,24.0,30,2499.5,2375.52,5.76,1.245
+Moong(Green Gram),2003,Rabi       ,Mizoram,44.0,46,2499.5,4355.12,10.56,0.944
+Other  Rabi pulses,2003,Rabi       ,Mizoram,1925.0,1570,2499.5,190536.5,462.0,0.92
+Other Kharif pulses,2003,Kharif     ,Mizoram,2053.0,1887,2499.5,203205.94,492.72,0.881666667
+Peas & beans (Pulses),2003,Kharif     ,Mizoram,165.0,172,2499.5,16331.7,39.6,0.9025
+Peas & beans (Pulses),2003,Rabi       ,Mizoram,346.0,376,2499.5,34247.08,83.04,1.018333333
+Potato,2003,Whole Year ,Mizoram,363.0,893,2499.5,35929.74,87.12,3.301666667
+Rice,2003,Kharif     ,Mizoram,59196.0,114630,2499.5,5859220.08,14207.04,1.925
+Sesamum,2003,Kharif     ,Mizoram,3285.0,2019,2499.5,325149.3,788.4,0.615
+Soyabean,2003,Kharif     ,Mizoram,1978.0,1963,2499.5,195782.44,474.72,1.085
+Sugarcane,2003,Whole Year ,Mizoram,1393.0,36174,2499.5,137879.14,334.32,25.87
+Tapioca,2003,Whole Year ,Mizoram,139.0,690,2499.5,13758.22,33.36,7.7075
+Tobacco,2003,Whole Year ,Mizoram,460.0,404,2499.5,45530.8,110.4,0.866666667
+Arhar/Tur,2005,Kharif     ,Mizoram,97.0,93,2075.4,11632.24,20.37,0.9175
+Arhar/Tur,2005,Rabi       ,Mizoram,46.0,42,2075.4,5516.32,9.66,0.76
+Cotton(lint),2005,Kharif     ,Mizoram,308.0,241,2075.4,36935.36,64.68,0.812
+Groundnut,2005,Kharif     ,Mizoram,10.0,8,2075.4,1199.2,2.1,0.833333333
+Maize,2005,Kharif     ,Mizoram,10810.0,20720,2075.4,1296335.2,2270.1,1.99875
+Maize,2005,Rabi       ,Mizoram,932.0,1983,2075.4,111765.44,195.72,2.625
+Masoor,2005,Rabi       ,Mizoram,10.0,10,2075.4,1199.2,2.1,1.19
+Moong(Green Gram),2005,Kharif     ,Mizoram,18.0,23,2075.4,2158.56,3.78,0.94
+Moong(Green Gram),2005,Rabi       ,Mizoram,63.0,89,2075.4,7554.96,13.23,1.65
+Other  Rabi pulses,2005,Rabi       ,Mizoram,1598.0,2972,2075.4,191632.16,335.58,1.79125
+Other Kharif pulses,2005,Kharif     ,Mizoram,4223.0,4644,2075.4,506422.16,886.83,1.1275
+Peas & beans (Pulses),2005,Kharif     ,Mizoram,123.0,110,2075.4,14750.16,25.83,0.683333333
+Peas & beans (Pulses),2005,Rabi       ,Mizoram,621.0,590,2075.4,74470.32,130.41,0.881666667
+Potato,2005,Whole Year ,Mizoram,953.0,3891,2075.4,114283.76,200.13,5.05125
+Rapeseed &Mustard,2005,Kharif     ,Mizoram,166.0,122,2075.4,19906.72,34.86,0.68
+Rapeseed &Mustard,2005,Rabi       ,Mizoram,1634.0,1078,2075.4,195949.28,343.14,0.701666667
+Rice,2005,Whole Year ,Mizoram,56460.0,107740,2075.4,6770683.2,11856.6,1.9425
+Sesamum,2005,Kharif     ,Mizoram,2600.0,1510,2075.4,311792.0,546.0,0.571428571
+Soyabean,2005,Kharif     ,Mizoram,1450.0,2820,2075.4,173884.0,304.5,1.46875
+Sugarcane,2005,Whole Year ,Mizoram,1383.0,45953,2075.4,165849.36,290.43,18.325
+Tapioca,2005,Kharif     ,Mizoram,300.0,1222,2075.4,35976.0,63.0,6.346666667
+Tobacco,2005,Whole Year ,Mizoram,511.0,364,2075.4,61279.12,107.31,0.782857143
+Urad,2005,Kharif     ,Mizoram,13.0,17,2075.4,1558.96,2.73,1.31
+Urad,2005,Rabi       ,Mizoram,23.0,53,2075.4,2758.16,4.83,2.26
+Arhar/Tur,2010,Kharif     ,Mizoram,175.0,149,2738.7,29069.25,42.0,0.873333333
+Cotton(lint),2010,Kharif     ,Mizoram,151.0,113,2738.7,25082.61,36.24,0.6425
+Cowpea(Lobia),2010,Kharif     ,Mizoram,1381.0,1786,2738.7,229397.91,331.44,1.145
+Cowpea(Lobia),2010,Rabi       ,Mizoram,222.0,310,2738.7,36876.42,53.28,1.47
+Maize,2010,Kharif     ,Mizoram,8721.0,13055,2738.7,1448645.31,2093.04,1.62125
+Maize,2010,Rabi       ,Mizoram,284.0,445,2738.7,47175.24,68.16,2.362
+Onion,2010,Rabi       ,Mizoram,3.0,9,2738.7,498.33,0.72,3.0
+Other  Rabi pulses,2010,Rabi       ,Mizoram,1311.0,2670,2738.7,217770.21,314.64,1.5825
+Other Kharif pulses,2010,Kharif     ,Mizoram,810.0,1069,2738.7,134549.1,194.4,1.02125
+Potato,2010,Kharif     ,Mizoram,415.0,3610,2738.7,68935.65,99.6,6.7
+Potato,2010,Rabi       ,Mizoram,16.0,89,2738.7,2657.76,3.84,5.56
+Rapeseed &Mustard,2010,Rabi       ,Mizoram,378.0,303,2738.7,62789.58,90.72,0.9525
+Rice,2010,Autumn     ,Mizoram,28562.0,26499,2738.7,4744433.82,6854.88,0.92625
+Rice,2010,Kharif     ,Mizoram,12123.0,20697,2738.7,2013751.53,2909.52,1.495
+Rice,2010,Rabi       ,Mizoram,7.0,6,2738.7,1162.77,1.68,0.86
+Sesamum,2010,Kharif     ,Mizoram,1362.0,770,2738.7,226241.82,326.88,0.4875
+Soyabean,2010,Kharif     ,Mizoram,1401.0,2653,2738.7,232720.11,336.24,1.6225
+Sugarcane,2010,Whole Year ,Mizoram,1418.0,7900,2738.7,235543.98,340.32,5.5975
+Tapioca,2010,Kharif     ,Mizoram,278.0,1080,2738.7,46178.58,66.72,6.6975
+Tobacco,2010,Whole Year ,Mizoram,240.0,155,2738.7,39866.4,57.6,0.565
+Arhar/Tur,2011,Kharif     ,Mizoram,116.0,114,2439.340909,19432.32,38.28,0.9275
+Cotton(lint),2011,Kharif     ,Mizoram,158.0,109,2439.340909,26468.16,52.14,0.63
+Cowpea(Lobia),2011,Kharif     ,Mizoram,1387.0,1458,2439.340909,232350.24,457.71,0.96625
+Cowpea(Lobia),2011,Rabi       ,Mizoram,227.0,283,2439.340909,38027.04,74.91,1.13
+Maize,2011,Kharif     ,Mizoram,6696.0,8130,2439.340909,1121713.92,2209.68,1.32
+Maize,2011,Rabi       ,Mizoram,209.0,268,2439.340909,35011.68,68.97,1.326666667
+Onion,2011,Rabi       ,Mizoram,2.0,8,2439.340909,335.04,0.66,4.0
+Other  Rabi pulses,2011,Rabi       ,Mizoram,1476.0,2815,2439.340909,247259.52,487.08,1.5425
+Other Kharif pulses,2011,Kharif     ,Mizoram,593.7,609,2439.340909,99456.624,195.921,0.91125
+Potato,2011,Kharif     ,Mizoram,319.0,2335,2439.340909,53438.88,105.27,5.87
+Potato,2011,Rabi       ,Mizoram,90.0,534,2439.340909,15076.8,29.7,5.865
+Rapeseed &Mustard,2011,Kharif     ,Mizoram,10.0,4,2439.340909,1675.2,3.3,0.4
+Rapeseed &Mustard,2011,Rabi       ,Mizoram,365.0,340,2439.340909,61144.8,120.45,1.57
+Rice,2011,Autumn     ,Mizoram,25826.0,26644,2439.340909,4326371.52,8522.58,1.04125
+Rice,2011,Kharif     ,Mizoram,12700.0,25304,2439.340909,2127504.0,4191.0,2.03125
+Rice,2011,Rabi       ,Mizoram,450.0,947,2439.340909,75384.0,148.5,2.3775
+Sesamum,2011,Kharif     ,Mizoram,954.0,605,2439.340909,159814.08,314.82,0.5125
+Soyabean,2011,Kharif     ,Mizoram,1143.7,1433,2439.340909,191592.624,377.421,1.17125
+Sugarcane,2011,Whole Year ,Mizoram,1463.0,7457,2439.340909,245081.76,482.79,5.845
+Tapioca,2011,Kharif     ,Mizoram,391.0,1294,2439.340909,65500.32,129.03,4.176666667
+Tobacco,2011,Whole Year ,Mizoram,272.0,243,2439.340909,45565.44,89.76,0.9125
+Arhar/Tur,2012,Kharif     ,Mizoram,205.0,200,2050.2,30914.0,63.55,1.15
+Cotton(lint),2012,Kharif     ,Mizoram,7.0,6,2050.2,1055.6,2.17,0.79
+Cowpea(Lobia),2012,Kharif     ,Mizoram,938.0,906,2050.2,141450.4,290.78,0.8
+Cowpea(Lobia),2012,Rabi       ,Mizoram,130.0,149,2050.2,19604.0,40.3,1.11
+Maize,2012,Kharif     ,Mizoram,5995.2,7769,2050.2,904076.16,1858.512,1.375
+Maize,2012,Rabi       ,Mizoram,180.0,295,2050.2,27144.0,55.8,2.025
+Other  Rabi pulses,2012,Rabi       ,Mizoram,936.0,1199,2050.2,141148.8,290.16,1.23375
+Other Kharif pulses,2012,Kharif     ,Mizoram,891.0,833,2050.2,134362.8,276.21,1.0225
+Potato,2012,Kharif     ,Mizoram,115.0,807,2050.2,17342.0,35.65,7.02
+Potato,2012,Rabi       ,Mizoram,171.0,633,2050.2,25786.8,53.01,6.02
+Rapeseed &Mustard,2012,Rabi       ,Mizoram,290.0,201,2050.2,43732.0,89.9,0.67
+Rice,2012,Autumn     ,Mizoram,24706.0,27128,2050.2,3725664.8,7658.86,1.095
+Rice,2012,Kharif     ,Mizoram,14330.0,29983,2050.2,2160964.0,4442.3,2.2925
+Rice,2012,Rabi       ,Mizoram,306.0,589,2050.2,46144.8,94.86,2.3525
+Sesamum,2012,Kharif     ,Mizoram,697.0,507,2050.2,105107.6,216.07,0.625
+Soyabean,2012,Kharif     ,Mizoram,1076.0,1517,2050.2,162260.8,333.56,1.32625
+Sugarcane,2012,Whole Year ,Mizoram,1323.0,6795,2050.2,199508.4,410.13,6.69125
+Tapioca,2012,Kharif     ,Mizoram,55.0,419,2050.2,8294.0,17.05,7.94
+Tobacco,2012,Whole Year ,Mizoram,70.0,58,2050.2,10556.0,21.7,0.715
+Arhar/Tur,2013,Kharif     ,Mizoram,220.0,196,1848.8,31787.8,59.4,0.916
+Cotton(lint),2013,Kharif     ,Mizoram,107.0,81,1848.8,15460.43,28.89,0.71
+Cowpea(Lobia),2013,Kharif     ,Mizoram,1322.0,1296,1848.8,191015.78,356.94,0.9425
+Cowpea(Lobia),2013,Rabi       ,Mizoram,188.0,204,1848.8,27164.12,50.76,1.0175
+Maize,2013,Kharif     ,Mizoram,5618.0,7994,1848.8,811744.82,1516.86,1.65625
+Maize,2013,Rabi       ,Mizoram,175.0,227,1848.8,25285.75,47.25,1.4325
+Other  Rabi pulses,2013,Rabi       ,Mizoram,1239.0,2024,1848.8,179023.11,334.53,1.355
+Other Kharif pulses,2013,Kharif     ,Mizoram,896.0,1938,1848.8,129463.04,241.92,1.42
+Potato,2013,Kharif     ,Mizoram,352.0,2962,1848.8,50860.48,95.04,7.01
+Rapeseed &Mustard,2013,Rabi       ,Mizoram,306.0,338,1848.8,44213.94,82.62,1.558333333
+Rice,2013,Autumn     ,Mizoram,22633.0,25671,1848.8,3270242.17,6110.91,1.10625
+Rice,2013,Kharif     ,Mizoram,15620.0,32440,1848.8,2256933.8,4217.4,2.1475
+Rice,2013,Rabi       ,Mizoram,550.0,883,1848.8,79469.5,148.5,1.666666667
+Sesamum,2013,Kharif     ,Mizoram,774.0,574,1848.8,111835.26,208.98,0.65625
+Soyabean,2013,Kharif     ,Mizoram,980.0,1458,1848.8,141600.2,264.6,1.3875
+Sugarcane,2013,Whole Year ,Mizoram,1421.0,6979,1848.8,205320.29,383.67,6.84375
+Tapioca,2013,Kharif     ,Mizoram,223.0,1790,1848.8,32221.27,60.21,10.674
+Tobacco,2013,Whole Year ,Mizoram,148.0,259,1848.8,21384.52,39.96,1.28
+Arhar/Tur,2014,Kharif     ,Mizoram,250.0,212,2029.9,37740.0,82.5,0.92
+Cotton(lint),2014,Kharif     ,Mizoram,91.0,58,2029.9,13737.36,30.03,0.644
+Cowpea(Lobia),2014,Kharif     ,Mizoram,1200.0,1493,2029.9,181152.0,396.0,1.0375
+Cowpea(Lobia),2014,Rabi       ,Mizoram,185.0,214,2029.9,27927.6,61.05,0.868
+Maize,2014,Kharif     ,Mizoram,5553.0,8444,2029.9,838280.88,1832.49,1.65875
+Maize,2014,Rabi       ,Mizoram,142.0,180,2029.9,21436.32,46.86,2.23
+Other  Rabi pulses,2014,Rabi       ,Mizoram,1578.3,2245,2029.9,238260.168,520.839,1.315
+Other Kharif pulses,2014,Kharif     ,Mizoram,1000.0,1800,2029.9,150960.0,330.0,1.40125
+Potato,2014,Kharif     ,Mizoram,23.0,106,2029.9,3472.08,7.59,4.595
+Potato,2014,Rabi       ,Mizoram,181.0,1176,2029.9,27323.76,59.73,5.756666667
+Rapeseed &Mustard,2014,Rabi       ,Mizoram,310.0,317,2029.9,46797.6,102.3,1.203333333
+Rice,2014,Autumn     ,Mizoram,20064.0,23583,2029.9,3028861.44,6621.12,1.14875
+Rice,2014,Kharif     ,Mizoram,16380.0,35983,2029.9,2472724.8,5405.4,2.2825
+Rice,2014,Rabi       ,Mizoram,486.0,1113,2029.9,73366.56,160.38,2.063333333
+Sesamum,2014,Kharif     ,Mizoram,785.0,608,2029.9,118503.6,259.05,0.9075
+Soyabean,2014,Kharif     ,Mizoram,1042.0,1472,2029.9,157300.32,343.86,1.15875
+Sugarcane,2014,Whole Year ,Mizoram,1476.0,44257,2029.9,222816.96,487.08,27.9
+Tapioca,2014,Kharif     ,Mizoram,161.0,1490,2029.9,24304.56,53.13,9.096
+Tobacco,2014,Whole Year ,Mizoram,119.0,96,2029.9,17964.24,39.27,0.68
+Arhar/Tur,2015,Kharif     ,Mizoram,268.0,250,2310.8,42319.88,88.44,1.038333333
+Cotton(lint),2015,Kharif     ,Mizoram,176.0,77,2310.8,27792.16,58.08,0.612
+Cowpea(Lobia),2015,Kharif     ,Mizoram,1195.0,1363,2310.8,188702.45,394.35,1.12125
+Cowpea(Lobia),2015,Rabi       ,Mizoram,107.0,117,2310.8,16896.37,35.31,0.996666667
+Maize,2015,Kharif     ,Mizoram,5672.0,9868,2310.8,895665.52,1871.76,1.94625
+Maize,2015,Rabi       ,Mizoram,205.0,427,2310.8,32371.55,67.65,2.57
+Onion,2015,Rabi       ,Mizoram,5.0,73,2310.8,789.55,1.65,14.6
+Other  Rabi pulses,2015,Rabi       ,Mizoram,1277.0,2038,2310.8,201651.07,421.41,1.545
+Other Kharif pulses,2015,Kharif     ,Mizoram,860.0,1274,2310.8,135802.6,283.8,1.34125
+Potato,2015,Kharif     ,Mizoram,6.0,6,2310.8,947.46,1.98,1.0
+Potato,2015,Rabi       ,Mizoram,350.0,2894,2310.8,55268.5,115.5,6.275
+Rapeseed &Mustard,2015,Rabi       ,Mizoram,743.0,694,2310.8,117327.13,245.19,0.86625
+Rice,2015,Autumn     ,Mizoram,19851.0,24343,2310.8,3134671.41,6550.83,1.22375
+Rice,2015,Kharif     ,Mizoram,16804.0,36471,2310.8,2653519.64,5545.32,2.16
+Rice,2015,Rabi       ,Mizoram,498.0,1275,2310.8,78639.18,164.34,2.515
+Sesamum,2015,Kharif     ,Mizoram,868.0,650,2310.8,137065.88,286.44,0.7625
+Soyabean,2015,Kharif     ,Mizoram,1048.0,1613,2310.8,165489.68,345.84,1.43625
+Sugarcane,2015,Whole Year ,Mizoram,1542.0,51270,2310.8,243497.22,508.86,32.8575
+Tapioca,2015,Kharif     ,Mizoram,135.0,460,2310.8,21317.85,44.55,4.1975
+Tobacco,2015,Whole Year ,Mizoram,353.0,121,2310.8,55742.23,116.49,0.4525
+Arhar/Tur,2016,Kharif     ,Mizoram,272.0,266,2626.8,41684.0,95.2,1.191428571
+Arhar/Tur,2016,Rabi       ,Mizoram,46.0,41,2626.8,7049.5,16.1,0.89
+Cotton(lint),2016,Kharif     ,Mizoram,71.0,24,2626.8,10880.75,24.85,0.426666667
+Cowpea(Lobia),2016,Kharif     ,Mizoram,1096.0,1233,2626.8,167962.0,383.6,1.1375
+Cowpea(Lobia),2016,Rabi       ,Mizoram,115.0,126,2626.8,17623.75,40.25,1.1525
+Maize,2016,Kharif     ,Mizoram,5481.0,8443,2626.8,839963.25,1918.35,1.665
+Maize,2016,Rabi       ,Mizoram,298.0,468,2626.8,45668.5,104.3,1.73
+Onion,2016,Rabi       ,Mizoram,35.0,127,2626.8,5363.75,12.25,3.63
+Other  Rabi pulses,2016,Rabi       ,Mizoram,1217.0,1964,2626.8,186505.25,425.95,1.76875
+Other Kharif pulses,2016,Kharif     ,Mizoram,784.0,1144,2626.8,120148.0,274.4,1.33625
+Potato,2016,Kharif     ,Mizoram,106.0,437,2626.8,16244.5,37.1,3.75
+Potato,2016,Rabi       ,Mizoram,43.0,250,2626.8,6589.75,15.05,5.81
+Rapeseed &Mustard,2016,Rabi       ,Mizoram,326.0,327,2626.8,49959.5,114.1,0.91
+Rice,2016,Autumn     ,Mizoram,19602.0,23665,2626.8,3004006.5,6860.7,1.21125
+Rice,2016,Kharif     ,Mizoram,16862.0,36979,2626.8,2584101.5,5901.7,2.2325
+Rice,2016,Rabi       ,Mizoram,394.0,872,2626.8,60380.5,137.9,2.21
+Sesamum,2016,Kharif     ,Mizoram,850.0,572,2626.8,130262.5,297.5,0.7225
+Soyabean,2016,Kharif     ,Mizoram,1019.0,1604,2626.8,156161.75,356.65,1.4825
+Sugarcane,2016,Whole Year ,Mizoram,1588.0,50532,2626.8,243361.0,555.8,30.9975
+Tapioca,2016,Kharif     ,Mizoram,164.0,1884,2626.8,25133.0,57.4,10.20666667
+Tobacco,2016,Whole Year ,Mizoram,222.0,203,2626.8,34021.5,77.7,0.69
+Arhar/Tur,2017,Kharif     ,Mizoram,272.8,275,3865.8,42949.632,103.664,1.17125
+Arhar/Tur,2017,Rabi       ,Mizoram,50.0,46,3865.8,7872.0,19.0,1.13
+Cotton(lint),2017,Kharif     ,Mizoram,92.3,34,3865.8,14531.712,35.074,0.3975
+Cowpea(Lobia),2017,Kharif     ,Mizoram,1024.7,1887,3865.8,161328.768,389.386,1.50125
+Cowpea(Lobia),2017,Rabi       ,Mizoram,152.0,359,3865.8,23930.88,57.76,2.0075
+Maize,2017,Kharif     ,Mizoram,5474.0,8786,3865.8,861826.56,2080.12,1.67375
+Maize,2017,Rabi       ,Mizoram,505.2,686,3865.8,79538.688,191.976,1.3575
+Onion,2017,Rabi       ,Mizoram,110.9,430,3865.8,17460.096,42.142,7.24
+Other  Rabi pulses,2017,Rabi       ,Mizoram,1208.8,1756,3865.8,190313.472,459.344,1.4475
+Other Kharif pulses,2017,Kharif     ,Mizoram,1193.8,1367,3865.8,187951.872,453.644,1.155
+Potato,2017,Kharif     ,Mizoram,58.0,313,3865.8,9131.52,22.04,3.28
+Potato,2017,Rabi       ,Mizoram,157.0,798,3865.8,24718.08,59.66,5.488
+Rapeseed &Mustard,2017,Kharif     ,Mizoram,23.0,8,3865.8,3621.12,8.74,0.49
+Rapeseed &Mustard,2017,Rabi       ,Mizoram,394.0,410,3865.8,62031.36,149.72,1.563333333
+Rice,2017,Autumn     ,Mizoram,19587.5,23580,3865.8,3083856.0,7443.25,1.18625
+Rice,2017,Kharif     ,Mizoram,16039.7,35029,3865.8,2525290.368,6095.086,2.15625
+Rice,2017,Rabi       ,Mizoram,487.0,998,3865.8,76673.28,185.06,2.09
+Sesamum,2017,Kharif     ,Mizoram,765.3,483,3865.8,120488.832,290.814,0.67625
+Soyabean,2017,Kharif     ,Mizoram,1008.3,1538,3865.8,158746.752,383.154,1.3675
+Sugarcane,2017,Whole Year ,Mizoram,1558.8,44836,3865.8,245417.472,592.344,25.2375
+Tapioca,2017,Kharif     ,Mizoram,194.0,1914,3865.8,30543.36,73.72,9.876666667
+Tobacco,2017,Kharif     ,Mizoram,338.5,281,3865.8,53293.44,128.63,0.6725
+Arhar/Tur,2018,Kharif     ,Mizoram,283.0,290,1665.2,45902.6,99.05,1.147142857
+Arhar/Tur,2018,Rabi       ,Mizoram,46.0,41,1665.2,7461.2,16.1,0.89
+Cotton(lint),2018,Kharif     ,Mizoram,43.0,24,1665.2,6974.6,15.05,0.573333333
+Cowpea(Lobia),2018,Kharif     ,Mizoram,1053.0,2118,1665.2,170796.6,368.55,1.53125
+Cowpea(Lobia),2018,Rabi       ,Mizoram,96.0,176,1665.2,15571.2,33.6,2.1025
+Maize,2018,Kharif     ,Mizoram,5733.0,10300,1665.2,929892.6,2006.55,1.79125
+Maize,2018,Rabi       ,Mizoram,430.0,670,1665.2,69746.0,150.5,1.643333333
+Onion,2018,Rabi       ,Mizoram,19.0,64,1665.2,3081.8,6.65,4.2925
+Other  Rabi pulses,2018,Rabi       ,Mizoram,1475.0,2290,1665.2,239245.0,516.25,1.6025
+Other Kharif pulses,2018,Kharif     ,Mizoram,716.0,974,1665.2,116135.2,250.6,1.34625
+Potato,2018,Kharif     ,Mizoram,61.0,253,1665.2,9894.2,21.35,3.94
+Potato,2018,Rabi       ,Mizoram,73.0,256,1665.2,11840.6,25.55,3.823333333
+Rapeseed &Mustard,2018,Kharif     ,Mizoram,25.0,15,1665.2,4055.0,8.75,0.68
+Rapeseed &Mustard,2018,Rabi       ,Mizoram,504.0,396,1665.2,81748.8,176.4,0.74
+Rice,2018,Autumn     ,Mizoram,18957.0,23372,1665.2,3074825.4,6634.95,1.215
+Rice,2018,Kharif     ,Mizoram,16133.0,35678,1665.2,2616772.6,5646.55,2.1975
+Rice,2018,Rabi       ,Mizoram,460.0,960,1665.2,74612.0,161.0,2.115
+Sesamum,2018,Kharif     ,Mizoram,770.0,594,1665.2,124894.0,269.5,0.785
+Soyabean,2018,Kharif     ,Mizoram,1012.0,1752,1665.2,164146.4,354.2,1.465
+Sugarcane,2018,Whole Year ,Mizoram,1462.0,44260,1665.2,237136.4,511.7,25.81
+Tapioca,2018,Kharif     ,Mizoram,154.0,1795,1665.2,24978.8,53.9,11.022
+Tobacco,2018,Kharif     ,Mizoram,340.0,418,1665.2,55148.0,119.0,1.0675
+Arhar/Tur,2019,Kharif     ,Mizoram,290.0,325,2178.5,49810.4,107.3,1.26
+Arhar/Tur,2019,Rabi       ,Mizoram,47.0,44,2178.5,8072.72,17.39,0.94
+Cotton(lint),2019,Kharif     ,Mizoram,23.0,13,2178.5,3950.48,8.51,0.58
+Cowpea(Lobia),2019,Kharif     ,Mizoram,1033.0,1469,2178.5,177428.08,382.21,1.32625
+Cowpea(Lobia),2019,Rabi       ,Mizoram,113.0,153,2178.5,19408.88,41.81,1.532
+Maize,2019,Kharif     ,Mizoram,5860.0,10903,2178.5,1006513.6,2168.2,1.77625
+Maize,2019,Rabi       ,Mizoram,493.0,765,2178.5,84677.68,182.41,1.645
+Onion,2019,Rabi       ,Mizoram,18.3,34,2178.5,3143.208,6.771,3.76
+Other  Rabi pulses,2019,Rabi       ,Mizoram,1806.0,2517,2178.5,310198.56,668.22,1.392857143
+Other Kharif pulses,2019,Kharif     ,Mizoram,762.5,999,2178.5,130967.0,282.125,1.32
+Potato,2019,Kharif     ,Mizoram,53.0,177,2178.5,9103.28,19.61,4.245
+Potato,2019,Rabi       ,Mizoram,91.0,357,2178.5,15630.16,33.67,3.506666667
+Rapeseed &Mustard,2019,Kharif     ,Mizoram,23.0,17,2178.5,3950.48,8.51,0.84
+Rapeseed &Mustard,2019,Rabi       ,Mizoram,551.0,411,2178.5,94639.76,203.87,0.775
+Rice,2019,Autumn     ,Mizoram,18510.0,22904,2178.5,3179277.6,6848.7,1.18875
+Rice,2019,Kharif     ,Mizoram,16232.0,36357,2178.5,2788008.32,6005.84,2.2025
+Rice,2019,Rabi       ,Mizoram,468.0,978,2178.5,80383.68,173.16,2.135
+Sesamum,2019,Kharif     ,Mizoram,756.0,529,2178.5,129850.56,279.72,0.75
+Soyabean,2019,Kharif     ,Mizoram,1121.0,1827,2178.5,192542.96,414.77,1.335
+Sugarcane,2019,Whole Year ,Mizoram,1468.0,46842,2178.5,252143.68,543.16,30.28571429
+Tapioca,2019,Kharif     ,Mizoram,137.0,846,2178.5,23531.12,50.69,6.4525
+Tobacco,2019,Kharif     ,Mizoram,300.0,460,2178.5,51528.0,111.0,1.285
+other oilseeds,2019,Kharif     ,Mizoram,26642.0,4599,2178.5,4576029.92,9857.54,0.114285714
+Cotton(lint),1998,Kharif     ,Mizoram,555.0,429,2640.7,54834.0,160.95,0.7425
+Maize,1998,Kharif     ,Mizoram,8562.0,16347,2640.7,845925.6,2482.98,2.0175
+Maize,1998,Rabi       ,Mizoram,119.0,242,2640.7,11757.2,34.51,1.74
+Other  Rabi pulses,1998,Rabi       ,Mizoram,1451.0,3236,2640.7,143358.8,420.79,1.98
+Other Kharif pulses,1998,Kharif     ,Mizoram,3895.0,6070,2640.7,384826.0,1129.55,1.5825
+Potato,1998,Kharif     ,Mizoram,180.0,865,2640.7,17784.0,52.2,4.74
+Potato,1998,Rabi       ,Mizoram,80.0,350,2640.7,7904.0,23.2,4.38
+Rice,1998,Kharif     ,Mizoram,62372.0,95115,2640.7,6162353.6,18087.88,1.5225
+Rice,1998,Rabi       ,Mizoram,6020.0,15698,2640.7,594776.0,1745.8,4.39
+Sugarcane,1998,Whole Year ,Mizoram,1258.0,7863,2640.7,124290.4,364.82,6.2975
+Tapioca,1998,Kharif     ,Mizoram,486.0,2545,2640.7,48016.8,140.94,4.1475
+Tobacco,1998,Whole Year ,Mizoram,437.0,434,2640.7,43175.6,126.73,0.92
+Wheat,1998,Rabi       ,Mizoram,55.0,48,2640.7,5434.0,15.95,1.09
+other oilseeds,1998,Kharif     ,Mizoram,5340.0,6338,2640.7,527592.0,1548.6,1.1375
+other oilseeds,1998,Rabi       ,Mizoram,2080.0,1393,2640.7,205504.0,603.2,0.98
+Cotton(lint),1999,Kharif     ,Mizoram,552.0,1964,2535.9,58583.76,149.04,3.726666667
+Groundnut,1999,Kharif     ,Mizoram,74.0,117,2535.9,7853.62,19.98,1.305
+Maize,1999,Kharif     ,Mizoram,5092.0,9512,2535.9,540413.96,1374.84,1.7675
+Maize,1999,Rabi       ,Mizoram,185.0,190,2535.9,19634.05,49.95,1.15
+Potato,1999,Whole Year ,Mizoram,530.0,3924,2535.9,56248.9,143.1,6.35
+Rapeseed &Mustard,1999,Rabi       ,Mizoram,2256.0,1540,2535.9,239429.28,609.12,1.015
+Rice,1999,Kharif     ,Mizoram,49713.0,88397,2535.9,5276040.69,13422.51,1.655
+Sesamum,1999,Kharif     ,Mizoram,3821.0,4217,2535.9,405522.73,1031.67,1.03
+Soyabean,1999,Kharif     ,Mizoram,1121.0,1449,2535.9,118971.73,302.67,1.3375
+Sugarcane,1999,Whole Year ,Mizoram,743.0,1510,2535.9,78854.59,200.61,3.003333333
+Wheat,1999,Rabi       ,Mizoram,43.0,38,2535.9,4563.59,11.61,0.88
+Cotton(lint),2004,Kharif     ,Mizoram,289.0,975,2640.8,31310.26,60.69,3.43
+Groundnut,2004,Kharif     ,Mizoram,25.0,26,2640.8,2708.5,5.25,0.926
+Maize,2004,Kharif     ,Mizoram,9785.0,18257,2640.8,1060106.9,2054.85,2.14125
+Maize,2004,Rabi       ,Mizoram,719.0,1530,2640.8,77896.46,150.99,2.61
+Masoor,2004,Kharif     ,Mizoram,0.5,0,2640.8,54.17,0.105,0.4
+Masoor,2004,Rabi       ,Mizoram,16.0,12,2640.8,1733.44,3.36,1.033333333
+Moong(Green Gram),2004,Kharif     ,Mizoram,15.0,17,2640.8,1625.1,3.15,1.13
+Moong(Green Gram),2004,Rabi       ,Mizoram,60.0,70,2640.8,6500.4,12.6,1.18
+Rapeseed &Mustard,2004,Kharif     ,Mizoram,135.0,112,2640.8,14625.9,28.35,0.725
+Rapeseed &Mustard,2004,Rabi       ,Mizoram,1606.0,927,2640.8,173994.04,337.26,0.7
+Rice,2004,Kharif     ,Mizoram,57085.0,107660,2640.8,6184588.9,11987.85,1.9225
+Sesamum,2004,Kharif     ,Mizoram,2567.0,1481,2640.8,278108.78,539.07,0.5725
+Soyabean,2004,Kharif     ,Mizoram,1434.0,2745,2640.8,155359.56,301.14,1.36125
+Sunflower,2004,Kharif     ,Mizoram,43.0,24,2640.8,4658.62,9.03,0.52
+Tapioca,2004,Kharif     ,Mizoram,77.0,494,2640.8,8342.18,16.17,7.08
+Tobacco,2004,Whole Year ,Mizoram,468.0,317,2640.8,50703.12,98.28,0.688571429
+Urad,2004,Kharif     ,Mizoram,16.0,18,2640.8,1733.44,3.36,1.13
+Urad,2004,Rabi       ,Mizoram,31.0,56,2640.8,3358.54,6.51,1.316666667
+Wheat,2004,Rabi       ,Mizoram,3.0,4,2640.8,325.02,0.63,1.33
+Cotton(lint),2006,Kharif     ,Mizoram,241.0,151,2353.0,30778.11,53.02,0.79
+Maize,2006,Kharif     ,Mizoram,10436.0,20219,2353.0,1332781.56,2295.92,1.885
+Maize,2006,Rabi       ,Mizoram,339.0,750,2353.0,43293.69,74.58,2.106666667
+Other  Rabi pulses,2006,Rabi       ,Mizoram,2112.0,2790,2353.0,269723.52,464.64,1.14375
+Other Kharif pulses,2006,Kharif     ,Mizoram,2944.0,3045,2353.0,375978.24,647.68,1.02375
+Potato,2006,Kharif     ,Mizoram,639.0,1652,2353.0,81606.69,140.58,3.26
+Rice,2006,Kharif     ,Mizoram,50619.0,25789,2353.0,6464552.49,11136.18,0.4525
+Rice,2006,Rabi       ,Mizoram,2232.0,3675,2353.0,285048.72,491.04,1.58
+Sugarcane,2006,Whole Year ,Mizoram,1340.0,12188,2353.0,171131.4,294.8,7.32625
+Tobacco,2006,Whole Year ,Mizoram,503.0,342,2353.0,64238.13,110.66,0.676666667
+other oilseeds,2006,Kharif     ,Mizoram,3610.0,3435,2353.0,461033.1,794.2,0.97125
+other oilseeds,2006,Rabi       ,Mizoram,466.0,322,2353.0,59512.86,102.52,0.648333333
+Cotton(lint),2007,Kharif     ,Mizoram,87.0,11,3095.2,11605.8,13.92,0.135
+Maize,2007,Kharif     ,Mizoram,7153.0,506,3095.2,954210.2,1144.48,0.12375
+Maize,2007,Rabi       ,Mizoram,175.0,223,3095.2,23345.0,28.0,1.22
+Other  Rabi pulses,2007,Rabi       ,Mizoram,1027.0,1421,3095.2,137001.8,164.32,1.318333333
+Other Kharif pulses,2007,Kharif     ,Mizoram,4021.0,1211,3095.2,536401.4,643.36,0.37375
+Potato,2007,Kharif     ,Mizoram,330.0,1158,3095.2,44022.0,52.8,2.625
+Rice,2007,Kharif     ,Mizoram,54393.0,15501,3095.2,7256026.2,8702.88,0.2625
+Rice,2007,Rabi       ,Mizoram,148.0,187,3095.2,19743.2,23.68,1.264
+Sugarcane,2007,Whole Year ,Mizoram,883.0,828,3095.2,117792.2,141.28,4.584285714
+Tapioca,2007,Kharif     ,Mizoram,63.0,82,3095.2,8404.2,10.08,1.3
+Tobacco,2007,Whole Year ,Mizoram,90.0,37,3095.2,12006.0,14.4,0.6
+other oilseeds,2007,Kharif     ,Mizoram,3398.0,702,3095.2,453293.2,543.68,0.2225
+other oilseeds,2007,Rabi       ,Mizoram,87.0,46,3095.2,11605.8,13.92,0.56
+Cotton(lint),2008,Kharif     ,Mizoram,207.0,102,1912.1,29609.28,18.63,0.468333333
+Maize,2008,Kharif     ,Mizoram,9173.0,8906,1912.1,1312105.92,825.57,0.9125
+Maize,2008,Rabi       ,Mizoram,385.0,412,1912.1,55070.4,34.65,1.884
+Other  Rabi pulses,2008,Rabi       ,Mizoram,1370.0,1848,1912.1,195964.8,123.3,1.504285714
+Other Kharif pulses,2008,Kharif     ,Mizoram,2561.0,1798,1912.1,366325.44,230.49,0.8175
+Potato,2008,Kharif     ,Mizoram,269.0,1569,1912.1,38477.76,24.21,5.286666667
+Rice,2008,Kharif     ,Mizoram,51859.0,68637,1912.1,7417911.36,4667.31,1.20625
+Rice,2008,Rabi       ,Mizoram,131.0,280,1912.1,18738.24,11.79,2.555
+Sugarcane,2008,Whole Year ,Mizoram,1342.0,13696,1912.1,191959.68,120.78,11.12875
+Tapioca,2008,Kharif     ,Mizoram,65.0,286,1912.1,9297.6,5.85,2.646666667
+Tobacco,2008,Whole Year ,Mizoram,484.0,276,1912.1,69231.36,43.56,0.49
+other oilseeds,2008,Kharif     ,Mizoram,2747.0,2184,1912.1,392930.88,247.23,0.8175
+other oilseeds,2008,Rabi       ,Mizoram,528.0,330,1912.1,75525.12,47.52,0.53
+Cotton(lint),2009,Kharif     ,Mizoram,201.0,129,2086.3,31319.82,34.17,0.653333333
+Maize,2009,Kharif     ,Mizoram,8310.0,11136,2086.3,1294864.2,1412.7,1.3625
+Maize,2009,Rabi       ,Mizoram,241.0,374,2086.3,37552.62,40.97,1.61
+Other  Rabi pulses,2009,Rabi       ,Mizoram,1501.0,3231,2086.3,233885.82,255.17,2.0375
+Other Kharif pulses,2009,Kharif     ,Mizoram,2419.0,3248,2086.3,376928.58,411.23,1.0275
+Potato,2009,Kharif     ,Mizoram,284.0,2235,2086.3,44252.88,48.28,7.766666667
+Rice,2009,Kharif     ,Mizoram,47085.0,65893,2086.3,7336784.7,8004.45,1.3175
+Rice,2009,Rabi       ,Mizoram,119.0,238,2086.3,18542.58,20.23,2.0
+Sugarcane,2009,Whole Year ,Mizoram,1434.0,12368,2086.3,223445.88,243.78,8.42375
+Tapioca,2009,Kharif     ,Mizoram,194.0,1397,2086.3,30229.08,32.98,10.416
+Tobacco,2009,Whole Year ,Mizoram,371.0,249,2086.3,57809.22,63.07,0.582
+other oilseeds,2009,Kharif     ,Mizoram,2326.0,2727,2086.3,362437.32,395.42,1.05625
+other oilseeds,2009,Rabi       ,Mizoram,415.0,261,2086.3,64665.3,70.55,0.584
