@@ -17,8 +17,8 @@ os.chdir(current_directory)
 
 def preprocessing():
     data = pd.read_csv('North_rice.csv')
-    data = data.drop('Unnamed: 10',axis=1)
-    X = data.drop(['Yield','Crop'], axis=1)
+    data = data.dropna()
+    X = data.drop(['Yield'], axis=1)
     y = data['Yield']
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)

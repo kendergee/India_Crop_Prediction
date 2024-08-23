@@ -6,7 +6,7 @@ combined_df = pd.DataFrame()
 for filename in os.listdir(folder_path):
     file_path = os.path.join(folder_path, filename)
     try:
-        df = pd.read_csv(file_path, encoding='utf-8')
+        df = pd.read_csv(file_path, encoding='utf-8',index_col=0)
     except Exception as e:
         print(f"Error reading {filename}: {e}")
         continue
