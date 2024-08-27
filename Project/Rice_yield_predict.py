@@ -37,6 +37,15 @@ states_dict = {
 
 resources = {}
 
+random_state_paramater ={
+    'Central' : 0,
+    'East':0,
+    'North':0,
+    'Northeast':42,
+    'South':42,
+    'West':42
+}
+
 def userinput():
     print('歡迎使用印度稻米預測器')
     print('請問你想選擇哪個區域')
@@ -68,9 +77,11 @@ def userinput():
     selected_fertilizer = float(input('請輸入肥料用量：'))
     selected_pesticide = float(input('請輸入害蟲總量：'))
 
-    ans_categorical = [selected_season,selected_state]
-    ans_numeric =[selected_crop_years,selected_area,selected_production,selected_annual_rainfall,selected_fertilizer,selected_pesticide]
-    ans_dict = dict(zip(ans_categorical,ans_numeric))
+    ans_dict ={
+        'ans_categorical' : [selected_season,selected_state],
+        'ans_numeric':[selected_crop_years,selected_area,selected_production,selected_annual_rainfall,selected_fertilizer,selected_pesticide]
+    }
+
 
     return selected_region,ans_dict
 
@@ -85,13 +96,14 @@ def load_resources(selected_region):
     print('資料加載完成')
     return Model,data
 
-def work(Model,data,ans_dict):
-    def preprocessing(data):
+def work(Model,data,ans_dict,selected_region):
+    def preprocessing(data,ans_dict,selected_region):
         data = data.dropna()
         X = data.drop(['Yield'], axis=1)
         y = data['Yield']
-
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+        
+        random_state_input = random_state_paramater[selected_region]
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=random_state_input)
 
         OneHotColumns = ['Season', 'State']
         encoder = OneHotEncoder(sparse_output=False, drop='first',handle_unknown='ignore')
@@ -110,22 +122,43 @@ def work(Model,data,ans_dict):
 
         X_train[scColumns] = sc.fit_transform(X_train[scColumns])
         X_test[scColumns] = sc.transform(X_test[scColumns])
+
+        ans_categorical = ans_dict['ans_categorical']
+        ans_numeric = ans_dict['ans_numeric']
+        ans_categorical = pd.DataFrame([ans_categorical],encoder.get_feature_names_out(OneHotColumns))
+        ans_numeric = pd.DataFrame([ans_numeric])
+        ans_categorical = encoder.transform(ans_categorical)
+        ans_numeric = sc.transform(ans_numeric)
+        ans_categorical = pd.DataFrame(ans_categorical)
+        ans_numeric = pd.DataFrame(ans_numeric,columns=['Crop_Year','Area','Production','Annual_Rainfall','Fertilizer','Pesticide'])
+        ans_completion = pd.concat([ans_numeric,ans_categorical],axis=1)
+    
+        missing_cols = set(X_train.columns) - set(ans_completion.columns)
+        for col in missing_cols:
+            ans_completion[col] = 0
+        ans_completion = ans_completion[X_train.columns]
+        
+        
         
         print('資料前處理完成')
         
-        return X_train, X_test, y_train, y_test
+        return X_train, X_test, y_train, y_test,ans_completion
     
-    def prediction(Model,X_train,X_test,y_train,y_test,ans_dict):
+    def prediction(Model,X_train,X_test,y_train,y_test,ans_completion):
         model = Model.fit(X_train,y_train)
+        y_pred = model.predict(ans_completion)
+        print('預測單位產量如下：')
+        print(y_pred[0])
+        
         
 
     
-    X_train, X_test, y_train, y_test = preprocessing(data)
-    prediction(Model,X_train,X_test,y_train,y_test,ans_dict)
+    X_train, X_test, y_train, y_test,ans_completion = preprocessing(data,ans_dict,selected_region)
+    prediction(Model,X_train,X_test,y_train,y_test,ans_completion)
 
 
 
 
 selected_region,ans_dict = userinput()
 Model,data = load_resources(selected_region)
-work(Model,data,ans_dict)
+work(Model,data,ans_dict,selected_region)
