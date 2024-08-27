@@ -16,12 +16,12 @@ os.chdir(current_directory)
 
 
 def preprocessing():
-    data = pd.read_csv('South_rice.csv')
+    data = pd.read_csv('Northeastern_rice.csv')
     data = data.dropna()
     X = data.drop(['Yield'], axis=1)
     y = data['Yield']
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     OneHotColumns = ['Season', 'State']
     encoder = OneHotEncoder(sparse_output=False, drop='first')
@@ -221,7 +221,7 @@ def comparison(Elastic_data,RF_data, XGB_data, SVR_data):
         'SVR': SVR_data,
     })
     print(comparison_df)
-    comparison_df.to_csv('South_model_comparison.csv', index=False)
+    comparison_df.to_csv('Northeastern_model_comparison.csv', index=False)
 
     return comparison_df 
 
