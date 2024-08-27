@@ -5,7 +5,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 from sklearn.metrics import mean_squared_error, r2_score
-from sklearn.linear_model import ElasticNet
+from xgboost import XGBRegressor
 import os
 import joblib
 
@@ -24,7 +24,7 @@ def preprocessing():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
     OneHotColumns = ['Season', 'State']
-    encoder = OneHotEncoder(sparse_output=False, drop='first')
+    encoder = OneHotEncoder(sparse_output=False, drop='first',handle_unknown='ignore')
 
     X_train_onehot = encoder.fit_transform(X_train[OneHotColumns])
     X_test_onehot = encoder.transform(X_test[OneHotColumns])
@@ -46,19 +46,19 @@ def preprocessing():
     return X_train, X_test, y_train, y_test
 
 def modeling(X_train, X_test, y_train, y_test):
-    model = ElasticNet(alpha = 0.01, l1_ratio = 0.9)
+    model = XGBRegressor(learning_rate = 0.1, max_depth = 4, n_estimators = 100, reg_alpha = 0.1, reg_lambda= 1)
     model.fit(X_train,y_train)
 
     kfold_scores = cross_val_score(model, X_train, y_train, cv=10, scoring='neg_mean_squared_error')
-    Elastic_Kfold_MSE =-kfold_scores.mean()
-    print("Elastic: Best model cross-validated MSE: {:.4f}".format(Elastic_Kfold_MSE))
+    XGB_Kfold_MSE =-kfold_scores.mean()
+    print("XGB: Best model cross-validated MSE: {:.4f}".format(XGB_Kfold_MSE))
 
     y_pred = model.predict(X_test)
-    Elastic_test_mse = mean_squared_error(y_test, y_pred)
-    Elastic_test_r2 = r2_score(y_test, y_pred)
+    XGB_test_mse = mean_squared_error(y_test, y_pred)
+    XGB_test_r2 = r2_score(y_test, y_pred)
 
-    print(f"Elastic: Test set MSE: {Elastic_test_mse}")
-    print(f"Elastic: Test set R^2: {Elastic_test_r2}")
+    print(f"XGB: Test set MSE: {XGB_test_mse}")
+    print(f"XGB: Test set R^2: {XGB_test_r2}")
     
     return model
 

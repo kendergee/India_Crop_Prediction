@@ -23,7 +23,7 @@ def preprocessing():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
     OneHotColumns = ['Season', 'State']
-    encoder = OneHotEncoder(sparse_output=False, drop='first')
+    encoder = OneHotEncoder(sparse_output=False, drop='first',handle_unknown='ignore')
 
     X_train_onehot = encoder.fit_transform(X_train[OneHotColumns])
     X_test_onehot = encoder.transform(X_test[OneHotColumns])

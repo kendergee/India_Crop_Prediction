@@ -10,13 +10,13 @@ import seaborn as sns
 
 
 def preprocessing():
-    data = pd.read_csv('crop_yield.csv')
+    data = pd.read_csv('/Users/kendergee/Desktop/vscode/India_Crop_Prediction/Rice/Central_rice/Central_rice.csv')
     X = data.drop('Production', axis=1)
     y = data['Production']
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
-    OneHotColumns = ['Crop', 'Season', 'State']
+    OneHotColumns = ['Season', 'State']
     encoder = OneHotEncoder(sparse_output=False, drop='first')
 
     X_train_onehot = encoder.fit_transform(X_train[OneHotColumns])
@@ -214,7 +214,7 @@ def Polynomial_Regression():
 
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
-        OneHotColumns = ['Crop', 'Season', 'State']
+        OneHotColumns = ['Season', 'State']
         encoder = OneHotEncoder(sparse_output=False, drop='first')
 
         X_train_onehot = encoder.fit_transform(X_train[OneHotColumns])

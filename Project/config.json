@@ -1,0 +1,5 @@
+{
+    "model_directory": "Models",
+    "data_directory": "Datas",
+    "regions": ["Central", "East", "North", "Northeast", "South", "West"]
+}

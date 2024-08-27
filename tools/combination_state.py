@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-folder_path ='/Users/kendergee/Desktop/vscode/India_Crop_Prediction/Seperate_Model/Crop_based_model/Rice/Central_rice'
+folder_path ='/Users/kendergee/Desktop/vscode/India_Crop_Prediction/Rice/Central_rice/states'
 
 combined_df = pd.DataFrame()
 for filename in os.listdir(folder_path):
@@ -12,5 +12,5 @@ for filename in os.listdir(folder_path):
         continue
     combined_df = pd.concat([combined_df, df], ignore_index=True)
 
-combined_df.to_csv('/Users/kendergee/Desktop/vscode/India_Crop_Prediction/Seperate_Model/Crop_based_model/Rice/Central_rice/Central_rice.csv',index=False)
+combined_df.to_csv('/Users/kendergee/Desktop/vscode/India_Crop_Prediction/Rice/Central_rice/Central_rice.csv',index=False)
 print(len(combined_df))
