@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.model_selection import GridSearchCV
+from sklearn.decomposition import KernelPCA
 import os
 
 # 獲取當前腳本所在的目錄
@@ -21,7 +22,7 @@ def preprocessing():
     X = data.drop(['Yield'], axis=1)
     y = data['Yield']
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     OneHotColumns = ['Season', 'State']
     encoder = OneHotEncoder(sparse_output=False, drop='first')
@@ -40,9 +41,11 @@ def preprocessing():
 
     X_train[scColumns] = sc.fit_transform(X_train[scColumns])
     X_test[scColumns] = sc.transform(X_test[scColumns])
+
+    kpca = KernelPCA(n_components=2,kernel='rbf')
+    X_train = kpca.fit_transform(X_train)
+    X_test = kpca.transform(X_test)
     
-    print(X_train.isnull().sum())
-    print(X_test.isnull().sum())
     return X_train, X_test, y_train, y_test
 
 def ElasticNet(X_train, X_test, y_train, y_test):
