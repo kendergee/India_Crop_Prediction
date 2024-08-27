@@ -27,7 +27,7 @@ region = ['Central','East','North','Northeast','South','West']
 seasons = ['Whole Year','Kharif','Rabi','Autumn','Summer','Winter']
 
 states_dict = {
-    'Cenral':['Chhattisgarh','Madhya Pradesh'],
+    'Central':['Chhattisgarh','Madhya Pradesh'],
     'East':['Bihar','Jharkhand'],
     'North':['Delhi','Haryana','Himachal Pradesh','Jammu and Kashmir','Punjab','Uttar Pradesh','Uttarakhand'],
     'Northeast':['Arunachal Pradesh','Assam','Manipur','Meghalaya','Mizoram','Nagaland','Odisha','Sikkim','Tripura','West Bengal'],
@@ -42,7 +42,7 @@ def userinput():
     print('請問你想選擇哪個區域')
     for i, rg in enumerate(region):
         print(f'{i+1}:{rg}')
-    region_index = int(input('請選擇一個區域）輸入對應的數字）：'))-1
+    region_index = int(input('請選擇一個區域（輸入對應的數字）：'))-1
     selected_region = region[region_index]
     print(f'你選擇的區域是：{selected_region}')
 
@@ -57,7 +57,7 @@ def userinput():
     print('可選擇的季節有以下：')
     for i, season in enumerate(seasons):
         print(f'{i+1}:{season}')
-    season_index = int(input('請選擇一個季節）輸入對應的數字）：'))-1
+    season_index = int(input('請選擇一個季節（輸入對應的數字）：'))-1
     selected_season = seasons[season_index]
     print(f'你選擇的季節是：{selected_season}')
 
@@ -76,7 +76,7 @@ def userinput():
 
 def load_resources(selected_region):
     if selected_region not in resources:
-        Model_path = os.path.join(Model_directory,f'{selected_region}_Model.pkl')
+        Model_path = os.path.join(Model_directory,f'{selected_region}_model.pkl')
         data_path = os.path.join(data_directory,f'{selected_region}_rice.csv')
 
         Model = joblib.load(Model_path)
@@ -94,7 +94,7 @@ def work(Model,data,ans_dict):
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
         OneHotColumns = ['Season', 'State']
-        encoder = OneHotEncoder(sparse_output=False, drop='first')
+        encoder = OneHotEncoder(sparse_output=False, drop='first',handle_unknown='ignore')
 
         X_train_onehot = encoder.fit_transform(X_train[OneHotColumns])
         X_test_onehot = encoder.transform(X_test[OneHotColumns])
