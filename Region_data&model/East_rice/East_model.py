@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 from sklearn.metrics import mean_squared_error, r2_score
 import os
-from xgboost import XGBRegressor
+from sklearn.svm import SVR
 import joblib
 
 # 獲取當前腳本所在的目錄
@@ -19,7 +19,7 @@ os.chdir(current_directory)
 def preprocessing():
     data = pd.read_csv('East_rice.csv')
     data = data.dropna()
-    X = data.drop(['Yield'], axis=1)
+    X = data.drop(['Yield','Production'], axis=1)
     y = data['Yield']
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
@@ -37,7 +37,7 @@ def preprocessing():
     X_test = pd.concat([X_test.drop(OneHotColumns, axis=1).reset_index(drop=True), X_test_onehot_df.reset_index(drop=True)], axis=1)
     
     sc = StandardScaler()
-    scColumns = ['Crop_Year', 'Area', 'Annual_Rainfall', 'Fertilizer', 'Pesticide','Production']
+    scColumns = ['Crop_Year', 'Area', 'Annual_Rainfall', 'Fertilizer', 'Pesticide']
 
     X_train[scColumns] = sc.fit_transform(X_train[scColumns])
     X_test[scColumns] = sc.transform(X_test[scColumns])
@@ -47,7 +47,7 @@ def preprocessing():
     return X_train, X_test, y_train, y_test
 
 def modeling(X_train, X_test, y_train, y_test):
-    model = XGBRegressor(learning_rate = 0.1, max_depth = 3, n_estimators = 500, reg_alpha = 0, reg_lambda = 10)
+    model = SVR(C= 1, epsilon= 0.2, kernel= 'rbf')
     model.fit(X_train,y_train)
 
     kfold_scores = cross_val_score(model, X_train, y_train, cv=10, scoring='neg_mean_squared_error')

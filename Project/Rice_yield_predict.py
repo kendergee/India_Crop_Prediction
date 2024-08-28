@@ -75,7 +75,7 @@ def userinput():
     selected_production = float(input('請輸入作物產量：'))
     selected_annual_rainfall = float(input('請輸入年降雨量：'))
     selected_fertilizer = float(input('請輸入肥料用量：'))
-    selected_pesticide = float(input('請輸入害蟲總量：'))
+    selected_pesticide = float(input('請輸入農藥用量：'))
 
     ans_dict ={
         'ans_categorical' : [selected_season,selected_state],

@@ -19,7 +19,7 @@ os.chdir(current_directory)
 def preprocessing():
     data = pd.read_csv('South_rice.csv')
     data = data.dropna()
-    X = data.drop(['Yield'], axis=1)
+    X = data.drop(['Yield','Production'], axis=1)
     y = data['Yield']
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -37,7 +37,7 @@ def preprocessing():
     X_test = pd.concat([X_test.drop(OneHotColumns, axis=1).reset_index(drop=True), X_test_onehot_df.reset_index(drop=True)], axis=1)
     
     sc = StandardScaler()
-    scColumns = ['Crop_Year', 'Area', 'Annual_Rainfall', 'Fertilizer', 'Pesticide','Production']
+    scColumns = ['Crop_Year', 'Area', 'Annual_Rainfall', 'Fertilizer', 'Pesticide']
 
     X_train[scColumns] = sc.fit_transform(X_train[scColumns])
     X_test[scColumns] = sc.transform(X_test[scColumns])
