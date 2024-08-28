@@ -5,7 +5,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 from sklearn.metrics import mean_squared_error, r2_score
-from xgboost import XGBRegressor
+from sklearn.svm import SVR
 import os
 import joblib
 
@@ -46,7 +46,7 @@ def preprocessing():
     return X_train, X_test, y_train, y_test
 
 def modeling(X_train, X_test, y_train, y_test):
-    model = XGBRegressor(learning_rate = 0.1, max_depth = 4, n_estimators = 100, reg_alpha = 0.1, reg_lambda= 0.1)
+    model = SVR(C= 10, epsilon= 0.1, kernel= 'rbf')
     model.fit(X_train,y_train)
 
     kfold_scores = cross_val_score(model, X_train, y_train, cv=10, scoring='neg_mean_squared_error')

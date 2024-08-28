@@ -9,6 +9,9 @@ from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestRegressor
 import os
 import json
+import warnings 
+
+warnings.filterwarnings('ignore', category=UserWarning)
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
 os.chdir(current_directory)
@@ -72,14 +75,13 @@ def userinput():
 
     selected_crop_years = int(input('請輸入西元年份：'))
     selected_area = float(input('請輸入種植面積：'))
-    selected_production = float(input('請輸入作物產量：'))
     selected_annual_rainfall = float(input('請輸入年降雨量：'))
     selected_fertilizer = float(input('請輸入肥料用量：'))
     selected_pesticide = float(input('請輸入農藥用量：'))
 
     ans_dict ={
         'ans_categorical' : [selected_season,selected_state],
-        'ans_numeric':[selected_crop_years,selected_area,selected_production,selected_annual_rainfall,selected_fertilizer,selected_pesticide]
+        'ans_numeric':[selected_crop_years,selected_area,selected_annual_rainfall,selected_fertilizer,selected_pesticide]
     }
 
 
@@ -99,7 +101,7 @@ def load_resources(selected_region):
 def work(Model,data,ans_dict,selected_region):
     def preprocessing(data,ans_dict,selected_region):
         data = data.dropna()
-        X = data.drop(['Yield'], axis=1)
+        X = data.drop(['Yield','Production'], axis=1)
         y = data['Yield']
         
         random_state_input = random_state_paramater[selected_region]
@@ -118,7 +120,7 @@ def work(Model,data,ans_dict,selected_region):
         X_test = pd.concat([X_test.drop(OneHotColumns, axis=1).reset_index(drop=True), X_test_onehot_df.reset_index(drop=True)], axis=1)
         
         sc = StandardScaler()
-        scColumns = ['Crop_Year', 'Area', 'Annual_Rainfall', 'Fertilizer', 'Pesticide','Production']
+        scColumns = ['Crop_Year', 'Area', 'Annual_Rainfall', 'Fertilizer', 'Pesticide']
 
         X_train[scColumns] = sc.fit_transform(X_train[scColumns])
         X_test[scColumns] = sc.transform(X_test[scColumns])
@@ -130,13 +132,14 @@ def work(Model,data,ans_dict,selected_region):
         ans_categorical = encoder.transform(ans_categorical)
         ans_numeric = sc.transform(ans_numeric)
         ans_categorical = pd.DataFrame(ans_categorical)
-        ans_numeric = pd.DataFrame(ans_numeric,columns=['Crop_Year','Area','Production','Annual_Rainfall','Fertilizer','Pesticide'])
+        ans_numeric = pd.DataFrame(ans_numeric,columns=['Crop_Year','Area','Annual_Rainfall','Fertilizer','Pesticide'])
         ans_completion = pd.concat([ans_numeric,ans_categorical],axis=1)
     
         missing_cols = set(X_train.columns) - set(ans_completion.columns)
         for col in missing_cols:
             ans_completion[col] = 0
-        ans_completion = ans_completion[X_train.columns]        
+        ans_completion = ans_completion[X_train.columns]
+        ans_completion = ans_completion[:1]        
         
         print('資料前處理完成')
         
@@ -146,7 +149,7 @@ def work(Model,data,ans_dict,selected_region):
         model = Model.fit(X_train,y_train)
         y_pred = model.predict(ans_completion)
         print('預測單位產量如下：')
-        print(y_pred[0])
+        print(round(y_pred[0],3))
     
     X_train, X_test, y_train, y_test,ans_completion = preprocessing(data,ans_dict,selected_region)
     prediction(Model,X_train,X_test,y_train,y_test,ans_completion)

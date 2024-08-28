@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.model_selection import GridSearchCV
+from sklearn.decomposition import PCA
 import os
 
 # 獲取當前腳本所在的目錄
@@ -17,14 +18,13 @@ os.chdir(current_directory)
 
 def preprocessing():
     data = pd.read_csv('North_rice.csv')
-    data = data.dropna()
     X = data.drop(['Yield','Production'], axis=1)
     y = data['Yield']
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
     OneHotColumns = ['Season', 'State']
-    encoder = OneHotEncoder(sparse_output=False, drop='first')
+    encoder = OneHotEncoder(sparse_output=False, drop='first',handle_unknown='ignore')
 
     X_train_onehot = encoder.fit_transform(X_train[OneHotColumns])
     X_test_onehot = encoder.transform(X_test[OneHotColumns])
@@ -41,8 +41,10 @@ def preprocessing():
     X_train[scColumns] = sc.fit_transform(X_train[scColumns])
     X_test[scColumns] = sc.transform(X_test[scColumns])
     
-    print(X_train.isnull().sum())
-    print(X_test.isnull().sum())
+    pca = PCA(n_components=0.95)
+    X_train = pca.fit_transform(X_train)
+    X_test = pca.transform(X_test)
+
     return X_train, X_test, y_train, y_test
 
 def ElasticNet(X_train, X_test, y_train, y_test):
