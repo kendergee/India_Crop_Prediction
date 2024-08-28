@@ -19,7 +19,6 @@ os.chdir(current_directory)
 with open('config.json', 'r') as config_file:
     config = json.load(config_file)
 
-# 獲取配置中的路徑
 Model_directory = config['model_directory']
 
 data_directory = config['data_directory']
@@ -74,10 +73,10 @@ def userinput():
     print(f'你選擇的季節是：{selected_season}')
 
     selected_crop_years = int(input('請輸入西元年份：'))
-    selected_area = float(input('請輸入種植面積：'))
-    selected_annual_rainfall = float(input('請輸入年降雨量：'))
-    selected_fertilizer = float(input('請輸入肥料用量：'))
-    selected_pesticide = float(input('請輸入農藥用量：'))
+    selected_area = float(input('請輸入種植面積(公頃）：'))
+    selected_annual_rainfall = float(input('請輸入年降雨量（毫米）：'))
+    selected_fertilizer = float(input('請輸入肥料用量（公噸）：'))
+    selected_pesticide = float(input('請輸入農藥用量（公噸）：'))
 
     ans_dict ={
         'ans_categorical' : [selected_season,selected_state],
@@ -149,7 +148,7 @@ def work(Model,data,ans_dict,selected_region):
         model = Model.fit(X_train,y_train)
         y_pred = model.predict(ans_completion)
         print('預測單位產量如下：')
-        print(round(y_pred[0],3))
+        print(f'每公頃約{round(y_pred[0],3)}公噸的單位產量')
     
     X_train, X_test, y_train, y_test,ans_completion = preprocessing(data,ans_dict,selected_region)
     prediction(Model,X_train,X_test,y_train,y_test,ans_completion)
