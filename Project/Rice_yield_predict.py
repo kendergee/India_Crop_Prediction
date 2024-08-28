@@ -47,44 +47,65 @@ random_state_paramater ={
     'South':42,
     'West':42
 }
+def get_input(prompt, valid_range=None, is_float=False):
+    try:
+        user_input = input(prompt)
+        if is_float:
+            value = float(user_input)
+        else:
+            value = int(user_input)
+
+        if valid_range and value not in valid_range:
+            raise ValueError("輸入超出範圍。")
+        
+        return value
+    
+    except ValueError as e:
+        print(f"輸入錯誤: {e}")
+        print("程式終止。")
+        exit(1)
 
 def userinput():
     print('歡迎使用印度稻米預測器')
+    
+    # 區域選擇
     print('請問你想選擇哪個區域')
     for i, rg in enumerate(region):
         print(f'{i+1}:{rg}')
-    region_index = int(input('請選擇一個區域（輸入對應的數字）：'))-1
+    region_index = get_input('請選擇一個區域（輸入對應的數字）：', valid_range=range(1, len(region) + 1)) - 1
     selected_region = region[region_index]
     print(f'你選擇的區域是：{selected_region}')
 
+    # 州選擇
     states = states_dict[selected_region]
     print('可選擇的州有以下：')
     for i, state in enumerate(states):
         print(f'{i+1}:{state}')
-    state_index = int(input('請選擇一個州（輸入對應的數字）:'))-1
+    state_index = get_input('請選擇一個州（輸入對應的數字）:', valid_range=range(1, len(states) + 1)) - 1
     selected_state = states[state_index]
     print(f'你選擇的州是：{selected_state}')
     
+    # 季節選擇
     print('可選擇的季節有以下：')
     for i, season in enumerate(seasons):
         print(f'{i+1}:{season}')
-    season_index = int(input('請選擇一個季節（輸入對應的數字）：'))-1
+    season_index = get_input('請選擇一個季節（輸入對應的數字）：', valid_range=range(1, len(seasons) + 1)) - 1
     selected_season = seasons[season_index]
     print(f'你選擇的季節是：{selected_season}')
 
-    selected_crop_years = int(input('請輸入西元年份：'))
-    selected_area = float(input('請輸入種植面積(公頃）：'))
-    selected_annual_rainfall = float(input('請輸入年降雨量（毫米）：'))
-    selected_fertilizer = float(input('請輸入肥料用量（公噸）：'))
-    selected_pesticide = float(input('請輸入農藥用量（公噸）：'))
+    # 數字輸入
+    selected_crop_years = get_input('請輸入西元年份：', is_float=False)
+    selected_area = get_input('請輸入種植面積(公頃）：', is_float=True)
+    selected_annual_rainfall = get_input('請輸入年降雨量（毫米）：', is_float=True)
+    selected_fertilizer = get_input('請輸入肥料用量（公噸）：', is_float=True)
+    selected_pesticide = get_input('請輸入農藥用量（公噸）：', is_float=True)
 
     ans_dict ={
-        'ans_categorical' : [selected_season,selected_state],
-        'ans_numeric':[selected_crop_years,selected_area,selected_annual_rainfall,selected_fertilizer,selected_pesticide]
+        'ans_categorical' : [selected_season, selected_state],
+        'ans_numeric': [selected_crop_years, selected_area, selected_annual_rainfall, selected_fertilizer, selected_pesticide]
     }
 
-
-    return selected_region,ans_dict
+    return selected_region, ans_dict
 
 def load_resources(selected_region):
     if selected_region not in resources:
