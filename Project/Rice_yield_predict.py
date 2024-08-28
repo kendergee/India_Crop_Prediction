@@ -136,9 +136,7 @@ def work(Model,data,ans_dict,selected_region):
         missing_cols = set(X_train.columns) - set(ans_completion.columns)
         for col in missing_cols:
             ans_completion[col] = 0
-        ans_completion = ans_completion[X_train.columns]
-        
-        
+        ans_completion = ans_completion[X_train.columns]        
         
         print('資料前處理完成')
         
@@ -149,15 +147,9 @@ def work(Model,data,ans_dict,selected_region):
         y_pred = model.predict(ans_completion)
         print('預測單位產量如下：')
         print(y_pred[0])
-        
-        
-
     
     X_train, X_test, y_train, y_test,ans_completion = preprocessing(data,ans_dict,selected_region)
     prediction(Model,X_train,X_test,y_train,y_test,ans_completion)
-
-
-
 
 selected_region,ans_dict = userinput()
 Model,data = load_resources(selected_region)
