@@ -12,7 +12,8 @@ import os
 import json
 import warnings 
 import tkinter as tk
-from tkinter import ttk
+from tkinter import ttk, messagebox
+import sys
 
 warnings.filterwarnings('ignore', category=UserWarning)
 
@@ -65,6 +66,21 @@ def transfer():
     selected_annual_rainfall = rainfall_var.get()
     selected_fertilizer = fertilizer_var.get()
     selected_pesticide = pesticide_var.get()
+
+    try:
+        # 檢查年份和面積是否為 0
+        if selected_crop_years == 0 or selected_area == 0:
+            raise ValueError("年份或面積不能為 0。")
+
+        # 檢查其他數值是否為有效數字
+        if not isinstance(selected_annual_rainfall, (int, float)) or \
+           not isinstance(selected_fertilizer, (int, float)) or \
+           not isinstance(selected_pesticide, (int, float)):
+            raise ValueError("雨量、肥料用量或農藥用量必須為數字。")
+
+    except ValueError as e:
+        messagebox.showerror("輸入錯誤", f"輸入值有誤，請重啟程式。\n錯誤詳情：{e}")
+        sys.exit()  # 結束程式
 
     ans_dict ={
         'ans_categorical' : [selected_season, selected_state],
@@ -145,15 +161,20 @@ def work(Model,data,ans_dict,selected_region):
 
 def plot_yield_data(data,y_pred,ans_dict):
     state_data = data[data['State'] == ans_dict['ans_categorical'][1]]
-    plt.figure(figsize=(10,6))
-    plt.scatter(state_data['Crop_Year'],state_data['Yield'],label='Actual Yield')
-    plt.scatter(ans_dict['ans_numeric'][0],y_pred,label='Predicted Yield',color='red')
-    plt.title(f"{ans_dict['ans_categorical'][1]} past yield data")
-    plt.xlabel("Year")
-    plt.ylabel("Yield(tonnes/ha)")
-    plt.legend()
-    plt.grid(True)
-    plt.show()
+    state_data = state_data[state_data['Season'].str.strip().str.lower() == ans_dict['ans_categorical'][0].strip().lower()]
+    if len(state_data) < 3:
+        messagebox.showinfo("警告", "資料過少，無法繪圖。")
+        return
+    else:
+        plt.figure(figsize=(10,6))
+        plt.scatter(state_data['Crop_Year'],state_data['Yield'],label='Actual Yield')
+        plt.scatter(ans_dict['ans_numeric'][0],y_pred,label='Predicted Yield',color='red')
+        plt.title(f"{ans_dict['ans_categorical'][1]} past yield data")
+        plt.xlabel("Year")
+        plt.ylabel("Yield(tonnes/ha)")
+        plt.legend()
+        plt.grid(True)
+        plt.show()
 
 
 def project_process():
@@ -170,11 +191,15 @@ def project_process():
 
     plot_yield_data(data,y_pred,ans_dict)
 
-
+def validate_numeric_input(P):
+    if P == "" or P.isdigit() or P.replace('.', '', 1).isdigit():  # 允许空字符串、整数和小数
+        return True
+    else:
+        return False
 
 root = tk.Tk()
 root.title("印度稻米預測器")
-
+vcmd = (root.register(validate_numeric_input), '%P')
 # 設定ttk風格
 style = ttk.Style()
 style.theme_use("clam")
@@ -211,35 +236,35 @@ year_label = ttk.Label(root, text="年份：")
 year_label.grid(row=3, column=0, padx=10, pady=5, sticky="W")
 
 year_var = tk.IntVar()
-year_entry = ttk.Entry(root, textvariable=year_var)
+year_entry = ttk.Entry(root, textvariable=year_var, validate='key', validatecommand=vcmd)
 year_entry.grid(row=3, column=1, padx=10, pady=5)
 
 area_label = ttk.Label(root, text="面積 (公頃)：")
 area_label.grid(row=4, column=0, padx=10, pady=5, sticky="W")
 
 area_var = tk.DoubleVar()
-area_entry = ttk.Entry(root, textvariable=area_var)
+area_entry = ttk.Entry(root, textvariable=area_var, validate='key', validatecommand=vcmd)
 area_entry.grid(row=4, column=1, padx=10, pady=5)
 
 rainfall_label = ttk.Label(root, text="雨量 (毫米)：")
 rainfall_label.grid(row=5, column=0, padx=10, pady=5, sticky="W")
 
 rainfall_var = tk.DoubleVar()
-rainfall_entry = ttk.Entry(root, textvariable=rainfall_var)
+rainfall_entry = ttk.Entry(root, textvariable=rainfall_var, validate='key', validatecommand=vcmd)
 rainfall_entry.grid(row=5, column=1, padx=10, pady=5)
 
 fertilizer_label = ttk.Label(root, text="肥料用量 (公斤)：")
 fertilizer_label.grid(row=6, column=0, padx=10, pady=5, sticky="W")
 
 fertilizer_var = tk.DoubleVar()
-fertilizer_entry = ttk.Entry(root, textvariable=fertilizer_var)
+fertilizer_entry = ttk.Entry(root, textvariable=fertilizer_var, validate='key', validatecommand=vcmd)
 fertilizer_entry.grid(row=6, column=1, padx=10, pady=5)
 
 pesticide_label = ttk.Label(root, text="農藥用量 (公升)：")
 pesticide_label.grid(row=7, column=0, padx=10, pady=5, sticky="W")
 
 pesticide_var = tk.DoubleVar()
-pesticide_entry = ttk.Entry(root, textvariable=pesticide_var)
+pesticide_entry = ttk.Entry(root, textvariable=pesticide_var, validate='key', validatecommand=vcmd)
 pesticide_entry.grid(row=7, column=1, padx=10, pady=5)
 
 predict_button = ttk.Button(root, text="預測", command=project_process)
