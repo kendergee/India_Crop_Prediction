@@ -8,6 +8,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import os
 from sklearn.svm import SVR
 import joblib
+from sklearn.decomposition import PCA
 
 # 獲取當前腳本所在的目錄
 current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -41,9 +42,11 @@ def preprocessing():
 
     X_train[scColumns] = sc.fit_transform(X_train[scColumns])
     X_test[scColumns] = sc.transform(X_test[scColumns])
+
+    pca = PCA(n_components=0.95)
+    X_train = pca.fit_transform(X_train)
+    X_test = pca.transform(X_test)
     
-    print(X_train.isnull().sum())
-    print(X_test.isnull().sum())
     return X_train, X_test, y_train, y_test
 
 def modeling(X_train, X_test, y_train, y_test):

@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.svm import SVR
+from sklearn.decomposition import PCA
 import os
 import joblib
 
@@ -40,9 +41,11 @@ def preprocessing():
 
     X_train[scColumns] = sc.fit_transform(X_train[scColumns])
     X_test[scColumns] = sc.transform(X_test[scColumns])
-    
-    print(X_train.isnull().sum())
-    print(X_test.isnull().sum())
+
+    pca = PCA(n_components=0.95)
+    X_train = pca.fit_transform(X_train)
+    X_test = pca.transform(X_test)
+
     return X_train, X_test, y_train, y_test
 
 def modeling(X_train, X_test, y_train, y_test):

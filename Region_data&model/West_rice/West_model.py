@@ -7,6 +7,7 @@ from sklearn.model_selection import cross_val_score
 from sklearn.metrics import mean_squared_error, r2_score
 import os
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.decomposition import KernelPCA
 import joblib
 
 # 獲取當前腳本所在的目錄
@@ -42,8 +43,10 @@ def preprocessing():
     X_train[scColumns] = sc.fit_transform(X_train[scColumns])
     X_test[scColumns] = sc.transform(X_test[scColumns])
     
-    print(X_train.isnull().sum())
-    print(X_test.isnull().sum())
+    kpca = KernelPCA(n_components=2,kernel='rbf')
+    X_train = kpca.fit_transform(X_train)
+    X_test = kpca.transform(X_test)
+    
     return X_train, X_test, y_train, y_test
 
 def modeling(X_train, X_test, y_train, y_test):
