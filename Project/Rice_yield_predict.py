@@ -7,9 +7,12 @@ from sklearn.preprocessing import StandardScaler
 from xgboost import XGBRegressor
 from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestRegressor
+import  matplotlib.pyplot as plt
 import os
 import json
 import warnings 
+import tkinter as tk
+from tkinter import ttk
 
 warnings.filterwarnings('ignore', category=UserWarning)
 
@@ -47,58 +50,21 @@ random_state_paramater ={
     'South':42,
     'West':42
 }
-def get_input(prompt, valid_range=None, is_float=False):
-    try:
-        user_input = input(prompt)
-        if is_float:
-            value = float(user_input)
-        else:
-            value = int(user_input)
 
-        if valid_range and value not in valid_range:
-            raise ValueError("輸入超出範圍。")
-        
-        return value
-    
-    except ValueError as e:
-        print(f"輸入錯誤: {e}")
-        print("程式終止。")
-        exit(1)
+def update_states(*args):
+    selected_region = region_var.get()
+    state_menu['values'] = states_dict.get(selected_region, [])
 
-def userinput():
-    print('歡迎使用印度稻米預測器')
-    
-    # 區域選擇
-    print('請問你想選擇哪個區域')
-    for i, rg in enumerate(region):
-        print(f'{i+1}:{rg}')
-    region_index = get_input('請選擇一個區域（輸入對應的數字）：', valid_range=range(1, len(region) + 1)) - 1
-    selected_region = region[region_index]
-    print(f'你選擇的區域是：{selected_region}')
-
-    # 州選擇
-    states = states_dict[selected_region]
-    print('可選擇的州有以下：')
-    for i, state in enumerate(states):
-        print(f'{i+1}:{state}')
-    state_index = get_input('請選擇一個州（輸入對應的數字）:', valid_range=range(1, len(states) + 1)) - 1
-    selected_state = states[state_index]
-    print(f'你選擇的州是：{selected_state}')
-    
-    # 季節選擇
-    print('可選擇的季節有以下：')
-    for i, season in enumerate(seasons):
-        print(f'{i+1}:{season}')
-    season_index = get_input('請選擇一個季節（輸入對應的數字）：', valid_range=range(1, len(seasons) + 1)) - 1
-    selected_season = seasons[season_index]
-    print(f'你選擇的季節是：{selected_season}')
-
-    # 數字輸入
-    selected_crop_years = get_input('請輸入西元年份：', is_float=False)
-    selected_area = get_input('請輸入種植面積(公頃）：', is_float=True)
-    selected_annual_rainfall = get_input('請輸入年降雨量（毫米）：', is_float=True)
-    selected_fertilizer = get_input('請輸入肥料用量（公噸）：', is_float=True)
-    selected_pesticide = get_input('請輸入農藥用量（公噸）：', is_float=True)
+def transfer():
+    # 获取输入值
+    selected_region = region_var.get()
+    selected_state = state_var.get()
+    selected_season = season_var.get()
+    selected_crop_years = year_var.get()
+    selected_area = area_var.get()
+    selected_annual_rainfall = rainfall_var.get()
+    selected_fertilizer = fertilizer_var.get()
+    selected_pesticide = pesticide_var.get()
 
     ans_dict ={
         'ans_categorical' : [selected_season, selected_state],
@@ -168,12 +134,119 @@ def work(Model,data,ans_dict,selected_region):
     def prediction(Model,X_train,X_test,y_train,y_test,ans_completion):
         model = Model.fit(X_train,y_train)
         y_pred = model.predict(ans_completion)
+        y_pred = round(y_pred[0],3)
         print('預測單位產量如下：')
-        print(f'每公頃約{round(y_pred[0],3)}公噸的單位產量')
+        print(f'每公頃約{y_pred}公噸的單位產量')
+        return y_pred 
     
     X_train, X_test, y_train, y_test,ans_completion = preprocessing(data,ans_dict,selected_region)
-    prediction(Model,X_train,X_test,y_train,y_test,ans_completion)
+    y_pred = prediction(Model,X_train,X_test,y_train,y_test,ans_completion)
+    return y_pred
 
-selected_region,ans_dict = userinput()
-Model,data = load_resources(selected_region)
-work(Model,data,ans_dict,selected_region)
+def plot_yield_data(data,y_pred,ans_dict):
+    state_data = data[data['State'] == ans_dict['ans_categorical'][1]]
+    plt.figure(figsize=(10,6))
+    plt.scatter(state_data['Crop_Year'],state_data['Yield'],label='Actual Yield')
+    plt.scatter(ans_dict['ans_numeric'][0],y_pred,label='Predicted Yield',color='red')
+    plt.title(f"{ans_dict['ans_categorical'][1]} past yield data")
+    plt.xlabel("Year")
+    plt.ylabel("Yield(tonnes/ha)")
+    plt.legend()
+    plt.grid(True)
+    plt.show()
+
+
+def project_process():
+    # 獲取輸入資料
+    selected_region, ans_dict = transfer()
+    
+    # 加載模型和資料
+    Model, data = load_resources(selected_region)
+    
+    # 執行預測
+    y_pred =work(Model, data, ans_dict, selected_region)
+
+    result_label.config(text=f'每公頃約 {y_pred} 公噸的單位產量')
+
+    plot_yield_data(data,y_pred,ans_dict)
+
+
+
+root = tk.Tk()
+root.title("印度稻米預測器")
+
+# 設定ttk風格
+style = ttk.Style()
+style.theme_use("clam")
+
+# 第一個輸入區域：選擇區域
+region_label = ttk.Label(root, text="請選擇區域：")
+region_label.grid(row=0, column=0, padx=10, pady=5, sticky="W")
+
+region_var = tk.StringVar()
+region_menu = ttk.Combobox(root, textvariable=region_var)
+region_menu['values'] = region
+region_menu.grid(row=0, column=1, padx=10, pady=5)
+region_menu.bind('<<ComboboxSelected>>', update_states)
+
+# 第二個輸入區域：選擇邦
+state_label = ttk.Label(root, text="請選擇邦：")
+state_label.grid(row=1, column=0, padx=10, pady=5, sticky="W")
+
+state_var = tk.StringVar()
+state_menu = ttk.Combobox(root, textvariable=state_var)
+state_menu.grid(row=1, column=1, padx=10, pady=5)
+
+# 第三個輸入區域：選擇季節
+season_label = ttk.Label(root, text="請選擇季節：")
+season_label.grid(row=2, column=0, padx=10, pady=5, sticky="W")
+
+season_var = tk.StringVar()
+season_menu = ttk.Combobox(root, textvariable=season_var)
+season_menu['values'] = seasons
+season_menu.grid(row=2, column=1, padx=10, pady=5)
+
+# 其他輸入區域：年份、面積、雨量、肥料用量、農藥用量
+year_label = ttk.Label(root, text="年份：")
+year_label.grid(row=3, column=0, padx=10, pady=5, sticky="W")
+
+year_var = tk.IntVar()
+year_entry = ttk.Entry(root, textvariable=year_var)
+year_entry.grid(row=3, column=1, padx=10, pady=5)
+
+area_label = ttk.Label(root, text="面積 (公頃)：")
+area_label.grid(row=4, column=0, padx=10, pady=5, sticky="W")
+
+area_var = tk.DoubleVar()
+area_entry = ttk.Entry(root, textvariable=area_var)
+area_entry.grid(row=4, column=1, padx=10, pady=5)
+
+rainfall_label = ttk.Label(root, text="雨量 (毫米)：")
+rainfall_label.grid(row=5, column=0, padx=10, pady=5, sticky="W")
+
+rainfall_var = tk.DoubleVar()
+rainfall_entry = ttk.Entry(root, textvariable=rainfall_var)
+rainfall_entry.grid(row=5, column=1, padx=10, pady=5)
+
+fertilizer_label = ttk.Label(root, text="肥料用量 (公斤)：")
+fertilizer_label.grid(row=6, column=0, padx=10, pady=5, sticky="W")
+
+fertilizer_var = tk.DoubleVar()
+fertilizer_entry = ttk.Entry(root, textvariable=fertilizer_var)
+fertilizer_entry.grid(row=6, column=1, padx=10, pady=5)
+
+pesticide_label = ttk.Label(root, text="農藥用量 (公升)：")
+pesticide_label.grid(row=7, column=0, padx=10, pady=5, sticky="W")
+
+pesticide_var = tk.DoubleVar()
+pesticide_entry = ttk.Entry(root, textvariable=pesticide_var)
+pesticide_entry.grid(row=7, column=1, padx=10, pady=5)
+
+predict_button = ttk.Button(root, text="預測", command=project_process)
+predict_button.grid(row=8, column=0, columnspan=2, pady=10)
+
+result_label = ttk.Label(root, text='')
+result_label.grid(row=9, column=0, columnspan=2, pady=10)
+
+# 啟動主事件循環
+root.mainloop()
